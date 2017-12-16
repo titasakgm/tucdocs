@@ -1,0 +1,15 @@
+CREATE TABLE "Amendment" (
+  "CoAgYear" varchar,
+  "ProjectID" varchar,
+  "SubprojectID" varchar,
+  "AmendNo" varchar,
+  "AmendRefNo" varchar,
+  "AmendDate" varchar,
+  "CashOnHand" varchar,
+  "Carryover" varchar,
+  "New" varchar,
+  "Gain" varchar,
+  "_datecreated" varchar,
+  "_usercreated" varchar,
+  "_dateupdated" varchar,
+  "_userupdated" varchar);

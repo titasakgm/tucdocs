@@ -1,0 +1,15 @@
+CREATE TABLE amendment (
+  coagyear varchar,
+  projectid varchar,
+  subprojectid varchar,
+  amendno varchar,
+  amendrefno varchar,
+  amenddate varchar,
+  cashonhand varchar,
+  carryover varchar,
+  new varchar,
+  gain varchar,
+  _datecreated varchar,
+  _usercreated varchar,
+  _dateupdated varchar,
+  _userupdated varchar);

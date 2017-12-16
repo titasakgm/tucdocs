@@ -1,0 +1,16 @@
+CREATE TABLE "Receive" (
+  "CoAgYear" varchar,
+  "ProjectID" varchar,
+  "SubprojectID" varchar,
+  "DateReceived" varchar,
+  "ReceiveNo" varchar,
+  "AmountReceivedUSD" varchar,
+  "ExchangeRate" varchar,
+  "AmountReceivedTHB" varchar,
+  "Gain" varchar,
+  "ChequeReceived" varchar,
+  "Remark" varchar,
+  "_datecreated" varchar,
+  "_usercreated" varchar,
+  "_dateupdated" varchar,
+  "_userupdated" varchar);

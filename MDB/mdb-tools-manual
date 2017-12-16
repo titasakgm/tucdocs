@@ -1,0 +1,42 @@
+Manual using mdb-tools
+
+Show TABLES in .mdb
+
+$ mdb-tables test.mdb
+Campaign_Table
+
+Show columns in table (of .mdb)
+$ mdb-schema -T Campaign_Table test.mdb
+
+CREATE TABLE [Campaign_Table]
+ (
+        [ID]                    Long Integer,
+        [Email_Address]                 Text (100),
+        [First_Name]                    Text (100),
+        [Last_Name]                     Text (100),
+        [Address]                       Text (100),
+        [City]                  Text (100),
+        [State]                 Text (100),
+        [Country]                       Text (100),
+        [Postal_Code]                   Text (100),
+        [ProductID]                     Text (100),
+        [Date_Added]                    DateTime,
+        [Phone]                 Text (100),
+        [CC_Email]                      Text (100),
+        [Message_Sent]                  Long Integer,
+        [Bounce]                        Long Integer,
+        [Softbounce]                    Long Integer,
+        [Unsubscribe]                   Long Integer,
+        [Subscribe]                     Long Integer,
+        [Bad_Format]                    Long Integer,
+        [Date_Sent]                     DateTime,
+        [Opened_Email]                  Long Integer,
+        [Click_1]                       Long Integer,
+        [Click_2]                       Long Integer,
+        [Click_3]                       Long Integer,
+        [Click_4]                       Long Integer,
+        [Click_5]                       Long Integer
+);
+
+
+
