@@ -1,0 +1,5 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|NCD-Cancer|-|20161130|3|5188.75|34.8300|180724.16||10172151|งวดที่ 1 เช็ค 10172151  = 176,417.50 บาท เช็ค 10172152 = 4,306.66|20170106|NCD1-CANCER|20170621|ncd1-cancer
+1|NCD-Cancer|-|20161228|1|5301.25|35.7600|189572.70||10172174|เงินงวดที่ 2 + เงินส่วนต่าง|20170106|NCD1-CANCER|20170106|NCD1-CANCER
+1|NCD-Cancer|-|20170428|3|8000.00|34.2788|274230.40||10181842|เงินงวดที่ 3 + เงินส่วนต่าง|20170621|ncd1-cancer|20170913|NCD1-CANCER
+1|NCD-Cancer|-|20170707|1|1000.00|33.7900|33790.00||10181873|เงินงวดที่ 4|20170913|NCD1-CANCER|20170913|NCD1-CANCER

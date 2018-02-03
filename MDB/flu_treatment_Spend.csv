@@ -1,0 +1,95 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|FLU-Treatment|-|1|3|11|Project secretary (Ms.Matinee Srisuksai)|20161027|23250.00|10171841|20161027|750.00|10171843|||Sep 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|3|12|Project secretary (Ms.Matinee Srisuksai)|20161027|23250.00|10171842|20161027|750.00|10171844|||Oct 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|3|13|Project secretary (Ms.Matinee Srisuksai)|20161128|23250.00|10171846|20161128|750.00|10171847|||Nov 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|3|14|Project secretary (Ms.Matinee Srisuksai)|20161228|23250.00|10171848|20161228|750.00|10171849|||Dec 16|20170127|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|3|15|Project secretary (Ms.Matinee Srisuksai)|20170127|23250.00|10171852|20170127|750.00|10171853|||Jan 17|20170127|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|3|16|Project secretary (Ms.Matinee Srisuksai)|20170227|23250.00|10171856|20170227|750.00|10171857|||Feb 17|20170301|flu-treatment|20170301|flu-treatment
+1|FLU-Treatment|-|1|3|17|Project secretary (Ms.Matinee Srisuksai)|20170328|23250.00|10196401|20170328|750.00|10196402|||Mar 17|20170330|flu-treatment|20170330|flu-treatment
+1|FLU-Treatment|-|1|3|18|Project secretary (Ms.Matinee Srisuksai)|20170427|23250.00|10196404|20170427|750.00|10196405|||Apr 17|20170501|flu-treatment|20170501|flu-treatment
+1|FLU-Treatment|-|1|3|19|Project secretary (Ms.Matinee Srisuksai)|20170529|23250.00|10196408|20170529|750.00|10196409|||May 17|20170613|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|1|3|21|Project secretary (Ms.Matinee Srisuksai)|20170627|23250.00|10196411|20170627|750.00|10196412|||Jun 17|20170629|flu-treatment|20170629|flu-treatment
+1|FLU-Treatment|-|1|3|22|Project secretary (Ms.Matinee Srisuksai)|20170727|23250.00|10196415|20170727|750.00|10196416|||Jul 17|20170803|flu-treatment|20170803|flu-treatment
+1|FLU-Treatment|-|1|3|23|Project secretary (Ms.Matinee Srisuksai)|20170829|23250.00|10196419|20170829|750.00|10196420|||Aug 17|20170904|flu-treatment|20170904|flu-treatment
+1|FLU-Treatment|-|1|4|12|Technical assistant (Mr.Worawit Jindanoy)|20161027|19850.00|10171841|20161027|750.00|10171843|||Sep 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|4|13|Technical assistant (Mr.Worawit Jindanoy)|20161027|19850.00|10171842|20161027|750.00|10171844|||Oct 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|4|14|Technical assistant (Mr.Worawit Jindanoy)|20161128|19850.00|10171846|20161128|750.00|10171847|||Nov 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|4|15|Technical assistant (Mr.Worawit Jindanoy)|20161228|19850.00|10171848|20161228|750.00|10171849|||Dec 16|20170127|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|4|16|Technical assistant (Mr.Worawit Jindanoy)|20170127|19850.00|10171852|20170127|750.00|10171853|||Jan 17|20170127|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|4|17|Technical assistant (Mr.Worawit Jindanoy)|20170227|19850.00|10171856|20170227|750.00|10171857|||Feb 17|20170301|flu-treatment|20170301|flu-treatment
+1|FLU-Treatment|-|1|4|18|Technical assistant (Mr.Worawit Jindanoy)|20170328|19850.00|10196401|20170328|750.00|10196402|||Mar 17|20170330|flu-treatment|20170330|flu-treatment
+1|FLU-Treatment|-|1|4|19|Technical assistant (Mr.Worawit Jindanoy)|20170427|19850.00|10196404|20170427|750.00|10196405|||Apr 17|20170501|flu-treatment|20170501|flu-treatment
+1|FLU-Treatment|-|1|4|20|Technical assistant (Mr.Worawit Jindanoy)|20170529|19850.00|10196408|20170529|750.00|10196409|||May 17|20170613|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|1|4|22|Technical assistant (Mr.Worawit Jindanoy)|20170627|19850.00|10196411|20170627|750.00|10196412|||Jun 17|20170629|flu-treatment|20170629|flu-treatment
+1|FLU-Treatment|-|1|4|23|Technical assistant (Mr.Worawit Jindanoy)|20170727|19850.00|10196415|20170727|750.00|10196416|||Jul 17|20170803|flu-treatment|20170803|flu-treatment
+1|FLU-Treatment|-|1|4|24|Technical assistant (Mr.Worawit Jindanoy)|20170829|19850.00|10196419|20170829|750.00|10196420|||Aug 17|20170904|flu-treatment|20170904|flu-treatment
+1|FLU-Treatment|-|1|5|10|Administrative assistant (Ms.Sawarose Asa)|20161027|15650.00|10171841|20161027|750.00|10171843|||Sep 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|5|11|Administrative assistant (Ms.Sawarose Asa)|20161027|15650.00|10171842|20161027|750.00|10171844|||Oct 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|5|12|Administrative assistant (Ms.Sawarose Asa)|20161228|15650.00|10171848|20161228|750.00|10171849|||Dec 16|20170127|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|5|13|Administrative assistant (Ms.Sawarose Asa)|20161128|15650.00|10171846|20161128|750.00|10171847|||Nov 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|5|14|Administrative assistant (Ms.Sawarose Asa)|20170127|15650.00|10171852|20170127|750.00|10171853|||Jan 17|20170127|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|1|5|15|Administrative assistant (Ms.Sawarose Asa)|20170227|15650.00|10171856|20170227|750.00|10171857|||Feb 17|20170301|flu-treatment|20170301|flu-treatment
+1|FLU-Treatment|-|1|5|16|Administrative assistant (Ms.Sawarose Asa)|20170328|15650.00|10196401|20170328|750.00|10196402|||Mar 17|20170330|flu-treatment|20170330|flu-treatment
+1|FLU-Treatment|-|1|5|17|Administrative assistant (Ms.Sawarose Asa)|20170427|15650.00|10196404|20170427|750.00|10196405|||Apr 17|20170501|flu-treatment|20170501|flu-treatment
+1|FLU-Treatment|-|1|5|18|Administrative assistant (Ms.Sawarose Asa)|20170529|15650.00|10196408|20170529|750.00|10196409|||May 17|20170613|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|1|5|19|Administrative assistant (Ms.Sawarose Asa)|20170627|15650.00|10196411|20170627|750.00|10196412|||Jun 17|20170629|flu-treatment|20170629|flu-treatment
+1|FLU-Treatment|-|1|5|20|Administrative assistant (Ms.Sawarose Asa)|20170727|15650.00|10196415|20170727|750.00|10196416|||Jul 17|20170803|flu-treatment|20170803|flu-treatment
+1|FLU-Treatment|-|1|5|21|Administrative assistant (Ms.Sawarose Asa)|20170829|15650.00|10196419|20170829|750.00|10196420|||Aug 17|20170904|flu-treatment|20170904|flu-treatment
+1|FLU-Treatment|-|1|6|1|Compensation for government officers at MOPH ($2.06 x 35 hrs/month x 12 months x 2 persons)|20170228|14700.00|10171858||||||นฤมล สวรรค์ปัญญาเลิศ ก.ย. 59-ก.พ. 60|20170301|flu-treatment|20170301|flu-treatment
+1|FLU-Treatment|-|1|6|3|Compensation for government officers at MOPH ($2.06 x 35 hrs/month x 12 months x 2 persons)|20170228|14700.00|10171859||||||รจนา  บำรุงศักดิ์ ก.ย. 59-ก.พ. 60|20170301|flu-treatment|20170301|flu-treatment
+1|FLU-Treatment|-|1|6|5|Compensation for government officers at MOPH ($2.06 x 35 hrs/month x 12 months x 2 persons)|20170831|14700.00|10229981||||||นฤมล สวรรค์ปัญญาเลิศ มี.ค.-ส.ค. 60|20170904|flu-treatment|20170904|flu-treatment
+1|FLU-Treatment|-|1|6|7|Compensation for government officers at MOPH ($2.06 x 35 hrs/month x 12 months x 2 persons)|20170831|14700.00|10229982||||||รจนา  บำรุงศักดิ์ มี.ค.-ส.ค. 60|20170904|flu-treatment|20170904|flu-treatment
+1|FLU-Treatment|-|2|1|12|Project secretary (Ms.Matinee Srisuksai)|20161027|750.00|10171843||||||Sep 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|1|13|Project secretary (Ms.Matinee Srisuksai)|20161027|750.00|10171844||||||Oct 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|1|14|Project secretary (Ms.Matinee Srisuksai)|20161128|750.00|10171847||||||Nov 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|1|15|Project secretary (Ms.Matinee Srisuksai)|20161228|750.00|10171849||||||Dec 16|20170127|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|1|16|Project secretary (Ms.Matinee Srisuksai)|20170127|750.00|10171853||||||Jan 17|20170127|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|1|17|Project secretary (Ms.Matinee Srisuksai)|20170227|750.00|10171857||||||Feb 17|20170301|flu-treatment|20170301|flu-treatment
+1|FLU-Treatment|-|2|1|18|Project secretary (Ms.Matinee Srisuksai)|20170328|750.00|10196402||||||Mar 17|20170330|flu-treatment|20170330|flu-treatment
+1|FLU-Treatment|-|2|1|19|Project secretary (Ms.Matinee Srisuksai)|20170427|750.00|10196405||||||Apr 17|20170501|flu-treatment|20170501|flu-treatment
+1|FLU-Treatment|-|2|1|20|Project secretary (Ms.Matinee Srisuksai)|20170529|750.00|10196409||||||May 17|20170613|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|2|1|21|Project secretary (Ms.Matinee Srisuksai)|20170627|750.00|10196412||||||Jun 17|20170629|flu-treatment|20170629|flu-treatment
+1|FLU-Treatment|-|2|1|22|Project secretary (Ms.Matinee Srisuksai)|20170727|750.00|10196416||||||Jul 17|20170803|flu-treatment|20170803|flu-treatment
+1|FLU-Treatment|-|2|1|23|Project secretary (Ms.Matinee Srisuksai)|20170829|750.00|10196420||||||Aug 17|20170904|flu-treatment|20170904|flu-treatment
+1|FLU-Treatment|-|2|2|12|Technical assistant (Mr.Worawit Jindanoy)|20161027|750.00|10171843||||||Sep 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|2|13|Technical assistant (Mr.Worawit Jindanoy)|20161027|750.00|10171844||||||Oct 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|2|14|Technical assistant (Mr.Worawit Jindanoy)|20161128|750.00|10171847||||||Nov 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|2|15|Technical assistant (Mr.Worawit Jindanoy)|20161228|750.00|10171849||||||Dec 16|20170127|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|2|16|Technical assistant (Mr.Worawit Jindanoy)|20170127|750.00|10171853||||||Jan 17|20170127|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|2|17|Technical assistant (Mr.Worawit Jindanoy)|20170227|750.00|10171857||||||Feb 17|20170301|flu-treatment|20170301|flu-treatment
+1|FLU-Treatment|-|2|2|18|Technical assistant (Mr.Worawit Jindanoy)|20170328|750.00|10196402||||||Mar 17|20170330|flu-treatment|20170330|flu-treatment
+1|FLU-Treatment|-|2|2|20|Technical assistant (Mr.Worawit Jindanoy)|20170427|750.00|10196405||||||Apr 17|20170501|flu-treatment|20170501|flu-treatment
+1|FLU-Treatment|-|2|2|21|Technical assistant (Mr.Worawit Jindanoy)|20170529|750.00|10196409||||||May 17|20170613|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|2|2|22|Technical assistant (Mr.Worawit Jindanoy)|20170627|750.00|10196412||||||Jun 17|20170629|flu-treatment|20170629|flu-treatment
+1|FLU-Treatment|-|2|2|23|Technical assistant (Mr.Worawit Jindanoy)|20170727|750.00|10196416||||||Jul 17|20170803|flu-treatment|20170803|flu-treatment
+1|FLU-Treatment|-|2|2|24|Technical assistant (Mr.Worawit Jindanoy)|20170829|750.00|10196420||||||Aug 17|20170904|flu-treatment|20170904|flu-treatment
+1|FLU-Treatment|-|2|3|13|Administrative assistant (Ms.Sawarose Asa)|20161027|750.00|10171843||||||Sep 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|3|14|Administrative assistant (Ms.Sawarose Asa)|20161027|750.00|10171844||||||Oct 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|3|15|Administrative assistant (Ms.Sawarose Asa)|20161128|750.00|10171847||||||Nov 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|3|16|Administrative assistant (Ms.Sawarose Asa)|20161228|750.00|10171849||||||Dec 16|20170127|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|3|17|Administrative assistant (Ms.Sawarose Asa)|20170127|750.00|10171853||||||Jan 17|20170127|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|2|3|18|Administrative assistant (Ms.Sawarose Asa)|20170227|750.00|10171857||||||Feb 17|20170301|flu-treatment|20170301|flu-treatment
+1|FLU-Treatment|-|2|3|19|Administrative assistant (Ms.Sawarose Asa)|20170328|750.00|10196402||||||Mar 17|20170330|flu-treatment|20170330|flu-treatment
+1|FLU-Treatment|-|2|3|20|Administrative assistant (Ms.Sawarose Asa)|20170427|750.00|10196405||||||Apr 17|20170501|flu-treatment|20170501|flu-treatment
+1|FLU-Treatment|-|2|3|21|Administrative assistant (Ms.Sawarose Asa)|20170529|750.00|10196409||||||May 17|20170613|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|2|3|22|Administrative assistant (Ms.Sawarose Asa)|20170627|750.00|10196412||||||Jun 17|20170629|flu-treatment|20170629|flu-treatment
+1|FLU-Treatment|-|2|3|23|Administrative assistant (Ms.Sawarose Asa)|20170727|750.00|10196416||||||Jul 17|20170803|flu-treatment|20170803|flu-treatment
+1|FLU-Treatment|-|2|3|24|Administrative assistant (Ms.Sawarose Asa)|20170829|750.00|10196420||||||Aug 17|20170904|flu-treatment|20170904|flu-treatment
+1|FLU-Treatment|-|3|2|6|Scientific meeting for influenza and other EIDs treatment (MoPH Non-Local)|20170214|38000.00|10171855|20170221|-2410.00|cash|||ร่วมจัดอบรม วันที่ 16-17 ก.พ. 60 จ.ลำปาง|20170223|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|3|2|7|Scientific meeting for influenza and other EIDs treatment (MoPH Non-Local)|20170307|55460.00|10171860|20170314|-78.00|cash|||ร่วมจัดอบรม วันที่ 9-10 มี.ค. 60 จ.เลย|20170330|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|3|2|9|Scientific meeting for influenza and other EIDs treatment (MoPH Non-Local)|20170516|26940.00|10196407|20170522|-546.00|cash|||ร่วมจัดอบรม วันที่ 17-19 พ.ค. 60 จ.สุราษฎร์ธานี|20170613|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|3|2|10|Scientific meeting for influenza and other EIDs treatment (MoPH Non-Local)|20170811|48200.00|10196418|20170822|-6474.00|cash|||ร่วมจัดอบรม วันที่ 16-17 ส.ค. 60 จ.พิษณุโลก|20170904|flu-treatment|20170904|flu-treatment
+1|FLU-Treatment|-|3|4|4|Local transportation cost |20170111|1000.00|10171850||||||ประชุม CPG Flu/Avian Flu 12 ม.ค. 60 กรมการแพทย์|20170303|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|3|4|5|Local transportation cost |20170508|3000.00|10196406||||||จัดประชุมทบทวน CPG Avian Flu/Avian Flu กรมการแพทย์ 9 พ.ค. 60|20170613|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|6|1|1|Influenza Foundation Thailand (IFT) (World-Shaking Outbreaks)|20170628|198000.00|10196413|20170630|2000.00|10196414|||ระบาดบันลือโลก เล่มที่ 34"ย้อนรอยระบาดบันลือโลก"|20170629|flu-treatment|20170629|flu-treatment
+1|FLU-Treatment|-|8|1|4|Expert meetings (Non-MoPH)|20170111|2000.00|10171850||||||ประชุม CPG Flu/Avian Flu 12 ม.ค. 60 กรมการแพทย์|20170127|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|8|1|5|Expert meetings (Non-MoPH)|20170508|1000.00|10196406||||||ประชุม CPG Flu/Avian Flu  กรมการแพทย์ 9 พ.ค. 60|20170613|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|8|2|4|Expert meetings (MoPH local)|20170111|20500.00|10171850|20170117|-16000.00|cash|||ประชุม CPG Flu/Avian Flu  12 ม.ค. 60 กรมการแพทย์|20170127|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|8|2|5|Expert meetings (MoPH local)|20170508|21000.00|10196406|20170511|-12500.00|cash|||ประชุม CPG Flu/Avian Flu  กรมการแพทย์ 9 พ.ค. 60|20170613|flu-treatment|20170613|flu-treatment
+1|FLU-Treatment|-|8|6|4|Communication cost (postage, internet fee, telephone fee, pre-paid cards and others)|20170113|1281.86|10171851||||||Nov - Dec 16|20170127|flu-treatment|20170127|flu-treatment
+1|FLU-Treatment|-|8|6|5|Communication cost (postage, internet fee, telephone fee, pre-paid cards and others)|20170202|640.93|10171854||||||Jan 17|20170223|flu-treatment|20170223|flu-treatment
+1|FLU-Treatment|-|8|6|6|Communication cost (postage, internet fee, telephone fee, pre-paid cards and others)|20161027|1281.86|10171845||||||Sep - Oct 16|20170119|flu-treatment|20170224|flu-treatment
+1|FLU-Treatment|-|8|6|7|Communication cost (postage, internet fee, telephone fee, pre-paid cards and others)|20170329|1281.86|10196403||||||Feb-Mar 17|20170330|flu-treatment|20170330|flu-treatment
+1|FLU-Treatment|-|8|6|8|Communication cost (postage, internet fee, telephone fee, pre-paid cards and others)|20170613|1281.86|10196410||||||Apr-May 17|20170629|flu-treatment|20170629|flu-treatment
+1|FLU-Treatment|-|8|6|9|Communication cost (postage, internet fee, telephone fee, pre-paid cards and others)|20170731|640.93|10196417||||||Jun 17|20170803|flu-treatment|20170803|flu-treatment
+1|FLU-Treatment|-|8|6|10|Communication cost (postage, internet fee, telephone fee, pre-paid cards and others)|20170831|639.86|10229983||||||Jul-Aug 17|20170904|flu-treatment|20170904|flu-treatment

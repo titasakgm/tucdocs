@@ -1,0 +1,47 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-SevPn|-|1|1|0|Project Coordinator|TBD||0.00|0.00|-0.00|0.00|Person|1|100.00|12.00|0.00||||||
+1|DGHP-SevPn|-|1|2|0|Administrative and Financial Assistant|TBD||0.00|0.00|276000.00|276000.00|Person|1|100.00|12.00|23000.00||||||
+1|DGHP-SevPn|-|1|3|0|Project Data Officer|TBD||0.00|0.00|-0.00|0.00|Person|1|100.00|12.00|0.00||||||
+1|DGHP-SevPn|-|1|4|0|Overtime| ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons||0.00|0.00|43200.00|43200.00|Annual||||||||||
+1|DGHP-SevPn|-|2|1|0|Project coordinator|TBD||0.00|0.00|-0.00|0.00|Person|1|0.00|5.00|||||||
+1|DGHP-SevPn|-|2|2|0|Administrative and Financial Assistant| TBD||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00|||||||
+1|DGHP-SevPn|-|2|3|0|Project Data Officer|TBD||0.00|0.00|-0.00|0.00|Person|1|0.00|5.00|||||||
+1|DGHP-SevPn|-|2|4|0|Medical check-up for project staff| ($58.82 x 1 persons)||0.00|0.00|2000.00|2000.00|Person|1|2000.00|100.00|||||||
+1|DGHP-SevPn|-|3|1|0|Site visit|Non-Local participants (MOPH and CoAg staff)||0.00|0.00|108000.00|108000.00|Time|4|3.00|3.00|2000.00|3000.00|0.00||||
+1|DGHP-SevPn|-|3|2|0|Support project staff to attend international conference for oral or poster presentation|CoAg staff||0.00|0.00|168000.00|168000.00|Time|1|3.00|3.00|2000.00|50000.00|0.00||||
+1|DGHP-SevPn|-|3|3|2|Expert meeting (MOPH staff)|Local transportation for MOPH staff situated outside of main MOPH campus|||||12000.00|Time|4|6.00|1.00|0.00|500.00|0.00|20170324|dghp-sevpn|20170324|dghp-sevpn
+1|DGHP-SevPn|-|5|1|0|General office supplies|||0.00|0.00|10000.00|10000.00|Time|1|10000.00||||||||
+1|DGHP-SevPn|-|5|1|1|General office supplies||||||19720.00|Time|1|19720.00|||||20170208|dghp-sevpn|20170208|dghp-sevpn
+1|DGHP-SevPn|-|8|1|0|Support for specimen testing|||0.00|0.00|185600.00|185600.00|case|32|||||5800.00||||
+1|DGHP-SevPn|-|8|1|1|Support for specimen testing||||||121800.00|case|21|||||5800.00|20170208|dghp-sevpn|20170208|dghp-sevpn
+1|DGHP-SevPn|-|8|1|2|Support for specimen testing||||||103800.00|Annual|||||||20170324|dghp-sevpn|20170324|dghp-sevpn
+1|DGHP-SevPn|-|8|2|0|Support for communication|||0.00|0.00|3600.00|3600.00|month|12|||||300.00||||
+1|DGHP-SevPn|-|8|3|0|Meeting facilities|Meeting materials, photocopy, meeting room||0.00|0.00|63308.00|63308.00|Annual||||||||||
+1|DGHP-SevPn|-|8|4|0|Expert meeting|Non MOPH staff||0.00|0.00|96000.00|96000.00|Time|16|3.00|1.00|2000.00|0.00|0.00||||
+1|DGHP-SevPn|-|8|4|2|Expert meeting|Non MOPH staff (2,000bahtx3personsx16time)+(trans500bahtx3personsx4time)|||||102000.00|Annual|||||||20170324|dghp-sevpn|20170324|dghp-sevpn
+1|DGHP-SevPn|-|8|5|0|Expert meeting|Local participant (Local MOPH and CoAg staff)||0.00|0.00|160000.00|160000.00|Time|16|5.00|1.00|2000.00|0.00|0.00||||
+1|DGHP-SevPn|-|8|6|0|Support for menuscript submission for journal|menuscript submission||0.00|0.00|30000.00|30000.00|Annual||||||||||
+1|DGHP-SevPn|-|8|7|1|IT equipment maintenance||||||14980.00|Annual|||||||20170208|dghp-sevpn|20170208|dghp-sevpn
+1|DGHP-SevPn|-|8|8|1|Case review and report preparation fee||||||20000.00|case|400|||||50.00|20170208|dghp-sevpn|20170208|dghp-sevpn
+1|DGHP-SevPn|-|8|9|1|Prepare specimen bank||||||19100.00|case|955|||||20.00|20170208|dghp-sevpn|20170208|dghp-sevpn
+2|DGHP-SevPn|-|1|1|0|Administrative and Financial Assistant|Ms. Pornpanarat Posueb||0.00|0.00|292560.00|292560.00|Person|1|100.00|12.00|24380.00|||20170307||20170403|
+2|DGHP-SevPn|-|1|2|0|Compensation for Government Staff (Project Manager)|Dr. Pawinee Doung-nqern||0.00|0.00|48960.00|48960.00|Annual|||||||20170310||20170906|
+2|DGHP-SevPn|-|1|3|0|Compensation for Government staff (Project Data Officer)|TBD||0.00|0.00|32640.00|32640.00|Annual|||||||20170310||20170906|
+2|DGHP-SevPn|-|2|1|0|Administrative and Financial Assistant|Ms. Pornpanarat Posueb||0.00|0.00|9000.00|9000.00|Person|1|292560.00|5.00||||20170307||20170906|
+2|DGHP-SevPn|-|2|2|0|Medical check-up for project staff| $57.14 (2000 baht) *1 person||0.00|0.00|2000.00|2000.00|Person|1|2000.00|100.00||||20170307||20170403|
+2|DGHP-SevPn|-|3|1|0|Site visit|Non-Local participants (MOPH and CoAg staff)||0.00|0.00|24000.00|24000.00|Time|1|3.00|2.00|2000.00|4000.00|0.00|20170307||20170829|
+2|DGHP-SevPn|-|3|2|0|Support project staff to attend international conference for oral or poster presentation|MOPH staff||0.00|0.00|120000.00|120000.00|Time|1|2.00|5.00|2000.00|50000.00|0.00|20170307||20170317|
+2|DGHP-SevPn|-|3|3|0|Expert meeting (MOPH staff)|Local transportation||0.00|0.00|7500.00|7500.00|Time|5|3.00|1.00|0.00|500.00|0.00|20170324||20170829|
+2|DGHP-SevPn|-|3|4|0|Workshop for strengthening severe pneumonia surveillance|Non-Local participants||0.00|225580.00|214420.00|440000.00|Time|1|55.00|2.00|2000.00|4000.00|0.00|20170829||20171004|
+2|DGHP-SevPn|-|4|1|0|Laptop|For project staff||0.00|42200.00|-0.00|42200.00|set|1|42200.00|||||20170313||20170324|
+2|DGHP-SevPn|-|5|1|0|General office supplies|Annually $214||0.00|0.00|7266.00|7266.00|Time|1|7266.00|||||20170307||20170906|
+2|DGHP-SevPn|-|8|1|0|Support for communication|THB||0.00|3600.00|-0.00|3600.00|month|12|||||300.00|20170307||20170829|
+2|DGHP-SevPn|-|8|2|0|Meeting facilities|THB||0.00|14920.00|-0.00|14920.00|Annual|||||||20170307||20170905|
+2|DGHP-SevPn|-|8|3|0|Expert meeting|(Non MOPH staff) transportation and participation support cost||0.00|37500.00|-0.00|37500.00|Time|5|3.00|1.00|2000.00|500.00|0.00|20170307||20170906|
+2|DGHP-SevPn|-|8|4|0|Expert meeting|(MOPH staff) Participation support cost||0.00|100000.00|-0.00|100000.00|Time|5|10.00|1.00|2000.00|0.00|0.00|20170307||20170906|
+2|DGHP-SevPn|-|8|5|0|Support for manuscript submission|THB||0.00|30000.00|-0.00|30000.00|Annual|||||||20170307||20170906|
+2|DGHP-SevPn|-|8|6|0|Case review and report preparation fee|THB||0.00|29000.00|-0.00|29000.00|Annual|||||||20170307||20170905|
+2|DGHP-SevPn|-|8|7|0|Workshop for strengthening severe pneumonia surveillance|Non-MOPH staff travel, participation support cost, and resource person||153458.51|17374.00|-0.00|170832.51|Time|1|37.00|2.00|2000.00|500.00|4332.51|20170309||20171005|
+2|DGHP-SevPn|-|8|8|0|Support for specimen testing|||0.00|0.00|10000.00|10000.00|Case|5|0.00|0.00|0.00|0.00|2000.00|20170317||20170829|
+2|DGHP-SevPn|-|8|9|0|Support publication of expert review summary report|THB||0.00|0.00|50000.00|50000.00|Annual|||||||20170317||20170829|
+2|DGHP-SevPn|-|8|10|0|Exchange rate management|to support depreciation from the exchange rate fluctuation during budget year||0.00|0.00|-0.00|0.00|Annual|||||||20170830||20170831|

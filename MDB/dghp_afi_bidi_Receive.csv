@@ -1,0 +1,4 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-AFI|BIDI|20161025|3|10606.25|34.8300|369415.68||10170092|1st Draw down 10170092 received 360,612.48, 10172004 received 8,803.20|20170109|dghp-afi-bidi|20170117|dghp-afi-bidi
+1|DGHP-AFI|BIDI|20161228|2|123598.75|35.7600|4419891.30||10172015|2nd Draw down|20170117|dghp-afi-bidi|20170117|dghp-afi-bidi
+1|DGHP-AFI|BIDI|20170428|1|80000.00|34.2788|2742304.00||10172026|3rd Draw down|20170504|dghp-afi-bidi|20170504|dghp-afi-bidi

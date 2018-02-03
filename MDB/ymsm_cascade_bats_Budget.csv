@@ -1,0 +1,19 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+2|YMSM-Cascade|BATS|1|1|0|BATS: Project assistant, SRR, Ms. Sirijit Kanakool|Full time equivalent||0.00|0.00|89700.00|89700.00|Person|1|100.00|3.00|29900.00|||20170405||20171120|
+2|YMSM-Cascade|BATS|1|2|0|BATS: Project assistant, BATS, Ms. Panida Nathanom|Full time equivalent||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170405||20171120|
+2|YMSM-Cascade|BATS|1|3|0|BATS: Compensation for 2 hospital staff|(SRR, Ms. Suchada+Ms. Ladda) and 1 Government staff (BATS, Ms. Jeeratikran)||0.00|0.00|21420.00|21420.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|BATS|1|4|0|BATS: Overtime for project staff (Ms. Yuitiang)|$2.06/hr x 49 hr x 3 months||0.00|0.00|10290.00|10290.00|Annual|||||||20170906||20171120|
+2|YMSM-Cascade|BATS|2|1|0|BATS: Project assistant, SRR, Ms. Sirijit Kanakool|3 months employed at BATs||0.00|0.00|2250.00|2250.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|BATS|2|2|0|BATS: Project assistant, BATs, Ms. Panida Nathanom|||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170405||20171120|
+2|YMSM-Cascade|BATS|2|3|0|BATS: Annual medical check-up for FTE| Ms.Panida($58.82 x 1 persons)||0.00|0.00|2000.00|2000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|BATS|3|1|0|BATS: Transportation: Taxi, gas|For project staff and participants||0.00|0.00|9000.00|9000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|BATS|4|1|0|BATS: Computer laptop to support financial job of YMSM-Cascade project|For BATS||0.00|0.00|25000.00|25000.00|Set|1|25000.00|||||20170405||20171120|
+2|YMSM-Cascade|BATS|4|2|0|BATS: Printer to support financial job of YMSM-Cascade project|For BATS||0.00|0.00|6000.00|6000.00|Set|1|6000.00|||||20170405||20171120|
+2|YMSM-Cascade|BATS|5|1|0|BATS: General office supplies|FOR BATS||0.00|0.00|5000.00|5000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|BATS|8|1|0|BATS: YMSM/TG Consortium meeting hosted by BATS|Every 4 months||0.00|0.00|225000.00|225000.00|Time|3|30.00|1.00|2000.00|0.00|15000.00|20170405||20171120|
+2|YMSM-Cascade|BATS|8|2|0|BATS: Protocol submission(YMSM-Cascade) and continuation fee  (CARE-YOUTH)|For EC-SRR||0.00|0.00|12000.00|12000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|BATS|8|3|0|BATS : Communication expense|||0.00|0.00|12000.00|12000.00|Month|6|||||2000.00|20170405||20171120|
+2|YMSM-Cascade|BATS|8|4|0|BATS:Photocopy, meeting document, meeting facilities|For  BATS||0.00|0.00|4000.00|4000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|BATS|8|5|0|BATS : Conduct long-term follow up with youths to evaluate outcome of comprehensive positive youth program (Y2-3)|||0.00|0.00|80000.00|80000.00|Time|2|80.00|1.00|500.00|0.00|0.00|20170405||20171120|
+2|YMSM-Cascade|BATS|8|6|0|BATS: Develop web page and chat room, update website and promote web through link building|Develop web page||82400.00|0.00|0.00|82400.00|Annual|||||||20171012||20171120|
+2|YMSM-Cascade|BATS|8|7|0|BATS: Exchange rate management|To support depreciation from exchange rate fluctuation||0.00|86225.76|0.00|86225.76|Annual|||||||20170912||20171120|

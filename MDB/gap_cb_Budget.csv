@@ -1,0 +1,68 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|GAP-CB|-|1|1|0|Project Investigator|Director of Bureau of Policy and Strategy||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00||||||
+1|GAP-CB|-|1|2|0|Project Manager|Dr.Chakrarat Pittayawonganon||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00||||||
+1|GAP-CB|-|1|3|0|Project Manger Assistant|Dr.Thongthana Permbotsri||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00||||||
+1|GAP-CB|-|1|4|0|Project Manager Assistant|Dr.Chaninan Sonthichai||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00||||||
+1|GAP-CB|-|1|5|0|Project Coordinator|Ms.Nichakorn  Sirikanokvilai||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00||||||
+1|GAP-CB|-|1|6|0|Project Coordinator|Ms.Rossukon  Kangvallert||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00||||||
+1|GAP-CB|-|1|7|0|Project Coordinator (Full Time Staff)|Ms.Runya  Thongdee||0.00|0.00|213696.00|213696.00|Person|1|100.00|12.00|17808.00||||||
+1|GAP-CB|-|1|8|0|Overtime for Full time staff : Project Coordinator|Runya  Thongdee (1.76 USD/hr x 20 hrs x 12 months)||0.00|0.00|14400.00|14400.00|Annual||||||||||
+1|GAP-CB|-|2|1|0|Project Coordinator|Runya Thongdee||0.00|0.00|9000.00|9000.00|Person|1|213696.00|5.00|||||||
+1|GAP-CB|-|2|2|0|Annual Medical Check Up|(58.82 USD x 1 Person)||0.00|0.00|2000.00|2000.00|Annual||||||||||
+1|GAP-CB|-|3|1|0|PEPFAR Strategic/Policy advocacy meeting workshop for PEPFAR/M&E Training Workshop|Non-local MOPH||0.00|0.00|90000.00|90000.00|Time|1|10.00|1.00|2000.00|7000.00|0.00||||
+1|GAP-CB|-|3|1|1|PEPFAR Strategic/Policy advocacy meeting workshop for PEPFAR/M&E Training Workshop|Non-local MOPH|||||42525.00|Time|1|50.00|1.00|600.00|200.00|2525.00|20170522||20170522|
+1|GAP-CB|-|3|2|0|Supervisory Visit/Site Monitoring|Non-local MOPH||0.00|0.00|8000.00|8000.00|Time|2|2.00|1.00|1000.00|1000.00|0.00||||
+1|GAP-CB|-|3|2|3|Supervisory Visit/Site Monitoring|Non-local MOPH|||||6000.00|Time|3|1.00|1.00|1000.00|500.00|500.00|20170904|gap-cb|20170904|gap-cb
+1|GAP-CB|-|3|3|0|Capacity Building|||0.00|0.00|20000.00|20000.00|Time|2|2.00|2.00|2000.00|1000.00|0.00||||
+1|GAP-CB|-|3|3|1|Capacity Building||||||420767.30|Time|1|4.00|6.00|8200.00|47962.50|32117.30|20170522||20170522|
+1|GAP-CB|-|3|3|3|Capacity Building||||||322117.30|Time|1|4.00|6.00|5200.00|41300.00|32117.30|20170904|gap-cb|20170904|gap-cb
+1|GAP-CB|-|3|4|0|Global Technical Assistance|Training, Workshop, Study Visit, and etc.||0.00|0.00|102000.00|102000.00|Time|3|2.00|3.00|2000.00|10000.00|2000.00||||
+1|GAP-CB|-|3|4|1|Global Technical Assistance|Training, Workshop, Study Visit, and etc.|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170522||20170522|
+1|GAP-CB|-|3|5|0|Transportation cost|fuel, toll fee, taxi, van rental for local MOPH||0.00|0.00|10000.00|10000.00|Annual||||||||||
+1|GAP-CB|-|3|5|1|Transportation cost|fuel, toll fee, taxi, van rental for local MOPH|||||5000.00|Annual|||||||20170522||20170522|
+1|GAP-CB|-|3|6|0|Preparation for Incentive PEPFAR Fund|||0.00|0.00|27000.00|27000.00|Time|1|3.00|2.00|2000.00|5000.00|0.00||||
+1|GAP-CB|-|3|6|1|Preparation for Incentive PEPFAR Fund||||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170522||20170522|
+1|GAP-CB|-|5|1|0|Meeting Document and Supply|||0.00|0.00|8000.00|8000.00|Year|1|8000.00||||||||
+1|GAP-CB|-|5|1|1|Meeting Document and Supply||||||4000.00|Year|1|4000.00|||||20170522||20170522|
+1|GAP-CB|-|5|2|0|Office Supply|||0.00|0.00|12000.00|12000.00|Month|12|1000.00||||||||
+1|GAP-CB|-|5|2|1|Office Supply||||||8000.00|Month|2|4000.00|||||20170522||20170522|
+1|GAP-CB|-|5|2|3|Office Supply||||||5660.00|Month|2|2830.00|||||20170904|gap-cb|20170904|gap-cb
+1|GAP-CB|-|8|1|0|PEPFAR Strategic/Policy meeting workshop|PEPFAR Strategic/M&E Training Workshop;local-MOPH,non-MOPH||0.00|0.00|83556.00|83556.00|Time|1|40.00|1.00|600.00|1000.00|19556.00||||
+1|GAP-CB|-|8|1|1|PEPFAR Strategic/Policy meeting workshop|PEPFAR Strategic/M&E Training Workshop;local-MOPH,non-MOPH|||||8500.00|Time|1|2.00|1.00|2000.00|2000.00|500.00|20170522||20170522|
+1|GAP-CB|-|8|2|0|Supervisory Visit/Site Monitoring|local-MOPH,non-MOPH||0.00|0.00|40000.00|40000.00|Time|5|5.00|1.00|600.00|1000.00|0.00||||
+1|GAP-CB|-|8|2|3|Supervisory Visit/Site Monitoring|local-MOPH,non-MOPH|||||36000.00|Time|5|13.00|1.00|500.00|0.00|700.00|20170904|gap-cb|20170904|gap-cb
+1|GAP-CB|-|8|3|0|Capacity Building|Registration Fee||0.00|0.00|30000.00|30000.00|Time|2|3.00|2.00|2000.00|1000.00|0.00||||
+1|GAP-CB|-|8|3|3|Capacity Building|Registration Fee|||||170606.75|Time|1|10.00|1.00|17000.00|0.00|606.75|20170904|gap-cb|20170904|gap-cb
+1|GAP-CB|-|8|4|0|Global Technical Assistance|||0.00|0.00|30000.00|30000.00|Time|2|1.00|3.00|2000.00|7000.00|2000.00||||
+1|GAP-CB|-|8|4|1|Global Technical Assistance||||||187913.70|Time|3|1.00|5.00|5200.00|15000.00|21637.90|20170522||20170522|
+1|GAP-CB|-|8|5|0|Meeting Facilities and management|||0.00|0.00|20000.00|20000.00|Time|5|0.00|0.00|0.00|0.00|4000.00||||
+1|GAP-CB|-|8|5|3|Meeting Facilities and management||||||10000.00|Time|2|0.00|0.00|0.00|0.00|5000.00|20170904|gap-cb|20170904|gap-cb
+1|GAP-CB|-|8|6|0|Preparation for Incentive PEPFAR Fund|local-MOPH, Non-MOPH||0.00|0.00|45000.00|45000.00|Time|1|5.00|2.00|2000.00|5000.00|0.00||||
+1|GAP-CB|-|8|6|1|Preparation for Incentive PEPFAR Fund|local-MOPH, Non-MOPH|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170522||20170522|
+1|GAP-CB|-|8|7|2|Gain from exchange rate on 07 ก.ค. 60 (Cheque # 10181871)||||||23616.75|Annual|||||||20170815|gap-cb|20170815|gap-cb
+1|GAP-CB|-|8|7|3|Gain from exchange rate on 07 ก.ค. 60 (Cheque # 10181871)||||||0.00|Annual|||||||20170904|gap-cb|20170904|gap-cb
+2|GAP-CB|-|1|1|0|Project Investigator|Director of Bureau of Policy and Strategy||0.00|0.00|-0.00|0.00|Person|1|100.00|12.00|0.00|||20170403||20170920|
+2|GAP-CB|-|1|2|0|Project Manager|||0.00|0.00|-0.00|0.00|Person|1|100.00|12.00|0.00|||20170403||20170920|
+2|GAP-CB|-|1|3|0|Project Coordinator|Ms. Runya  Thongdee||0.00|0.00|226416.00|226416.00|Person|1|100.00|12.00|18868.00|||20170403||20170403|
+2|GAP-CB|-|1|4|0|Overtime for Full time staff: Project Coordinator|Ms. Runya  Thongdee (1.76 USD/hrs x 20 hrs x 12 months)||0.00|0.00|14400.00|14400.00|Annual|||||||20170403|||
+2|GAP-CB|-|2|1|0|Project Coordinator|Ms. Runya Thongdee||0.00|0.00|9000.00|9000.00|Person|1|226416.00|5.00||||20170329|||
+2|GAP-CB|-|2|2|0|Annual Medical Check Up|(58.82 USD x 1 Person)||0.00|0.00|2000.00|2000.00|Annual|||||||20170329|||
+2|GAP-CB|-|3|1|0|Global Technical Assistance|||0.00|0.00|71680.00|71680.00|Time|2|1.00|3.00|6000.00|9000.00|8840.00|20170329||20170914|
+2|GAP-CB|-|3|2|0|PIF-Global Technical Assistance|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170329||20170822|
+2|GAP-CB|-|3|3|0|Supervisory Visit/Site Monitoring|||0.00|0.00|16000.00|16000.00|Time|5|2.00|1.00|800.00|800.00|0.00|20170329||20170925|
+2|GAP-CB|-|3|4|0|Capacity Building|||0.00|0.00|55346.00|55346.00|Time|1|2.00|3.00|4000.00|15000.00|1346.00|20170329||20170914|
+2|GAP-CB|-|3|5|0|PEPFAR Strategic/Policy advocacy meeting workshop for PEPFAR|||0.00|0.00|30180.00|30180.00|Time|1|5.00|1.00|1800.00|4236.00|0.00|20170329||20170925|
+2|GAP-CB|-|3|6|0|Study Visit|||0.00|0.00|100000.00|100000.00|Time|1|10.00|3.00|1500.00|5500.00|0.00|20170914||20170925|
+2|GAP-CB|-|4|1|0|Utility Power Supply|||0.00|0.00|3400.00|3400.00|Set|1|3400.00|||||20170914|||
+2|GAP-CB|-|5|1|0|Office Supplies|||0.00|0.00|16320.00|16320.00|Time|2|8160.00|||||20170329||20170914|
+2|GAP-CB|-|5|2|0|Meeting Supplies and document|||0.00|0.00|10200.00|10200.00|Time|5|2040.00|||||20170329||20170329|
+2|GAP-CB|-|8|1|0|Global Technical Assistance|||122000.00|0.00|207100.00|329100.00|Time|5|2.00|4.00|5000.00|10000.00|5820.00|20170329||20171012|
+2|GAP-CB|-|8|2|0|PIF-Global Technical Assistance|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170822|||
+2|GAP-CB|-|8|3|0|Supervisory Visit/Site Monitoring|||0.00|0.00|32840.00|32840.00|Time|5|7.00|1.00|600.00|0.00|2368.00|20170329||20170914|
+2|GAP-CB|-|8|4|0|Capacity Building|||307000.00|0.00|60000.00|367000.00|Time|2|10.00|3.00|2000.00|10000.00|23500.00|20170329||20171012|
+2|GAP-CB|-|8|5|0|PEPFAR Strategic/Policy advocacy meeting workshop for PEPFAR|||0.00|0.00|41400.00|41400.00|Time|1|50.00|1.00|600.00|0.00|11400.00|20170329||20170925|
+2|GAP-CB|-|8|6|0|Meeting Facilities and management|||0.00|0.00|17510.00|17510.00|Time|5|1.00|1.00|0.00|0.00|3502.00|20170329||20170404|
+2|GAP-CB|-|8|7|0|Capacity Building for MOPH Staff on CoAg Data Base|See budget justification||0.00|0.00|1020000.00|1020000.00|Annual|||||||20170404||20170925|
+2|GAP-CB|-|8|8|0|World AIDs Day|||0.00|0.00|340000.00|340000.00|Time|1|0.00|0.00|0.00|0.00|340000.00|20170914||20170914|
+2|GAP-CB|-|8|9|0|Study Visit|||0.00|0.00|150000.00|150000.00|Time|1|20.00|3.00|1500.00|1000.00|40000.00|20170914||20170925|
+2|GAP-CB|-|8|10|0|Exchange rate management|To support depreciation from the exchange rate fluctuation during budget year||73440.10|0.00|-0.00|73440.10|Annual|||||||20170822||20171101|

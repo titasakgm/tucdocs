@@ -1,0 +1,25 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+2|DGHP-PrOZINT|BIDI|1|1|0|Compensation for Researcher|Director, Bamrasnaradura Infectious Diseases Institute ($2.06 x 30hrs x 12mnths x  x 1 person)||0.00|0.00|25194.00|25194.00|Annual|||||||20170217||20170326|
+2|DGHP-PrOZINT|BIDI|1|2|0|Compensation for Researcher (PI)|'Dr. Jurai Wongsawat||0.00|0.00|84000.00|84000.00|Person|1|25.00|12.00|28000.00|||20170217||20170328|
+2|DGHP-PrOZINT|BIDI|1|3|0|Compensation for Researcher (Co-PI)|Dr.Sumonmal Uttayamakul ($2.06 x 20hrs x 12 mnths x 1 person)||0.00|0.00|16796.00|16796.00|Annual|||||||20170217||20170326|
+2|DGHP-PrOZINT|BIDI|1|4|0|Compensation for Researcher|Ms.Apisada Rassami||0.00|0.00|-0.00|0.00|Person|1|0.00|0.00|0.00|||20170331||20170823|
+2|DGHP-PrOZINT|BIDI|1|5|0|Compensation for Researcher|Ms.Pawita Suvanwattana||0.00|0.00|-0.00|0.00|Person|1|0.00|0.00|0.00|||20170331||20170823|
+2|DGHP-PrOZINT|BIDI|1|6|0|Medical Technologist|To be name ($676.47 x 12mnths x 100% x 1 person)||0.00|0.00|230000.00|230000.00|Person|1|100.00|10.00|23000.00|||20170217||20171004|
+2|DGHP-PrOZINT|BIDI|1|7|0|Medical Technologist|To be name||0.00|0.00|-0.00|0.00|Person|0|0.00|0.00|0.00|||20170331||20170331|
+2|DGHP-PrOZINT|BIDI|1|8|0|Project Manager|Ms.Maneeratt Sermsagul, share cost with AFI-BIDI project for 6 months.||0.00|0.00|209982.00|209982.00|Person|1|100.00|6.00|34997.00|||20170331||20170913|
+2|DGHP-PrOZINT|BIDI|1|9|0|Lab scientist and financial officer|Ms.Yollada Suebpeng, share cost with AFI-BIDI project for 6 months||0.00|0.00|174726.00|174726.00|Person|1|100.00|6.00|29121.00|||20170331||20170331|
+2|DGHP-PrOZINT|BIDI|1|10|0|Data Entry|Ms.Benjaporn Maho, share cost with AFI-BIDI project for 6 months.||0.00|0.00|112338.00|112338.00|Person|1|100.00|6.00|18723.00|||20170331||20170913|
+2|DGHP-PrOZINT|BIDI|1|11|0|OT for CoAg staffs|(21 hrs. x $1.76 or 60฿)+(21 hrs. x $2.05 or 70฿)) x 12 months x 1 person||0.00|0.00|32640.00|32640.00|Annual|||||||20170331||20170913|
+2|DGHP-PrOZINT|BIDI|2|1|0|Medical Technologist (2 person)|To be name||0.00|0.00|9000.00|9000.00|Person|1|276000.00|5.00||||20170217||20170328|
+2|DGHP-PrOZINT|BIDI|2|2|0|Annual Medical Check-up|1 person x $59||0.00|0.00|2000.00|2000.00|Annual|||||||20170217||20170323|
+2|DGHP-PrOZINT|BIDI|3|1|0|Site visit|||0.00|0.00|129600.00|129600.00|Time|4|3.00|2.00|2000.00|6800.00|0.00|20170217|||
+2|DGHP-PrOZINT|BIDI|4|1|0|7500 Fast Real-Time PCR System, Laptop and MicroAmp™ Fast Optical 96-Well plate, 0.1 mL, 10 plates|See budget justification||2932979.00|0.00|-0.00|2932979.00|Item|2|1466489.50|||||20170908||20171016|
+2|DGHP-PrOZINT|BIDI|5|1|0|Lab supplies|See budget justification||0.00|0.00|373200.00|373200.00|Time|3|124400.00|||||20170217||20171004|
+2|DGHP-PrOZINT|BIDI|5|2|0|Lab reagent|See budget justification||3941039.61|1589196.39|1555452.00|7085688.00|Time|3|2361896.00|||||20170217||20171004|
+2|DGHP-PrOZINT|BIDI|8|1|0|Project Launching|DGHP team, BPS team, AFI-BIDI team, Government staff 20 persons||0.00|0.00|12000.00|12000.00|person|20|||||600.00|20170217|||
+2|DGHP-PrOZINT|BIDI|8|2|0|Meeting facilities|See budget justification||0.00|0.00|17274.00|17274.00|Time|2|0.00|0.00|0.00|0.00|8637.00|20170217||20171004|
+2|DGHP-PrOZINT|BIDI|8|3|0|Laboratory equipment maintenance and quality system.|See budget justification||0.00|0.00|199954.00|199954.00|Time|1|0.00|0.00|0.00|0.00|199954.00|20170217||20170811|
+2|DGHP-PrOZINT|BIDI|8|4|0|Photocopying|(10 Months x $50)||0.00|0.00|17000.00|17000.00|month|10|||||1700.00|20170217||20170811|
+2|DGHP-PrOZINT|BIDI|8|5|0|Capacity Building|See budget justification||0.00|0.00|12504.00|12504.00|Time|2|0.00|0.00|0.00|0.00|6252.00|20170217||20171004|
+2|DGHP-PrOZINT|BIDI|8|6|0|Exchange rate management|To support depreciation from the exchange rate fluctuation during budget year||0.00|0.00|146740.00|146740.00|Annual|||||||20170823||20171004|
+2|DGHP-PrOZINT|BIDI|8|7|0|Local transportation cost|see budget justification||0.00|0.00|39600.00|39600.00|Time|4|0.00|0.00|0.00|0.00|9900.00|20170908||20171004|

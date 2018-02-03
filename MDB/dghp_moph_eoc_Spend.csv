@@ -1,0 +1,36 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-MOPH-EOC|-|1|1|20|Project Coordinator TBD|20170117|13790.00|10172222|20170117|726.00|10172223|||เงินเดือน ธันวาคม ประกันสังคม ธันวาคม|20170117|DGHP-EOC|20170317|
+1|DGHP-MOPH-EOC|-|1|1|23|Project Coordinator TBD|20170130|17250.00|10172224|20170130|750.00|10172225|||เงินเดือน มกราคม ประกันสังคม มกราคม|20170117|DGHP-EOC|20170317|
+1|DGHP-MOPH-EOC|-|1|1|25|Project Coordinator TBD|20170228|17250.00|10172226|20170228|750.00|17102227|||เงินเดือน กุมภาพันธ์ ประกันสังคม กุมภาพันธ์|20170313|DGHP-EOC|20170317|
+1|DGHP-MOPH-EOC|-|1|1|29|Project Coordinator TBD|20170331|17250.00|10172233|20170331|750.00|10172234|||เงินเดือน มีนาคม ประกันสังคม มีนาคม|20170411|DGHP-EOC|20170411|DGHP-EOC
+1|DGHP-MOPH-EOC|-|1|1|34|Project Coordinator TBD|20170504|17250.00|10172238|20170504|750.00|10172239|||เงินเดือน เมษายน ประกันสังคม เมษายน|20170501|DGHP-EOC|20170609|DGHP-EOC
+1|DGHP-MOPH-EOC|-|1|1|38|Project Coordinator TBD|20170531|17250.00|10208783|20170531|750.00|10208784|||เงินเดือน พฤษภาคม ประกันสังคม พฤษภาคม|20170609|DGHP-EOC|20170609|DGHP-EOC
+1|DGHP-MOPH-EOC|-|1|1|41|Project Coordinator TBD|20170629|17250.00|10208788|20170629|750.00|10208789|||เงินเดือน มิถุนายน ประกันสังคม มิถุนายน|20170714|DGHP-EOC|20170714|DGHP-EOC
+1|DGHP-MOPH-EOC|-|1|1|43|Project Coordinator TBD|20170802|17250.00|10208795|20170802|750.00|10208796|||เงินเดือน กรกฎาคม ประกันสังคม กรกฎาคม|20170911|DGHP-EOC|20170911|DGHP-EOC
+1|DGHP-MOPH-EOC|-|1|1|45|Project Coordinator TBD|20170828|17250.00|10208798|20170828|750.00|10208799|||เงินเดือน สิงหาคม ประกันสังคม สิงหาคม|20170911|DGHP-EOC|20170911|DGHP-EOC
+1|DGHP-MOPH-EOC|-|1|3|1|Overtime for project staff at MOPH ($2.05/70 Baht x 2 hrs x 10 Day x 12 months x 2 persons)|20170303|3630.00|10172230||||||OT เดือนกุมภาพันธ์|20170317|DGHP-EOC|20170317|DGHP-EOC
+1|DGHP-MOPH-EOC|-|1|3|3|Overtime for project staff at MOPH ($2.05/70 Baht x 2 hrs x 10 Day x 12 months x 2 persons)|20170411|3860.00|10172236||||||OT เดือนมีนาคม|20170411|DGHP-EOC|20170411|DGHP-EOC
+1|DGHP-MOPH-EOC|-|1|3|6|Overtime for project staff at MOPH ($2.05/70 Baht x 2 hrs x 10 Day x 12 months x 2 persons)|20170606|3090.00|10172240||||||OT เดือนเมษายน|20170714|DGHP-EOC|20170714|DGHP-EOC
+1|DGHP-MOPH-EOC|-|1|3|8|Overtime for project staff at MOPH ($2.05/70 Baht x 2 hrs x 10 Day x 12 months x 2 persons)|20170612|2160.00|10208786||||||OT เดือนพฤษภาคม|20170714|DGHP-EOC|20170714|DGHP-EOC
+1|DGHP-MOPH-EOC|-|1|3|11|Overtime for project staff at MOPH ($2.05/70 Baht x 2 hrs x 10 Day x 12 months x 2 persons)|20170720|1080.00|10208792||||||OT เดือนมิถุนายน|20170824|DGHP-EOC|20170824|DGHP-EOC
+1|DGHP-MOPH-EOC|-|2|1|16|Project Coordinator TBD|20170117|726.00|10172223||||||ประกันสังคมเดือน ธันวาคม|20170117|DGHP-EOC|20170317|
+1|DGHP-MOPH-EOC|-|2|1|17|Project Coordinator TBD|20170130|750.00|10172225||||||ประกันสังคมเดือน มกราคม|20170117|DGHP-EOC|20170317|
+1|DGHP-MOPH-EOC|-|2|1|18|Project Coordinator TBD|20170228|750.00|10172227||||||ประกันสังคมเดือน กุมภาพันธ์|20170313|DGHP-EOC|20170317|
+1|DGHP-MOPH-EOC|-|2|1|21|Project Coordinator TBD|20170331|750.00|10172234||||||ประกันสังคมเดือน มีนาคม|20170320|DGHP-EOC|20170411|DGHP-EOC
+1|DGHP-MOPH-EOC|-|2|1|25|Project Coordinator TBD|20170531|750.00|10208784||||||ประกันสังคมเดือน พฤษภาคม|20170609|DGHP-EOC|20170609|DGHP-EOC
+1|DGHP-MOPH-EOC|-|2|1|26|Project Coordinator TBD|20170504|750.00|10172239||||||ประกันสังคมเดือน เมษายน|20170609|DGHP-EOC|20170609|DGHP-EOC
+1|DGHP-MOPH-EOC|-|2|1|28|Project Coordinator TBD|20170629|750.00|10208789||||||ประกันสังคมเดือน มิถุนายน|20170714|DGHP-EOC|20170714|DGHP-EOC
+1|DGHP-MOPH-EOC|-|2|1|30|Project Coordinator TBD|20170802|750.00|10208796||||||ประกันสังคมเดือน กรกฎาคม|20170911|DGHP-EOC|20170911|DGHP-EOC
+1|DGHP-MOPH-EOC|-|2|1|32|Project Coordinator TBD|20170828|750.00|10208799||||||ประกันสังคมเดือน สิงหาคม|20170911|DGHP-EOC|20170911|DGHP-EOC
+1|DGHP-MOPH-EOC|-|2|3|4|Medical check-up for project staff ( 2 Person X THB 2,000/58.82$)|20170504|2000.00|10172237||||||ตรวจสุขภาพประจำปี|20170501|DGHP-EOC|20170609|DGHP-EOC
+1|DGHP-MOPH-EOC|-|3|1|4|Site visit |20170619|73500.00|10208787|20170629|-24300.00|Cash|||ยืมเงินไปดูงาน สคร.3 คืนเงิน 24,300 บาท|20170714|DGHP-EOC|20170824|DGHP-EOC
+1|DGHP-MOPH-EOC|-|3|1|6|Site visit |20170705|33000.00|10208790|20170712|-5.00|Cash|||ยืมเงินไปดูงาน สคร.2 คืนเงิน 5.00 บาท|20170824|DGHP-EOC|20170824|DGHP-EOC
+1|DGHP-MOPH-EOC|-|3|2|9|Workshop |20170515|98000.00|10208781|20170530|-74345.00|Cash|||จัดประชุมราชการ คืนเงิน 74,345 บาท|20170609|DGHP-EOC|20170714|DGHP-EOC
+1|DGHP-MOPH-EOC|-|3|2|15|Workshop |20170718|193200.00|10208793|20170816|-80209.00|Cash|||ยืมเงินจัดประชุม คืนเงิน 80,209 บาท|20170824|DGHP-EOC|20170911|DGHP-EOC
+1|DGHP-MOPH-EOC|-|3|2|18|Workshop |20170726|338000.00|10208794|20170802|-48417.00|Cash|||ยืมเงินจัดประชุม คืนเงิน 48,417 บาท|20170824|DGHP-EOC|20170911|DGHP-EOC
+1|DGHP-MOPH-EOC|-|3|6|7|Support  EOC staffs for international training and visiting |20161230|862500.00|10172221|20170214|-32356.78|Cash|||ไปดูศึกษาดูงานต่างประเทศ คืนเงิน 32,356.78 บาท|20170117|DGHP-EOC|20170317|DGHP-EOC
+1|DGHP-MOPH-EOC|-|5|1|2|General office supplies $588.23*1= $588.23|20170315|11018.27|10172231|20170315|103.95|10172232|||ซื้อวัสดุอุปกรณ์สำนักงาน ภาษี 1 % ณ ที่จ่าย|20170317|DGHP-EOC|20170317|
+1|DGHP-MOPH-EOC|-|8|1|1|Communication cost $17.64*12=$211.68|20170411|300.00|10172235||||||ค่าโทรศัพท์เดือน มีนาคม 2560|20170411|DGHP-EOC|20170411|DGHP-EOC
+1|DGHP-MOPH-EOC|-|8|1|3|Communication cost $17.64*12=$211.68|20170720|900.00|10208791||||||ค่าโทรศัพท์เดือน เม.ย.-มิ.ย.2560|20170824|DGHP-EOC|20170824|DGHP-EOC
+1|DGHP-MOPH-EOC|-|8|1|5|Communication cost $17.64*12=$211.68|20170802|300.00|10208797||||||ค่าโทรศัพท์เดือน กรกฎาคม 2560|20170911|DGHP-EOC|20170911|DGHP-EOC
+1|DGHP-MOPH-EOC|-|8|4|3|Expert meeting Local participant (Local MOPH and CoAg staff) ($17.64 x 10 persons x 5 times )|20170615|30000.00|10208758|20170615|-9410.00|cash|||จัดประชุมราชการ คืนเงิน 9,410 บาท|20170714|DGHP-EOC|20170824|DGHP-EOC

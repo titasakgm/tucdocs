@@ -1,0 +1,7 @@
+CoAgYear|ProjectID|SubprojectID|AmendNo|AmendRefNo|AmendDate|CashOnHand|Carryover|New|Gain|_datecreated|_usercreated|_dateupdated|_userupdated
+1|SI|MIS|0|||0.00|0.00|2395424.00|0.00||||
+1|SI|MIS|1|Approved by hpr7@cdc.gov|20170403|0.00|0.00|2395424.00|0.00|20170502||20170502|
+1|SI|MIS|2|0216/133/17|20170606|0.00|0.00|2515424.00|0.00|20170613||20170613|
+1|SI|MIS|3|Exchange gains|20170707|0.00|0.00|2515424.00|81351.08|20170810|si-mis|20170810|si-mis
+1|SI|MIS|4|Approved by hpr7@cdc.gov|20170831|0.00|0.00|2515424.00|81351.08|20170911|si-mis|20170911|si-mis
+2|SI|MIS|0|||75453.50|0.00|3470560.00|0.00||||

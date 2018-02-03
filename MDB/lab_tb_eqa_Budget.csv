@@ -1,0 +1,26 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|LAB-TB-EQA|-|1|1|0|Compensation for Government staff|Project Investigator:Dr. Chawetsan Namwat($2.06/hourx 28 hours x 12 months x 1 person)||0.00|0.00|24000.00|24000.00|Annual||||||||||
+1|LAB-TB-EQA|-|1|2|0|Compensation for Government staff|Project Coordinator:Mrs. Saijai Smith, Mrs.Chanattree($2.06/hourx 29 hours x 12 months x 2 persons)||0.00|0.00|48000.00|48000.00|Annual||||||||||
+1|LAB-TB-EQA|-|1|3|0|Compensatin for Government staff|Financial Management officer:TBD($2.06/hourx 28 hours x 12 months x 1 person)||0.00|0.00|24000.00|24000.00|Annual||||||||||
+1|LAB-TB-EQA|-|3|1|0|TB EQA participant anual meeting|Non Local Particiapant-MOPH||0.00|0.00|320000.00|320000.00|Time|1|40.00|2.00|2000.00|4000.00|0.00||||
+1|LAB-TB-EQA|-|5|1|0|Office supplies|||0.00|0.00|24000.00|24000.00|Year|1|24000.00||||||||
+1|LAB-TB-EQA|-|5|2|0|Laboratory Supplies for TB EQA programs|Lab supplies||0.00|0.00|50000.00|50000.00|Year|1|50000.00||||||||
+1|LAB-TB-EQA|-|5|3|0|Reagent for Sample Characterization|(Real Time or Line Prob Assay)150 tests||0.00|0.00|75000.00|75000.00|Test|150|500.00||||||||
+1|LAB-TB-EQA|-|8|1|0|TB EQA Advisory Meeting|Local resource person(MOPH & Non-MOPH)||0.00|0.00|54000.00|54000.00|Time|4|5.00|1.00|2000.00|500.00|1000.00||||
+1|LAB-TB-EQA|-|8|2|0|Working group meeting|Local Participants(MOPH&NON-MOPH)||0.00|0.00|20000.00|20000.00|Time|5|5.00|1.00|600.00|0.00|1000.00||||
+1|LAB-TB-EQA|-|8|3|0|Shipping cost for EQA|See justification||0.00|0.00|40000.00|40000.00|Time|2|0.00|0.00|0.00|0.00|20000.00||||
+1|LAB-TB-EQA|-|8|4|0|TB EQA participant anual meeting|Local Particiapant(MOPH & Non-MOPH)||0.00|0.00|21000.00|21000.00|Time|1|10.00|2.00|600.00|500.00|4000.00||||
+2|LAB-TB-EQA|-|1|1|0|Compensation for Government staff|Project Investigator:Dr Phalin Kamolwat ($2.06/hourx 28 hours x 12 months x 1 person)||0.00|0.00|24000.00|24000.00|Annual|||||||20170314||20170314|
+2|LAB-TB-EQA|-|1|2|0|Compensation for Government staff|Project Coordinator:Mrs. Saijai Smith, Mrs.Chanattree($2.06/hourx 29 hours x 12 months x 2 persons)||0.00|0.00|48000.00|48000.00|Annual|||||||20170314||20170314|
+2|LAB-TB-EQA|-|1|3|0|Compensation for Government staff|Financial Management officer:TBD($2.06/hourx 28 hours x 12 months x 1 person)||0.00|0.00|24000.00|24000.00|Annual|||||||20170314||20170314|
+2|LAB-TB-EQA|-|3|1|0|TB EQA participant anual meeting|Non Local Particiapant-MOPH||48000.00|0.00|350000.00|398000.00|Time|1|50.00|1.00|2000.00|5960.00|0.00|20170314||20171011|
+2|LAB-TB-EQA|-|5|1|0|Office supplies|General office supplies||0.00|0.00|27000.00|27000.00|Annual|||||||20170314||20170322|
+2|LAB-TB-EQA|-|5|2|0|Laboratory Supplies for TB panal validation|Lab supplies||0.00|0.00|50000.00|50000.00|Annual|||||||20170314||20170314|
+2|LAB-TB-EQA|-|5|3|0|Reagent for pannel validation|||0.00|0.00|300000.00|300000.00|Test|400|750.00|||||20170314||20170322|
+2|LAB-TB-EQA|-|8|1|0|TB EQA Advisory Meeting|Non-Local, Non MOPH, participants,Resource person(MOPH & Non-MOPH)||0.00|0.00|54000.00|54000.00|Time|4|5.00|1.00|2000.00|0.00|3500.00|20170314||20170404|
+2|LAB-TB-EQA|-|8|2|0|Working group meeting|Local Participants(MOPH&NON-MOPH)||0.00|0.00|15000.00|15000.00|Time|5|5.00|1.00|600.00|0.00|0.00|20170314||20170314|
+2|LAB-TB-EQA|-|8|3|0|TB EQA participant anual meeting|Local Particiapant(MOPH & Non-MOPH)||0.00|0.00|27000.00|27000.00|Time|1|20.00|1.00|600.00|0.00|15000.00|20170314||20170404|
+2|LAB-TB-EQA|-|8|4|0|TB EQA participant anual meeting|(Resource person-MOPH & Non-MOPH)||0.00|0.00|8800.00|8800.00|Time|1|4.00|1.00|1200.00|0.00|4000.00|20170314||20170404|
+2|LAB-TB-EQA|-|8|5|0|Shipment cost for EQA sample|See justification||0.00|0.00|32200.00|32200.00|Annual|||||||20170314||20170314|
+2|LAB-TB-EQA|-|8|6|0|Laboratory test cost for panel validation|See justification||0.00|0.00|60000.00|60000.00|Annual|||||||20170314||20170314|
+2|LAB-TB-EQA|-|8|7|0|Exchange rate management|To support depreciation from the exchange rate fluctuation during the budget year||1953.96|29214.16|-0.00|31168.12|Annual|||||||20170918||20171011|

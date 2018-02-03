@@ -1,0 +1,21 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|CEI-R|-|1|1|0|Principle Investigator|(Dr. Darin Areechokchai) See budget justification attached||0.00|0.00|-0.00|0.00|Annual||||||||||
+1|CEI-R|-|1|2|0|Administrative Officer|(Miss Natananya Marnakul)||0.00|0.00|244800.00|244800.00|Person|1|100.00|12.00|20400.00||||||
+1|CEI-R|-|1|3|0|Network and IT support officer|(Mr.Kreetaphon Sangkhakrom)||0.00|0.00|412800.00|412800.00|Person|1|100.00|12.00|34400.00||||||
+1|CEI-R|-|1|4|0|Data manager|(Mr.Siriwat Sangwanloi)||0.00|0.00|396000.00|396000.00|Person|1|100.00|11.00|36000.00||||||
+1|CEI-R|-|2|1|0|Administrative officer|(Miss Natananya Marnakul)||0.00|0.00|9000.00|9000.00|person|1|244800.00|5.00|||||||
+1|CEI-R|-|2|2|0|Network and IT support|(Mr.Kreetaphon Sangkhakrom)||0.00|0.00|9000.00|9000.00|Person|1|412800.00|5.00|||||||
+1|CEI-R|-|2|4|0|Data manager|(Mr.Siriwat Sangwanloi)||0.00|0.00|9000.00|9000.00|Person|1|396000.00|5.00|||||||
+1|CEI-R|-|2|5|0|Annual Medical Check Up|(2,000 Baht or $58.82 * 3 persons)||0.00|0.00|6000.00|6000.00|Annual||||||||||
+1|CEI-R|-|5|1|0|Software licenses|(Microsoft SQL, Statistical software for data analysis)||0.00|0.00|103400.00|103400.00|Set|1|103400.00||||||||
+1|CEI-R|-|8|1|1|Gain from exchange rate on 26 ก.ค. 60 (Cheque # 10172030)||||||21410.42|Annual|||||||20170911|cei1|20170911|cei1
+2|CEI-R|-|1|1|0|Principle Investigator (MoPH government staff)|(Dr.Yongjua Laosiritaworn)||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00|||20170330||20170411|
+2|CEI-R|-|1|2|0|Administrative Officer|(Miss Natananya Marnakul)||0.00|0.00|244800.00|244800.00|Person|1|100.00|12.00|20400.00|||20170330||20170918|
+2|CEI-R|-|1|3|0|Network and IT support officer|(Mr.Kreetaphon Sangkhakrom)||0.00|0.00|412800.00|412800.00|Person|1|100.00|12.00|34400.00|||20170330||20170918|
+2|CEI-R|-|1|4|0|Data manager|(Mr.Siriwat Sangwanloi)||0.00|0.00|432000.00|432000.00|Person|1|100.00|12.00|36000.00|||20170330||20170918|
+2|CEI-R|-|2|1|0|Administrative officer|(Miss Natananya Marnakul)||0.00|0.00|9000.00|9000.00|Person|1|244800.00|5.00||||20170330||20170918|
+2|CEI-R|-|2|2|0|Network and IT support officer|(Mr.Kreetaphon Sangkhakrom)||0.00|0.00|9000.00|9000.00|Person|1|412800.00|5.00||||20170330||20170918|
+2|CEI-R|-|2|3|0|Data manager|(Mr.Siriwat Sangwanloi)||0.00|0.00|9000.00|9000.00|Person|1|432000.00|5.00||||20170330||20170918|
+2|CEI-R|-|2|4|0|Annual Medical Check Up|(2,000 Baht or $58.82 * 3 persons)||0.00|0.00|6000.00|6000.00|Annual|||||||20170330|||
+2|CEI-R|-|5|1|0|Office Supplies|(External harddisks,A4 paper, toner, binders, stationery,etc.)||0.00|0.00|12200.00|12200.00|Time|1|12200.00|||||20170330||20170602|
+2|CEI-R|-|8|1|0|Exchange Rate Management|(To support depreciation from exchange rate fluctuation during budget period)||28160.42|0.00|55200.00|83360.42|Annual|||||||20170918||20171005|

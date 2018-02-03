@@ -1,0 +1,63 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|NCD-RTI|-|1|1|0|PI, Director of Bureau of NCD,  Department of Disease Contlro|(Dr. Sanchai Chasombat)||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00||||||
+1|NCD-RTI|-|1|2|0| Project Manager|(Mrs. Nongnuch Tantidhama)||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00||||||
+1|NCD-RTI|-|1|3|0|Project Techincal Manager|(Dr.Phathai Singkham)||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00||||||
+1|NCD-RTI|-|1|4|0|Project Assistant  Manager|(Mr. Khajornsak Janpanich)||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00||||||
+1|NCD-RTI|-|1|5|0|Compensation for government staffs|($2.06/70THB x 12.8 hrs x 9 months x 5 persons)||0.00|0.00|40320.00|40320.00|Annual|||||||||20170322|NCD-RTI
+1|NCD-RTI|-|3|1|0|International site visit to CDC/Atlanta to gain knowledge and experience in  road traffic injury data analysis and data management mechanism| ($278 x 3 persons x 7 days) + ($2000 x3 persons)||0.00|0.00|-0.00|0.00|Time|1|3.00|7.00|0.00|0.00|0.00||||
+1|NCD-RTI|-|3|2|0|Training to pilot curriculum on RTI management and utilization in BKK|MoPH Non-local ($58.82 x 20 persons x 3 days) + ($147.06 x 20 persons)||0.00|0.00|220000.00|220000.00|Time|1|20.00|3.00|2000.00|5000.00|0.00||||
+1|NCD-RTI|-|3|2|2|Training to pilot curriculum on RTI management and utilization in BKK|MoPH Non-local ($58.82 x 20 persons x 3 days) + ($147.06 x 20 persons)|||||192195.00|annual|||||||20170808|NCD-RTI|20170808|NCD-RTI
+1|NCD-RTI|-|3|3|0|Transportation for project adninistration|($14.71 x 12 months)||0.00|0.00|6000.00|6000.00|Month|12|1.00|0.00|0.00|500.00|0.00||||
+1|NCD-RTI|-|3|3|1|Transportation for project adninistration|($5.88 x 10 months)|||||2000.00|Month|10|1.00|0.00|0.00|200.00|0.00|20170322|NCD-RTI|20170322|NCD-RTI
+1|NCD-RTI|-|3|4|0|Meeting to devolop curriculum on RTI management and utilization in BKK|MoPH-local ($14.71 x 10 persons x 2 times)||0.00|0.00|10000.00|10000.00|Time|2|10.00|1.00|0.00|500.00|0.00|||20170322|NCD-RTI
+1|NCD-RTI|-|3|4|2|Meeting to devolop curriculum on RTI management and utilization in BKK|MoPH-local ($14.71 x 10 persons x 2 times)|||||1500.00|annual|||||||20170808|NCD-RTI|20170808|NCD-RTI
+1|NCD-RTI|-|3|5|1|Meeting to develop cuuriculum on RTI management and utilization in BKK|MoPH-Non local|||||54000.00|Time|1|6.00|2.00|2000.00|5000.00|0.00|20170322|NCD-RTI|20170322|NCD-RTI
+1|NCD-RTI|-|3|5|2|Meeting to develop cuuriculum on RTI management and utilization in BKK|MoPH-Non local|||||20700.00|annual|||||||20170808|NCD-RTI|20170808|NCD-RTI
+1|NCD-RTI|-|3|6|2|Field visit to a province to follow up the assignment from the latest pilot traning MoPH||||||159266.00|annual|||||||20170808|NCD-RTI|20170808|NCD-RTI
+1|NCD-RTI|-|4|1|0|Computer (Laptop) for project implementation|($588.24 x1 set)||0.00|0.00|20000.00|20000.00|Set|1|20000.00||||||||
+1|NCD-RTI|-|5|1|0|General Office and IT Supplies (i.e. paper, stationary, ink catridges, cds, thumb drive etc.)|($14.20 x 12 months)||0.00|0.00|5792.00|5792.00|Annual||||||||||
+1|NCD-RTI|-|8|1|0|Meeting to devolop curriculum on RTI management and utilization in BKK|Non-MoPH Non-local ($58.82 x 3 persons x 2 days x 1 time) + ($147.06 x 3 persons x 1 time)||0.00|0.00|27000.00|27000.00|Time|1|3.00|2.00|2000.00|5000.00|0.00||||
+1|NCD-RTI|-|8|1|1|Meeting to devolop curriculum on RTI management and utilization in BKK|Non-MoPH Non-local ($58.82 x 3 persons x 2 days x 1 time) + ($147.06 x 3 persons x 1 time)|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170322|NCD-RTI|20170322|NCD-RTI
+1|NCD-RTI|-|8|2|0|Meeting to develop curriculum on RTI management and utilization in BKK|MoPH local ($14.71 x 10 persons x 1 days x 2 times)||0.00|0.00|10000.00|10000.00|Time|2|10.00|1.00|500.00|0.00|0.00||||
+1|NCD-RTI|-|8|2|1|Meeting to develop curriculum on RTI management and utilization in BKK|MoPH local ($14.71 x 33 persons x 2 days x 1 times)|||||33500.00|Time|1|33.00|2.00|500.00|0.00|500.00|20170322|NCD-RTI|20170322|NCD-RTI
+1|NCD-RTI|-|8|3|0|Training to pilot curriculum on RTI management and utilization in BKK|Non-MoPH Non-local ($58.82 x 18 persons x 3 days) + ($147.06 x 18 persons)||0.00|0.00|198000.00|198000.00|Time|1|18.00|3.00|2000.00|5000.00|0.00||||
+1|NCD-RTI|-|8|3|1|Training to pilot curriculum on RTI management and utilization in BKK|Non-MoPH Non-local ($58.82 x 12 persons x 3 days) + ($147.06 x 12 persons)|||||132000.00|Time|1|12.00|3.00|2000.00|5000.00|0.00|20170322|NCD-RTI|20170322|NCD-RTI
+1|NCD-RTI|-|8|3|2|Training to pilot curriculum on RTI management and utilization in BKK|Non-MoPH Non-local ($58.82 x 12 persons x 3 days) + ($147.06 x 12 persons)|||||62639.00|annual|||||||20170808|NCD-RTI|20170808|NCD-RTI
+1|NCD-RTI|-|8|4|0|Resource person to develop curriculum on RTI management and utilization|Resource person ($17.65/hr x 17 hrs x 3 persons)||0.00|0.00|30600.00|30600.00|Time|3|1.00|1.00|0.00|0.00|10200.00||||
+1|NCD-RTI|-|8|5|0|Resource person for the training to pilot curriculum on RTI management and utilization|Resource person ($17.65/hr x 6 hrs x 3 persons)||0.00|0.00|10800.00|10800.00|Time|1|3.00|1.00|3600.00|0.00|0.00||||
+1|NCD-RTI|-|8|5|2|Resource person for the training to pilot curriculum on RTI management and utilization|Resource person ($17.65/hr x 6 hrs x 3 persons)|||||7200.00|annual|||||||20170808|NCD-RTI|20170808|NCD-RTI
+1|NCD-RTI|-|8|6|0|Project admin and financial support|$58.82 x 12 months||0.00|0.00|24000.00|24000.00|Month|12|0.00|0.00|0.00|0.00|2000.00||||
+1|NCD-RTI|-|8|6|1|Project admin and financial support||||||0.00|Month|0|0.00|0.00|0.00|0.00|0.00|20170322|NCD-RTI|20170322|NCD-RTI
+1|NCD-RTI|-|8|7|0|Communication cost (Phone call, Internet, Fax etc.)|($14.71 x 12 months)||0.00|0.00|6000.00|6000.00|Month|12|||||500.00||||
+1|NCD-RTI|-|8|7|1|Communication cost (Phone call, Internet, Fax etc.)|($14.71 x 9 months)|||||4500.00|Month|9|||||500.00|20170322|NCD-RTI|20170322|NCD-RTI
+1|NCD-RTI|-|8|8|0|Translation and printing the manual|Translation from Thai to English $29.41/page x 20 pages + color printing $8.82/set x 10 set||0.00|0.00|23000.00|23000.00|Set|10|||||2300.00||||
+1|NCD-RTI|-|8|9|0|Meeting facilities|$147.06 x 2 times||0.00|0.00|10000.00|10000.00|Time|2|0.00|0.00|0.00|0.00|5000.00||||
+1|NCD-RTI|-|8|9|1|Meeting facilities||||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170322|NCD-RTI|20170322|NCD-RTI
+1|NCD-RTI|-|8|10|1|Meeting to develop curriculum on RTI management and utilization in BKK|Non-MoPH local|||||4000.00|Time|1|2.00|2.00|500.00|1000.00|0.00|20170322|NCD-RTI|20170322|NCD-RTI
+1|NCD-RTI|-|8|10|2|Meeting to develop curriculum on RTI management and utilization in BKK|Non-MoPH local|||||2300.00|annual|||||||20170808|NCD-RTI|20170808|NCD-RTI
+1|NCD-RTI|-|8|11|1|Training to pilot curriculum on RTI management and utlization in BKK|MoPH local|||||45000.00|Time|1|15.00|3.00|500.00|1500.00|0.00|20170322|NCD-RTI|20170322|NCD-RTI
+1|NCD-RTI|-|8|11|2|Training to pilot curriculum on RTI management and utlization in BKK|MoPH local|||||30000.00|annual|||||||20170808|NCD-RTI|20170808|NCD-RTI
+1|NCD-RTI|-|8|12|1|Training to pilot curriculum on RTI management and utlization in BKK|Non-MoPH local|||||6000.00|Time|1|2.00|3.00|500.00|1500.00|0.00|20170322|NCD-RTI|20170322|NCD-RTI
+1|NCD-RTI|-|8|12|2|Training to pilot curriculum on RTI management and utlization in BKK|Non-MoPH local|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170808|NCD-RTI|20170808|NCD-RTI
+1|NCD-RTI|-|8|13|2|Field visit to a province to follow up the assignment from the latest pilot traning None MoPH|None MoPH|||||6000.00|Time|1|4.00|3.00|500.00|0.00|0.00|20170808|NCD-RTI|20170808|NCD-RTI
+1|NCD-RTI|-|8|14|3|Gain from exchange rate on 07 Jul 17 (Cheque # 10181874)||||||25322.15|Annual|||||||20170928||20170928|
+2|NCD-RTI|-|1|1|0|PI, Director of Bureau of NCD,  Department of Disease Control|Dr.Direk Khampaen||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00|||20170227|||
+2|NCD-RTI|-|1|2|0|Project Manager|(Mrs. Nongnuch Tantidhama)||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00|||20170227|||
+2|NCD-RTI|-|1|3|0|Project Techincal Manager|(Dr.Phathai Singkham)||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00|||20170227||20170227|
+2|NCD-RTI|-|1|4|0|Project Assistant Manager|(Mr.Pun Janpanich , Miss.Siriporn Burathon)||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00|||20170227||20171003|
+2|NCD-RTI|-|1|5|0|Compensation for government staffs|($2.024/70THB * 12.14 hrs * 2 months * 6 persons)||10200.00|0.00|-0.00|10200.00|Person|6|100.00|2.00|850.00|||20170227||20171005|
+2|NCD-RTI|-|3|1|0|International site visit to CDC/Atlanta to gain knowledge and experience in  road traffic injury data analysis , data management and training|||0.00|0.00|-0.00|0.00|Time|1|3.00|7.00|0.00|0.00|0.00|20170227|||
+2|NCD-RTI|-|3|2|0|FEMT-RTI training in BKK|MoPH-Non Local ( 3 Times * 6 Persons * 3 days * 58.82$) + ( 3 Times * 6 Persons * Trans 117.65$)||0.00|0.00|-0.00|0.00|Time|3|6.00|3.00|0.00|0.00|0.00|20170227||20170828|
+2|NCD-RTI|-|3|3|0|FEMT-RTI training in BKK|MoPH-local (3 Times * 15 Persons * Trans 11.76$)||0.00|0.00|-0.00|0.00|Time|3|15.00|3.00|0.00|0.00|0.00|20170227||20170828|
+2|NCD-RTI|-|3|4|0|Transportation for project administation|(250 THB ($7.228) * 2 months)||500.00|0.00|-0.00|500.00|Month|2|1.00|0.00|0.00|250.00|0.00|20170227||20171005|
+2|NCD-RTI|-|5|1|0|General Office Supplies (i.e. paper, stationary, ink catridges, cds etc.)|($52.54 * 1 months)||1817.22|0.00|-0.00|1817.22|Annual|||||||20170227||20171005|
+2|NCD-RTI|-|8|1|0|FEMT-RTI training in BKK|Non-MoPH-Non local ( 3 Times * 9 Persons * 3 days * 58.82$) + ( 3 Times * 9 Persons * Trans 117.65$)||0.00|0.00|-0.00|0.00|Time|3|9.00|3.00|0.00|0.00|0.00|20170227||20170828|
+2|NCD-RTI|-|8|2|0|FEMT-RTI training in BKK|MoPH-local ( 3 Times * 15 Persons * 3 days * 14.71$)||0.00|0.00|-0.00|0.00|Time|3|15.00|3.00|0.00|0.00|0.00|20170227||20170828|
+2|NCD-RTI|-|8|3|0|Staff and mentor meeting|MoPH-local ( 3 Times * 12 Persons * 1 days * 14.71$)||0.00|0.00|-0.00|0.00|Time|3|12.00|1.00|0.00|0.00|0.00|20170227||20170828|
+2|NCD-RTI|-|8|4|0|Staff and mentor meeting|Non-MoPH-local ( 3 Times * 4 Persons * 1 days * 14.71$) + ( 3 Times * 4 Persons * Trans 11.76$)||0.00|0.00|-0.00|0.00|Time|3|4.00|1.00|0.00|0.00|0.00|20170227||20170828|
+2|NCD-RTI|-|8|5|0|Resource person for FEMT-RTI course|(14.71$/hr * 10 hrs * 3 persons )||0.00|0.00|-0.00|0.00|Time|1|3.00|1.00|0.00|0.00|0.00|20170227||20170828|
+2|NCD-RTI|-|8|6|0|Communication cost (Phone call, Internet, Fax etc.)|($14.45 * 12 months)||6000.00|0.00|-0.00|6000.00|Month|12|||||500.00|20170227||20171005|
+2|NCD-RTI|-|8|7|0|Translation and printing the manual Translation from Thai to English|($1159.40)||40000.00|0.00|-0.00|40000.00|Annual|||||||20170227||20171005|
+2|NCD-RTI|-|8|8|0|Meeting facilites|||0.00|0.00|-0.00|0.00|Time|6|0.00|0.00|0.00|0.00|0.00|20170227||20170227|
+2|NCD-RTI|-|8|11|0|Resource person for Dashboard Analytic Dashboard for RTI|($1159.40)||40000.00|0.00|-0.00|40000.00|Annual|||||||20170828||20171005|
+2|NCD-RTI|-|8|12|0|Summary Meeting|()||0.00|0.00|-0.00|0.00|Annual|||||||20171003|||

@@ -1,0 +1,4 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|LAB-TB-EQA|-|20161108|5|4117.65|34.8300|143417.65||10172147|เช็คฉบับที่ 2 เลขที่ 10172148|20170119|lab-tb-eqa|20170119|lab-tb-eqa
+1|LAB-TB-EQA|-|20161228|1|13911.35|35.7600|497469.98||10172171|รับโอนเงินงวดที่ 2|20170119|lab-tb-eqa|20170119|lab-tb-eqa
+1|LAB-TB-EQA|-|20170519|1|1700.00|34.2788|58273.96||10181838|รับโอนเงินงวดที่ 3|20170615|lab-tb-eqa|20170615|lab-tb-eqa

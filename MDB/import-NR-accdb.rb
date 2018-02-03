@@ -3,6 +3,13 @@
 require 'pg'
 require 'pry'
 
+def log(msg)
+  fp = open("import-NR.log","a")
+  fp.write(msg)
+  fp.write("\n")
+  fp.close
+end
+
 def check_db(dbname)
   con = PG::Connection.connect("localhost",5432,nil,nil,"template1","admin")
   sql = "SELECT 1 as result "
@@ -16,6 +23,15 @@ end
 def process_mdb(accdb)
   # 1 get ProjectID from accdb => dbname
   dbname = accdb.split(' ').last.split('.').first.downcase
+
+  # change - in dbname to _
+  dbname = dbname.tr('-','_')
+
+  # rename pif_s&d to pif_sandd
+  if dbname.include?('&')
+    dbname = dbname.gsub(/\&/,'and')
+  end
+
   puts "accdb: #{accdb}"
   puts "dbname: #{dbname}"
 
@@ -36,21 +52,11 @@ end
 
 entries = Dir.glob("Year02 CoAg FIN_NR/**/*")
 
-agg = "KPIS|PREP2START-SL|YMSM"
-
 n = 0
 entries.each do |f|
   next if f !~ /.accdb$/
-  if f.upcase.scan(/AGGREGATE/).length > 0
-    next if f.upcase =~ /NON-RESEARCH/
-    if f.upcase.scan(/#{agg}/).length > 0
-      n += 1
-    end
-  else
-    next if f.upcase.scan(/#{agg}/).length > 0
-    n += 1
-  end
+  #next if f.upcase =~ /AGGREGATE/
+  n += 1
   puts "Process accdb ##{n} #{f}..."
   process_mdb(f)
 end
-

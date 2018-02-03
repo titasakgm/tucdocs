@@ -1,0 +1,126 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|SI|SUR|1|1|0|Full time Program Coordinator|Ms. Paijit Pimcharoen||0.00|0.00|309960.00|309960.00|Person|1|100.00|12.00|25830.00||||||
+1|SI|SUR|1|1|4|Full time Program Coordinator|Ms. Paijit Pimcharoen|||||309672.00|Person|1|100.00|12.00|25806.00|||20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|1|2|0|Full time Programmer - Surveillance|Mr. Panupit Thiangthum||0.00|0.00|348600.00|348600.00|Person|1|100.00|12.00|29050.00||||||
+1|SI|SUR|1|2|4|Full time Programmer - Surveillance|Mr. Panupit Thiangthum|||||348000.00|Person|1|100.00|12.00|29000.00|||20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|1|3|0|Full time Financial Mangement Officer|Ms. Patcharaporn Buakiaw||0.00|0.00|269220.00|269220.00|Person|1|100.00|12.00|22435.00||||||
+1|SI|SUR|1|3|4|Full time Financial Mangement Officer|Ms. Patcharaporn Buakiaw|||||268980.00|Person|1|100.00|12.00|22415.00|||20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|1|4|0|Full time Programmer - Database management and reporting|Mr.Jiruntaanin  Paasarlkulanurn||0.00|0.00|189000.00|189000.00|Person|1|100.00|8.00|23625.00||||||
+1|SI|SUR|1|4|1|Full time Programmer - Database management and reporting|Mr.Jiruntaanin  Paasarlkulanurn|||||190879.00|Annual|||||||20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|1|5|0|Full time Research assistant|Ms. Pawara  Tontarost||0.00|0.00|155960.00|155960.00|Person|1|100.00|8.00|19495.00||||||
+1|SI|SUR|1|5|1|Full time Research assistant|Ms. Pawara  Tontarost|||||157275.00|Annual|||||||20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|1|5|4|Full time Research assistant|Ms. Pawara  Tontarost|||||86662.00|Person|1|100.00|5.00|17332.40|||20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|1|6|0|Full time Programmer:MIS|||0.00|0.00|200000.00|200000.00|Person|1|100.00|8.00|25000.00||||||
+1|SI|SUR|1|6|1|Full time Programmer:MIS||||||0.00|Person|0|100.00|8.00|25000.00|||20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|2|1|0|Full time Program Coordinator|Ms. Paijit Pimcharoen||0.00|0.00|9000.00|9000.00|Person|1|309960.00|5.00|||||||
+1|SI|SUR|2|2|0|Full Time Programmer-Surveillance|Mr. Panupit Thiangthum||0.00|0.00|9000.00|9000.00|Person|1|348600.00|5.00|||||||
+1|SI|SUR|2|3|0|Full time Financial Management|Ms. Patcharaporn Buakiaw||0.00|0.00|9000.00|9000.00|Person|1|269220.00|5.00|||||||
+1|SI|SUR|2|4|0|Full time-Database management and reporting|Mr.Jiruntaanin  Paasarlkulanurn ($22.06 x 8 months)||0.00|0.00|6000.00|6000.00|Annual||||||||||
+1|SI|SUR|2|5|0|Full time Research assistant|Ms. Pawara  Tontarost ($22.06 x 8 months)||0.00|0.00|6000.00|6000.00|Annual||||||||||
+1|SI|SUR|2|5|4|Full time Research assistant|Ms. Pawara  Tontarost ($22.06 x 8 months)|||||3449.00|Annual|||||||20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|2|6|0|Full time Programmer:MIS|TBD ($22.06 x 8 months)||0.00|0.00|6000.00|6000.00|Annual||||||||||
+1|SI|SUR|2|6|1|Full time Programmer:MIS|TBD ($22.06 x 8 months)|||||0.00|Annual|||||||20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|2|7|0|Annual Medical check up for 6 full time staff|$58.82 x 6 persons||0.00|0.00|12000.00|12000.00|Annual||||||||||
+1|SI|SUR|2|7|1|Annual Medical check up for 6 full time staff|$58.82 x 5 persons|||||10000.00|Annual|||||||20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|2|7|4|Annual Medical check up for 6 full time staff|$58.82 x 5 persons|||||9950.00|Annual|||||||20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|3|1|0|SUR- Workshop for lesson learned on the IBBS among MSM in 5 provinces|Non local participants-MOPH||0.00|0.00|-0.00|0.00|Time|0|10.00|2.00|2000.00|4000.00|0.00||||
+1|SI|SUR|3|1|1|SUR- Workshop for lesson learned on the IBBS among MSM in 5 provinces|Non local participants-MOPH|||||34000.00|Time|1|5.00|2.00|2000.00|2800.00|0.00|20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|3|1|4|SUR- Workshop for lesson learned on the IBBS among MSM in 5 provinces|Non local participants-MOPH|||||18650.00|Time|1|4.00|2.00|2000.00|662.50|0.00|20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|3|2|0|SUR-Build capacity for local staff on utilization of SI to determine HIV epidemics and program responses|Non Local participants-MOPH||0.00|0.00|500000.00|500000.00|Time|5|10.00|3.00|2000.00|4000.00|0.00||||
+1|SI|SUR|3|2|1|SUR-Build capacity for local staff on utilization of SI to determine HIV epidemics and program responses|Non Local participants-MOPH|||||1500250.00|Time|5|50.00|2.00|2000.00|2001.00|0.00|20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|3|2|4|SUR-Build capacity for local staff on utilization of SI to determine HIV epidemics and program responses|Non Local participants-MOPH|||||1675836.00|Time|10|15.00|4.00|2000.00|3172.24|0.00|20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|3|3|0|MIS- Executive meeting to review and finalize SOP for the revised MIS for Case Reporting Surveillance and monitoring|Non local participants-MOPH||0.00|0.00|240000.00|240000.00|Time|4|10.00|1.00|2000.00|4000.00|0.00||||
+1|SI|SUR|3|3|1|MIS- Executive meeting to review and finalize SOP for the revised MIS for Case Reporting Surveillance and monitoring|Non local participants-MOPH|||||15000.00|Time|2|3.00|1.00|2000.00|500.00|0.00|20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|3|3|4|MIS- Executive meeting to review and finalize SOP for the revised MIS for Case Reporting Surveillance and monitoring|Non local participants-MOPH|||||5000.00|Time|1|2.00|1.00|2000.00|500.00|0.00|20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|3|4|0|MIS-Training workshop on SOP (revised MIS for surveillance and monitoring to provincial staff|Non local participants-MOPH||0.00|0.00|600000.00|600000.00|Time|5|15.00|2.00|2000.00|4000.00|0.00||||
+1|SI|SUR|3|4|1|MIS-Training workshop on SOP (revised MIS for surveillance and monitoring to provincial staff|Non local participants-MOPH|||||0.00|Time|0|15.00|2.00|2000.00|4000.00|0.00|20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|3|5|0|MIS-field supervision to monitor the HMIS program-non-local participants|Non local participants-MOPH||0.00|0.00|32000.00|32000.00|Time|2|2.00|2.00|2000.00|4000.00|0.00||||
+1|SI|SUR|3|5|1|MIS-field supervision to monitor the HMIS program-non-local participants|Non local participants-MOPH|||||92000.00|Time|2|5.00|2.00|2000.00|5200.00|0.00|20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|3|5|4|MIS-field supervision to monitor the HMIS program-non-local participants|Non local participants-MOPH|||||35724.00|Time|2|3.00|2.00|2000.00|1954.00|0.00|20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|4|1|0|MIS-Computer set to support the HMIS on the SI management|Support the National HMIS on the SI management||0.00|0.00|50000.00|50000.00|Set|2|25000.00||||||||
+1|SI|SUR|4|2|0|MIS-Server, firewall and accessories|Support the National HMIS management||0.00|0.00|900000.00|900000.00|Year|1|900000.00||||||||
+1|SI|SUR|5|1|0|Office supplies for meetings/trainings|Meeting materials and accessories for WS, training and meetings||0.00|0.00|14750.00|14750.00|Year|1|14750.00||||||||
+1|SI|SUR|5|1|4|Office supplies for meetings/trainings|Meeting materials and accessories for WS, training and meetings|||||65909.00|Year|2|32954.50|||||20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|6|1|0|MIS- Contact devloper(s) for development and implemnt the MIS system (For 3 levels National, provincial and hospital levels)|To develop the national HMIS system||0.00|0.00|600250.00|600250.00|Year|1|600250.00||||||||
+1|SI|SUR|6|1|1|MIS- Contact devloper(s) for development and implemnt the MIS system (For 3 levels National, provincial and hospital levels)|To develop the national HMIS system|||||400000.00|Year|1|400000.00|||||20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|6|1|4|MIS- Contact devloper(s) for development and implemnt the MIS system (For 3 levels National, provincial and hospital levels)|To develop the national HMIS system|||||300000.00|Year|1|300000.00|||||20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|8|1|0|SUR- Workshop for lesson learned on the IBBS among MSM in 5 provinces-local participants|conduct the workshop of IBBS among MSM to summarize the lesson learned from field||0.00|0.00|-0.00|0.00|Time|0|20.00|2.00|600.00|0.00|0.00||||
+1|SI|SUR|8|1|1|SUR- Workshop for lesson learned on the IBBS among MSM in 5 provinces-local participants|conduct the workshop of IBBS among MSM to summarize the lesson learned from field|||||12000.00|Time|1|20.00|1.00|600.00|0.00|0.00|20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|8|2|0|SUR- Workshop for lesson learned on the IBBS among MSM in 5 provinces-resource persons|conduct the workshop of IBBS among MSM to summarize the lesson learned from field||0.00|0.00|-0.00|0.00|Time|0|1.00|2.00|1800.00|0.00|1400.00||||
+1|SI|SUR|8|3|0|SUR-Build capacity for local staff on the epidemiolgy, surveillance data to analyse the IBBS, synthesis HIV/AIDS situation, size estimation and projection - local participants (Phase 1-3)|Conduct 3 phases - IBBS analysis, synthesis HIV/AIDS situation, size estimation and projection - local participants (Phase 1-3)||0.00|0.00|141000.00|141000.00|Time|5|15.00|3.00|600.00|0.00|1200.00||||
+1|SI|SUR|8|3|1|SUR-Build capacity for local staff on the epidemiolgy, surveillance data to analyse the IBBS, synthesis HIV/AIDS situation, size estimation and projection - local participants (Phase 1-3)|Conduct 3 phases - IBBS analysis, synthesis HIV/AIDS situation, size estimation and projection - local participants (Phase 1-3)|||||272000.00|Time|5|30.00|2.00|600.00|500.00|3400.00|20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|8|3|4|SUR-Build capacity for local staff on the epidemiolgy, surveillance data to analyse the IBBS, synthesis HIV/AIDS situation, size estimation and projection - local participants (Phase 1-3)|Conduct 3 phases - IBBS analysis, synthesis HIV/AIDS situation, size estimation and projection - local participants (Phase 1-3)|||||516428.00|Time|10|16.00|4.00|600.00|500.00|5242.80|20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|8|4|0|SUR-Build capacity for local staff on the epidemiolgy, surveillance data to analyse the IBBS, synthesis HIV/AIDS situation, size estimation and projection - local participants (Phase 1-3)|Conduct 3 phases - IBBS analysis, synthesis HIV/AIDS situation, size estimation and projection - resource persons (Phase 1-3)||0.00|0.00|25000.00|25000.00|Time|5|1.00|3.00|1200.00|0.00|1400.00||||
+1|SI|SUR|8|4|1|SUR-Build capacity for local staff on the epidemiolgy, surveillance data to analyse the IBBS, synthesis HIV/AIDS situation, size estimation and projection - local participants (Phase 1-3)|Conduct 3 phases - IBBS analysis, synthesis HIV/AIDS situation, size estimation and projection - resource persons (Phase 1-3)|||||52611.00|Time|3|12.00|2.00|600.00|0.00|3137.00|20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|8|4|4|SUR-Build capacity for local staff on the epidemiolgy, surveillance data to analyse the IBBS, synthesis HIV/AIDS situation, size estimation and projection - local participants (Phase 1-3)|Conduct 3 phases - IBBS analysis, synthesis HIV/AIDS situation, size estimation and projection - resource persons (Phase 1-3)|||||46200.00|Time|10|2.00|2.00|600.00|500.00|1220.00|20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|8|5|0|MIS- Executive meeting to review and finalize SOP for the revised MIS for Case Reporting Surveillance and monitoring|Local participants||0.00|0.00|48000.00|48000.00|Time|4|20.00|1.00|600.00|0.00|0.00||||
+1|SI|SUR|8|5|1|MIS- Executive meeting to review and finalize SOP for the revised MIS for Case Reporting Surveillance and monitoring|Local participants|||||75000.00|Time|2|20.00|2.00|600.00|500.00|3500.00|20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|8|5|4|MIS- Executive meeting to review and finalize SOP for the revised MIS for Case Reporting Surveillance and monitoring|Local participants|||||50500.00|Time|1|28.00|2.00|600.00|500.00|2900.00|20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|8|6|0|MIS-Training workshop on SOP (revised MIS for surveillance and monitoring to provincial staff|Local participants||0.00|0.00|56260.00|56260.00|Time|5|15.00|1.00|600.00|0.00|2252.00||||
+1|SI|SUR|8|6|1|MIS-Training workshop on SOP (revised MIS for surveillance and monitoring to provincial staff|Local participants|||||0.00|Time|0|15.00|1.00|600.00|0.00|2252.00|20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|8|7|0|MIS-Training workshop on SOP (revised MIS for surveillance and monitoring to provincial staff|Resource persons||0.00|0.00|25000.00|25000.00|Time|5|1.00|1.00|3600.00|0.00|1400.00||||
+1|SI|SUR|8|7|1|MIS-Training workshop on SOP (revised MIS for surveillance and monitoring to provincial staff|Resource persons|||||0.00|Time|0|1.00|1.00|3600.00|0.00|1400.00|20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|8|8|0|MIS-field supervision to monitor the HMIS program-local participants|Monitor the HMIS program at hospital based||0.00|0.00|15000.00|15000.00|Time|5|5.00|1.00|600.00|0.00|0.00||||
+1|SI|SUR|8|8|1|MIS-field supervision to monitor the HMIS program-local participants|Monitor the HMIS program at hospital based|||||0.00|Time|0|5.00|1.00|600.00|0.00|0.00|20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|8|9|0|Printed materials - SOP and traning materials|Printed materials for SOP and guideline||0.00|0.00|-0.00|0.00|Set|0|||||100.00||||
+1|SI|SUR|8|9|1|Printed materials - SOP and traning materials|Printed materials for SOP and guideline|||||25000.00|Set|100|||||250.00|20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|8|10|0|Communication cost|Telephone card||0.00|0.00|1000.00|1000.00|Year|1|||||1000.00||||
+1|SI|SUR|8|10|1|Communication cost|Telephone card|||||10455.00|Year|1|||||10455.00|20170313|SI-SUR|20170313|SI-SUR
+1|SI|SUR|8|11|2|Gain from exchange rate on 28 เม.ย. 60 (Cheque # 10181837)||||||8708.01|Annual|||||||20170613|SI-SUR|20170613|SI-SUR
+1|SI|SUR|8|11|4|Gain from exchange rate on 28 เม.ย. 60 (Cheque # 10181837)||||||0.01|Time|1|||||0.01|20170808|SI-SUR|20170808|SI-SUR
+1|SI|SUR|8|12|3|Gain from exchange rate on 07 ก.ค. 60 (Cheque # 10181869)||||||175586.69|Annual|||||||20170718|si-sur|20170718|si-sur
+1|SI|SUR|8|12|4|Gain from exchange rate on 07 ก.ค. 60 (Cheque # 10181869)||||||0.69|Time|1|||||0.69|20170808|SI-SUR|20170808|SI-SUR
+2|SI|SUR|1|1|0|Full time Program Coordinator|Ms. Paijit  Pimcharoen||0.00|0.00|328260.00|328260.00|Person|1|100.00|12.00|27355.00|||20170323||20170410|
+2|SI|SUR|1|2|0|Full time Programmer - Surveillance|Mr. Panupit  Thiangthum||0.00|0.00|368880.00|368880.00|Person|1|100.00|12.00|30740.00|||20170323||20170410|
+2|SI|SUR|1|3|0|Full time Financial Management ofiicer|Ms.Patcharaporn  Buakiaw||0.00|0.00|285120.00|285120.00|Person|1|100.00|12.00|23760.00|||20170323||20170410|
+2|SI|SUR|1|4|0|Full time Program - Database management and reporting|Mr. Jiruntaanin  Paasarlkulanurn||0.00|0.00|307224.00|307224.00|Person|1|100.00|12.00|25602.00|||20170323||20170410|
+2|SI|SUR|1|5|0|Full time Research assistant|Ms. Pawara  Tontarost||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170323||20170913|
+2|SI|SUR|1|6|0|Full time Programmer - MIS|||0.00|0.00|-0.00|0.00|Person|1|100.00|12.00|0.00|||20170323||20170410|
+2|SI|SUR|1|7|0|Full time Accountant Management officer|||0.00|0.00|216000.00|216000.00|Person|1|100.00|12.00|18000.00|||20170323||20170913|
+2|SI|SUR|1|8|0|Compensation for Government staff|($2.06/hour x 87 hours x 12 monthsx 3 persons)||0.00|0.00|220000.00|220000.00|Annual|||||||20170327||20170411|
+2|SI|SUR|1|9|0|Overtime for fulltime staff|($1.76/hour x 7 hours x 12 months x 4 persons)||0.00|0.00|20000.00|20000.00|Annual|||||||20170913||20170918|
+2|SI|SUR|2|1|0|Full time Program Coordinator|Ms. Paijit  Pimcharoen||0.00|0.00|9000.00|9000.00|Person|1|328260.00|100.00||||20170323||20170410|
+2|SI|SUR|2|2|0|Full time Programmer - Surveillance|Mr. Panupit  Thiangthum||0.00|0.00|9000.00|9000.00|Person|1|368880.00|100.00||||20170323||20170410|
+2|SI|SUR|2|3|0|Full time Financial Management ofiicer|Ms.Patcharaporn  Buakiaw||0.00|0.00|9000.00|9000.00|Person|1|285120.00|100.00||||20170323||20170410|
+2|SI|SUR|2|4|0|Full time Program - Database management and reporting|Mr. Jiruntaanin  Paasarlkulanurn||0.00|0.00|9000.00|9000.00|Person|1|307224.00|100.00||||20170323||20170410|
+2|SI|SUR|2|5|0|Full time Research assistant|Ms. Pawara  Tontarost||0.00|0.00|9000.00|9000.00|Person|1|240000.00|100.00||||20170323||20170913|
+2|SI|SUR|2|6|0|Full time Programmer - MIS|||0.00|0.00|-0.00|0.00|Person|1|0.00|100.00||||20170323||20170913|
+2|SI|SUR|2|7|0|Full time Accountant Management officer|||0.00|0.00|9000.00|9000.00|Person|1|216000.00|100.00||||20170323||20170913|
+2|SI|SUR|2|8|0|Annual Medical check up for full time staff|($58.82 x6 persons)||0.00|0.00|12000.00|12000.00|Annual|||||||20170323||20170913|
+2|SI|SUR|3|1|0|Build capacity for local staff on utilization of SI to determine HIV epidemics and program responses|(Non - local participants - MoPH)||0.00|0.00|1230000.00|1230000.00|Time|10|20.00|2.00|2000.00|2150.00|0.00|20170323||20170914|
+2|SI|SUR|3|2|0|PIF(1)-WS to review and revise the IBBS standard protocol among MSM|(Non - local participants - MoPH)||0.00|0.00|525000.00|525000.00|Time|5|15.00|2.00|2000.00|3000.00|0.00|20170323||20170913|
+2|SI|SUR|3|3|0|PIF(1)-Training workshops to improve the quality of the IBBS implementation among maleconscript|(Non - local participants - MoPH)||0.00|0.00|42000.00|42000.00|Time|2|3.00|2.00|2000.00|3000.00|0.00|20170324||20170914|
+2|SI|SUR|3|4|0|PIF(1)-SUR - Executive meeting to review and finalize SOP for surveillance and mornitoring|(Non - local participants - MoPH)||0.00|0.00|280000.00|280000.00|Time|4|10.00|2.00|2000.00|3000.00|0.00|20170324||20170914|
+2|SI|SUR|3|5|0|PIF(2)-HIV/AIDS surveillance annual meeting to strengthening HIV/AIDS surveillance network|(Non - local participants - MoPH)||0.00|0.00|-0.00|0.00|Time|1|100.00|3.00|0.00|0.00|0.00|20170324||20170914|
+2|SI|SUR|3|6|0|PIF(2)-Field supervision to monitor the Surveillance HMIS|(Non - local participants - MoPH)||0.00|0.00|-0.00|0.00|Time|10|2.00|2.00|0.00|0.00|0.00|20170323||20170914|
+2|SI|SUR|3|7|0|Working group for case base reporting surveillance|||0.00|0.00|-0.00|0.00|Time|10|20.00|2.00|0.00|0.00|0.00|20170913||20170914|
+2|SI|SUR|3|8|0|PIF(1)- MIS-ART: Conduct leson learn discussion and training on utilization of surveillance results to explain epidemic status 4 regions|Non Local participants||0.00|0.00|648000.00|648000.00|Time|4|18.00|3.00|2000.00|3000.00|0.00|20170918||20170919|
+2|SI|SUR|3|9|0|MIS-ART: Technical committee meeting to develop case-based surveillance guideline and ICD-10 coding guideline for  improving facility base SDD quality|Non Local participants||0.00|0.00|55000.00|55000.00|Time|1|10.00|1.00|2000.00|3500.00|0.00|20170918|||
+2|SI|SUR|3|10|0|MIS-ART:Transportation cost|taxi, van rental for MOPH local resource persons and participants||0.00|0.00|20000.00|20000.00|Time|4|0.00|0.00|0.00|0.00|5000.00|20170918|||
+2|SI|SUR|4|1|0|PIF(1)-Computer set to support the HMIS on the SI management|(Support the National HMIS on the SI management)||0.00|0.00|120000.00|120000.00|Set|2|60000.00|||||20170323||20170919|
+2|SI|SUR|4|2|0|PIF(1)-Scanner Jet|||0.00|0.00|50284.00|50284.00|Set|1|50284.00|||||20170323||20170919|
+2|SI|SUR|5|1|0|Printed materials : Surveillance reports (National and provincial levels)|||0.00|0.00|100000.00|100000.00|Set|500|200.00|||||20170324||20170913|
+2|SI|SUR|5|2|0|Meeting and office supplies|(meeting materials and accessories for WS, training and meeting)||0.00|0.00|33716.00|33716.00|Time|2|16858.00|||||20170323||20170919|
+2|SI|SUR|5|3|0|RST:PIF(1)-Biomarker test kits for surveillance among MSM (HIV testing : Supplementary test 1 and test 2)|(3,600 case x 15% positive case)||0.00|0.00|-0.00|0.00|Test|3600|0.00|||||20170324||20170919|
+2|SI|SUR|5|4|0|RST:PIF(1)-Biomarker test kits for surveillance among MSM (HIV Screening test , Hep B, Syphilis)|||0.00|0.00|-0.00|0.00|Test|540|0.00|||||20170329||20170918|
+2|SI|SUR|5|5|0|RST:PIF(1)-Material for data collection among MSM and  maleconsript|(Needle, Syring, Tube, document etc.)||0.00|0.00|100000.00|100000.00|Time|1|100000.00|||||20170323||20170918|
+2|SI|SUR|5|6|0|RST:PIF(1)-Oraquick for IBBS  among MSM TG|||0.00|0.00|920000.00|920000.00|Test|4600|200.00|||||20170324||20170918|
+2|SI|SUR|6|1|0|MIS- Contact devloper(s) for development and implement the MIS system|(For 3 levels National, provincial and hospital levels) To develop the national HMIS system)||0.00|0.00|-0.00|0.00|Time|0|400000.00|||||20170324||20170411|
+2|SI|SUR|8|1|0|Communication cost|Tel, Internet etc.||0.00|0.00|10800.00|10800.00|month|12|||||900.00|20170324||20170913|
+2|SI|SUR|8|2|0|PIF(1)-Build capacity for local staff on utilization of SI to determine HIV epidemics and program responses|(Local participants)||0.00|0.00|302290.00|302290.00|Time|10|20.00|2.00|600.00|0.00|6229.00|20170324||20170914|
+2|SI|SUR|8|3|0|PIF(1)-WS to review and revise the IBBS standard protocol among MSM|(Local participants)||0.00|0.00|106000.00|106000.00|Time|5|15.00|2.00|600.00|0.00|3200.00|20170324||20170913|
+2|SI|SUR|8|4|0|PIF(1)-Training workshops to improve the quality of the IBBS implementation among maleconscript|(Local participants)||0.00|0.00|26500.00|26500.00|Time|2|10.00|2.00|600.00|0.00|1250.00|20170324||20170914|
+2|SI|SUR|8|5|0|PIF(1)-Executive meeting to review and finalize SOP for surveillance and mornitoring|(Local participants)||0.00|0.00|108626.00|108626.00|Time|4|20.00|2.00|600.00|0.00|3156.50|20170324||20170914|
+2|SI|SUR|8|6|0|PIF(2)-HIV/AIDS surveillance annual meeting to strengthening HIV/AIDS surveillance network|(Local participants)||0.00|0.00|-0.00|0.00|Time|1|30.00|3.00|0.00|0.00|0.00|20170324||20170914|
+2|SI|SUR|8|7|0|PIF(2)-Field supervision to monitor the Surveillance HMIS|(Local participants)||0.00|0.00|-0.00|0.00|Time|1|5.00|2.00|0.00|0.00|0.00|20170324||20170411|
+2|SI|SUR|8|8|0|RST:PIF(2)-Compensation for mapping survey and field work data collection|MSM 5 site||0.00|0.00|-0.00|0.00|Time|5|0.00|0.00|0.00|0.00|0.00|20170324||20170918|
+2|SI|SUR|8|9|0|RST:PIF(2)-Data collection cost for IBBS among maleconscript|500 set x $2.94||0.00|0.00|-0.00|0.00|Set|500|||||0.00|20170324||20170918|
+2|SI|SUR|8|10|0|RST:PIF(2)-Sample incentives on IBBS among MSM and TG (Oraquick)|450 person * 5 site * $4.41||0.00|0.00|-0.00|0.00|Case|2250|||||0.00|20170914||20170918|
+2|SI|SUR|8|11|0|RST:PIF(2)-Sample incentives on IBBS among MSM (Oraquick + Blood)|500 persons * $7.35||0.00|0.00|-0.00|0.00|Case|0|||||0.00|20170914||20170918|
+2|SI|SUR|8|12|0|RST:PIF(2)-Special lab cost in surveillance (CD4 and VL among HIV infected persons)|500 Positive Cases (15%)||0.00|0.00|-0.00|0.00|Case|0|||||0.00|20170914||20170918|
+2|SI|SUR|8|13|0|RST:PIF(2)-Sample and material shipping cost MSM and male conscript|||0.00|0.00|-0.00|0.00|Time|8|0.00|0.00|0.00|0.00|0.00|20170914||20170918|
+2|SI|SUR|8|14|0|Working group for case base reporting surveillance|(Local participants)||0.00|0.00|-0.00|0.00|Time|10|55.00|2.00|0.00|0.00|0.00|20170914||20170914|
+2|SI|SUR|8|15|0|Data quality improvement field work|Estimated cost as 46,000 surveillance reports x $0.14||0.00|0.00|-0.00|0.00|Annual|||||||20170914||20170918|
+2|SI|SUR|8|16|0|MIS-ART: Conduct leson learn discussion and training on utilization of surveillance results to explain epidemic status 4 regions|Local-participants + Resource persons + Meeting facilities||0.00|0.00|308000.00|308000.00|Time|4|40.00|3.00|600.00|0.00|5000.00|20170918||20170919|
+2|SI|SUR|8|17|0|MIS-ART: Technical committee meeting to develop case-based surveillance guideline and ICD-10 coding guideline for improving facility base SDD quality|Local-participants + Resource persons + Meeting facilities||0.00|0.00|10490.00|10490.00|Time|1|15.00|1.00|600.00|0.00|1490.00|20170918||20170918|
+2|SI|SUR|8|18|0|Exchange rate management|To support depreciation from the exchange rate fluctuation during the budget year||100487.21|0.00|-0.00|100487.21|Annual|||||||20170918||20171101|

@@ -1,0 +1,5 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|CU2-MOPH|-|20161025|1|31860.20|34.8300|1109690.77||10170111|ครั้งที่ 1/FY2017 เช็ค 1017011 = 1,083,246  เช็ค 10172121 = 26,443.97|20170215|CU2-MoPH|20170215|CU2-MoPH
+1|CU2-MOPH|-|20161228|2|35771.80|35.7600|1279199.57||10172197|ครั้งที่ 2/FY2017|20170215|cu2-moph|20170215|cu2-moph
+1|CU2-MOPH|-|20170428|3|53647.65|34.2788|1838977.07||10181844|ครั้งที่ 3/FY2017|20170611|cu2-moph|20170728|cu2-moph
+1|CU2-MOPH|-|20170726|1|12277.71|33.7900|414863.82||10181888|ครั้งที่ 4/โ2017|20170728|cu2-moph|20170728|cu2-moph

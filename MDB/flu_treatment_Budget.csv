@@ -1,0 +1,52 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|FLU-Treatment|-|1|1|0|Project Investigator|(Dr.Narumol Sawanpanyalert)||0.00|0.00|-0.00|0.00|Person|1|20.00|0.00|0.00||||||
+1|FLU-Treatment|-|1|2|0|Project Manager|(Mrs.Rojana Bamrungsak)||0.00|0.00|-0.00|0.00|Person|1|20.00|0.00|0.00||||||
+1|FLU-Treatment|-|1|3|0|Project secretary|(Ms.Matinee Srisuksai)||0.00|0.00|288000.00|288000.00|Person|1|100.00|12.00|24000.00||||||
+1|FLU-Treatment|-|1|4|0|Technical assistant|(Mr.Worawit Jindanoy)||0.00|0.00|247200.00|247200.00|Person|1|100.00|12.00|20600.00||||||
+1|FLU-Treatment|-|1|5|0|Administrative assistant|(Ms.Sawarose Asa)||0.00|0.00|196800.00|196800.00|Person|1|100.00|12.00|16400.00||||||
+1|FLU-Treatment|-|1|6|0|Compensation for government officers at MOPH|($2.06 x 35 hrs/month x 12 months x 2 persons)||0.00|0.00|58800.00|58800.00|Annual||||||||||
+1|FLU-Treatment|-|2|1|0|Project secretary|(Ms.Matinee Srisuksai)||0.00|0.00|9000.00|9000.00|Person|1|288000.00|5.00|||||||
+1|FLU-Treatment|-|2|2|0|Technical assistant|(Mr.Worawit Jindanoy)||0.00|0.00|9000.00|9000.00|Person|1|247200.00|5.00|||||||
+1|FLU-Treatment|-|2|3|0|Administrative assistant|(Ms.Sawarose Asa)||0.00|0.00|9000.00|9000.00|Person|1|196800.00|5.00|||||||
+1|FLU-Treatment|-|2|4|0|Annual medical check-up|($58.82 or 2,000 Baht x 3 persons)||0.00|0.00|6000.00|6000.00|Annual||||||||||
+1|FLU-Treatment|-|3|1|0|Expert meetings|(MoPH Non-Local)||0.00|0.00|21000.00|21000.00|Time|2|5.00|1.00|1000.00|1100.00|0.00||||
+1|FLU-Treatment|-|3|2|0|Scientific meeting for influenza and other EIDs treatment|(MoPH Non-Local)||0.00|0.00|168000.00|168000.00|Time|4|5.00|2.00|2000.00|4400.00|0.00||||
+1|FLU-Treatment|-|3|3|0|Influenza treatment regional network|(MoPH Non-Local)||0.00|0.00|70000.00|70000.00|Time|4|5.00|1.00|2000.00|1500.00|0.00||||
+1|FLU-Treatment|-|3|4|0|Local transportation cost|||0.00|0.00|40000.00|40000.00|Time|5|0.00|0.00|0.00|0.00|8000.00||||
+1|FLU-Treatment|-|6|1|0|Influenza Foundation Thailand (IFT)|(World-Shaking Outbreaks)||0.00|0.00|200000.00|200000.00|Contract|1|200000.00||||||||
+1|FLU-Treatment|-|8|1|0|Expert meetings|(Non-MoPH)||0.00|0.00|8400.00|8400.00|Time|2|2.00|1.00|1000.00|1100.00|0.00||||
+1|FLU-Treatment|-|8|2|0|Expert meetings|(MoPH local)||0.00|0.00|20000.00|20000.00|Time|2|10.00|1.00|1000.00|0.00|0.00||||
+1|FLU-Treatment|-|8|3|0|Working group meetings|(MoPH local)||0.00|0.00|36000.00|36000.00|Time|3|20.00|1.00|600.00|0.00|0.00||||
+1|FLU-Treatment|-|8|4|0|Scientific meeting for influenza and other EIDs treatment|(Non-MoPH)||0.00|0.00|33600.00|33600.00|Time|4|1.00|2.00|2000.00|4400.00|0.00||||
+1|FLU-Treatment|-|8|5|0|Influenza treatment regional network|(Non-MoPH)||0.00|0.00|28000.00|28000.00|Time|4|2.00|1.00|2000.00|1500.00|0.00||||
+1|FLU-Treatment|-|8|6|0|Communication cost|(postage, internet fee, telephone fee, pre-paid cards and others)||0.00|0.00|8400.00|8400.00|Month|12|0.00|0.00|0.00|0.00|700.00||||
+1|FLU-Treatment|-|8|7|0|Meeting facilities and document|(photocopy, binders, room rental, and meeting expenses)||0.00|0.00|35000.00|35000.00|Time|10|0.00|0.00|0.00|0.00|3500.00||||
+1|FLU-Treatment|-|8|8|0|Maintenance for office equipments|(computer, notebook, printer, antivirus software, Fax. Machine and others)||0.00|0.00|15360.00|15360.00|Month|4|0.00|0.00|0.00|0.00|3840.00||||
+2|FLU-Treatment|-|1|1|0|Project investigator|(Dr.Narumol Sawanpanyalert)||0.00|0.00|-0.00|0.00|Person|1|20.00|0.00|0.00|||20170227||20170302|
+2|FLU-Treatment|-|1|2|0|Project manager|(Mrs.Rojana Bamrungsak)||0.00|0.00|-0.00|0.00|Person|1|20.00|0.00|0.00|||20170227||20170302|
+2|FLU-Treatment|-|1|3|0|Project secretary|(Ms.Matinee Srisuksai)||0.00|0.00|305280.00|305280.00|Person|1|100.00|12.00|25440.00|||20170227||20170331|
+2|FLU-Treatment|-|1|4|0|Technical assistant|(Mr.Worawit Jindanoy)||0.00|0.00|262032.00|262032.00|Person|1|100.00|12.00|21836.00|||20170227||20170331|
+2|FLU-Treatment|-|1|5|0|Administrative assistant|(Ms.Sawarose Asa)||0.00|0.00|208608.00|208608.00|Person|1|100.00|12.00|17384.00|||20170227||20170331|
+2|FLU-Treatment|-|1|6|0|Compensation for government officers at MoPH|($2.06 or 70 Baht x 35 hrs/month x 12 months x 2 persons)||0.00|0.00|58800.00|58800.00|Annual|||||||20170227||20170303|
+2|FLU-Treatment|-|1|7|0|Overtime for fulltime staff|($1.76 or 60 Baht x 24 hrs/month x 12 months x 2 persons)||0.00|0.00|34560.00|34560.00|Annual|||||||20170302||20170303|
+2|FLU-Treatment|-|2|1|0|Project secretary|(Ms.Matinee Srisuksai)||0.00|0.00|9000.00|9000.00|Person|1|305280.00|5.00||||20170227||20170331|
+2|FLU-Treatment|-|2|2|0|Technical assistant|(Mr.Worawit Jindanoy)||0.00|0.00|9000.00|9000.00|Person|1|262032.00|5.00||||20170227||20170331|
+2|FLU-Treatment|-|2|3|0|Administrative assistant|(Ms.Sawarose Asa)||0.00|0.00|9000.00|9000.00|Person|1|208608.00|5.00||||20170227||20170331|
+2|FLU-Treatment|-|2|4|0|Annual medical check-up|($58.82 or 2,000 Baht x 3 persons)||0.00|0.00|6000.00|6000.00|Annual|||||||20170227||20170302|
+2|FLU-Treatment|-|3|1|0|Expert meeting|(MoPH Non-local)||0.00|0.00|44000.00|44000.00|Time|2|4.00|1.00|2000.00|3500.00|0.00|20170302||20170821|
+2|FLU-Treatment|-|3|2|0|Scientific meeting for influenza and other EIDs treatment|(MoPH Non-local)||0.00|0.00|158400.00|158400.00|Time|2|9.00|2.00|2000.00|4800.00|0.00|20170303||20171003|
+2|FLU-Treatment|-|3|3|0|	Influenza treatment regional network|	(MoPH Non-local)||64766.00|241234.00|-0.00|306000.00|Time|5|9.00|1.00|2000.00|4800.00|0.00|20170303||20171010|
+2|FLU-Treatment|-|3|4|0|The use of influenza CPG survey|(MoPH Non-local)||0.00|0.00|105600.00|105600.00|Time|2|6.00|2.00|2000.00|4800.00|0.00|20170303||20170905|
+2|FLU-Treatment|-|3|5|0|Local transportation cost|||0.00|0.00|42000.00|42000.00|Time|4|0.00|0.00|0.00|0.00|10500.00|20170322||20170905|
+2|FLU-Treatment|-|5|1|0|Supplies|($250 x 2 times)||0.00|0.00|17000.00|17000.00|Time|2|8500.00|||||20170303||20170906|
+2|FLU-Treatment|-|5|2|0|Printer catridge|($237.67 x 2 times)||884.22|0.00|15320.00|16204.22|Time|2|8102.11|||||20170303||20171010|
+2|FLU-Treatment|-|6|1|0|Influenza Foundation Thailand (IFT)|(World-Shaking Outbreaks)||0.00|0.00|200000.00|200000.00|Contract|1|200000.00|||||20170303|||
+2|FLU-Treatment|-|8|1|0|Expert meetings|(Non-MoPH)||0.00|0.00|33000.00|33000.00|Time|2|3.00|1.00|2000.00|3500.00|0.00|20170303||20170821|
+2|FLU-Treatment|-|8|2|0|Expert meetings|(MoPH local)||0.00|0.00|18000.00|18000.00|Time|2|15.00|1.00|600.00|0.00|0.00|20170303||20170330|
+2|FLU-Treatment|-|8|3|0|Influenza treatment regional network|(Non-MoPH)||0.00|13600.00|20400.00|34000.00|Time|5|1.00|1.00|2000.00|4800.00|0.00|20170303||20171010|
+2|FLU-Treatment|-|8|4|0|Influenza treatment regional network|(MoPH local)||0.00|24000.00|15000.00|39000.00|Time|5|13.00|1.00|600.00|0.00|0.00|20170303||20171010|
+2|FLU-Treatment|-|8|5|0|The use of influenza CPG survey|(MoPH local)||0.00|0.00|36000.00|36000.00|Time|2|30.00|1.00|600.00|0.00|0.00|20170303||20171012|
+2|FLU-Treatment|-|8|6|0|Maintenance for office equipments|(computer, notebook, printer, antivirus software, Fax. Machine and others)||0.00|0.00|15000.00|15000.00|Time|2|0.00|0.00|0.00|0.00|7500.00|20170303||20171003|
+2|FLU-Treatment|-|8|7|0|Meeting facilities and document|(photocopy, binders, room rental, and meeting expenses)||0.00|0.00|16000.00|16000.00|Time|4|0.00|0.00|0.00|0.00|4000.00|20170303||20170331|
+2|FLU-Treatment|-|8|8|0|Communication cost|(postage, internet fee, telephone fee, pre-paid cards and others)||0.00|0.00|12000.00|12000.00|Time|12|0.00|0.00|0.00|0.00|1000.00|20170303||20170330|
+2|FLU-Treatment|-|8|9|0|Exchange rate management|1baht/USD for support loss of exchange rate||0.00|0.00|50000.00|50000.00|Annual|||||||20170303||20170821|

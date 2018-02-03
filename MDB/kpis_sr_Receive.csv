@@ -1,0 +1,4 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|KPIS|SR|20161229|1|5770.89|34.8300|201000.00||10174173|รับโอนเงินงวดที่ 1 จาก สอวพ.|20170116|kpis-sr|20170116|kpis-sr
+1|KPIS|SR|20170322|2|2726.51|35.7600|97500.00||10193867|รับโอนเงินงวดที่ 2 จาก สอวพ.|20170407|kpis-sr|20170407|kpis-sr
+1|KPIS|SR|20170517|2|2800.00|35.7600|100128.00||10193948|รับโอนเงินงวดที่ 3 จาก สอวพ.|20170607|kpis-sr|20170607|kpis-sr

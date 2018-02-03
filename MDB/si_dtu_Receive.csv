@@ -1,0 +1,5 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|SI|DTU|20161108|10|7761.18|34.8300|270321.78||10172145,10172146|รับเงินจากสนย. งวดที่ 1 (Rate 34+0.83) = 263,880+6,441.78|20170112|si-dtu|20170208|si-dtu
+1|SI|DTU|20170111|1|16147.82|35.7600|577446.17||10172146|รับเงินจากสนย. งวดที่ 2 (Rate 34+1.76) = 549,026+28,420.17|20170112|si-dtu|20170711|si-dtu
+1|SI|DTU|20170428|3|14500.00|34.2788|497042.60||10181836|รับเงินจากสนย. งวดที่ 3 (เงินงวด 3+ รับจากสนย.170000)|20170711|si-dtu|20170711|si-dtu
+1|SI|DTU|20170726|1|5396.88|33.7900|182360.58||10181887|รับเงินจาก สนย. งวดที่ 4|20170827|si-dtu|20170827|si-dtu

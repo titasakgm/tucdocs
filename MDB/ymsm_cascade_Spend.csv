@@ -1,0 +1,96 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|YMSM-Cascade|-|1|1|1|Social worker, SRR Ms. Sirijit Kanakool|20161130|83190.00|10171821|20161130|2250.00|10171823|||เงินเดือน ก.ย.-พ.ย.59 ประกันสังคม ก.ย.-พ.ย.59|20170206|ymsm-cascade|20170206|ymsm-cascade
+1|YMSM-Cascade|-|1|1|2|Social worker, SRR Ms. Sirijit Kanakool|20161230|27730.00|10171831|20161230|750.00|10171833|||เงินเดือน ธ.ค.59|20170206|YMSM-Cascade|20170206|YMSM-Cascade
+1|YMSM-Cascade|-|1|1|6|Social worker, SRR Ms. Sirijit Kanakool|20170228|27730.00|10179869|20170228|750.00|10179871||||20170301|ymsm-cascade|20170301|ymsm-cascade
+1|YMSM-Cascade|-|1|1|7|Social worker, SRR Ms. Sirijit Kanakool|20170331|27730.00|10179878|20170331|750.00|10179880||||20170407|ymsm-cascade|20170407|ymsm-cascade
+1|YMSM-Cascade|-|1|1|10|Social worker, SRR Ms. Sirijit Kanakool|20170531|27730.00|10179893|20170531|750.00|10179895||||20170602|ymsm-cascade|20170602|ymsm-cascade
+1|YMSM-Cascade|-|1|1|11|Social worker, SRR Ms. Sirijit Kanakool|20170428|27730.00|10179883|20170428|750.00|10179885||||20170602|ymsm-cascade|20170602|ymsm-cascade
+1|YMSM-Cascade|-|1|1|14|Social worker, SRR Ms. Sirijit Kanakool|20170630|27730.00|10179907|20170630|750.00|10179909||||20170711|ymsm-cascade|20170713|ymsm-cascade
+1|YMSM-Cascade|-|1|1|15|Social worker, SRR Ms. Sirijit Kanakool|20170731|27730.00|10179919|20170731|750.00|10179921||||20170731|ymsm-cascade|20170731|ymsm-cascade
+1|YMSM-Cascade|-|1|1|16|Social worker, SRR Ms. Sirijit Kanakool|20170831|27730.00|10179929|20170831|750.00|10179931||||20170901||20170901|
+1|YMSM-Cascade|-|1|1|17|Social worker, SRR Ms. Sirijit Kanakool|20170131|27730.00|10171839|20170131|750.00|10179861||||20170206|YMSM-Cascade|20170919|ymsm-cascade
+1|YMSM-Cascade|-|1|2|1|Compensation for hospital staff (Counselor) Ms. Yuitiang Durier ($2.06/hour x 49 hours/month) x 12 months see justification|20161130|10320.00|10171822||||||เงินเดือน ก.ย.-พ.ย. 59|20170206|ymsm-cascade|20170206|ymsm-cascade
+1|YMSM-Cascade|-|1|2|2|Compensation for hospital staff (Counselor) Ms. Yuitiang Durier ($2.06/hour x 49 hours/month) x 12 months see justification|20161230|3440.00|10171832|||||||20170206|YMSM-Cascade|20170206|YMSM-Cascade
+1|YMSM-Cascade|-|1|2|4|Compensation for hospital staff (Counselor) Ms. Yuitiang Durier , Ms.Suchada Charoenras, Ms.Ladda Pannapoch ($2.06/hour x 49 hours/month) x 12 months see justification|20170228|3440.00|10179870|||||||20170301|ymsm-cascade|20170301|ymsm-cascade
+1|YMSM-Cascade|-|1|2|5|Compensation for hospital staff (Counselor) Ms. Yuitiang Durier ($2.06/hour x 49 hours/month) x 12 months see justification|20170131|3440.00|10171840|||||||20170206|YMSM-Cascade|20170302|ymsm-cascade
+1|YMSM-Cascade|-|1|2|6|Compensation for hospital staff (Counselor) Ms. Yuitiang Durier , Ms.Suchada Charoenras, Ms.Ladda Pannapoch ($2.06/hour x 49 hours/month) x 12 months see justification|20170331|3440.00|10179879|||||||20170407|ymsm-cascade|20170407|ymsm-cascade
+1|YMSM-Cascade|-|1|2|7|Compensation for hospital staff (Counselor) Ms. Yuitiang Durier , Ms.Suchada Charoenras, Ms.Ladda Pannapoch ($2.06/hour x 49 hours/month) x 12 months see justification|20170428|3440.00|10179884|||||||20170504||20170504|
+1|YMSM-Cascade|-|1|2|8|Compensation for hospital staff (Counselor) Ms. Yuitiang Durier , Ms.Suchada Charoenras, Ms.Ladda Pannapoch ($2.06/hour x 49 hours/month) x 12 months see justification|20170531|3440.00|10179894|||||||20170602|ymsm-cascade|20170602|ymsm-cascade
+1|YMSM-Cascade|-|1|2|13|Compensation for hospital staff (Counselor) Ms. Yuitiang Durier , Ms.Suchada Charoenras, Ms.Ladda Pannapoch ($2.06/hour x 49 hours/month) x 12 months see justification|20170615|8664.00|10179904|20170615|456.00|10179906|||#10179906 เช็ครวมภาษีของทั้ง 2 คนคือ 756 บาท|20170711|ymsm-cascade|20170711|ymsm-cascade
+1|YMSM-Cascade|-|1|2|14|Compensation for hospital staff (Counselor) Ms. Yuitiang Durier , Ms.Suchada Charoenras, Ms.Ladda Pannapoch ($2.06/hour x 49 hours/month) x 12 months see justification|20170615|5700.00|10179905|20170615|300.00|10179906|||#10179906 เช็ครวมภาษีของทั้ง 2 คนคือ 756 บาท|20170711|ymsm-cascade|20170711|ymsm-cascade
+1|YMSM-Cascade|-|1|2|17|Compensation for hospital staff (Counselor) Ms. Yuitiang Durier , Ms.Suchada Charoenras, Ms.Ladda Pannapoch ($2.06/hour x 49 hours/month) x 12 months see justification|20170630|3440.00|10179908|||||||20170711|ymsm-cascade|20170713|ymsm-cascade
+1|YMSM-Cascade|-|1|2|18|Compensation for hospital staff (Counselor) Ms. Yuitiang Durier , Ms.Suchada Charoenras, Ms.Ladda Pannapoch ($2.06/hour x 49 hours/month) x 12 months see justification|20170731|3440.00|10179920|||||||20170731|ymsm-cascade|20170731|ymsm-cascade
+1|YMSM-Cascade|-|1|2|19|Compensation for hospital staff (Counselor) Ms. Yuitiang Durier , Ms.Suchada Charoenras, Ms.Ladda Pannapoch ($2.06/hour x 49 hours/month) x 12 months see justification|20170831|3440.00|10179930|||||||20170901||20170901|
+1|YMSM-Cascade|-|1|3|1|Overtime for project staff ($2. 06/hour x 23 hours/month) x 12 months x 1 person see justification|20161222|2850.00|10171834|20161222|150.00|10171835|||ก.ย.-พ.ย.59|20170206|YMSM-Cascade|20170206|YMSM-Cascade
+1|YMSM-Cascade|-|1|3|2|Overtime for project staff ($2. 06/hour x 23 hours/month) x 12 months x 1 person see justification|20170228|2850.00|10179872|20170228|150.00|10179873|||ธ.ค.59-ก.พ.60|20170301|ymsm-cascade|20170301|ymsm-cascade
+1|YMSM-Cascade|-|1|3|3|Overtime for project staff ($2. 06/hour x 23 hours/month) x 12 months x 1 person see justification|20170615|2850.00|10179902|20170615|150.00|10179903||||20170711|ymsm-cascade|20170711|ymsm-cascade
+1|YMSM-Cascade|-|1|3|4|Overtime for project staff ($2. 06/hour x 23 hours/month) x 12 months x 1 person see justification|20170831|2850.00|10179927|20170831|150.00|10179928||||20170901||20170901|
+1|YMSM-Cascade|-|1|4|3|Project assistant (Part time) (For BAT)|20170607|19800.00|10179899|20170607|200.00|10179900||||20170711|ymsm-cascade|20170711|ymsm-cascade
+1|YMSM-Cascade|-|1|4|7|Project assistant (Part time) (For BAT)|20170831|19800.00|10179944|20170831|200.00|10179945||||20170901||20170905|ymsm-cascade
+1|YMSM-Cascade|-|1|4|9|Project assistant (Part time) (For BAT)|20170703|19800.00|10179910|20170731|200.00|10179911||||20170731|ymsm-cascade|20170919|ymsm-cascade
+1|YMSM-Cascade|-|1|4|10|Project assistant (Part time) (For BAT)|20170508|19800.00|10179888|20170531|200.00|10179889|||เงินเดือน เม.ย.60|20170602|ymsm-cascade|20170919|ymsm-cascade
+1|YMSM-Cascade|-|1|4|11|Project assistant (Part time) (For BAT)|20170802|19800.00|10179922|20170802|200.00|10179923||||20170901||20170927|ymsm-cascade
+1|YMSM-Cascade|-|2|1|2|Social worker, SRR Ms. Sirijit Kanakool|20161130|2250.00|10171823||||||ประกันสังคม ก.ย.-พ.ย.59|20170206|ymsm-cascade|20170206|ymsm-cascade
+1|YMSM-Cascade|-|2|1|3|Social worker, SRR Ms. Sirijit Kanakool|20161230|750.00|10171833|||||||20170206|YMSM-Cascade|20170206|YMSM-Cascade
+1|YMSM-Cascade|-|2|1|4|Social worker, SRR Ms. Sirijit Kanakool|20170131|750.00|10171861|||||||20170206|YMSM-Cascade|20170206|YMSM-Cascade
+1|YMSM-Cascade|-|2|1|5|Social worker, SRR Ms. Sirijit Kanakool|20170228|750.00|10179871|||||||20170301|ymsm-cascade|20170301|ymsm-cascade
+1|YMSM-Cascade|-|2|1|7|Social worker, SRR Ms. Sirijit Kanakool|20170331|750.00|10179880|||||||20170407|ymsm-cascade|20170407|ymsm-cascade
+1|YMSM-Cascade|-|2|1|10|Social worker, SRR Ms. Sirijit Kanakool|20170531|750.00|10179895|||||||20170602|ymsm-cascade|20170602|ymsm-cascade
+1|YMSM-Cascade|-|2|1|11|Social worker, SRR Ms. Sirijit Kanakool|20170428|750.00|10179885|||||||20170504|ymsm-cascade|20170602|ymsm-cascade
+1|YMSM-Cascade|-|2|1|14|Social worker, SRR Ms. Sirijit Kanakool|20170731|750.00|10179921|||||||20170731|ymsm-cascade|20170731|ymsm-cascade
+1|YMSM-Cascade|-|2|1|15|Social worker, SRR Ms. Sirijit Kanakool|20170831|750.00|10179931|||||||20170901||20170901|
+1|YMSM-Cascade|-|2|1|16|Social worker, SRR Ms. Sirijit Kanakool|20170630|750.00|10179909|||||||20170711|ymsm-cascade|20170919|ymsm-cascade
+1|YMSM-Cascade|-|2|2|1|Annual medical check-up for FTE - staff ($58. 82 x 1 person)|20170831|2000.00|10179936|||||||20170901||20170901|
+1|YMSM-Cascade|-|3|1|1|Transportation: Taxi, gas |20170321|800.00|10179877|||||||20170407|ymsm-cascade|20170407|ymsm-cascade
+1|YMSM-Cascade|-|3|1|2|Transportation: Taxi, gas |20170502|1200.00|10179886|||||||20170602|ymsm-cascade|20170602|ymsm-cascade
+1|YMSM-Cascade|-|3|1|4|Transportation: Taxi, gas |20170607|400.00|10179896|||||||20170711|ymsm-cascade|20170711|ymsm-cascade
+1|YMSM-Cascade|-|3|1|5|Transportation: Taxi, gas |20170818|1200.00|10179932|||||||20170901||20170901|
+1|YMSM-Cascade|-|5|2|1|General office supplies |20170705|13497.13|10179916|||||||20170731|ymsm-cascade|20170731|ymsm-cascade
+1|YMSM-Cascade|-|8|1|1|Advisory group meeting to develop and monitor Y_MSM and cascade program |20161215|10000.00|10171828||||||ประชุมวันที่ 3 ค.ค.59|20170206|YMSM-Cascade|20170206|YMSM-Cascade
+1|YMSM-Cascade|-|8|1|3|Advisory group meeting to develop and monitor Y_MSM and cascade program |20170208|6400.00|10179864|||||||20170301|ymsm-cascade|20170301|ymsm-cascade
+1|YMSM-Cascade|-|8|1|5|Advisory group meeting to develop and monitor Y_MSM and cascade program |20170321|6400.00|10179874|||||||20170407|ymsm-cascade|20170407|ymsm-cascade
+1|YMSM-Cascade|-|8|1|6|Advisory group meeting to develop and monitor Y_MSM and cascade program |20170607|12000.00|10179897|||||||20170711|ymsm-cascade|20170711|ymsm-cascade
+1|YMSM-Cascade|-|8|1|8|Advisory group meeting to develop and monitor Y_MSM and cascade program |20170810|6000.00|10179925|||||||20170901||20170901|
+1|YMSM-Cascade|-|8|1|9|Advisory group meeting to develop and monitor Y_MSM and cascade program |20170831|6600.00|10179940|||||||20170901||20170901|
+1|YMSM-Cascade|-|8|1|10|Advisory group meeting to develop and monitor Y_MSM and cascade program |20170831|5000.00|10179946|||||||20170905|ymsm-cascade|20170905|ymsm-cascade
+1|YMSM-Cascade|-|8|1|12|Advisory group meeting to develop and monitor Y_MSM and cascade program |20170705|18800.00|10179913|20170831|-7000.00|Cash|||คืนเงินเพิ่มเติม วันที่ 4 ตค 60 จาการ Audit|20170731|ymsm-cascade|20171004|ymsm-cascade
+1|YMSM-Cascade|-|8|2|7|Working group meeting to develop and implement Y_MSM and cascade program |20170424|600.00|10179882||||||ประชุมคณะทำงานวันที่ 10 เม.ย. 60|20170504||20170504|
+1|YMSM-Cascade|-|8|2|8|Working group meeting to develop and implement Y_MSM and cascade program |20170424|4800.00|10179881||||||ประชุมคณะทำงานวันที่ 29 มีค.60|20170504||20170602|ymsm-cascade
+1|YMSM-Cascade|-|8|2|9|Working group meeting to develop and implement Y_MSM and cascade program |20170531|1000.00|10179890|||||||20170602|ymsm-cascade|20170602|ymsm-cascade
+1|YMSM-Cascade|-|8|2|10|Working group meeting to develop and implement Y_MSM and cascade program |20170222|1800.00|10179868|||||||20170301|ymsm-cascade|20170608|ymsm-cascade
+1|YMSM-Cascade|-|8|2|12|Working group meeting to develop and implement Y_MSM and cascade program |20161227|5925.00|10171837||||||2 Dec 2016|20170608|ymsm-cascade|20170608|ymsm-cascade
+1|YMSM-Cascade|-|8|2|13|Working group meeting to develop and implement Y_MSM and cascade program |20170727|2400.00|10179917|||||||20170731|ymsm-cascade|20170731|ymsm-cascade
+1|YMSM-Cascade|-|8|2|14|Working group meeting to develop and implement Y_MSM and cascade program |20170831|1000.00|10179935|||||||20170901||20170901|
+1|YMSM-Cascade|-|8|2|15|Working group meeting to develop and implement Y_MSM and cascade program |20161215|2400.00|10171824||||||ประชุมวันที่ 15 กันยายน59|20170206|YMSM-Cascade|20170919|ymsm-cascade
+1|YMSM-Cascade|-|8|3|2|Communication expense |20161215|1200.00|10171827||||||ค่าโทรศัพท์และอินเตอร์เนต รพ.ศิริราช ต.ค.59-ก.ย.60|20170206|YMSM-Cascade|20170206|YMSM-Cascade
+1|YMSM-Cascade|-|8|3|3|Communication expense |20170208|895.20|10179863|||||||20170301|ymsm-cascade|20170301|ymsm-cascade
+1|YMSM-Cascade|-|8|3|4|Communication expense |20161215|1435.95|10171826||||||ค่าโทรศัพท์และอินเตอร์เนต รพ.เด็ก ต.ค.-พ.ย.59|20170206|YMSM-Cascade|20170301|ymsm-cascade
+1|YMSM-Cascade|-|8|3|5|Communication expense |20170321|600.00|10179876|||||||20170407|ymsm-cascade|20170407|ymsm-cascade
+1|YMSM-Cascade|-|8|3|7|Communication expense |20170818|2300.00|10179933|||||||20170901||20170901|
+1|YMSM-Cascade|-|8|4|4|Cleaning service fee for meeting and workshop For SRR|20170222|800.00|10179866||||||ม.ค.60|20170301|ymsm-cascade|20170301|ymsm-cascade
+1|YMSM-Cascade|-|8|4|5|Cleaning service fee for meeting and workshop For SRR|20170208|800.00|10179865||||||ธ.ค.60|20170301|ymsm-cascade|20170301|ymsm-cascade
+1|YMSM-Cascade|-|8|4|7|Cleaning service fee for meeting and workshop For SRR|20170321|800.00|10179875|||||||20170407|ymsm-cascade|20170407|ymsm-cascade
+1|YMSM-Cascade|-|8|4|8|Cleaning service fee for meeting and workshop For SRR|20170502|800.00|10179887|||||||20170602|ymsm-cascade|20170602|ymsm-cascade
+1|YMSM-Cascade|-|8|4|10|Cleaning service fee for meeting and workshop For SRR|20170609|800.00|10179901||||||พ.ค.60|20170713|ymsm-cascade|20170713|ymsm-cascade
+1|YMSM-Cascade|-|8|4|11|Cleaning service fee for meeting and workshop For SRR|20170607|800.00|10179898||||||เม.ย 60|20170711|ymsm-cascade|20170713|ymsm-cascade
+1|YMSM-Cascade|-|8|4|13|Cleaning service fee for meeting and workshop For SRR|20170810|800.00|10179926||||||เดือน ก.ค.60|20170901||20170901|
+1|YMSM-Cascade|-|8|4|14|Cleaning service fee for meeting and workshop For SRR|20170803|800.00|10179924||||||เดือน มิ.ย.60|20170901||20170901|
+1|YMSM-Cascade|-|8|4|15|Cleaning service fee for meeting and workshop For SRR|20170831|800.00|10179941|||||||20170901||20170901|
+1|YMSM-Cascade|-|8|4|16|Cleaning service fee for meeting and workshop For SRR|20161215|2400.00|10171830||||||ก.ย.-พ.ย.59|20170206|YMSM-Cascade|20170919|ymsm-cascade
+1|YMSM-Cascade|-|8|6|2|Site visit for MSM clinic at Bangrak hospital and TRC For participants|20161215|11500.00|10171829||||||วันที่ 1ธ.ค.59|20170206|YMSM-Cascade|20170206|YMSM-Cascade
+1|YMSM-Cascade|-|8|6|5|Site visit for MSM clinic at Bangrak hospital and TRC For participants|20170818|13800.00|10179934|||||||20170901||20170919|ymsm-cascade
+1|YMSM-Cascade|-|8|7|2|Site visit for MSM clinic at Bangrak hospital and TRC For resource person|20161215|7200.00|10171829||||||วันที่ 1 ธ.ค.59|20170206|YMSM-Cascade|20170206|YMSM-Cascade
+1|YMSM-Cascade|-|8|7|3|Site visit for MSM clinic at Bangrak hospital and TRC For resource person|20170818|7200.00|10179934|||||||20170901||20170901|
+1|YMSM-Cascade|-|8|8|4|Conduct MSM sensitivity training for project staff and hospital staffs working with young MSM For participants and meeting room rental|20170517|32000.00|10179892||||||#10179892จำนวน68,000    จัดวัน 21/04/60|20170602|ymsm-cascade|20170602|ymsm-cascade
+1|YMSM-Cascade|-|8|8|6|Conduct MSM sensitivity training for project staff and hospital staffs working with young MSM For participants and meeting room rental|20170517|16000.00|10179891||||||#10179891 จำนวน 17,200   จัดวัน 28/04/60|20170602|ymsm-cascade|20170602|ymsm-cascade
+1|YMSM-Cascade|-|8|9|3|Conduct MSM sensitivity training for project staff and hospital staffs working with young MSM For resource persons|20170517|1200.00|10179891||||||#10179891 จำนวน 17,200   จัดวัน 28/04/60|20170602|ymsm-cascade|20170602|ymsm-cascade
+1|YMSM-Cascade|-|8|9|5|Conduct MSM sensitivity training for project staff and hospital staffs working with young MSM For resource persons|20170517|36000.00|10179892||||||#10179892จำนวน68,000    จัดวัน 21/04/60|20170602|ymsm-cascade|20170602|ymsm-cascade
+1|YMSM-Cascade|-|8|11|2|Printing comprehensive positive youth manual |20170831|198130.84|10179942|20170831|1869.16|10179943||||20170901||20170901|
+1|YMSM-Cascade|-|8|13|1|Protocol continuation fee (CARE-YOUTH) EC Siriraj|20161227|2000.00|10171838|||||||20170206|YMSM-Cascade|20170206|YMSM-Cascade
+1|YMSM-Cascade|-|8|14|1|Quality improvement activities .|20170831|20325.00|10179938||||||ค่าบันทึกข้อมูล|20170901||20170901|
+1|YMSM-Cascade|-|8|14|2|Quality improvement activities .|20170831|20325.00|10179939||||||ค่าเก็บข้อมูลจากแบบสอบถาม|20170901||20170901|
+1|YMSM-Cascade|-|8|15|1|Conduct long - term follow up with youths to evaluate outcome of comprehensive positive youth program For youths|20161222|44000.00|10171836||||||ต.ค.-พ.ย.59|20170206|YMSM-Cascade|20170206|YMSM-Cascade
+1|YMSM-Cascade|-|8|15|2|Conduct long - term follow up with youths to evaluate outcome of comprehensive positive youth program For youths|20170208|9100.00|10179862|||||||20170301|ymsm-cascade|20170301|ymsm-cascade
+1|YMSM-Cascade|-|8|15|3|Conduct long - term follow up with youths to evaluate outcome of comprehensive positive youth program For youths|20170831|15000.00|10179937|||||||20170901||20170901|
+1|YMSM-Cascade|-|8|21|2|Develop web page and chat room, update website and promote web through link building |20170713|122364.00|10179914|20170731|1236.00|10179915|||งวดที่ 1|20170731|ymsm-cascade|20170927|ymsm-cascade
+1|YMSM-Cascade|-|8|22|1|Training on Motivational Interview for hospital start|20170727|10800.00|10179918|||||||20170731|ymsm-cascade|20170731|ymsm-cascade

@@ -1,0 +1,85 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|FLU-Bangkok|-|1|1|2|Program coordinator (Ms Walaiporn Jiaranairungroj)|20161207|35250.00|10117461|20161207|750.00|10117462|||เงินเดือนย้อนหลัง วลัยพร กย 59 ปกส วลัยพร ส่วนลูกจ้าง กย 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|1|1|4|Program coordinator (Ms Walaiporn Jiaranairungroj)|20161207|35250.00|10117464|20161207|750.00|10117465|||เงินเดือนย้อนหลัง วลัยพร ตค 59 ปกส วลัยพร ส่วนลูกจ้าง ตค 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|1|1|7|Program coordinator (Ms Walaiporn Jiaranairungroj)|20161207|35250.00|10117471|20161207|750.00|10117468|||เงินเดือน วลัยพร พย 59 ปกส วลัยพร ส่วนลูกจ้าง พย 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|1|1|11|Program coordinator (Ms Walaiporn Jiaranairungroj)|20170105|35250.00|10124163|20170105|750.00|10124164|||เงินเดือน วลัยพร ธค 59 ปกส วลัยพร ส่วนลูกจ้าง ธค|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|1|12|Program coordinator (Ms Walaiporn Jiaranairungroj)|20170203|35250.00|10124169|20170203|750.00|10124170|||เงินเดือน วลัยพร มค 60 ปกส วลัยพร ส่วนลูกจ้าง มค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|1|14|Program coordinator (Ms Walaiporn Jiaranairungroj)|20170307|35250.00|10124174|20170307|750.00|10124175|||เงินเดือน วลัยพร กพ 60 ปกส วลัยพร ส่วนลูกจ้าง กพ 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|1|16|Program coordinator (Ms Walaiporn Jiaranairungroj)|20170404|35250.00|10124179|20170404|750.00|10124180|||เงินเดือน วลัยพร มีค 60 ปกส วลัยพร ส่วนลูกจ้าง มีค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|1|17|Program coordinator (Ms Walaiporn Jiaranairungroj)|20170505|35250.00|10124192|20170505|750.00|10124190|||เงินเดือน วลัยพร เมย 60 ปกส ส่วนลูกจ้าง เมย 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|1|19|Program coordinator (Ms Walaiporn Jiaranairungroj)|20170606|18000.00|10124198||||||เงินเดือน วลัยพร พค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|1|20|Program coordinator (Ms Walaiporn Jiaranairungroj)|20170630|18000.00|10124203||||||เงินเดือน วลัยพร มิย 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|1|21|Program coordinator (Ms Walaiporn Jiaranairungroj)|20170802|18000.00|10124212||||||เงินเดือน วลัยพร กค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|1|23|Program coordinator (Ms Walaiporn Jiaranairungroj)|20170831|18000.00|10124218||||||เงินเดือน สค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|2|3|Data analysis officer (Ms Nantawan Wongchidwan)|20161207|16000.00|10117466||||||เงินเดือนย้อนหลัง นันทวัน ตค 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|1|2|4|Data analysis officer (Ms Nantawan Wongchidwan)|20161207|16000.00|10117472||||||เงินเดือน นันทวัน พย 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|1|2|12|Data analysis officer (Ms Nantawan Wongchidwan)|20161207|16000.00|10117463||||||เงินเดือนย้อนหลัง นันทวัน กย 59|20170207|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|2|13|Data analysis officer (Ms Nantawan Wongchidwan)|20170105|16000.00|10124165||||||เงินเดือน นันทวัน ธค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|2|14|Data analysis officer (Ms Nantawan Wongchidwan)|20170203|16000.00|10124171||||||เงินเดือน นันทวัน มค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|2|15|Data analysis officer (Ms Nantawan Wongchidwan)|20170307|16000.00|10124176||||||เงินเดือน นันทวัน กพ 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|2|16|Data analysis officer (Ms Nantawan Wongchidwan)|20170404|16000.00|10124181||||||เงินเดือน นันทวัน มีค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|2|17|Data analysis officer (Ms Nantawan Wongchidwan)|20170505|16000.00|10124191||||||เงินเดือน นันทวัน เมย 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|2|18|Data analysis officer (Ms Nantawan Wongchidwan)|20170606|31250.00|10124196|20170606|750.00|10124197|||เงินเดือน นันทวัน พค 60 ปกส ส่วนลูกจ้าง พค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|2|19|Data analysis officer (Ms Nantawan Wongchidwan)|20170630|31250.00|10124201|20170630|750.00|10124202|||เงินเดือน นันทวัน มิย 60 ปกส ส่วนลูกจ้าง มิย 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|2|20|Data analysis officer (Ms Nantawan Wongchidwan)|20170802|31250.00|10124210|20170802|750.00|10124211|||เงินเดือน นันทวัน กค 60 ปกส ส่วนลูกจ้าง กค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|2|22|Data analysis officer (Ms Nantawan Wongchidwan)|20170831|31250.00|10124216|20170831|750.00|10124217|||เงินเดือน สค 60 ปกส ส่วนลูกจ้าง สค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|4|Compensation for Mr Nappawut Chuenban|20161207|3150.00|10117473||||||ค่าตอบแทนย้อนหลัง นัพวุฒิ กย 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|1|3|6|Compensation for Mr Nappawut Chuenban|20161207|3150.00|10117479||||||ค่าตอบแทนย้อนหลัง นัพวุฒิ ตค 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|1|3|8|Compensation for Mr Nappawut Chuenban|20161207|3150.00|10117477||||||ค่าตอบแทน นัพวุฒิ พย 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|1|3|14|Compensation for Ms Wanwimol Poonsuwan|20161207|1050.00|10117474||||||ค่าตอบแทนย้อนหลัง วรรณวิมล กย 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|1|3|16|Compensation for Ms Wanwimol Poonsuwan|20161207|1050.00|10117476||||||ค่าตอบแทนย้อนหลัง วรรณวิมล ตค 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|1|3|18|Compensation for Ms Wanwimol Poonsuwan|20161207|1050.00|10117478||||||ค่าตอบแทน วรรณวิมล พย 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|1|3|21|Compensation for Mr Nappawut Chuenban|20170105|3150.00|10124161||||||ค่าตอบแทน นัพวุฒิ ธค 59|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|24|Compensation for Mr Nappawut Chuenban|20170203|3150.00|10124167||||||ค่าตอบแทน นัพวุฒิ มค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|26|Compensation for Ms Wanwimol Poonsuwan|20170105|1050.00|10124162||||||ค่าตอบแทน วรรณวิมล ธค 59|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|27|Compensation for Ms Wanwimol Poonsuwan|20170203|1050.00|10124168||||||ค่าตอบแทน วรรณวิมล มค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|29|Compensation for Mr Nappawut Chuenban|20170307|3150.00|10124172||||||ค่าตอบแทน นัพวุฒิ กพ 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|30|Compensation for Ms Wanwimol Poonsuwan|20170307|1050.00|10124173||||||ค่าตอบแทน วรรณวิมล กพ 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|31|Compensation for Mr Nappawut Chuenban|20170404|3150.00|10124177||||||ค่าตอบแทน นัพวุฒิ มีค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|32|Compensation for Ms Wanwimol Poonsuwan|20170404|1050.00|10124178||||||ค่าตอบแทน วรรณวิมล มีค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|33|Compensation for Mr Nappawut Chuenban|20170505|3150.00|10124188||||||ค่าตอบแทน นัพวุฒิ เมย 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|35|Compensation for Ms Wanwimol Poonsuwan|20170605|1050.00|10124189||||||ค่าตอบแทน วรรณวิมล เมย 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|36|Compensation for Mr Nappawut Chuenban|20170606|3150.00|10124194||||||ค่าตอบแทน นัพวุฒิ พค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|37|Compensation for Ms Wanwimol Poonsuwan|20170606|1050.00|10124195||||||ค่าตอบแทน วรรณวิมล พค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|38|Compensation for Mr Nappawut Chuenban|20170630|3150.00|10124199||||||ค่าตอบแทน นัพวุฒิ มิย 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|39|Compensation for Ms Wanwimol Poonsuwan|20170630|1050.00|10124200||||||ค่าตอบแทน วรรณวิมล มิย 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|40|Compensation for Mr Nappawut Chuenban|20170802|3150.00|10124207||||||ค่าตอบแทน นัพวุฒิ กค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|41|Compensation for Ms Wanwimol Poonsuwan|20170802|1050.00|10124208||||||ค่าตอบแทน วรรณวิมล กค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|42|Compensation for Mr Nappawut Chuenban|20170831|3150.00|10124214||||||ค่าตอบแทน นัพวุฒิ สค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|1|3|43|Compensation for Ms Wanwimol Poonsuwan|20170831|1050.00|10124215||||||ค่าตอบแทน วรรณวิมล สค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|2|1|1|Program coordinator (Ms Walaiporn Jiaranairungroj)|20161207|750.00|10117462||||||ปกส วลัยพร ส่วนนายจ้าง กย 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|2|1|2|Program coordinator (Ms Walaiporn Jiaranairungroj)|20161207|750.00|10117465||||||ปกส วลัยพร ส่วนนายจ้าง ตค 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|2|1|3|Program coordinator (Ms Walaiporn Jiaranairungroj)|20161207|750.00|10117468||||||ปกส วลัยพร ส่วนนายจ้าง พย 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|2|1|4|Program coordinator (Ms Walaiporn Jiaranairungroj)|20170105|750.00|10124164||||||ปกส วลัยพร ส่วนนายจ้าง ธค 59|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|2|1|8|Program coordinator (Ms Walaiporn Jiaranairungroj)|20170203|750.00|10124170||||||ปกส วลัยพร ส่วนนายจ้าง มค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|2|1|9|Program coordinator (Ms Walaiporn Jiaranairungroj)|20170307|750.00|10124175||||||ปกส วลัยพร ส่วนนายจ้าง กพ 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|2|1|11|Program coordinator (Ms Walaiporn Jiaranairungroj)|20170404|750.00|10124180||||||ปกส วลัยพร ส่วนนายจ้าง มีค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|2|1|12|Program coordinator (Ms Walaiporn Jiaranairungroj)|20170605|750.00|10124190||||||ปกส วลัยพร ส่วนนายจ้าง เมย 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|2|3|1|Data Analysis Officer (Ms Nantawan Wongchidwan)|20170606|750.00|10124197||||||ปกส นันทวัน ส่วนนายจ้าง พค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|2|3|2|Data Analysis Officer (Ms Nantawan Wongchidwan)|20170630|750.00|10124202||||||ปกส นันทวัน ส่วนนายจ้าง มิย 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|2|3|3|Data Analysis Officer (Ms Nantawan Wongchidwan)|20170802|750.00|10124211||||||ปกส นันทวัน ส่วนนายจ้าง กค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|2|3|4|Data Analysis Officer (Ms Nantawan Wongchidwan)|20170831|750.00|10124217||||||ปกส นันทวัน ส่วนนายจ้าง สค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|3|1|8|Training workshop on reporting data and database development |20170511|284559.00|10124193|20170525|-70841.00|Cash|||Flu workshop 15-16 May 2017 ชะอำ|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|3|2|1|Local transportation for MOPH and project staff attending meeting/training/workshop |20170112|16500.00|10124166||||||Site visit 26-30 Dec 2016|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|3|2|3|Local transportation for MOPH and project staff attending meeting/training/workshop |20170411|6200.00|10124183||||||สาธิต เก็บ ตย 28 กพ - 28 มีค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|3|2|5|Local transportation for MOPH and project staff attending meeting/training/workshop |20170424|2300.00|10124184||||||Site visit พญาไท 3 - 17 กพ 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|3|2|6|Local transportation for MOPH and project staff attending meeting/training/workshop |20170428|4800.00|10124187||||||Site visit รพ กรุงเทพ 5 เมย 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|3|3|10|Workshop on Flu Surveillance Network |20170724|177000.00|10124206|20170817|-13890.00|Cash|||Flu network workshop 24-26 July 2017 ชะอำ|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|5|2|3|Lab supplies Hospitals|20170712|11887.85|10124204|20170712|112.15|10124205|||UTM for Hospitals หัก ณ ที่จ่าย|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|1|1|Working group meeting MOPH - local|20170404|5000.00|10124182||||||ป.คณะทำงาน 20 มีค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|1|2|Working group meeting MOPH - local|20170822|5600.00|10124213||||||ป.คณะทำงาน 1 สค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|2|2|Training workshop on reporting data and database development Non MOPH - local|20161207|33950.00|10117480||||||ป.เครือข่าย Flu-Bangkok 8 พย 59|20170208|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|3|3|Training workshop on reporting data and database development MOPH - local|20161207|9900.00|10117480||||||ป.เครือข่าย Flu-Bangkok 8 พย 59|20170208|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|4|2|Training workshop on reporting data and database development Resource persons|20170511|27600.00|10124193||||||Flu workshop 15-16 May 2017 ชะอำ|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|5|1|Surveillance system evaluation at government and private hospitals |20170112|18000.00|10124166||||||Site visit 26-30 Dec 2016|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|5|2|Surveillance system evaluation at government and private hospitals |20170411|9200.00|10124183||||||สาธิต เก็บ ตย 28 กพ - 28 มีค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|5|3|Surveillance system evaluation at government and private hospitals |20170424|5000.00|10124184||||||Site visit พญาไท 3 - 17 กพ 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|5|4|Surveillance system evaluation at government and private hospitals |20170428|5000.00|10124187||||||Site visit รพ กรุงเทพ 5 เมย 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|6|1|Protocol/guideline printing |20170428|17336.45|10124185|20170428|163.55|10124186|||ค่าพิมพ์แผ่นพับ หัก ณ ที่จ่าย|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|7|4|Meeting facilities and document|20161207|4900.00|10117480||||||ป.เครือข่าย Flu-Bangkok 8 พย 59|20170208|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|7|9|Meeting facilities and document (ค่าบริหารจัดการ)|20170112|27000.00|10124166||||||Site visit 26-30 Dec 2016|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|7|10|Meeting facilities and document (ค่าบริหารจัดการ)|20170411|12000.00|10124183||||||สาธิต เก็บ ตย 28 กพ - 28 มีค 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|7|11|Meeting facilities and document (ค่าบริหารจัดการ)|20170424|3000.00|10124184||||||Site visit พญาไท 3 - 17 กพ 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|7|12|Meeting facilities and document (ค่าบริหารจัดการ)|20170428|3000.00|10124187||||||Site visit รพ กรุงเทพ 5 เมย 60|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|7|13|Meeting facilities and document (photo copy, binders, meeting room rental, etc.)|20170511|57841.00|10124193||||||Flu workshop 15-16 May 2017 ชะอำ|20170912|flu-bangkok|20170912|flu-bangkok
+1|FLU-Bangkok|-|8|7|15|Meeting facilities and document (meeting room rental, etc.)|20170724|18000.00|10124206||||||Flu network workshop 24-26 July 2017 ชะอำ|20170912|flu-bangkok|20170912|flu-bangkok

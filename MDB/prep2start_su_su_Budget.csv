@@ -1,0 +1,109 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|PrEP2START-SU|SU|1|1|0| Project Manager|Ms.Patcharaporn||0.00|0.00|-0.00|0.00|Person|1|100.00|12.00|0.00||||||
+1|PrEP2START-SU|SU|1|2|0|Compensation for Government staff (Project Coordinator)|Ms.Tumneab||0.00|0.00|36000.00|36000.00|Annual||||||||||
+1|PrEP2START-SU|SU|1|3|0|Project coordinator assistant|Ms.Kanha||0.00|0.00|370800.00|370800.00|Person|1|100.00|12.00|30900.00||||||
+1|PrEP2START-SU|SU|1|4|0|Computer Programmer|Mr.Srilai||0.00|0.00|486960.00|486960.00|Person|1|100.00|12.00|40580.00||||||
+1|PrEP2START-SU|SU|1|5|0|Compensation for Government staff (Provincial Manager,Hospital Manager)|TBD:Nakhonratchasima||0.00|0.00|72000.00|72000.00|Annual||||||||||
+1|PrEP2START-SU|SU|1|6|0|Compensation for Government staff (Provincial Manager,Hospital Manager)|TBD:Chonburi||0.00|0.00|72000.00|72000.00|Annual||||||||||
+1|PrEP2START-SU|SU|1|7|0|Compensation for Government staff (Provincial Manager, Hospital Manager)|TBD: Nonthaburi||0.00|0.00|72000.00|72000.00|Annual||||||||||
+1|PrEP2START-SU|SU|1|8|0|Project coordinator assistant|TBD: BATS||0.00|0.00|198000.00|198000.00|Person|1|100.00|11.00|18000.00||||||
+1|PrEP2START-SU|SU|1|8|1|Project coordinator assistant|TBD: BATS|||||176400.00|Annual|||||||20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|1|9|0|Compensation for Government staff|TBD: Financial officer and administrative||0.00|0.00|24000.00|24000.00|Annual||||||||||
+1|PrEP2START-SU|SU|1|9|1|Compensation for Government staff|TBD: Financial officer and administrative|||||18000.00|Annual|||||||20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|1|10|0|Compensation for Government staff|TBD: PrEP Drug management||0.00|0.00|24000.00|24000.00|Annual||||||||||
+1|PrEP2START-SU|SU|1|10|1|Compensation for Government staff|TBD: PrEP Drug management|||||0.00|Annual|||||||20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|2|1|0|Project coordinator assistant 1|Ms.Kanha||0.00|0.00|9000.00|9000.00|Person|1|370800.00|5.00|||||||
+1|PrEP2START-SU|SU|2|2|0|Computer Programmer|Mr.Srilai||0.00|0.00|9000.00|9000.00|Person|1|486960.00|5.00|||||||
+1|PrEP2START-SU|SU|2|3|0|Project coordinator assistant 2 Name TBD|||0.00|0.00|9000.00|9000.00|Person|1|198000.00|5.00|||||||
+1|PrEP2START-SU|SU|2|3|1|Project coordinator assistant 2 Name TBD||||||7470.00|Annual|||||||20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|2|4|0|Annual medical check up| $57.14  X 3 Persons||0.00|0.00|6000.00|6000.00|Annual||||||||||
+1|PrEP2START-SU|SU|3|1|0|Site monitoring|||0.00|0.00|240000.00|240000.00|Time|8|4.00|2.00|2000.00|3500.00|0.00||||
+1|PrEP2START-SU|SU|3|1|1|Site monitoring||||||96000.00|Time|2|8.00|2.00|2000.00|2000.00|0.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|3|1|3|Site monitoring||||||20000.00|Time|2|2.00|2.00|2000.00|1000.00|0.00|20170829|prep2start-su|20170829|prep2start-su
+1|PrEP2START-SU|SU|3|2|0|Annual meeting|||0.00|0.00|202500.00|202500.00|Time|1|27.00|2.00|2000.00|3500.00|0.00||||
+1|PrEP2START-SU|SU|3|2|1|Annual meeting||||||40000.00|Time|1|8.00|2.00|2000.00|1000.00|0.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|3|3|0|Workshop PrEP/HIV|||0.00|0.00|304000.00|304000.00|Time|8|4.00|3.00|2000.00|3500.00|0.00||||
+1|PrEP2START-SU|SU|3|3|1|Workshop PrEP/HIV||||||705810.00|Time|10|11.00|2.00|2000.00|2400.00|181.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|3|3|3|Workshop PrEP/HIV||||||817000.00|Time|10|14.00|2.00|2000.00|1800.00|500.00|20170829|prep2start-su|20170829|prep2start-su
+1|PrEP2START-SU|SU|3|4|0|Reach - recruit activity to promote PrEP|||0.00|0.00|90000.00|90000.00|Time|4|3.00|2.00|2000.00|3500.00|0.00||||
+1|PrEP2START-SU|SU|3|4|1|Reach - recruit activity to promote PrEP||||||11310.00|Annual|||||||20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|3|5|0|Technical working group meeting Provincial Level|||0.00|0.00|120000.00|120000.00|Time|4|4.00|2.00|2000.00|3500.00|0.00||||
+1|PrEP2START-SU|SU|3|5|1|Technical working group meeting Provincial Level||||||60000.00|Time|5|2.00|2.00|2000.00|2000.00|0.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|3|5|3|Technical working group meeting Provincial Level||||||32596.00|Time|4|2.00|1.00|2000.00|2000.00|149.00|20170829|prep2start-su|20170829|prep2start-su
+1|PrEP2START-SU|SU|3|6|0| Resource Person to provide training workshop|($17.14 x 7hour x 1person)||0.00|0.00|29100.00|29100.00|Time|3|1.00|1.00|2000.00|3500.00|4200.00||||
+1|PrEP2START-SU|SU|3|6|3| Resource Person to provide training workshop|($17.14 x 7hour x 1person)|||||3000.00|Time|1|1.00|1.00|0.00|0.00|3000.00|20170829|prep2start-su|20170829|prep2start-su
+1|PrEP2START-SU|SU|3|7|0|Transportation cost/fuel|||0.00|0.00|38190.00|38190.00|Year|1|0.00|0.00|0.00|0.00|38190.00||||
+1|PrEP2START-SU|SU|3|7|1|Transportation cost/fuel||||||105000.00|Year|1|0.00|0.00|0.00|0.00|105000.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|3|7|3|Transportation cost/fuel||||||135795.00|Year|1|0.00|0.00|0.00|0.00|135795.00|20170829|prep2start-su|20170829|prep2start-su
+1|PrEP2START-SU|SU|4|1|0|Computer notebook/LCD Presentation|||0.00|0.00|50000.00|50000.00|Set|2|25000.00||||||||
+1|PrEP2START-SU|SU|4|2|0|Printer|||0.00|0.00|10000.00|10000.00|Set|1|10000.00||||||||
+1|PrEP2START-SU|SU|5|1|0|Office supplies|||0.00|0.00|31360.00|31360.00|Year|1|31360.00||||||||
+1|PrEP2START-SU|SU|5|1|3|Office supplies||||||58279.00|Year|1|58279.00|||||20170829|prep2start-su|20170829|prep2start-su
+1|PrEP2START-SU|SU|8|1|0|Communication cost|||0.00|0.00|24000.00|24000.00|Monthly|12|||||2000.00||||
+1|PrEP2START-SU|SU|8|2|0|Technical working group meeting Provincial Level|||0.00|0.00|270000.00|270000.00|Time|18|25.00|1.00|600.00|0.00|0.00||||
+1|PrEP2START-SU|SU|8|2|1|Technical working group meeting Provincial Level||||||216000.00|Time|18|20.00|1.00|600.00|0.00|0.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|8|2|3|Technical working group meeting Provincial Level||||||182400.00|Time|16|19.00|1.00|600.00|0.00|0.00|20170829|prep2start-su|20170829|prep2start-su
+1|PrEP2START-SU|SU|8|3|0|Hospital working team meeting each site interdisciplinary team|||0.00|0.00|220800.00|220800.00|Time|16|23.00|1.00|600.00|0.00|0.00||||
+1|PrEP2START-SU|SU|8|3|1|Hospital working team meeting each site interdisciplinary team||||||100800.00|Time|12|14.00|1.00|600.00|0.00|0.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|8|3|3|Hospital working team meeting each site interdisciplinary team||||||68400.00|Time|12|9.00|1.00|600.00|0.00|300.00|20170829|prep2start-su|20170829|prep2start-su
+1|PrEP2START-SU|SU|8|4|0|Workshop PrEP/HIV|||0.00|0.00|440000.00|440000.00|Time|8|30.00|3.00|600.00|0.00|1000.00||||
+1|PrEP2START-SU|SU|8|4|1|Workshop PrEP/HIV||||||871000.00|Time|13|55.00|2.00|600.00|0.00|1000.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|8|4|3|Workshop PrEP/HIV||||||882700.00|Time|13|56.00|2.00|600.00|0.00|700.00|20170829|prep2start-su|20170829|prep2start-su
+1|PrEP2START-SU|SU|8|5|0|Workshop outreach activity to promote service|||0.00|0.00|123200.00|123200.00|Time|8|12.00|2.00|600.00|0.00|1000.00||||
+1|PrEP2START-SU|SU|8|5|1|Workshop outreach activity to promote service||||||125400.00|Time|8|12.00|2.00|600.00|0.00|1275.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|8|6|0| Site Monitoring|||0.00|0.00|112000.00|112000.00|Time|16|5.00|2.00|600.00|0.00|1000.00||||
+1|PrEP2START-SU|SU|8|6|1| Site Monitoring||||||44400.00|Time|1|37.00|2.00|600.00|0.00|0.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|8|6|3| Site Monitoring||||||15600.00|Time|1|13.00|2.00|600.00|0.00|0.00|20170829|prep2start-su|20170829|prep2start-su
+1|PrEP2START-SU|SU|8|7|0|Resource person MOPH|($17.65 x 7hour x 1person)||0.00|0.00|43200.00|43200.00|Time|4|2.00|2.00|600.00|0.00|8400.00||||
+1|PrEP2START-SU|SU|8|7|3|Resource person MOPH|($17.65 x 7hour x 1person)|||||58800.00|Time|7|2.00|2.00|600.00|0.00|6000.00|20170829|prep2start-su|20170829|prep2start-su
+1|PrEP2START-SU|SU|8|8|0|Annual meeting|||0.00|0.00|33400.00|33400.00|Time|1|27.00|2.00|600.00|0.00|1000.00||||
+1|PrEP2START-SU|SU|8|8|1|Annual meeting||||||15000.00|Time|1|12.00|2.00|600.00|0.00|600.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|8|9|0|Supplies Medicine transportation|||0.00|0.00|40000.00|40000.00|Year|1|0.00|0.00|0.00|0.00|40000.00||||
+1|PrEP2START-SU|SU|8|9|1|Supplies Medicine transportation||||||0.00|Year|0|0.00|0.00|0.00|0.00|0.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|8|10|0|Resource person for Non- MOPH|($35.29 x 7hours x 2person)||0.00|0.00|101600.00|101600.00|Time|4|2.00|2.00|2000.00|4500.00|8400.00||||
+1|PrEP2START-SU|SU|8|10|1|Resource person for Non- MOPH|($35.29 x 7hours x 2person)|||||178500.00|Time|7|2.00|2.00|2000.00|4500.00|8500.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|8|10|3|Resource person for Non- MOPH|($35.29 x 7hours x 2person)|||||124600.00|Time|7|2.00|2.00|2000.00|3000.00|3800.00|20170829|prep2start-su|20170829|prep2start-su
+1|PrEP2START-SU|SU|8|11|0|Reach-recruit activity to promote PrEP|||0.00|0.00|144000.00|144000.00|Time|16|15.00|1.00|600.00|0.00|0.00||||
+1|PrEP2START-SU|SU|8|11|1|Reach-recruit activity to promote PrEP||||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|8|12|0|Activity to prepare site for PrEP implemantation|||0.00|0.00|40000.00|40000.00|Time|4|5.00|3.00|600.00|0.00|1000.00||||
+1|PrEP2START-SU|SU|8|12|1|Activity to prepare site for PrEP implemantation||||||3600.00|Time|1|5.00|1.00|600.00|0.00|600.00|20170518|prep2start-su|20170518|prep2start-su
+1|PrEP2START-SU|SU|8|13|0|Guidline book printing|Guideline publish||0.00|0.00|60000.00|60000.00|Year|1|||||60000.00||||
+1|PrEP2START-SU|SU|8|13|3|Guidline book printing|Guideline publish|||||142000.00|Year|1|||||142000.00|20170829|prep2start-su|20170829|prep2start-su
+1|PrEP2START-SU|SU|8|14|2|Gain from exchange rate on 07 ก.ค. 60 (Cheque # 10181866)||||||120690.85|Annual|||||||20170719|prep2start-su|20170719|prep2start-su
+2|PrEP2START-SU|SU|1|1|0|Project coordinator assistant 1|Ms. Kanha Choothip||0.00|0.00|393120.00|393120.00|Person|1|100.00|12.00|32760.00|||20170317||20170404|
+2|PrEP2START-SU|SU|1|2|0|Computer Programmer|Mr.Srilai||0.00|0.00|516180.00|516180.00|Person|1|100.00|12.00|43015.00|||20170317||20170404|
+2|PrEP2START-SU|SU|1|3|0|Project coordinator assistant 2|Ms.Laddawan Sookthongsa||0.00|0.00|226800.00|226800.00|Person|1|100.00|12.00|18900.00|||20170317||20170404|
+2|PrEP2START-SU|SU|1|4|0| Compensation for Government staff (Project Manager)|Ms.Patcharaporn||0.00|0.00|36000.00|36000.00|Annual|||||||20170317||20170403|
+2|PrEP2START-SU|SU|1|5|0|Compensation for Government staff (Project Coordinator)|Ms.Tumneab||0.00|0.00|72000.00|72000.00|Annual|||||||20170317||20170403|
+2|PrEP2START-SU|SU|1|6|0|Compensation for Government staff (Financial officer and administrative)|Ms.Jaruwan  Saisawat,Ms.Aumporn  Juion||0.00|0.00|24000.00|24000.00|Annual|||||||20170317||20170403|
+2|PrEP2START-SU|SU|1|7|0|Compensation for Government staff (Provincial Manager,Hospital Manager) 3 province|Nonthaburi, Chonburi and Nakornratchasema||0.00|0.00|216000.00|216000.00|Annual|||||||20170317||20170403|
+2|PrEP2START-SU|SU|2|1|0|Project coordinator assistant 1|Ms. Kanha||0.00|0.00|9000.00|9000.00|Person|1|393120.00|5.00||||20170317||20170404|
+2|PrEP2START-SU|SU|2|2|0|Computer Programmer|Mr.Srilai||0.00|0.00|9000.00|9000.00|Person|1|516180.00|5.00||||20170317||20170404|
+2|PrEP2START-SU|SU|2|3|0|Project coordinator assistant 2|Ms.Laddawan||0.00|0.00|9000.00|9000.00|Person|1|226800.00|5.00||||20170317||20170404|
+2|PrEP2START-SU|SU|2|4|0|Annual medical check up|$57.14x3 Persons||0.00|0.00|6000.00|6000.00|Annual|||||||20170317||20170404|
+2|PrEP2START-SU|SU|3|1|0|National PrEP advisory committee meeting|||0.00|0.00|275000.00|275000.00|Time|2|25.00|1.00|2000.00|3500.00|0.00|20170317||20170404|
+2|PrEP2START-SU|SU|3|2|0|Technical working group meeting Provincial Level/DDC Level|||0.00|0.00|165000.00|165000.00|Time|3|10.00|1.00|2000.00|3500.00|0.00|20170317||20170404|
+2|PrEP2START-SU|SU|3|3|0|Workshop PrEP/HIV|||80000.00|0.00|150000.00|230000.00|Time|4|5.00|3.00|2000.00|5500.00|0.00|20170317||20171012|
+2|PrEP2START-SU|SU|3|4|0|Training/workshop/ Advisory board meeting|||0.00|0.00|110000.00|110000.00|Time|4|5.00|1.00|2000.00|3500.00|0.00|20170317||20170404|
+2|PrEP2START-SU|SU|3|5|0|Reach - recruit activity to promote PrEP|||0.00|0.00|90000.00|90000.00|Time|4|3.00|2.00|2000.00|3500.00|0.00|20170317||20170404|
+2|PrEP2START-SU|SU|3|6|0|Site Monitoring|||0.00|0.00|66000.00|66000.00|Time|3|4.00|1.00|2000.00|3500.00|0.00|20170317||20170404|
+2|PrEP2START-SU|SU|3|7|0|Annual meeting/ Lesson learn sharing workshop or meeting|||0.00|0.00|525000.00|525000.00|Time|2|35.00|2.00|2000.00|3500.00|0.00|20170317||20170404|
+2|PrEP2START-SU|SU|3|8|0|Transportation cost/fuel/medical transportation|Gas, taxi, car rental, etc.||0.00|0.00|60000.00|60000.00|Annual|||||||20170317||20170404|
+2|PrEP2START-SU|SU|3|9|0|PrEP meeting with stakeholders|||40000.00|0.00|-0.00|40000.00|Time|1|5.00|2.00|2000.00|4000.00|0.00|20171012|||
+2|PrEP2START-SU|SU|5|1|0|Office supply|||0.00|0.00|35000.00|35000.00|Year|1|35000.00|||||20170317||20170404|
+2|PrEP2START-SU|SU|5|2|0|Report book, Guideline printing|||0.00|0.00|170000.00|170000.00|Year|1|170000.00|||||20170317||20170330|
+2|PrEP2START-SU|SU|8|1|0|Communication cost|||0.00|0.00|30000.00|30000.00|Month|12|||||2500.00|20170317||20170403|
+2|PrEP2START-SU|SU|8|2|0|National PrEP advisory committee meeting|||0.00|0.00|70500.00|70500.00|Time|3|15.00|1.00|1000.00|500.00|1000.00|20170317|||
+2|PrEP2START-SU|SU|8|3|0|Technical working group meeting Provincial Level/DDC Level/BATS|||0.00|0.00|90000.00|90000.00|Time|9|15.00|1.00|600.00|0.00|1000.00|20170317||20170330|
+2|PrEP2START-SU|SU|8|4|0|Hospital working team meeting each site interdisciplinary team|||0.00|0.00|117000.00|117000.00|Time|9|20.00|1.00|600.00|0.00|1000.00|20170317|||
+2|PrEP2START-SU|SU|8|5|0|Workshop PrEP/HIV|||0.00|0.00|52000.00|52000.00|Time|4|20.00|1.00|600.00|0.00|1000.00|20170317||20170323|
+2|PrEP2START-SU|SU|8|6|0|Resource Person for MOPH staff|||0.00|0.00|153600.00|153600.00|Time|4|4.00|2.00|4200.00|0.00|4800.00|20170317||20170404|
+2|PrEP2START-SU|SU|8|7|0|Resource Person for Non-MOPH staff|||0.00|0.00|224400.00|224400.00|Time|4|3.00|2.00|6200.00|3500.00|8400.00|20170317||20170404|
+2|PrEP2START-SU|SU|8|8|0|Reach - recruit activity to promote PrEP|||0.00|0.00|36000.00|36000.00|Time|4|15.00|1.00|600.00|0.00|0.00|20170317||20170317|
+2|PrEP2START-SU|SU|8|9|0|Site Monitorng|||0.00|0.00|10200.00|10200.00|Time|3|4.00|1.00|600.00|0.00|1000.00|20170317|||
+2|PrEP2START-SU|SU|8|10|0|Workshop outreach activity to promote service|||0.00|0.00|61600.00|61600.00|Time|4|12.00|2.00|600.00|0.00|1000.00|20170317||20170330|
+2|PrEP2START-SU|SU|8|11|0|Annual meeting/ Lesson learn sharing workshop or meeting|||0.00|0.00|98000.00|98000.00|Time|2|40.00|2.00|600.00|0.00|1000.00|20170317||20170330|
+2|PrEP2START-SU|SU|8|12|0|Postage for medicine and medical supplies|||0.00|0.00|20000.00|20000.00|Year|1|||||20000.00|20170317||20170404|
+2|PrEP2START-SU|SU|8|13|0|PrEP media channel /promotion material|||0.00|0.00|80000.00|80000.00|Year|2|0.00|0.00|0.00|0.00|40000.00|20170330||20170403|
+2|PrEP2START-SU|SU|8|14|0|Meeting and training facilities|||0.00|0.00|25444.00|25444.00|Year|1|||||25444.00|20170404||20170404|
+2|PrEP2START-SU|SU|8|15|0|Exchange rate management|To support depreciation from exchange rate management||124653.85|0.00|-0.00|124653.85|Annual|||||||20171012|||

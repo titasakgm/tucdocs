@@ -1,0 +1,15 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+2|PrEP2START-SL|BR|1|1|0|BR:Fulltime project assistant : Mr.Jakkrit S.|Admin and coordinate Bangrak site||0.00|0.00|216000.00|216000.00|Person|1|100.00|12.00|18000.00|||20170317||20171113|
+2|PrEP2START-SL|BR|1|2|0|BR: Overtime for project assistant|(Mr. Jakkrit S.)||0.00|0.00|20000.00|20000.00|Annual|||||||20170317||20171113|
+2|PrEP2START-SL|BR|1|3|0|BR: Compensation for government staffs|Dr.Rodsaphon K., Ms.Narumon Y., Ms.Kornsiri., Ms.Yowaman and Ms.Jaruwan||0.00|0.00|108000.00|108000.00|Annual|||||||20170317||20171113|
+2|PrEP2START-SL|BR|2|1|0|BR: Fulltime project assistant Mr.Jakkrit S.|||0.00|0.00|9000.00|9000.00|Person|1|216000.00|5.00||||20170317||20171113|
+2|PrEP2START-SL|BR|2|2|0|BR: Medical check-up for 1 fulltime staffs: (Project assistant), (Case Manager)|58.82 USD x 1 person =58.82 USD||0.00|0.00|2000.00|2000.00|Annual|||||||20170317||20171113|
+2|PrEP2START-SL|BR|3|1|0|BR: Transportation for management and field works|Gas, rental, taxi, etc.||0.00|0.00|20000.00|20000.00|Annual|||||||20170324||20171113|
+2|PrEP2START-SL|BR|3|2|0|BR: transportation for Case refer|Gas, rental, taxi, etc.||0.00|0.00|30000.00|30000.00|Annual|||||||20170912||20171113|
+2|PrEP2START-SL|BR|5|1|0|BR: Office supplies|||0.00|0.00|24000.00|24000.00|Month|12|2000.00|||||20170317||20171113|
+2|PrEP2START-SL|BR|8|1|0|BR: Technical team meeting/ provincial level meeting|||0.00|0.00|32000.00|32000.00|Time|4|10.00|1.00|500.00|200.00|1000.00|20170317||20171113|
+2|PrEP2START-SL|BR|8|2|0|BR: PrEP Peer educator workshop/meeting|||0.00|0.00|12500.00|12500.00|Time|1|25.00|1.00|500.00|0.00|0.00|20170317||20171113|
+2|PrEP2START-SL|BR|8|3|0|BR: Group activities to promote VCT/PrEP/Test and start|||0.00|0.00|60000.00|60000.00|Time|10|20.00|1.00|300.00|0.00|0.00|20170317||20171113|
+2|PrEP2START-SL|BR|8|4|0|BR: Fieldwork for mobile VCT|||27954.00|0.00|35000.00|62954.00|Time|10|12.00|1.00|500.00|0.00|295.40|20170317||20171113|
+2|PrEP2START-SL|BR|8|5|0|BR: Communication cost|||0.00|0.00|24000.00|24000.00|Month|12|||||2000.00|20170317||20171113|
+2|PrEP2START-SL|BR|8|6|0|BR-Care: Incentive for referring HIV positives from mobile VCT to treatment|||0.00|0.00|10000.00|10000.00|Person|50|||||200.00|20170317||20171113|

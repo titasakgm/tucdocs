@@ -1,0 +1,112 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|CU1-MOPH|-|1|1|0|MoPH Principal Investigator|(Permanent Secretary)||0.00|0.00|-0.00|0.00|Person|1|0.00|0.00|0.00||||||
+1|CU1-MOPH|-|1|2|0|MoPH Co-Principle Investigator|(Deputy Permanent Secretary)||0.00|0.00|-0.00|0.00|Person|1|0.00|0.00|0.00||||||
+1|CU1-MOPH|-|1|3|0|Program Administrative Director|(Director of Bureau of Policy and Strategy)||0.00|0.00|-0.00|0.00|Person|1|0.00|0.00|0.00||||||
+1|CU1-MOPH|-|1|4|0|Project Manager|(Dr.Chakrarat Pittayawonganon)||0.00|0.00|-0.00|0.00|Person|1|0.00|0.00|0.00||||||
+1|CU1-MOPH|-|1|5|0|Project Manager Assistant|(Dr.Thongtana Permbotsri)||0.00|0.00|-0.00|0.00|Person|1|0.00|0.00|0.00||||||
+1|CU1-MOPH|-|1|6|0|Project Manager Assistant|(Dr.Chaninan Sonthichai)||0.00|0.00|-0.00|0.00|Person|1|0.00|0.00|0.00||||||
+1|CU1-MOPH|-|1|7|0|Project Coordinator|(Mrs.Nichakorn Sirikanokvilai)||0.00|0.00|-0.00|0.00|Person|1|0.00|0.00|0.00||||||
+1|CU1-MOPH|-|1|8|0|MoPH CoAg Coordinator|(Mrs.Rossukon Kangvallert)||0.00|0.00|297000.00|297000.00|Person|1|30.00|12.00|82500.00||||||
+1|CU1-MOPH|-|1|9|0|MoPH CoAg Coordinator Assistant|(Mrs.Juthatip Vivatanapan)||0.00|0.00|192804.00|192804.00|Person|1|20.00|12.00|80335.00||||||
+1|CU1-MOPH|-|1|10|0|Senior Accountant officer|(Ms.Charuwan Chankasorn)||0.00|0.00|323940.00|323940.00|Person|1|100.00|12.00|26995.00||||||
+1|CU1-MOPH|-|1|11|0|Administrative officer|(TBD)||0.00|0.00|120000.00|120000.00|Person|1|100.00|12.00|10000.00||||||
+1|CU1-MOPH|-|1|12|0|Over time for fulltime project staff|( $1.76 (or 60THB) x 50 hrs x 4 persons x 6 months)||0.00|0.00|72000.00|72000.00|Annual||||||||||
+1|CU1-MOPH|-|1|13|0|Compensation for government staff|($2.05 (or 70 THB) x 90 hrs. x 5 persons x 6 months)||0.00|0.00|189000.00|189000.00|Annual||||||||||
+1|CU1-MOPH|-|2|1|0|Senior Accountant officer|(Ms.Charuwan Chankasorn)||0.00|0.00|9000.00|9000.00|Person|1|323940.00|5.00|||||||
+1|CU1-MOPH|-|2|2|0|Administrative officer|(TBD)||0.00|0.00|6000.00|6000.00|Person|1|120000.00|5.00|||||||
+1|CU1-MOPH|-|2|3|0|Annual Medical Check-up|($58.82 or 2,000 THB * 2 persons)||0.00|0.00|4000.00|4000.00|Annual||||||||||
+1|CU1-MOPH|-|3|1|0|Program Monitoring on Financial and Management|||0.00|0.00|154000.00|154000.00|Time|10|2.00|2.00|2000.00|3700.00|0.00||||
+1|CU1-MOPH|-|3|1|1|Program Monitoring on Financial and Management||||||234000.00|Time|5|4.00|3.00|2000.00|5700.00|0.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|3|2|0|Oversight and Advisory  visits on project Implementation and Management|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00||||
+1|CU1-MOPH|-|3|2|1|Oversight and Advisory  visits on project Implementation and Management||||||65000.00|Time|2|4.00|2.00|2000.00|4125.00|0.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|3|3|0|MoPH Administrative Committee|(Non-local participant)||0.00|0.00|32000.00|32000.00|Time|2|2.00|1.00|2000.00|6000.00|0.00||||
+1|CU1-MOPH|-|3|3|1|MoPH Administrative Committee|(Non-local participant)|||||0.00|Time|0|2.00|1.00|2000.00|6000.00|0.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|3|4|0|Meeting/Training/Workshop/Meeting Financial Management and other related meeting|(Non-local participant)||0.00|0.00|300000.00|300000.00|Time|2|30.00|2.00|2000.00|1000.00|0.00||||
+1|CU1-MOPH|-|3|4|1|Meeting/Training/Workshop/Meeting Financial Management and other related meeting|(Non-local participant)|||||660000.00|Time|2|30.00|3.00|2000.00|5000.00|0.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|3|5|0|Capacity Building|||0.00|0.00|1211616.00|1211616.00|Time|2|4.00|7.00|10000.00|80000.00|5808.00||||
+1|CU1-MOPH|-|3|5|1|Capacity Building||||||520616.00|Time|1|4.00|7.00|8000.00|74000.00|616.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|3|6|0|Knowledge management workshop (Non-local)/Organizational Development|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00||||
+1|CU1-MOPH|-|3|7|0|M&E Strategic Framework Meeting and Implementation|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00||||
+1|CU1-MOPH|-|3|8|0|Transportation|||0.00|0.00|6000.00|6000.00|Time|6|1.00|1.00|0.00|1000.00|0.00||||
+1|CU1-MOPH|-|3|8|1|Transportation||||||12000.00|Time|6|1.00|1.00|0.00|2000.00|0.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|3|9|0|Lessons learned Meeting|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00||||
+1|CU1-MOPH|-|3|10|0|Sub-Steering Committee Meeting and Other related activities|(DGHP, FLU and TB)||0.00|0.00|100000.00|100000.00|Time|4|10.00|1.00|1500.00|1000.00|0.00||||
+1|CU1-MOPH|-|3|10|1|Sub-Steering Committee Meeting and Other related activities|(DGHP, FLU and TB)|||||0.00|Time|0|10.00|1.00|1500.00|1000.00|0.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|3|11|1|Technical Approved for support Project Draw Down||||||127000.00|Time|4|4.00|2.00|2000.00|3900.00|150.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|3|12|1|Support for MoPH staff for Oral present at the 9th Global TEPHINET Conference||||||450000.00|Time|1|30.00|3.00|2000.00|9000.00|0.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|5|1|0|Microsoft Office Program|||0.00|0.00|72000.00|72000.00|Set|4|18000.00||||||||
+1|CU1-MOPH|-|5|1|3|Microsoft Office Program||||||74172.00|Set|4|18543.00|||||20170902|cu1-moph|20170902|cu1-moph
+1|CU1-MOPH|-|5|2|0|Microsoft Window Program|||0.00|0.00|24000.00|24000.00|Set|4|6000.00||||||||
+1|CU1-MOPH|-|5|2|3|Microsoft Window Program||||||21828.00|Set|4|5457.00|||||20170902|cu1-moph|20170902|cu1-moph
+1|CU1-MOPH|-|6|1|0|External Audit|(For Year1)||0.00|0.00|1150000.00|1150000.00|Time|1|1150000.00||||||||
+1|CU1-MOPH|-|6|1|1|External Audit|(For Year1)|||||900000.00|Time|1|900000.00|||||20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|6|2|0|Refurbishing Meeting room|||0.00|0.00|800000.00|800000.00|Time|1|800000.00||||||||
+1|CU1-MOPH|-|8|1|0|Executive committee Meeting|||0.00|0.00|60000.00|60000.00|Time|1|30.00|1.00|2000.00|0.00|0.00||||
+1|CU1-MOPH|-|8|2|0|Steering  Committee Meeting|||0.00|0.00|100000.00|100000.00|Time|2|25.00|1.00|2000.00|0.00|0.00||||
+1|CU1-MOPH|-|8|2|1|Steering  Committee Meeting||||||120000.00|Time|1|40.00|1.00|2000.00|1000.00|0.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|8|3|0|MoPH Administrative Committee Meeting|||0.00|0.00|68000.00|68000.00|Time|2|20.00|1.00|1700.00|0.00|0.00||||
+1|CU1-MOPH|-|8|3|1|MoPH Administrative Committee Meeting||||||98000.00|Time|1|40.00|1.00|2000.00|450.00|0.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|8|4|0|Project management working group meeting|||0.00|0.00|448000.00|448000.00|Time|32|7.00|1.00|2000.00|0.00|0.00||||
+1|CU1-MOPH|-|8|5|0|Sub-Steering Committee Meeting and Other related activities|(DGHP, FLU and TB)||0.00|0.00|130000.00|130000.00|Time|4|20.00|1.00|1000.00|625.00|0.00||||
+1|CU1-MOPH|-|8|5|1|Sub-Steering Committee Meeting and Other related activities|(DGHP, FLU and TB)|||||60000.00|Time|1|30.00|1.00|2000.00|0.00|0.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|8|6|0|Meeting/Training/Workshop/Meeting Financial Management and other meeting related|||0.00|0.00|48000.00|48000.00|Time|2|40.00|1.00|600.00|0.00|0.00||||
+1|CU1-MOPH|-|8|6|1|Meeting/Training/Workshop/Meeting Financial Management and other meeting related||||||98000.00|Time|2|50.00|1.00|600.00|380.00|0.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|8|7|0|Capacity Building|||0.00|0.00|300000.00|300000.00|Time|10|50.00|1.00|600.00|0.00|0.00||||
+1|CU1-MOPH|-|8|7|1|Capacity Building||||||123000.00|Time|5|41.00|1.00|600.00|0.00|0.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|8|8|0|Knowledge management workshop (Non-local)/Organizational Development (Local participant)|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00||||
+1|CU1-MOPH|-|8|9|0|M&E Strategic Framework Meeting and Implementation|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00||||
+1|CU1-MOPH|-|8|10|0|Lessons Learned Meeting|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00||||
+1|CU1-MOPH|-|8|11|0|Communication cost|||0.00|0.00|36000.00|36000.00|Time|12|0.00|0.00|0.00|0.00|3000.00||||
+1|CU1-MOPH|-|8|12|0|Meeting facilities|||0.00|0.00|95712.00|95712.00|Time|6|0.00|0.00|0.00|0.00|15952.00||||
+1|CU1-MOPH|-|8|12|1|Meeting facilities||||||177712.00|Annual|||||||20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|8|13|0|Technical Approved for support Project Draw Down|||0.00|0.00|50000.00|50000.00|Time|2|50.00|1.00|500.00|0.00|0.00||||
+1|CU1-MOPH|-|8|13|1|Technical Approved for support Project Draw Down||||||100000.00|Time|4|50.00|1.00|500.00|0.00|0.00|20170724|cu1-moph|20170724|cu1-moph
+1|CU1-MOPH|-|8|14|2|Gain from exchange rate on 26 ก.ค. 60 (Cheque # 10172031)||||||9873.16|Annual|||||||20170731|cu1-moph|20170731|cu1-moph
+2|CU1-MOPH|-|1|1|0|MoPH Principle Investigator|(Permanent Secretary)||0.00|0.00|-0.00|0.00|Person|0|0.00|12.00|0.00|||20170405||20170405|
+2|CU1-MOPH|-|1|2|0|MoPH CO-Principle Investigator|(Deputy Permanent Secretary)||0.00|0.00|-0.00|0.00|Person|0|0.00|12.00|0.00|||20170405||20170405|
+2|CU1-MOPH|-|1|3|0|Program Administrative Director|(Director of Bureaua of Policy and Strategy)||0.00|0.00|-0.00|0.00|Person|0|0.00|12.00|0.00|||20170405||20170405|
+2|CU1-MOPH|-|1|4|0|Project Manager|||0.00|0.00|-0.00|0.00|Person|0|0.00|12.00|0.00|||20170405||20170915|
+2|CU1-MOPH|-|1|5|0|Project Manager Assistant|(Dr.Thongtana Permbotsri)||0.00|0.00|-0.00|0.00|Person|0|0.00|12.00|0.00|||20170405||20170405|
+2|CU1-MOPH|-|1|6|0|Project Manager Assistant|(Dr.Chaninan Sonthichai)||0.00|0.00|-0.00|0.00|Person|0|0.00|12.00|0.00|||20170405||20170405|
+2|CU1-MOPH|-|1|7|0|Project Coordinator|(Ms.Nichakorn Sirikanokvilai)||0.00|0.00|-0.00|0.00|Person|0|0.00|12.00|0.00|||20170405|||
+2|CU1-MOPH|-|1|8|0|MoPH CoAg Coordinator|(Ms.Rossukon Kangvallert)||0.00|0.00|297000.00|297000.00|Person|1|30.00|12.00|82500.00|||20170405||20170405|
+2|CU1-MOPH|-|1|9|0|MoPH CoAg Coordinator Assistant|(Ms.Juthatip Vivattanapan)||0.00|0.00|198000.00|198000.00|Person|1|20.00|12.00|82500.00|||20170405||20170405|
+2|CU1-MOPH|-|1|10|0|Senior Accountant officer|(Ms.Charuwan Chankasorn)||0.00|0.00|343320.00|343320.00|Person|1|100.00|12.00|28610.00|||20170405||20170405|
+2|CU1-MOPH|-|1|11|0|Administrative staff|(TBD)||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170405||20170410|
+2|CU1-MOPH|-|1|12|0|Over time for fulltime project staff|( $1.76 (or 60THB) x 50 hrs x 4 persons x 6 months)||0.00|0.00|72000.00|72000.00|Annual|||||||20170405|||
+2|CU1-MOPH|-|1|13|0|Compensation for government staff|(70 THB or $2.05 * 80 hours * 5 persons * 6 months)||0.00|0.00|168000.00|168000.00|Annual|||||||20170405|||
+2|CU1-MOPH|-|2|1|0|Senior Accountant officer|(Ms.Charuwan Chankasorn)||0.00|0.00|9000.00|9000.00|Person|1|333720.00|5.00||||20170405||20170405|
+2|CU1-MOPH|-|2|2|0|Administrative staff|(TBD)||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170405||20170410|
+2|CU1-MOPH|-|2|3|0|Annual Medical Check-up|($58.82 or 2,000 THB * 2 persons)||0.00|0.00|4000.00|4000.00|Annual|||||||20170405|||
+2|CU1-MOPH|-|3|1|0|Program Monitoring on Financial and Management|||0.00|0.00|120000.00|120000.00|Time|4|4.00|2.00|2000.00|3500.00|0.00|20170405||20170919|
+2|CU1-MOPH|-|3|2|0|Meeting/Training/Workshop/Meeting Financial Management and other related meeting|(Non-local participant)||150000.00|0.00|300000.00|450000.00|Time|3|30.00|2.00|2000.00|1000.00|0.00|20170405||20171027|
+2|CU1-MOPH|-|3|3|0|Capacity Building|||609338.00|0.00|565262.00|1174600.00|Time|2|5.00|6.00|9000.00|63000.00|2300.00|20170405||20171021|
+2|CU1-MOPH|-|3|4|0|Technical activities for support MTR mechanism|(Non-local participants)||0.00|0.00|90000.00|90000.00|Time|4|3.00|2.00|2000.00|3500.00|0.00|20170405||20170919|
+2|CU1-MOPH|-|3|5|0|Supervisory visit/site visit|||400000.00|0.00|-0.00|400000.00|Time|10|4.00|2.00|2000.00|6000.00|0.00|20170407||20171102|
+2|CU1-MOPH|-|3|6|0|Transportation|For project staff||0.00|0.00|10020.00|10020.00|Time|10|1.00|1.00|0.00|1002.00|0.00|20170409||20170919|
+2|CU1-MOPH|-|3|7|0|Support management to develop research promotion system in MoPH|||0.00|0.00|320000.00|320000.00|Time|4|10.00|2.00|2000.00|4000.00|0.00|20170902||20170916|
+2|CU1-MOPH|-|3|8|0|Support activities on International  Workshop on promotion, prevention and control|||0.00|0.00|320000.00|320000.00|Time|4|10.00|2.00|2000.00|4000.00|0.00|20170902||20170916|
+2|CU1-MOPH|-|3|9|0|Support technical and administration of Executive committee, Steering committee and Sub-steering committee|||160000.00|0.00|80000.00|240000.00|Time|4|15.00|1.00|1000.00|3000.00|0.00|20170916||20171102|
+2|CU1-MOPH|-|4|1|0|Multi Function Printer|||0.00|0.00|26000.00|26000.00|Set|2|13000.00|||||20170407||20171027|
+2|CU1-MOPH|-|4|2|0|ERC Server|(Network-attached storage:NAS)||150000.00|0.00|-0.00|150000.00|Set|1|150000.00|||||20171027||20171102|
+2|CU1-MOPH|-|5|1|0|Antivirus Program|||0.00|0.00|12000.00|12000.00|Set|4|3000.00|||||20170405||20171027|
+2|CU1-MOPH|-|5|2|0|Office & Computer supplies|||103000.00|0.00|-0.00|103000.00|Time|2|51500.00|||||20171019||20171027|
+2|CU1-MOPH|-|6|1|0|End of year01 (FY2017) Financial Audit|( Phase IV)||40878.00|409122.00|-0.00|450000.00|Annual|||||||20170405||20171021|
+2|CU1-MOPH|-|6|2|0|External Audit Performance|(For Year 2 FY2018)||0.00|0.00|1500000.00|1500000.00|Annual|||||||20170405||20170410|
+2|CU1-MOPH|-|8|1|0|Executive Committee Meeting|||0.00|0.00|50000.00|50000.00|Time|1|25.00|1.00|2000.00|0.00|0.00|20170405||20171019|
+2|CU1-MOPH|-|8|2|0|Steering  Committee Meeting|||0.00|0.00|60000.00|60000.00|Time|2|20.00|1.00|1500.00|0.00|0.00|20170405||20170916|
+2|CU1-MOPH|-|8|3|0|Administrative Committee Meeting|||0.00|0.00|60000.00|60000.00|Time|2|20.00|1.00|1500.00|0.00|0.00|20170405||20170916|
+2|CU1-MOPH|-|8|4|0|Sub-Steering Committee Meeting and Other related activities|||0.00|0.00|60000.00|60000.00|Time|2|30.00|1.00|1000.00|0.00|0.00|20170405||20170916|
+2|CU1-MOPH|-|8|5|0|Project management working group meeting|||0.00|0.00|336000.00|336000.00|Time|24|7.00|1.00|2000.00|0.00|0.00|20170405||20170405|
+2|CU1-MOPH|-|8|6|0|Meeting/Training/Workshop/Meeting Financial Management and other meeting related|(local participant)||0.00|0.00|72000.00|72000.00|Time|2|30.00|2.00|600.00|0.00|0.00|20170405||20170919|
+2|CU1-MOPH|-|8|7|0|Capacity Building|(Training/Meeting/Seminar)||60000.00|0.00|-0.00|60000.00|Time|1|50.00|2.00|600.00|0.00|0.00|20170405||20171027|
+2|CU1-MOPH|-|8|8|0|Technical activities for support MTR mechanism|(local participant)||0.00|0.00|90000.00|90000.00|Time|10|15.00|1.00|600.00|0.00|0.00|20170405||20170919|
+2|CU1-MOPH|-|8|9|0|Lessons Learned Meeting|(local participant)||0.00|0.00|-0.00|0.00|Time|0|35.00|2.00|600.00|0.00|0.00|20170405||20171027|
+2|CU1-MOPH|-|8|10|0|Supervisory visit/site visit|||72000.00|0.00|-0.00|72000.00|Time|4|2.00|2.00|2000.00|5000.00|0.00|20170405||20171027|
+2|CU1-MOPH|-|8|11|0|Communication cost|||0.00|0.00|24000.00|24000.00|Time|12|0.00|0.00|0.00|0.00|2000.00|20170405||20170904|
+2|CU1-MOPH|-|8|12|0|Meeting facilities|||57000.00|0.00|93000.00|150000.00|Time|30|0.00|0.00|0.00|0.00|5000.00|20170407||20171027|
+2|CU1-MOPH|-|8|13|0|Support management to develop research promotion system in MoPH|||0.00|0.00|180000.00|180000.00|Time|4|45.00|1.00|600.00|400.00|0.00|20170902||20170918|
+2|CU1-MOPH|-|8|14|0|Support activities on International  Workshop on promotion, prevention and control|||0.00|0.00|180000.00|180000.00|Time|4|45.00|1.00|600.00|400.00|0.00|20170902||20170918|
+2|CU1-MOPH|-|8|15|0|Support technical and administration of Executive committee, Steering committee and Sub-steering committee|||0.00|0.00|120000.00|120000.00|Time|4|30.00|1.00|1000.00|0.00|0.00|20170916||20171027|
+2|CU1-MOPH|-|8|16|0|Exchange rate management|To support depreciation from exchange rate fluctuation during budget year||0.00|0.00|214180.00|214180.00|Annual|||||||20170919||20170919|
+2|CU1-MOPH|-|8|17|0|Scanned eletronic copies of research protocol document|Document 500,000 copies * 0.029 USD||500242.83|0.00|-0.00|500242.83|Annual|||||||20171027||20171102|

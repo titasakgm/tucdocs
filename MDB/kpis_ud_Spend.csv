@@ -1,0 +1,28 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|KPIS|UD|5|1|2|UD: Office supplies and printing |20170622|13869.16|10217378|20170622|130.84|10217379|||วัสดุอุปกรณ์สำนักงาน กรมสรรพากร|20170707|kpis-ud|20170707|kpis-ud
+1|KPIS|UD|8|1|1|UD: Communication cost (telephone and internet)|20170131|24000.00|10217372||||||ค่าบัตรเติมเงินโทรศัพท์ ก.ย.59-ส.ค.60|20170303|kpis-ud|20170303|kpis-ud
+1|KPIS|UD|8|2|5|UD: Lab and medical fee |20161222|1780.00|10217369||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ์ พ.ย.59|20170206|kpis-ud|20170206|kpis-ud
+1|KPIS|UD|8|2|13|UD: Lab and medical fee |20170118|1800.00|10217371||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ ธ.ค.59|20170206|kpis-ud|20170303|kpis-ud
+1|KPIS|UD|8|2|14|UD: Lab and medical fee |20161222|550.00|10217367||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ ต.ค.59|20170206|kpis-ud|20170303|kpis-ud
+1|KPIS|UD|8|2|15|UD: Lab and medical fee |20161222|2800.00|10217366||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ ก.ย.59|20170206|kpis-ud|20170303|kpis-ud
+1|KPIS|UD|8|2|16|UD: Lab and medical fee |20170105|1100.00|10217370||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ ม.ค.60|20170206|kpis-ud|20170303|kpis-ud
+1|KPIS|UD|8|2|17|UD: Lab and medical fee |20170131|3360.00|10217373||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ ก.พ.60|20170303|kpis-ud|20170316|kpis-ud
+1|KPIS|UD|8|2|20|UD: Lab and medical fee |20170404|5650.00|10217375||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ เม.ย.60|20170424|kpis-ud|20170518|kpis-ud
+1|KPIS|UD|8|2|28|UD: Lab and medical fee |20170704|15000.00|10217380|20170731|-14500.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ ก.ค.60|20170807|kpis-ud|20170807|kpis-ud
+1|KPIS|UD|8|2|29|UD: Lab and medical fee |20170502|13000.00|10217376|20170601|-4950.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ พ.ค.60|20170607|kpis-ud|20170830|kpis-ud
+1|KPIS|UD|8|2|30|UD: Lab and medical fee |20170608|13000.00|10217377|20170630|-12500.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ มิ.ย.60|20170707|kpis-ud|20170830|kpis-ud
+1|KPIS|UD|8|2|32|UD: Lab and medical fee |20170807|10000.00|10356361|20170831|-9030.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ ส.ค.60|20170908|kpis-ud|20170908|kpis-ud
+1|KPIS|UD|8|3|1|UD: Compensation for participants (follow-up visits)|20161222|31500.00|10217366||||||ค่าตอบแทนอาสามสมัครที่เข้าร่วมโครงการ ก.ย.59|20170206|kpis-ud|20170206|kpis-ud
+1|KPIS|UD|8|3|5|UD: Compensation for participants (follow-up visits)|20161222|39500.00|10217369||||||ค่าตอบแทนอาสามสมัครที่เข้าร่วมโครงการ พ.ย.59|20170206|kpis-ud|20170206|kpis-ud
+1|KPIS|UD|8|3|7|UD: Compensation for participants (follow-up visits)|20170118|22000.00|10217371||||||ค่าตอบแทนอาสามสมัครที่เข้าร่วมโครงการ ธ.ค.59|20170206|kpis-ud|20170206|kpis-ud
+1|KPIS|UD|8|3|12|UD: Compensation for participants (follow-up visits)|20170105|43900.00|10217370|20170202|-26900.00|cash|||ค่าตอบแทนอาสามสมัครที่เข้าร่วมโครงการ ม.ค.60|20170206|kpis-ud|20170303|kpis-ud
+1|KPIS|UD|8|3|13|UD: Compensation for participants (follow-up visits)|20170131|41640.00|10217373|20170302|-26640.00|cash|||ค่าตอบแทนอาสามสมัครที่เข้าร่วมโครงการ ก.พ.60|20170303|kpis-ud|20170316|kpis-ud
+1|KPIS|UD|8|3|14|UD: Compensation for participants (follow-up visits)|20161222|27000.00|10217367||||||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ ต.ค.59|20170206|kpis-ud|20170316|kpis-ud
+1|KPIS|UD|8|3|17|UD: Compensation for participants (follow-up visits)|20170306|45000.00|10217374|20170403|-24500.00|cash|||ค่าตอบแทนอาสามสมัครที่เข้าร่วมโครงการ มี.ค.60|20170424|kpis-ud|20170518|kpis-ud
+1|KPIS|UD|8|3|24|UD: Compensation for participants (follow-up visits)|20170608|27000.00|10217377|20170630|-14000.00|cash|||ค่าตอบแทนอาสามสมัครที่เข้าร่วมโครงการ มิ.ย.60|20170707|kpis-ud|20170707|kpis-ud
+1|KPIS|UD|8|3|27|UD: Compensation for participants (follow-up visits)|20170704|25000.00|10217380|20170731|-19500.00|cash|||ค่าตอบแทนอาสามสมัครที่เข้าร่วมโครงการ ก.ค.60|20170807|kpis-ud|20170807|kpis-ud
+1|KPIS|UD|8|3|28|UD: Compensation for participants (follow-up visits)|20170404|34350.00|10217375|20170428|-14350.00|cash|||ค่าตอบแทนอาสามสมัครที่เข้าร่วมโครงการ เม.ย.60|20170518|kpis-ud|20170830|kpis-ud
+1|KPIS|UD|8|3|29|UD: Compensation for participants (follow-up visits)|20170502|27000.00|10217376|20170601|-6000.00|cash|||ค่าตอบแทนอาสามสมัครที่เข้าร่วมโครงการ พ.ค.60|20170607|kpis-ud|20170830|kpis-ud
+1|KPIS|UD|8|3|31|UD: Compensation for participants (follow-up visits)|20170807|20000.00|10356361|20170831|-10500.00|cash|||ค่าตอบแทนอาสามสมัครที่เข้าร่วมโครงการ ส.ค.60|20170908|kpis-ud|20170908|kpis-ud
+1|KPIS|UD|8|4|2|UD: Progress meeting |20161222|4000.00|10217368||||||ค่าใช้จ่ายในการประชุมคณะทำงาน 21 ต.ค.59|20170206|kpis-ud|20170313|kpis-ud
+1|KPIS|UD|8|5|1|UD: Compensation for PDI recruitment |20161222|300.00|10217366||||||ค่าตอบแทนอาสาสมัครที่ชวนเพื่อนเข้าร่วมโครงการด้วยระบบ PDI ก.ย.59|20170206|kpis-ud|20170206|kpis-ud

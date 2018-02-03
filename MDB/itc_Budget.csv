@@ -1,0 +1,68 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|ITC|-|1|1|0|Compensation (Government Staff)|Program Manager: Mrs. Tanaphan Fongsiri ($2.06x 71hrs/month) x 12 months x 1 person||0.00|0.00|60000.00|60000.00|Annual||||||||||
+1|ITC|-|1|2|0|Compensation (Government Staff)|Account Officer: Ms. Amporn Juion ($2.06 x 14hrs/month) x 12 months x 1 person||0.00|0.00|12000.00|12000.00|Annual||||||||||
+1|ITC|-|1|3|0|Compensation (Government Staff)|Procurement Officer: Ms. Kulachat Ruantham ($2.06 x 13hrs/month) x 12 month x 1 person||0.00|0.00|11000.00|11000.00|Annual||||||||||
+1|ITC|-|1|4|0|HRD Assistant Manager|-ITC-||0.00|0.00|360000.00|360000.00|Person|1|100.00|12.00|30000.00||||||
+1|ITC|-|1|4|1|HRD Assistant Manager|-ITC-|||||90645.08|Annual|||||||20170824||20170824|
+1|ITC|-|1|5|0|Computer Management Assistant|Mr. Jirawat  Boonruangrod||0.00|0.00|267120.00|267120.00|Person|1|100.00|12.00|22260.00||||||
+1|ITC|-|1|6|0|Overtime for project staff (Full-time Staff)|Full-time Staff ($2. 06/hour x 5 hours/month) x 12 months x 1 person||0.00|0.00|4000.00|4000.00|Annual||||||||||
+1|ITC|-|2|1|0|HRD Assistant Manager|-ITC-||0.00|0.00|9000.00|9000.00|Annual||||||||||
+1|ITC|-|2|1|1|HRD Assistant Manager|-ITC-|||||2882.25|Annual|||||||20170824||20170824|
+1|ITC|-|2|2|0|Computer Management Assistant|Mr. Jirawat Boonruangrod||0.00|0.00|9000.00|9000.00|Annual||||||||||
+1|ITC|-|2|3|0|Annual Medical Check up|Project staff - full time: 2 persons $58. 82 x 2 persons||0.00|0.00|4000.00|4000.00|Annual||||||||||
+1|ITC|-|3|1|0|Training HIV/AIDS and STIs Program Management for facilitators to strengthen capacity of HIV/AIDS and STIs lead to ending AIDS|Non local participants(MOPH)||0.00|0.00|150000.00|150000.00|Time|1|20.00|3.00|2000.00|1500.00|0.00||||
+1|ITC|-|3|1|1|Training HIV/AIDS and STIs Program Management for facilitators to strengthen capacity of HIV/AIDS and STIs lead to ending AIDS|Non local participants(MOPH)|||||37710.00|Annual|||||||20170824||20170824|
+1|ITC|-|3|2|0|Working group and experts meeting for developing S&D Reduction curriculum|Non local participants(MOPH)||0.00|0.00|150000.00|150000.00|Times|1|20.00|3.00|2000.00|1500.00|0.00||||
+1|ITC|-|3|2|1|Working group and experts meeting for developing S&D Reduction curriculum|Non local participants(MOPH)|||||213000.00|Annual|||||||20170824||20170824|
+1|ITC|-|3|2|2|Working group and experts meeting for developing S&D Reduction curriculum|Non local participants(MOPH)|||||250225.00|Annual|||||||20170901|ITC|20170901|ITC
+1|ITC|-|5|1|0|Office Supplies|||0.00|0.00|27056.00|27056.00|Year|1|27056.00||||||||
+1|ITC|-|5|1|1|Office Supplies||||||37377.00|Annual|||||||20170824||20170824|
+1|ITC|-|5|1|2|Office Supplies||||||53677.00|Annual|||||||20170901|ITC|20170901|ITC
+1|ITC|-|8|1|0|Communication expenses (mobile phone, fax, internet)|||0.00|0.00|24000.00|24000.00|Month|12|||||2000.00||||
+1|ITC|-|8|2|0|Rental copy machine for ITC office business|||0.00|0.00|12000.00|12000.00|Month|12|||||1000.00||||
+1|ITC|-|8|3|0|Developing Website|(Server service rental)||0.00|0.00|5500.00|5500.00|Annual||||||||||
+1|ITC|-|8|4|0|Working group and Experts Meeting for preparation HIV/AIDS and STIs Program Management training course|Local participants (MOPH/NON-MOPH)||0.00|0.00|15324.00|15324.00|Time|1|20.00|1.00|600.00|0.00|3324.00||||
+1|ITC|-|8|4|1|Working group and Experts Meeting for preparation HIV/AIDS and STIs Program Management training course|Local participants (MOPH/NON-MOPH)|||||8800.00|Annual|||||||20170824||20170824|
+1|ITC|-|8|5|0|Working group and Experts Meeting to develop study visit programs for Policy Advocacy|Local participants (MOPH/NON-MOPH)||0.00|0.00|27000.00|27000.00|Time|3|15.00|1.00|600.00|0.00|0.00||||
+1|ITC|-|8|5|1|Working group and Experts Meeting to develop study visit programs for Policy Advocacy|Local participants (MOPH/NON-MOPH)|||||31703.00|Annual|||||||20170824||20170824|
+1|ITC|-|8|6|0|Working group Meeting for updating website|Local participants (MOPH/NON-MOPH)||0.00|0.00|12000.00|12000.00|Time|2|10.00|1.00|600.00|0.00|0.00||||
+1|ITC|-|8|7|0|Project Review Meeting|Local participants (MOPH/NON-MOPH)||0.00|0.00|9000.00|9000.00|Time|1|15.00|1.00|600.00|0.00|0.00||||
+1|ITC|-|8|8|0|Training HIV/AIDS and STIs Program Management for facilitators to strengthen capacity of HIV/AIDS and STIs lead to ending AIDS|Non local participants(NON-MOPH)||0.00|0.00|7000.00|7000.00|Time|1|1.00|3.00|2000.00|1000.00|0.00||||
+1|ITC|-|8|8|1|Training HIV/AIDS and STIs Program Management for facilitators to strengthen capacity of HIV/AIDS and STIs lead to ending AIDS|Non local participants(NON-MOPH)|||||0.00|Time|1|0.00|0.00|0.00|0.00|0.00|20170824||20170824|
+1|ITC|-|8|9|0|Training HIV/AIDS and STIs Program Management for strengthening capacity of AIDS and STIs program managers lead to ending AIDS|Non local participants(NON-MOPH)||0.00|0.00|78000.00|78000.00|Time|1|6.00|4.00|2000.00|5000.00|0.00||||
+1|ITC|-|8|9|1|Training HIV/AIDS and STIs Program Management for strengthening capacity of AIDS and STIs program managers lead to ending AIDS|Non local participants(NON-MOPH)|||||6500.00|Annual|||||||20170824||20170824|
+1|ITC|-|8|10|0|Working group and experts meeting for developing S&D Reduction curriculum|Non-Local Participants(NON-MOPH)||0.00|0.00|7000.00|7000.00|Time|1|1.00|3.00|2000.00|1000.00|0.00||||
+1|ITC|-|8|10|1|Working group and experts meeting for developing S&D Reduction curriculum|Non-Local Participants(NON-MOPH)|||||243800.00|Annual|||||||20170824||20170824|
+1|ITC|-|8|10|2|Working group and experts meeting for developing S&D Reduction curriculum|Non-Local Participants(NON-MOPH)|||||190275.00|Annual|||||||20170901|ITC|20170901|ITC
+1|ITC|-|8|11|1|Job advertising Fee||||||4237.20|Annual|||||||20170824||20170824|
+1|ITC|-|8|12|1|S&D Curriculum Development||||||120000.00|Annual|||||||20170824||20170824|
+1|ITC|-|8|13|1|Translation on S&D Curriculum||||||33725.47|Annual|||||||20170824||20170824|
+2|ITC|-|1|1|0|Training coordinator|Ms.Suchanart Chaisiri||0.00|0.00|300000.00|300000.00|Person|1|100.00|12.00|25000.00|||20170403||20170915|
+2|ITC|-|1|2|0|Computer Management Assistant|Mr.Jirawat  Boonruangrod||0.00|0.00|300000.00|300000.00|Person|1|100.00|12.00|25000.00|||20170403||20170914|
+2|ITC|-|1|3|0|Compensation for Government staff:Program manager|Mrs.Tanaphan Fongsiri $2.06/hr x  71hrs/mnth x 12 months x 1 person||0.00|0.00|60000.00|60000.00|Annual|||||||20170403||20170405|
+2|ITC|-|1|4|0|Compensation for Government staff:Account Officer|Ms Amporn Juion $2.06 x 14 hrs/month x 12 months x 1 person||0.00|0.00|12000.00|12000.00|Annual|||||||20170403||20170405|
+2|ITC|-|1|5|0|Compensation for Government staff:Procurement Officer| Ms.Kulachat Ruantham $2.06 x 14 hrs/month x 12 months x 1 person||0.00|0.00|12000.00|12000.00|Annual|||||||20170403||20170405|
+2|ITC|-|1|6|0|Overtime for full time staff|OT for working extra hour $1.76 x 5 hrs/month x 12 months x 2 persons||0.00|0.00|6720.00|6720.00|Annual|||||||20170404||20170405|
+2|ITC|-|2|1|0|Training  Coordinator|Ms.Suchanart Chaisiri||0.00|0.00|9000.00|9000.00|Person|1|360000.00|5.00||||20170403||20170915|
+2|ITC|-|2|2|0|Computer Management Assistant|Mr.Jirawat  Boonruangrod||0.00|0.00|9000.00|9000.00|Person|1|283152.00|5.00||||20170403||20170405|
+2|ITC|-|2|3|0|Annual medical check up for project coordinator|Medical check up for full time staff $58.82/person||0.00|0.00|4000.00|4000.00|Annual|||||||20170403||20170915|
+2|ITC|-|3|1|0|Project review and summary meeting|Non-local participants, MOPH||0.00|0.00|48000.00|48000.00|Time|1|6.00|1.00|2000.00|6000.00|0.00|20170403||20170915|
+2|ITC|-|3|2|0|Working group and experts meeting for developing SD Reduction curriculum|Non-local participants, MOPH||105000.00|0.00|160000.00|265000.00|Time|2|10.00|4.00|2000.00|5250.00|0.00|20170405||20171012|
+2|ITC|-|3|3|0|PIF-Pilot  SD Reduction curriculum international training|Non-local participants, MOPH||0.00|0.00|-0.00|0.00|Time|0|2.00|6.00|2000.00|6000.00|0.00|20170403||20170829|
+2|ITC|-|3|4|0|PIF-Transportation cost|van rental and fuel for S&D training and study visit||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|6000.00|20170405||20170829|
+2|ITC|-|5|1|0|Office supply|general office and training supply/ printing||0.00|0.00|24000.00|24000.00|Annual|||||||20170403||20170405|
+2|ITC|-|8|1|0|Working group and experts meeting for developing concept paper of study visit programs (EMTCT program)|EMTCT technical experts||0.00|0.00|17128.00|17128.00|Time|1|20.00|1.00|600.00|0.00|5128.00|20170403||20170405|
+2|ITC|-|8|2|0|Working group and experts meeting for preparing final STIs case Management Skills  curriculum|STI technical experts||0.00|0.00|17000.00|17000.00|Time|1|20.00|1.00|600.00|0.00|5000.00|20170403||20170405|
+2|ITC|-|8|3|0|Project review and summary meeting|local participant||0.00|0.00|14000.00|14000.00|Time|1|15.00|1.00|600.00|0.00|5000.00|20170403||20170405|
+2|ITC|-|8|4|0|Server rental fee|to promote ITC training||0.00|0.00|10000.00|10000.00|Annual|||||||20170403||20170405|
+2|ITC|-|8|5|0|Rental of copy machine for ITC office business|||0.00|0.00|12000.00|12000.00|Month|12|||||1000.00|20170403||20170405|
+2|ITC|-|8|6|0|Communication expenses|for 2 mobile numbers:Communication cost related to coordination with trainers, experts, participants||0.00|0.00|24000.00|24000.00|Month|12|||||2000.00|20170403||20170405|
+2|ITC|-|8|7|0|Translation and Review Content of S&D Curriculum|Preparation for Pilot  SD Reduction curriculum international training||0.00|0.00|30200.00|30200.00|Annual|||||||20170829||20170915|
+2|ITC|-|8|8|0|Working Group and Experts meeting for Developing IDCA Document|For drafting documents to establish IDCA||0.00|0.00|94952.00|94952.00|Time|2|35.00|2.00|600.00|0.00|5476.00|20170908||20170915|
+2|ITC|-|8|9|0|Remuneration for Experts Working on IDCA Business Plan|For conducting business plan to establish IDCA||0.00|0.00|60000.00|60000.00|Time|4|0.00|0.00|0.00|0.00|15000.00|20170913||20170915|
+2|ITC|-|8|10|0|PIF-Working group and experts meeting for developing SD Reduction curriculum|S&D experts||0.00|0.00|-0.00|0.00|Time|0|10.00|5.00|600.00|0.00|8000.00|20170403||20170915|
+2|ITC|-|8|11|0|PIF-Training materials for S&D, EMTCT, STI|SD Reduction curriculum||0.00|0.00|-0.00|0.00|Set|0|||||1025.00|20170403||20170915|
+2|ITC|-|8|12|0|PIF- Pilot  SD Reduction curriculum international training|Regional Participants (Lao PDR, Myanmar), Resource person||0.00|0.00|-0.00|0.00|Time|0|15.00|6.00|2000.00|9500.00|9000.00|20170403||20170915|
+2|ITC|-|8|13|0|PIF-Administration fee/ management|for Pilot  SD Reduction curriculum international training||0.00|0.00|-0.00|0.00|Time|0|1.00|5.00|10000.00|0.00|0.00|20170403||20170915|
+2|ITC|-|8|14|0|Working group and experts meeting for developing SD Reduction curriculum|||50000.00|0.00|-0.00|50000.00|Time|1|5.00|2.00|2000.00|3000.00|15000.00|20171012|||
+2|ITC|-|8|15|0|Exchange rate management|To support depreciation from the exchange rate fluctuation during the budget year||1305.60|37359.88|-0.00|38665.48|Annual|||||||20170918||20171012|

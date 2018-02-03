@@ -1,0 +1,65 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|LAB-Strategy|-|1|1|0|Administrative and financial officer at NIH|||0.00|0.00|180000.00|180000.00|Person|1|100.00|12.00|15000.00||||||
+1|LAB-Strategy|-|1|1|1|Administrative and financial officer at NIH||||||120000.00|Person|1|100.00|8.00|15000.00|||20170606||20170606|
+1|LAB-Strategy|-|1|2|0|Compensation for Government staff|3 Project coordinators($2.06/hourx 19 hours x 12 months x 3 persons)||0.00|0.00|48600.00|48600.00|Annual||||||||||
+1|LAB-Strategy|-|1|2|1|Compensation for Government staff|3 Project coordinators($2.06/hourx 21.42 hours x 5 months x 3 persons)|||||22500.00|Annual|||||||20170606||20170606|
+1|LAB-Strategy|-|2|1|0|Administrative and financial officer|||0.00|0.00|9000.00|9000.00|Person|1|180000.00|5.00|||||||
+1|LAB-Strategy|-|2|1|1|Administrative and financial officer||||||6000.00|Person|1|120000.00|5.00||||20170606||20170606|
+1|LAB-Strategy|-|2|2|0|Annual medical check up|$58.82 x 1 person||0.00|0.00|2000.00|2000.00|Annual||||||||||
+1|LAB-Strategy|-|3|1|0|Working group meeting to review and revise training curriculum|non local-MOPH||0.00|0.00|24000.00|24000.00|Time|2|2.00|1.00|1000.00|5000.00|0.00||||
+1|LAB-Strategy|-|3|1|1|Working group meeting to review and revise training curriculum|non local-MOPH|||||118000.00|Time|4|4.00|2.00|2000.00|3375.00|0.00|20170606||20170606|
+1|LAB-Strategy|-|3|2|0|Training on POCT for non-clinical lab settings and PCUs|MOPH Resource persons||0.00|0.00|10000.00|10000.00|Time|1|1.00|2.00|2000.00|6000.00|0.00||||
+1|LAB-Strategy|-|3|2|1|Training on POCT for non-clinical lab settings and PCUs|MOPH Resource persons|||||106000.00|Time|2|5.00|3.00|2000.00|4600.00|0.00|20170606||20170606|
+1|LAB-Strategy|-|3|3|0|Meeting to develop check list|non local-MOPH||0.00|0.00|14000.00|14000.00|Time|1|2.00|1.00|1000.00|6000.00|0.00||||
+1|LAB-Strategy|-|3|3|1|Meeting to develop check list|non local-MOPH|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170606||20170606|
+1|LAB-Strategy|-|3|4|0|On site assessment to pilot certification program|Selected from priority province||0.00|0.00|30000.00|30000.00|Time|1|3.00|2.00|2000.00|6000.00|0.00||||
+1|LAB-Strategy|-|3|4|1|On site assessment to pilot certification program|Selected from priority province|||||48000.00|Time|4|3.00|1.00|2000.00|2000.00|0.00|20170606||20170606|
+1|LAB-Strategy|-|3|5|0|Meeting for sharing assessment information and preparing task shifting model to advisory group|non local-MOPH||0.00|0.00|28000.00|28000.00|Time|2|2.00|1.00|1000.00|6000.00|0.00||||
+1|LAB-Strategy|-|3|5|1|Meeting for sharing assessment information and preparing task shifting model to advisory group|non local-MOPH|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170606||20170606|
+1|LAB-Strategy|-|3|6|0|Meeting with National AIDS committee|non local-MOPH||0.00|0.00|70000.00|70000.00|Time|1|10.00|1.00|1000.00|6000.00|0.00||||
+1|LAB-Strategy|-|3|6|1|Meeting with National AIDS committee|non local-MOPH|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170606||20170606|
+1|LAB-Strategy|-|5|1|0|Lab supplies|for POCT training||0.00|0.00|50000.00|50000.00|Time|1|50000.00||||||||
+1|LAB-Strategy|-|5|2|0|Office supplies|||0.00|0.00|10000.00|10000.00|Year|1|10000.00||||||||
+1|LAB-Strategy|-|8|1|0|Working group meeting to review and revise training curriculum|Local-MOPH, Non-MOPH||0.00|0.00|11000.00|11000.00|Time|2|5.00|1.00|600.00|500.00|0.00||||
+1|LAB-Strategy|-|8|1|1|Working group meeting to review and revise training curriculum|Local-MOPH, Non-MOPH|||||30000.00|Time|4|10.00|1.00|600.00|150.00|0.00|20170606||20170606|
+1|LAB-Strategy|-|8|2|0|Working group meeting to review and revise training curriculum|Non local-Non MOPH||0.00|0.00|36000.00|36000.00|Time|2|3.00|1.00|1000.00|5000.00|0.00||||
+1|LAB-Strategy|-|8|2|1|Working group meeting to review and revise training curriculum|Non local-Non MOPH|||||44000.00|Time|4|1.00|2.00|2000.00|7000.00|0.00|20170606||20170606|
+1|LAB-Strategy|-|8|3|0|Training on POCT for non-clinical lab settings and PCUs|Resource person-MOPH||0.00|0.00|36000.00|36000.00|Time|1|6.00|2.00|3000.00|0.00|0.00||||
+1|LAB-Strategy|-|8|4|0|Meeting to develop check list|Local-MOPH, Non-MOPH||0.00|0.00|5500.00|5500.00|Time|1|5.00|1.00|600.00|500.00|0.00||||
+1|LAB-Strategy|-|8|4|1|Meeting to develop check list|Local-MOPH, Non-MOPH|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170606||20170606|
+1|LAB-Strategy|-|8|5|0|Meeting to develop check list|Non-local, Non-MOPH||0.00|0.00|21000.00|21000.00|Time|1|3.00|1.00|1000.00|6000.00|0.00||||
+1|LAB-Strategy|-|8|5|1|Meeting to develop check list|Non-local, Non-MOPH|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170606||20170606|
+1|LAB-Strategy|-|8|6|0|On site assessment to pilot certification program|Local-MOPH, Non-MOPH||0.00|0.00|6800.00|6800.00|Time|1|4.00|2.00|600.00|500.00|0.00||||
+1|LAB-Strategy|-|8|6|1|On site assessment to pilot certification program|Local-MOPH, Non-MOPH|||||12000.00|Time|4|5.00|1.00|600.00|0.00|0.00|20170606||20170606|
+1|LAB-Strategy|-|8|7|0|Meeting for sharing assessment information and preparing task shifting model to advisory group|Non-local,Non-MOPH||0.00|0.00|42000.00|42000.00|Time|2|3.00|1.00|1000.00|6000.00|0.00||||
+1|LAB-Strategy|-|8|7|1|Meeting for sharing assessment information and preparing task shifting model to advisory group|Non-local,Non-MOPH|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170606||20170606|
+1|LAB-Strategy|-|8|8|0|Meeting for sharing assessment information and preparing task shifting model|Local-MOPH, Non-MOPH||0.00|0.00|16000.00|16000.00|Time|2|5.00|1.00|1000.00|500.00|500.00||||
+1|LAB-Strategy|-|8|8|1|Meeting for sharing assessment information and preparing task shifting model|Local-MOPH, Non-MOPH|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170606||20170606|
+1|LAB-Strategy|-|8|9|0|Meeting with National AIDS committee|Local-MOPH, Non-MOPH||0.00|0.00|16100.00|16100.00|Time|1|10.00|1.00|1000.00|500.00|1100.00||||
+1|LAB-Strategy|-|8|9|1|Meeting with National AIDS committee|Local-MOPH, Non-MOPH|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170606||20170606|
+1|LAB-Strategy|-|8|10|0|Executive meeting (DMSC)|||0.00|0.00|34000.00|34000.00|Time|4|4.00|1.00|2000.00|0.00|500.00||||
+1|LAB-Strategy|-|8|10|1|Executive meeting (DMSC)||||||16500.00|Time|2|4.00|1.00|2000.00|0.00|250.00|20170606||20170606|
+1|LAB-Strategy|-|8|11|1|Training on POCT for non-clinical lab settings and PCUs|(Local-MOPH, Non-MOPH)|||||79000.00|Time|2|20.00|3.00|600.00|0.00|3500.00|20170606||20170606|
+2|LAB-Strategy|-|1|1|0|Administraive and Financial Officer at NIH|||0.00|0.00|216000.00|216000.00|Person|1|100.00|12.00|18000.00|||20170322||20170904|
+2|LAB-Strategy|-|1|2|0|Compensation for Government Staff|3 Project coordinators($2.06/hourx 19 hours x 12 months x 3 persons)||0.00|0.00|48600.00|48600.00|Annual|||||||20170322||20170404|
+2|LAB-Strategy|-|2|1|0|Administraive and Financial Officer at NIH|||0.00|0.00|9000.00|9000.00|Person|1|180000.00|5.00||||20170322|||
+2|LAB-Strategy|-|2|2|0|Annual medical check up|$58.82 x 1 person||0.00|0.00|2000.00|2000.00|Annual|||||||20170322|||
+2|LAB-Strategy|-|3|1|0|Working group meeting for preparation of pilot tranining module|Non local MOPH||0.00|0.00|96000.00|96000.00|Time|4|4.00|1.00|2000.00|4000.00|0.00|20170322||20170904|
+2|LAB-Strategy|-|3|2|0|Training on POCT for clinical and non-clinical lab staff|Non local MOPH : 3 of 4 provinces; Chonburi, Nakhon Ratchasima, Khon Kaen and Udon Thani||63000.00|0.00|126000.00|189000.00|Time|5|4.00|3.00|2000.00|3450.00|0.00|20170322||20171012|
+2|LAB-Strategy|-|3|3|0|Expert Meeting for certification program development|Non local MOPH||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|2000.00|0.00|0.00|20170322||20170904|
+2|LAB-Strategy|-|3|4|0|Conduct TOT training for 4 regional medical science centers|Non local MOPH; ; Chonburi, Nakhon Ratchasima, Khon Kaen and Udon Thani||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|2000.00|0.00|0.00|20170322||20170904|
+2|LAB-Strategy|-|3|5|0|Pilot evaluation tool for certification program|Non Local MOPH travel to 4 provinces||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|2000.00|0.00|0.00|20170322||20170904|
+2|LAB-Strategy|-|3|6|0|Lab network meeting for each provinces to promote task sharing|Non Local MOPH travel to 4 provinces||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|2000.00|0.00|0.00|20170322||20170904|
+2|LAB-Strategy|-|5|1|0|Office supplies|||0.00|0.00|6200.00|6200.00|Year|1|6200.00|||||20170322||20170324|
+2|LAB-Strategy|-|5|2|0|Lab supplies|For POCT training||3000.00|0.00|50000.00|53000.00|Time|1|53000.00|||||20170322||20171012|
+2|LAB-Strategy|-|8|1|0|Working group meeting for preparation of pilot tranining module|Local-MOPH 5 persons||0.00|0.00|16000.00|16000.00|Time|4|5.00|1.00|600.00|0.00|1000.00|20170322||20170904|
+2|LAB-Strategy|-|8|2|0|Working group meeting for preparation of pilot tranining module|Non Local-Non MOPH||34000.00|0.00|-0.00|34000.00|Time|2|2.00|2.00|2000.00|4500.00|0.00|20170322||20171012|
+2|LAB-Strategy|-|8|3|0|Training on POCT for clinical and non-clinical lab staff|Local-MOPH, non-MOPH : 3 of 4 provinces; Chonburi, Nakhon Ratchasima, Khon Kaen and Udon Thani||27000.00|0.00|128700.00|155700.00|Time|3|40.00|2.00|600.00|0.00|3900.00|20170322||20171012|
+2|LAB-Strategy|-|8|4|0|Expert Meeting for certification program development|Local-MOPH 3 persons, Non-MOPH 3 persons||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|1000.00|0.00|0.00|20170322||20170904|
+2|LAB-Strategy|-|8|5|0|Conduct TOT training for 4 regional medical science centers|Non MOPH- participants||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|2000.00|0.00|6000.00|20170322||20170904|
+2|LAB-Strategy|-|8|6|0|Conduct TOT training for 4 regional medical science centers|Resource person||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|600.00|0.00|0.00|20170404||20170904|
+2|LAB-Strategy|-|8|7|0|Pilot evaluation tool for certification program|Local MOPH, Non MOPH (PHO, ODPC, RDMSc and NHSO)||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|600.00|0.00|0.00|20170322||20170904|
+2|LAB-Strategy|-|8|8|0|Lab network meeting for each provinces to promote task sharing|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|600.00|0.00|0.00|20170324||20170904|
+2|LAB-Strategy|-|8|9|0|Executive meeting (DMSC)|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|2000.00|0.00|0.00|20170324||20170904|
+2|LAB-Strategy|-|8|10|0|Training on POCT for clinical and non-clinical lab staff|Resource person||0.00|0.00|49500.00|49500.00|Time|3|0.00|0.00|0.00|0.00|16500.00|20170904||20170915|
+2|LAB-Strategy|-|8|11|0|Exchange rate management|To support depreciation from the exchange rate fluctuation during the budget year||1878.72|20884.16|-0.00|22762.88|Annual|||||||20170904||20171101|

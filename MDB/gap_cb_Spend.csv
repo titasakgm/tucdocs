@@ -1,0 +1,41 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|GAP-CB|-|1|7|1|Project Coordinator (Full Time Staff) Ms.Runya  Thongdee|20161026|16800.00|10170061||||||ค่าจ้างเดือนกันยายน 2559|20170208|gap-cb|20170208|gap-cb
+1|GAP-CB|-|1|7|6|Project Coordinator (Full Time Staff) Ms.Runya  Thongdee|20161031|17050.00|10170064|20161031|750.00|10170065|||ค่าจ้างเดือนตุลาคม 2559|20170208|gap-cb|20170208|gap-cb
+1|GAP-CB|-|1|7|8|Project Coordinator (Full Time Staff) Ms.Runya  Thongdee|20161226|17050.00|10170071|20161226|750.00|10170072|||ค่าจ้างเดือนธันวาคม 2559|20170208|gap-cb|20170208|gap-cb
+1|GAP-CB|-|1|7|9|Project Coordinator (Full Time Staff) Ms.Runya  Thongdee|20170131|17050.00|10170074|20170131|750.00|10170075|||ค่าจ้างเดือนมกราคม 2560|20170208|gap-cb|20170208|gap-cb
+1|GAP-CB|-|1|7|10|Project Coordinator (Full Time Staff) Ms.Runya  Thongdee|20170222|17050.00|10170076|20170222|750.00|10170077|||ค่าจ้างเดือนกุมภาพันธ์ 2560|20170227|gap-cb|20170227|gap-cb
+1|GAP-CB|-|1|7|11|Project Coordinator (Full Time Staff) Ms.Runya  Thongdee|20170323|17050.00|10170080|20170323|750.00|10181621|||ค่าจ้างเดือนมีนาคม 2560|20170425|gap-cb|20170425|gap-cb
+1|GAP-CB|-|1|7|15|Project Coordinator (Full Time Staff) Ms.Runya  Thongdee|20170428|17050.00|10181622|20170428|750.00|10181623|||ค่าจ้างเดือนเมษายน 2560|20170504|gap-cb|20170605|gap-cb
+1|GAP-CB|-|1|7|17|Project Coordinator (Full Time Staff) Ms.Runya  Thongdee|20170530|17050.00|10181624|20170530|750.00|10181625|||ค่าจ้างเดือนพฤษภาคม 2560|20170605|gap-cb|20170612|gap-cb
+1|GAP-CB|-|1|7|21|Project Coordinator (Full Time Staff) Ms.Runya  Thongdee|20170831|17050.00|10181636|20170831|750.00|10181637|||ค่าจ้างเดือนสิงหาคม 2560|20170904|gap-cb|20170904|gap-cb
+1|GAP-CB|-|1|7|22|Project Coordinator (Full Time Staff) Ms.Runya  Thongdee|20170725|17050.00|10181634|20170725|750.00|10181635|||ค่าจ้างเดือนกรกฎาคม 2560|20170811|gap-cb|20170904|gap-cb
+1|GAP-CB|-|1|7|23|Project Coordinator (Full Time Staff) Ms.Runya  Thongdee|20161129|17050.00|10170068|20161129|750.00|10170069|||ค่าจ้างเดือนพฤศจิกายน 2559|20170208|gap-cb|20171002|gap-cb
+1|GAP-CB|-|1|7|24|Project Coordinator (Full Time Staff) Ms.Runya  Thongdee|20170629|17050.00|10181628|20170629|750.00|10181629|||ค่าจ้างเดือนมิถุนายน 2560|20170714|gap-cb|20171002|gap-cb
+1|GAP-CB|-|2|1|4|Project Coordinator Runya Thongdee|20161031|750.00|10170065||||||ปกส ต.ค. 2559|20170208|gap-cb|20170208|gap-cb
+1|GAP-CB|-|2|1|5|Project Coordinator Runya Thongdee|20161026|750.00|10170062||||||ปกส. ก.ย. 2559|20170208|gap-cb|20170208|gap-cb
+1|GAP-CB|-|2|1|6|Project Coordinator Runya Thongdee|20161129|750.00|10170069||||||ปกส. พ.ย. 2559|20170208|gap-cb|20170208|gap-cb
+1|GAP-CB|-|2|1|7|Project Coordinator Runya Thongdee|20161226|750.00|10170072||||||ปกส ธ.ค. 2559|20170208|gap-cb|20170208|gap-cb
+1|GAP-CB|-|2|1|8|Project Coordinator Runya Thongdee|20170131|750.00|10170075||||||ปกส ม.ค. 2560|20170208|gap-cb|20170208|gap-cb
+1|GAP-CB|-|2|1|9|Project Coordinator Runya Thongdee|20170222|750.00|10170077||||||ปกส ก.พ. 2560|20170227|gap-cb|20170227|gap-cb
+1|GAP-CB|-|2|1|10|Project Coordinator Runya Thongdee|20170323|750.00|10181621||||||ปกส มี.ค. 2560|20170425|gap-cb|20170425|gap-cb
+1|GAP-CB|-|2|1|11|Project Coordinator Runya Thongdee|20170428|750.00|10181623||||||ปกส เม.ย. 2560|20170504|gap-cb|20170504|gap-cb
+1|GAP-CB|-|2|1|12|Project Coordinator Runya Thongdee|20170530|750.00|10181625||||||ปกส พ.ค. 2560|20170605|gap-cb|20170605|gap-cb
+1|GAP-CB|-|2|1|13|Project Coordinator Runya Thongdee|20170629|750.00|10181629||||||ปกส มิ.ย. 2560|20170714|gap-cb|20170714|gap-cb
+1|GAP-CB|-|2|1|15|Project Coordinator Runya Thongdee|20170725|750.00|10181635||||||ปกส ก.ค. 2560|20170811|gap-cb|20170811|gap-cb
+1|GAP-CB|-|2|1|16|Project Coordinator Runya Thongdee|20170831|750.00|10181637||||||ปกส ส.ค. 2560|20170904|gap-cb|20170904|gap-cb
+1|GAP-CB|-|2|2|1|Annual Medical Check Up (58.82 USD x 1 Person)|20170629|2000.00|10181631||||||ปกส มิ.ย. 2560|20170714|gap-cb|20170714|gap-cb
+1|GAP-CB|-|3|1|2|PEPFAR Strategic/Policy advocacy meeting workshop for PEPFAR/M&E Training Workshop Non-local MOPH|20161031|45883.40|10170063|20161116|-3358.40|Cash|||EA PEPFAR 03/01/2015 - ค่าพาหนะเดินทางของ Non-Local&MOPH|20170208|gap-cb|19800101|gap-cb
+1|GAP-CB|-|3|3|2|Capacity Building |20170613|129660.00|10181627|20170629|154713.40|10181630|||9th IAS in Paris|20170904|gap-cb|20170904|gap-cb
+1|GAP-CB|-|5|1|1|Meeting Document and Supply |20161031|3616.60|10170063||||||EA PEPFAR 03/11/2016|20170208|gap-cb|20170208|gap-cb
+1|GAP-CB|-|5|2|1|Office Supply |20170323|3602.63|10170078|20170331|33.99|10170079|||ซื้อวัสดุสำนักงาน|20170425|gap-cb|20170425|gap-cb
+1|GAP-CB|-|8|1|2|PEPFAR Strategic/Policy meeting workshop PEPFAR Strategic/M&E Training Workshop;local-MOPH,non-MOPH|20161031|8500.00|10170063||||||EA PEPFAR 03/11/2016 - ค่าใช้จ่ายในการประชุม, ค่าเดินทางของ Non-Local&Non-MOPH|20170208|gap-cb|19800101|gap-cb
+1|GAP-CB|-|8|2|1|Supervisory Visit/Site Monitoring local-MOPH,non-MOPH|20170607|8000.00|10181626|20170619|-3000.00|Cash|||PEPFAR SIMS @UD|20170714|gap-cb|20170714|gap-cb
+1|GAP-CB|-|8|2|3|Supervisory Visit/Site Monitoring local-MOPH,non-MOPH|20170711|14000.00|10181632|20170810|-11500.00|Cash|||PEPFAR @KK|20170904|gap-cb|20170904|gap-cb
+1|GAP-CB|-|8|3|2|Capacity Building Registration Fee|20170718|97500.00|10181633||||||Registration fee for 5 officers MOPH, on Introductory and Basic Course on Implementating e-Health for digital government|20170904|gap-cb|20170904|gap-cb
+1|GAP-CB|-|8|3|3|Capacity Building Registration Fee|20170629|74446.60|10181630|20170810|-21305.68|Cash|||9th IAS in Paris|20170904|gap-cb|20170904|gap-cb
+1|GAP-CB|-|8|4|6|Global Technical Assistance |20161130|3500.00|10170070||||||ค่าเปลี่ยนตั๋วขากลับ - 2nd training workshop HIV/AIDs estimation and projection using AIDs epidemic model and spectrum tools|20170208|gap-cb|20170208|gap-cb
+1|GAP-CB|-|8|4|9|Global Technical Assistance |20161108|39530.00|10170066|20161116|-1367.23|Cash|||Update HIV treatment and care workshop|20170208|gap-cb|20170208|gap-cb
+1|GAP-CB|-|8|4|11|Global Technical Assistance |20161109|91348.00|10170067|20161116|-8200.97|Cash|||2nd training workshop HIV/AIDs estimation and projection using AIDs epidemic model and spectrum tools|20170208|gap-cb|20170208|gap-cb
+1|GAP-CB|-|8|4|12|Global Technical Assistance |20161226|64000.00|10170073|20170113|-896.10|Cash|||3rd training workshop HIV/AIDs estimation and projection using AIDS epidemic model and spectrum tools|20170522||20170522|
+1|GAP-CB|-|8|5|1|Meeting Facilities and management |20161031|5000.00|10170063||||||EA PEPFAR 03/11/2016 - ค่าเช่าห้องประชุม|20170208|gap-cb|20170208|gap-cb
+1|GAP-CB|-|8|5|2|Meeting Facilities and management |20170607|1000.00|10181626||||||PEPFAR SIMS @UD|20170714|gap-cb|20170714|gap-cb

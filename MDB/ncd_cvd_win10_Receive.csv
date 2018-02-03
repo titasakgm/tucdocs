@@ -1,0 +1,5 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|NCD-CVD|-|20161130|1|2358.50|34.8300|82146.55||10172155,10172156|Frist draw down|20170220|NCD-CVD|20170309|NCD-CVD
+1|NCD-CVD|-|20161228|1|1031.50|35.7600|36886.44||10172176|second draw down|20170220|NCD-CVD|20170309|NCD-CVD
+1|NCD-CVD|-|20170509|3|3000.00|34.2788|102836.40||10181843|third draw down|20170518|NCD-CVD|20171016|ncd-cvd
+1|NCD-CVD|-|20170718|1|1500.00|33.7900|50685.00||10181875|four draw down|20170719|NCD-CVD|20170719|NCD-CVD

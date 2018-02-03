@@ -1,0 +1,4 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|FLU-Bangkok|-|20161025|6|14858.55|34.8300|517523.30||10170117,2127|งวดที่ 1-เช็ค0117=505,190.70 บ., เช็ค2127=12,332.60 บ.|20170207|flu-bangkok|20170214|flu-bangkok
+1|FLU-Bangkok|-|20161228|1|12937.45|35.7600|462643.21||10172183|งวดที่ 2|20170207|flu-bangkok|20170207|flu-bangkok
+1|FLU-Bangkok|-|20170428|1|11000.00|34.2788|377066.80||10181848|งวดที่ 3|20170912|flu-bangkok|20170912|flu-bangkok

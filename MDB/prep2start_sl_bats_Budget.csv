@@ -1,0 +1,42 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+2|PrEP2START-SL|BATS|1|1|0|BATS:Fulltime project coordinator 1: Ms.Nongluck Chaichana|Financial management, coordinate PeEP2Start project sites, etc,||0.00|0.00|372360.00|372360.00|Person|1|100.00|12.00|31030.00|||20170317||20170912|
+2|PrEP2START-SL|BATS|1|2|0|BATS: Fulltime project coordinator 2: (TBD)|Coordinate BATS-CARE and PrEP2Start project sites, etc.||0.00|0.00|296628.00|296628.00|Person|1|100.00|12.00|24719.00|||20170317||20170912|
+2|PrEP2START-SL|BATS|1|3|0|BATS: Overtime for 2 fulltime staffs|Nongluck C. and  (TBD)||0.00|0.00|40000.00|40000.00|Annual|||||||20170317||20170912|
+2|PrEP2START-SL|BATS|1|4|0|BATS: Compensation for government staffs (Management team)|Mrs. Nutchanart K.,Ms.Nutsara B.,Ms.Ladda S.,Ms.Pasiri T.||0.00|0.00|200452.00|200452.00|Annual|||||||20170317||20170912|
+2|PrEP2START-SL|BATS|1|5|0|BATS-PIF-App: Fulltime project assistant: Ms.Kittiya Dussadee-Arack|Coordinate MoPH websites and PrEP2Start project sites, etc.||0.00|0.00|275000.00|275000.00|Person|1|100.00|11.00|25000.00|||20170317||20170912|
+2|PrEP2START-SL|BATS|1|6|0|BATS-PIF-App: Overtime for 1 fulltime staffs|( Kittiya D.)||0.00|0.00|20000.00|20000.00|Annual|||||||20170317||20170405|
+2|PrEP2START-SL|BATS|2|1|0|BATS: Fulltime project coordinator 1: Ms.Nongluck C.|||0.00|0.00|9000.00|9000.00|Person|1|372360.00|5.00||||20170317||20170405|
+2|PrEP2START-SL|BATS|2|2|0|BATS: Fulltime project coordinator 2: (TBD)|||0.00|0.00|9000.00|9000.00|Person|1|296628.00|5.00||||20170317||20170915|
+2|PrEP2START-SL|BATS|2|3|0|BATS: Medical check-up for 2 fulltime staffs: Ms.Nongluck and (TBD)|58.82 USD x 2 persons =117.64 USD||0.00|0.00|4000.00|4000.00|Annual|||||||20170317||20170915|
+2|PrEP2START-SL|BATS|2|4|0|BATS-PIF-App: Fulltime project assistant: Ms.Kittiya D.|||0.00|0.00|9000.00|9000.00|Person|1|275000.00|5.00||||20170317||20170915|
+2|PrEP2START-SL|BATS|2|5|0|BATS-PIF-App : Medical check-up for 1 fulltime staffs: Ms.Kittiya D.|34 USD x 1 persons =58.82 USD||0.00|0.00|2000.00|2000.00|Annual|||||||20170317||20170405|
+2|PrEP2START-SL|BATS|3|1|0|BATS: Multisite meeting (participants outside BKK)|||0.00|0.00|360000.00|360000.00|Time|1|30.00|2.00|2000.00|8000.00|0.00|20170317||20170324|
+2|PrEP2START-SL|BATS|3|2|0|BATS: Advisory meeting (participants outside BKK)|||0.00|0.00|50000.00|50000.00|Time|1|5.00|1.00|2000.00|8000.00|0.00|20170317||20170331|
+2|PrEP2START-SL|BATS|3|3|0|BATS: Monitoring/sites assessments-Khon Kean Phuket and Udon|||0.00|0.00|20000.00|20000.00|Time|1|2.00|1.00|2000.00|8000.00|0.00|20170317||20170405|
+2|PrEP2START-SL|BATS|3|4|0|BATS: Transportation for management and Shipping Cost|Gas,rental, taxi, etc.||0.00|0.00|33908.00|33908.00|Annual|||||||20170324||20170405|
+2|PrEP2START-SL|BATS|3|5|0|BATS-PIF-App: Meeting to market Elearning with stakeholders|||0.00|0.00|240000.00|240000.00|Time|1|20.00|2.00|2000.00|8000.00|0.00|20170331||20170915|
+2|PrEP2START-SL|BATS|3|6|0|BATS-PIF-App: Develop monitoring of Elearning use/participants|||0.00|0.00|240000.00|240000.00|Time|2|10.00|2.00|2000.00|8000.00|0.00|20170331||20170915|
+2|PrEP2START-SL|BATS|3|7|0|BATS-PIF-App: Training of peer educators on Elearning tools|||0.00|0.00|240000.00|240000.00|Time|1|20.00|2.00|2000.00|8000.00|0.00|20170331||20170915|
+2|PrEP2START-SL|BATS|3|8|0|BATS-PIF-App: Post launch workshops to get feedback from users|||0.00|0.00|100000.00|100000.00|Time|1|10.00|1.00|2000.00|8000.00|0.00|20170331||20170915|
+2|PrEP2START-SL|BATS|5|1|0|BATS: Office supplies|||0.00|0.00|33510.00|33510.00|Month|12|2792.50|||||20170317||20170405|
+2|PrEP2START-SL|BATS|5|2|0|BATS: EQA|Bangrak and Khon Kean||0.00|0.00|7500.00|7500.00|Sites|3|2500.00|||||20170317||20170317|
+2|PrEP2START-SL|BATS|5|3|0|BATS: IQC for HIV testing|Bangrak, Khon Kean Phuket and Udon Thani||0.00|0.00|22500.00|22500.00|Box|5|4500.00|||||20170317||20170317|
+2|PrEP2START-SL|BATS|8|1|0|BATS: Technical team meeting|||0.00|0.00|36000.00|36000.00|Time|6|10.00|1.00|500.00|0.00|1000.00|20170317||20170328|
+2|PrEP2START-SL|BATS|8|2|0|BATS: Multisite meetings (local participants)|||0.00|0.00|40000.00|40000.00|Time|1|20.00|2.00|600.00|0.00|16000.00|20170317||20170405|
+2|PrEP2START-SL|BATS|8|3|0|BATS: Advisory board meeting|||0.00|0.00|12000.00|12000.00|Time|1|4.00|1.00|2000.00|0.00|4000.00|20170317||20170405|
+2|PrEP2START-SL|BATS|8|4|0|BATS: Communication cost|||0.00|0.00|19200.00|19200.00|Month|12|||||1600.00|20170405|||
+2|PrEP2START-SL|BATS|8|5|0|BATS: Website/web based|Website and online media maintenance & revision||700000.00|0.00|-0.00|700000.00|Annual|||||||20171113||20171113|
+2|PrEP2START-SL|BATS|8|6|0|BATS: Educational media/materials|Production of education mass media / printed media e.g. brouchure, booklet etc.||615414.45|0.00|-0.00|615414.45|Annual|||||||20171113||20171113|
+2|PrEP2START-SL|BATS|8|7|0|Exchange rate management|To support depreciation from the exchange rate fluctuation during budget year||0.00|281529.86|-0.00|281529.86|Annual|||||||20171113|||
+2|PrEP2START-SL|BATS|8|8|0|BATS-PIF-App: Elearning promotion & launch|||0.00|0.00|100000.00|100000.00|Month|4|||||25000.00|20170317||20171113|
+2|PrEP2START-SL|BATS|8|9|0|BATS-PIF-App: Web-based Elearning system development|Resource person||0.00|0.00|610000.00|610000.00|Time|10|10.00|1.00|3600.00|0.00|25000.00|20170317||20171113|
+2|PrEP2START-SL|BATS|8|10|0|BATS-PIF-App: Content production/Revision of contents/System|Resource person, consultation meeting, developer, workshop||0.00|0.00|360000.00|360000.00|Time|10|15.00|1.00|1800.00|0.00|9000.00|20170317||20171113|
+2|PrEP2START-SL|BATS|8|11|0|BATS-PIF-App: Technical content meeting|||0.00|0.00|72000.00|72000.00|Time|12|10.00|1.00|600.00|0.00|0.00|20170317||20171113|
+2|PrEP2START-SL|BATS|8|12|0|BATS-PIF-App: Infographic production|||0.00|0.00|480000.00|480000.00|Module|6|||||80000.00|20170331||20171113|
+2|PrEP2START-SL|BATS|8|13|0|BATS-PIF-App: Post launch workshops to get feedback from users|||0.00|0.00|6500.00|6500.00|Time|1|10.00|1.00|600.00|0.00|500.00|20170331||20171113|
+2|PrEP2START-SL|BATS|8|14|0|BATS-PIF-App: Training of peer educators on Elearning tools|||0.00|0.00|13000.00|13000.00|Time|1|10.00|2.00|600.00|0.00|1000.00|20170331||20171113|
+2|PrEP2START-SL|BATS|8|15|0|BATS-PIF-App: Incentives for Elearning|||0.00|0.00|303600.00|303600.00|Person|1012|||||300.00|20170331||20171113|
+2|PrEP2START-SL|BATS|8|16|0|BATS-PIF-App: Meeting to market Elearning with stakeholders|||0.00|0.00|24500.00|24500.00|Time|1|20.00|2.00|600.00|0.00|500.00|20170331||20171113|
+2|PrEP2START-SL|BATS|8|17|0|BATS-PIF-App: Develop monitoring of Elearning use/participants|||0.00|0.00|25000.00|25000.00|Time|2|10.00|2.00|600.00|0.00|500.00|20170331||20171113|
+2|PrEP2START-SL|BATS|8|18|0|BATS-PIF-App: Pilot Elearning system|||0.00|0.00|30000.00|30000.00|Time|1|25.00|2.00|600.00|0.00|0.00|20170331||20171113|
+2|PrEP2START-SL|BATS|8|19|0|BATS-PIF-App: Review and compile Elearning contents|4 time||0.00|0.00|100000.00|100000.00|Annual|||||||20170912||20171113|

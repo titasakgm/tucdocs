@@ -1,0 +1,129 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-EIGNA|-|1|1|0|Principle Investigator|Dr.Somchai Sangkitporn (NIH, Director)||0.00|0.00|-0.00|0.00|Person|1|20.00|12.00|0.00||||||
+1|DGHP-EIGNA|-|1|2|0|Project manager|Dr.Wantana  Paveenkittiporn (Chief, Bacteria section)||0.00|0.00|-0.00|0.00|Person|1|20.00|12.00|0.00||||||
+1|DGHP-EIGNA|-|1|3|0|Co-Investigator|Mr.Aekkawat  Unahalekhaka (Assistant chief, Bacteria section)||0.00|0.00|-0.00|0.00|Person|1|15.00|12.00|0.00||||||
+1|DGHP-EIGNA|-|1|4|0|Co-Investigator|Ms.Kantana Boonsang (Government staff)||0.00|0.00|-0.00|0.00|Person|1|15.00|12.00|0.00||||||
+1|DGHP-EIGNA|-|1|5|0|Data manager|Mr.Thanagrit Boonchaidung||0.00|0.00|252000.00|252000.00|Person|1|100.00|12.00|21000.00|||||20170519|DGHP-EIGNA
+1|DGHP-EIGNA|-|1|6|0|Laboratory technician|Miss Porntip Paopang||0.00|0.00|252000.00|252000.00|Person|1|100.00|12.00|21000.00||||||
+1|DGHP-EIGNA|-|1|7|0|Laboratory technician|Ms. Atitaya Somjitr||0.00|0.00|231120.00|231120.00|Person|1|100.00|12.00|19260.00||||||
+1|DGHP-EIGNA|-|1|8|0|Laboratory technician|Ms.Onchuda Koobkratok||0.00|0.00|231120.00|231120.00|Person|1|100.00|12.00|19260.00||||||
+1|DGHP-EIGNA|-|1|9|0|Laboratory technician|Ms.Nipaporn Chadathong||0.00|0.00|192000.00|192000.00|Person|1|100.00|12.00|16000.00||||||
+1|DGHP-EIGNA|-|1|10|0|Finance and accounting|Ms.Orathai Thongmali||0.00|0.00|216000.00|216000.00|Person|1|100.00|12.00|18000.00||||||
+1|DGHP-EIGNA|-|1|11|0|Adminsitrative Officer|Miss Panjanporn Jaiboon||0.00|0.00|192000.00|192000.00|Person|1|100.00|12.00|16000.00||||||
+1|DGHP-EIGNA|-|1|12|0|Laboratory Attendant|TBD||0.00|0.00|78000.00|78000.00|Person|1|100.00|12.00|6500.00||||||
+1|DGHP-EIGNA|-|1|13|0|Overtime for full time project staff|((40 hours* $1.76 or 60 ฿ )+(14 hours* $2.06 or 70 ฿))*12month*8 person||0.00|0.00|324480.00|324480.00|Person|8|100.00|12.00|3380.00||||||
+1|DGHP-EIGNA|-|1|14|0|Compensation for project management and laboratory advisor|Project Management: $2.06 (70฿)*40 hours/month*12 months + Lab Advisor: $2.35 (80฿)*40 hours/month*3person*12 months||0.00|0.00|148800.00|148800.00|Annual||||||||||
+1|DGHP-EIGNA|-|1|15|0|Compensation for government staff (NIH)(Media preparation)|Government staff : ($2.06(70฿)*23 hours/month* 12 months* 3 persons)||0.00|0.00|57960.00|57960.00|Annual||||||||||
+1|DGHP-EIGNA|-|2|1|0|Data manager|Miss Pawanrat Threekhan||0.00|0.00|9000.00|9000.00|Person|1|252000.00|5.00|||||||
+1|DGHP-EIGNA|-|2|2|0|Laboratory technician|Miss Porntip Paopang||0.00|0.00|9000.00|9000.00|Person|1|252000.00|5.00|||||||
+1|DGHP-EIGNA|-|2|3|0|Laboratory technician|Miss Atitaya Somjitr||0.00|0.00|9000.00|9000.00|Person|1|231120.00|5.00|||||||
+1|DGHP-EIGNA|-|2|4|0|Laboratory technician|Miss Onchuda Koobkratok||0.00|0.00|9000.00|9000.00|Person|1|231120.00|5.00|||||||
+1|DGHP-EIGNA|-|2|5|0|Laboratory technician|Ms.Nipaporn Chadathong||0.00|0.00|9000.00|9000.00|Person|1|192000.00|5.00|||||||
+1|DGHP-EIGNA|-|2|6|0|Finance and accounting|Ms.Orathai Thongmali||0.00|0.00|9000.00|9000.00|Person|1|216000.00|5.00|||||||
+1|DGHP-EIGNA|-|2|7|0|Administrative Assistant|Miss Panjanporn Jaiboon||0.00|0.00|9000.00|9000.00|Person|1|192000.00|5.00|||||||
+1|DGHP-EIGNA|-|2|8|0|Laboratory Attendant|TBD||0.00|0.00|3900.00|3900.00|Person|1|78000.00|5.00|||||||
+1|DGHP-EIGNA|-|2|9|0|Annual Medical Check up|(2,000 THB or $58.82 *8 Persons)||0.00|0.00|16000.00|16000.00|Annual||||||||||
+1|DGHP-EIGNA|-|3|1|0|Workshop/Meeting progression and information sharing on EIGNA project|(MoPH Non-Local participants of hospital network: 25 hospitals)||0.00|0.00|450000.00|450000.00|Time|1|50.00|2.00|2000.00|5000.00|0.00||||
+1|DGHP-EIGNA|-|3|1|1|Workshop/Meeting progression and information sharing on EIGNA project|(MoPH Non-Local participants of hospital network: 25 hospitals)|||||330000.00|Time|1|40.00|2.00|2000.00|4250.00|0.00|20170519|DGHP-EIGNA|20170519|DGHP-EIGNA
+1|DGHP-EIGNA|-|3|1|2|Workshop/Meeting progression and information sharing on EIGNA project|(MoPH Non-Local participants of hospital network: 25 hospitals)|||||280462.10|Time|1|35.00|2.00|2000.00|4000.00|462.10|20170526|DGHP-EIGNA|20170526|DGHP-EIGNA
+1|DGHP-EIGNA|-|3|2|0|Workshop/Meeting progression and information sharing on EIGNA project|(MoPH Non-Local resource person: NIH team)||0.00|0.00|135000.00|135000.00|Time|1|15.00|2.00|2000.00|5000.00|0.00||||
+1|DGHP-EIGNA|-|3|2|2|Workshop/Meeting progression and information sharing on EIGNA project|(MoPH Non-Local resource person: NIH team)|||||83880.00|Time|1|15.00|2.00|2000.00|1592.00|0.00|20170526|DGHP-EIGNA|20170526|DGHP-EIGNA
+1|DGHP-EIGNA|-|3|3|0|Site visits and intensive consultative visits (MoPH-Non local)|(8 Qty/12 Month)||0.00|0.00|432000.00|432000.00|Time|8|6.00|2.00|2000.00|5000.00|0.00||||
+1|DGHP-EIGNA|-|3|3|3|Site visits and intensive consultative visits (MoPH-Non local)|(8 Qty/12 Month)|||||232000.00|Time|5|5.00|2.00|2000.00|5280.00|0.00|20170810|DGHP-EIGNA|20170810|DGHP-EIGNA
+1|DGHP-EIGNA|-|3|4|0|Capacity building/Training  (MoPH Non-Local)|||0.00|0.00|138000.00|138000.00|Time|2|5.00|5.00|2000.00|3000.00|4000.00||||
+1|DGHP-EIGNA|-|3|4|2|Capacity building/Training  (MoPH Non-Local)||||||113000.00|Time|2|5.00|4.00|2000.00|3300.00|0.00|20170526|DGHP-EIGNA|20170526|DGHP-EIGNA
+1|DGHP-EIGNA|-|3|5|0|International Training (MoPH Non-Local)|||0.00|0.00|224220.00|224220.00|Time|1|1.00|14.00|9730.00|80000.00|8000.00||||
+1|DGHP-EIGNA|-|3|5|2|International Training (MoPH Non-Local)||||||394958.43|Time|1|2.00|14.00|9730.00|55000.00|12518.43|20170526|DGHP-EIGNA|20170526|DGHP-EIGNA
+1|DGHP-EIGNA|-|3|6|2|Transportation cost|Transportation cost for project staff|||||12000.00|Time|12|1.00|1.00|0.00|1000.00|0.00|20170526|DGHP-EIGNA|20170526|DGHP-EIGNA
+1|DGHP-EIGNA|-|4|1|0|Automated antimicrobial susceptibility testing|||0.00|0.00|1300000.00|1300000.00|1|1|1300000.00||||||||
+1|DGHP-EIGNA|-|4|1|1|Automated antimicrobial susceptibility testing||||||1420000.00|1|1|1420000.00|||||20170519|DGHP-EIGNA|20170519|DGHP-EIGNA
+1|DGHP-EIGNA|-|5|1|0|Lab supplies|See budget justification||0.00|0.00|636000.00|636000.00||12|53000.00||||||||
+1|DGHP-EIGNA|-|5|2|0|Lab reagent at NIH Reagent for detection|Reagent for detection||0.00|0.00|2067430.00|2067430.00||10|206743.00||||||||
+1|DGHP-EIGNA|-|5|2|3|Lab reagent at NIH Reagent for detection|Reagent for detection|||||2367930.00||10|236793.00|||||20170810|DGHP-EIGNA|20170810|DGHP-EIGNA
+1|DGHP-EIGNA|-|5|3|0|Office supplies|See budget justificaiton||0.00|0.00|42000.00|42000.00||12|3500.00||||||||
+1|DGHP-EIGNA|-|5|4|0|Computer Supplies and Software|(eg.Anti-virus,update new window)||0.00|0.00|7000.00|7000.00||7|1000.00||||||||
+1|DGHP-EIGNA|-|6|1|0|Professional adviser and special laboratory test services|(Dr. Anusak  Kerdsin) see budget justification||0.00|0.00|120000.00|120000.00|Month|12|10000.00||||||||
+1|DGHP-EIGNA|-|8|1|0|Sample Collection reimbursement|||0.00|0.00|450000.00|450000.00|Sample|3000|||||150.00||||
+1|DGHP-EIGNA|-|8|1|3|Sample Collection reimbursement||||||349500.00|Sample|2330|||||150.00|20170810|DGHP-EIGNA|20170810|DGHP-EIGNA
+1|DGHP-EIGNA|-|8|2|0|Specimen shipping and transportation|||0.00|0.00|50000.00|50000.00|Sample|500|||||100.00||||
+1|DGHP-EIGNA|-|8|2|2|Specimen shipping and transportation||||||68000.00|Sample|680|||||100.00|20170526|DGHP-EIGNA|20170526|DGHP-EIGNA
+1|DGHP-EIGNA|-|8|3|0|Standard guideline,CLSI,text book|||0.00|0.00|50000.00|50000.00|Sample|1|||||50000.00||||
+1|DGHP-EIGNA|-|8|4|0| Communication cost|Internet access fee,Telephone fee||0.00|0.00|30000.00|30000.00|Month|12|||||2500.00||||
+1|DGHP-EIGNA|-|8|5|0|Lab instruments calibration and lab equipments maintennance|||0.00|0.00|80000.00|80000.00|Set|5|||||16000.00||||
+1|DGHP-EIGNA|-|8|6|0|Experts and working group meeting to monitor and evaluation the project implementation (MoPH local)|||0.00|0.00|1800.00|1800.00|Time|1|3.00|1.00|600.00|0.00|0.00||||
+1|DGHP-EIGNA|-|8|7|0|Experts and working group meeting to monitor and evaluation the project implementation (Non-MoPH, Non- local)|||0.00|0.00|2200.00|2200.00|Time|1|2.00|1.00|600.00|500.00|0.00||||
+1|DGHP-EIGNA|-|8|8|0|Meeting/Workshop Facilities|Meeting material for support each meeting||0.00|0.00|53350.00|53350.00|Time|2|0.00|0.00|0.00|0.00|26675.00||||
+1|DGHP-EIGNA|-|8|8|2|Meeting/Workshop Facilities|Meeting material for support each meeting|||||25357.47|Time|1|0.00|0.00|0.00|0.00|25357.47|20170526|DGHP-EIGNA|20170526|DGHP-EIGNA
+1|DGHP-EIGNA|-|8|9|0|Transportation Cost|Transportation cost for project staff||0.00|0.00|12000.00|12000.00|Time|12|0.00|0.00|0.00|0.00|1000.00||||
+1|DGHP-EIGNA|-|8|9|2|Transportation Cost|Transportation cost for project staff|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170526|DGHP-EIGNA|20170526|DGHP-EIGNA
+1|DGHP-EIGNA|-|8|10|0|Paper and Poster preparation and publication fee|Publication activities||0.00|0.00|20000.00|20000.00|Time|1|0.00|0.00|0.00|0.00|20000.00||||
+1|DGHP-EIGNA|-|8|11|0|Summary report preparation and publish|||0.00|0.00|100000.00|100000.00|Set|250|||||400.00||||
+1|DGHP-EIGNA|-|8|12|0|Lingkage of Clinical & Microbiology data (GLASS) cost|||0.00|0.00|400000.00|400000.00|Site|2|||||200000.00||||
+1|DGHP-EIGNA|-|8|13|0|Workshop/Meeting progression and information sharing on EIGNA project|(Non-MoPH, Non-Local : Private hospital)||0.00|0.00|27000.00|27000.00|Time|1|3.00|2.00|2000.00|5000.00|0.00||||
+1|DGHP-EIGNA|-|8|13|2|Workshop/Meeting progression and information sharing on EIGNA project|(Non-MoPH, Non-Local : Private hospital)|||||8800.00|Time|1|2.00|2.00|2000.00|400.00|0.00|20170526|DGHP-EIGNA|20170526|DGHP-EIGNA
+1|DGHP-EIGNA|-|8|14|0|Workshop/Meeting progression and information sharing on EIGNA project|(Non-MoPH Non-Local participants: Resource person)||0.00|0.00|81000.00|81000.00|Time|1|5.00|2.00|2000.00|5000.00|36000.00||||
+1|DGHP-EIGNA|-|8|14|2|Workshop/Meeting progression and information sharing on EIGNA project|(Non-MoPH Non-Local participants: Resource person)|||||39112.00|Time|1|5.00|2.00|2000.00|2000.00|9112.00|20170526|DGHP-EIGNA|20170526|DGHP-EIGNA
+1|DGHP-EIGNA|-|8|15|0|Capacity building/Training (MoPH local)|||0.00|0.00|5800.00|5800.00|Time|1|3.00|3.00|0.00|600.00|4000.00||||
+1|DGHP-EIGNA|-|8|15|2|Capacity building/Training (MoPH local)||||||30800.00|Time|2|3.00|3.00|0.00|600.00|13600.00|20170526|DGHP-EIGNA|20170526|DGHP-EIGNA
+1|DGHP-EIGNA|-|8|16|0|The proficiency testing|||0.00|0.00|50000.00|50000.00|Time|1|0.00|0.00|0.00|0.00|50000.00||||
+2|DGHP-EIGNA|-|1|1|0|Principle Investigator|Dr.Somchai Sangkitporn (NIH, Director)||0.00|0.00|-0.00|0.00|Person|1|20.00|12.00|0.00|||20170223||20170223|
+2|DGHP-EIGNA|-|1|2|0|Project manager|Dr.Wantana  Paveenkittiporn (Chief, Bacteria section)||0.00|0.00|-0.00|0.00|Person|1|20.00|12.00|0.00|||20170223|||
+2|DGHP-EIGNA|-|1|3|0|Co-Investigator|Mr.Aekkawat  Unahalekhaka (Assistant chief, Bacteria section)||0.00|0.00|-0.00|0.00|Person|1|15.00|12.00|0.00|||20170223|||
+2|DGHP-EIGNA|-|1|4|0|Co-Investigator|Ms.Kantana Boonsang (Government staff)||0.00|0.00|-0.00|0.00|Person|1|15.00|12.00|0.00|||20170223||20170223|
+2|DGHP-EIGNA|-|1|5|0|Data manager|Kusuma Klinpueng||0.00|200000.00|52000.00|252000.00|Person|1|100.00|12.00|21000.00|||20170223||20171005|
+2|DGHP-EIGNA|-|1|6|0|Laboratory technician|Miss Porntip Paopang||0.00|0.00|252000.00|252000.00|Person|1|100.00|12.00|21000.00|||20170223||20170329|
+2|DGHP-EIGNA|-|1|7|0|Laboratory technician|Miss Atitaya Somjitr||0.00|0.00|239760.00|239760.00|Person|1|100.00|12.00|19980.00|||20170223||20170314|
+2|DGHP-EIGNA|-|1|8|0|Laboratory technician|Miss Onchuda Koobkratok||0.00|0.00|239760.00|239760.00|Person|1|100.00|12.00|19980.00|||20170223||20170314|
+2|DGHP-EIGNA|-|1|9|0|Laboratory technician|Miss Nipaporn Chadathong||0.00|0.00|216000.00|216000.00|Person|1|100.00|12.00|18000.00|||20170223||20170309|
+2|DGHP-EIGNA|-|1|10|0|Finance and accounting|Miss Orathai Thongmali||0.00|0.00|228960.00|228960.00|Person|1|100.00|12.00|19080.00|||20170223||20170309|
+2|DGHP-EIGNA|-|1|11|0|Adminsitrative Officer|Miss Panjanporn Jaiboon||0.00|0.00|192000.00|192000.00|Person|1|100.00|12.00|16000.00|||20170223||20170223|
+2|DGHP-EIGNA|-|1|12|0|Laboratory attendant|TBD||0.00|0.00|84000.00|84000.00|Person|1|100.00|12.00|7000.00|||20170223||20170329|
+2|DGHP-EIGNA|-|1|13|0|Overtime for full time project staff|(40 hours* $1.76 or 60 ฿ )+(14 hours* $2.06 or 70 ฿))*12month*8 person)||0.00|0.00|324480.00|324480.00|Annual|||||||20170223||20170809|
+2|DGHP-EIGNA|-|1|14|0|Compensation for project management and laboratory advisor|Project Management: $2.06 (70฿)*40 hours/month*12 months + Lab Advisor: $2.06(70฿)*40 hours/month*3person*12 months||0.00|0.00|134400.00|134400.00|Annual|||||||20170223||20170329|
+2|DGHP-EIGNA|-|1|15|0|Compensation for government staff (NIH)(Media preparation)|Government staff : ($2.06(70฿)*18 hours/month*12 months*3 persons)+ ($2.06(70฿)*17 hours/month*12 months*1 person)||0.00|0.00|59640.00|59640.00|Annual|||||||20170223||20170224|
+2|DGHP-EIGNA|-|2|1|0|Data manager|Thanagrit Boonchaidung||0.00|0.00|9000.00|9000.00|Person|1|252000.00|5.00||||20170223||20170329|
+2|DGHP-EIGNA|-|2|2|0|Laboratory technician|Miss Porntip Paopang||0.00|0.00|9000.00|9000.00|Person|1|252000.00|5.00||||20170223||20170223|
+2|DGHP-EIGNA|-|2|3|0|Laboratory technician|Miss Atitaya Somjitr||0.00|0.00|9000.00|9000.00|Person|1|231120.00|5.00||||20170223|||
+2|DGHP-EIGNA|-|2|4|0|Laboratory technician|Miss Onchuda Koobkratok||0.00|0.00|9000.00|9000.00|Person|1|231120.00|5.00||||20170223||20170223|
+2|DGHP-EIGNA|-|2|5|0|Laboratory technician|Ms.Nipaporn Chadathong||0.00|0.00|9000.00|9000.00|Person|1|192000.00|5.00||||20170223|||
+2|DGHP-EIGNA|-|2|6|0|Finance and accounting|Ms.Orathai Thongmali||0.00|0.00|9000.00|9000.00|Person|1|216000.00|5.00||||20170223|||
+2|DGHP-EIGNA|-|2|7|0|Adminsitrative Officer|Miss Panjanporn Jaiboon||0.00|0.00|9000.00|9000.00|Person|1|192000.00|5.00||||20170223|||
+2|DGHP-EIGNA|-|2|8|0|Laboratory attendant|TBD||0.00|0.00|4200.00|4200.00|Person|1|84000.00|5.00||||20170223||20170329|
+2|DGHP-EIGNA|-|2|9|0|Annual Medical Check up|(2,000 THB or $58.82 *8 Persons)||0.00|0.00|16000.00|16000.00|Annual|||||||20170223||20170224|
+2|DGHP-EIGNA|-|3|1|0|Workshop/Meeting progression and information sharing on EIGNA project|(MoPH Non-Local,Non-MoPH Non-Local)||315000.00|0.00|472500.00|787500.00|Time|1|75.00|2.00|2000.00|6500.00|0.00|20170223||20171006|
+2|DGHP-EIGNA|-|3|2|0|Workshop/Meeting progression and information sharing on EIGNA project|(MoPH Non-Local resource person: (วิทยากรสังกัดกระทรวงสาธารณสุข))||0.00|0.00|46000.00|46000.00|Time|1|5.00|2.00|2000.00|4000.00|6000.00|20170223||20170324|
+2|DGHP-EIGNA|-|3|3|0|Site visits and intensive consultative visits (MoPH-Non local)|(8 Qty/12 Month)||153000.00|0.00|102000.00|255000.00|Time|6|5.00|2.00|2000.00|4500.00|0.00|20170223||20171006|
+2|DGHP-EIGNA|-|3|4|0|Capacity building/Training|(MoPH Non-Local)||48000.00|0.00|96000.00|144000.00|Time|3|6.00|3.00|2000.00|2000.00|0.00|20170223||20171006|
+2|DGHP-EIGNA|-|3|5|0|International Training|(MoPH Non-Local)||97300.00|0.00|237300.00|334600.00|Time|1|2.00|10.00|9730.00|70000.00|0.00|20170223||20171006|
+2|DGHP-EIGNA|-|3|6|0|Transportation Cost|Transportation cost for project staff||0.00|0.00|14400.00|14400.00|Time|12|1.00|1.00|0.00|1200.00|0.00|20170309||20170809|
+2|DGHP-EIGNA|-|4|1|0|Densitometer|(เครื่องวัดความขุ่น)||0.00|0.00|50000.00|50000.00|set|1|50000.00|||||20170223||20170928|
+2|DGHP-EIGNA|-|4|2|0|Bacti-Cinerator|||0.00|0.00|60000.00|60000.00|set|2|30000.00|||||20170223||20170329|
+2|DGHP-EIGNA|-|4|3|0|Laser Pointer|||0.00|0.00|5000.00|5000.00|set|1|5000.00|||||20170223||20170317|
+2|DGHP-EIGNA|-|4|4|0|Camera|||0.00|0.00|30000.00|30000.00|set|1|30000.00|||||20170223||20170309|
+2|DGHP-EIGNA|-|4|5|0|Digital Voice Recorder|||0.00|0.00|5000.00|5000.00|set|1|5000.00|||||20170223||20170309|
+2|DGHP-EIGNA|-|4|6|0|Laptop|||0.00|0.00|40000.00|40000.00|set|1|40000.00|||||20170309||20170317|
+2|DGHP-EIGNA|-|4|7|0|Automated antimicrobial susceptibility testing|||0.00|0.00|1417750.00|1417750.00|set|1|1417750.00|||||20170907||20170911|
+2|DGHP-EIGNA|-|5|1|0|Lab supplies|See budget justification||420000.00|0.00|240000.00|660000.00|Month|12|55000.00|||||20170223||20171006|
+2|DGHP-EIGNA|-|5|2|0|Lab reagent at NIH Reagent for detection|Reagent for detection||928970.00|0.00|556330.00|1485300.00|Month|12|123775.00|||||20170223||20171006|
+2|DGHP-EIGNA|-|5|3|0|Office supplies|||12000.00|0.00|24000.00|36000.00|Month|12|3000.00|||||20170223||20171006|
+2|DGHP-EIGNA|-|5|4|0|Computer Supplies and Software|(eg.Anti-virus,update new window)||2700.00|0.00|6300.00|9000.00|set|1|9000.00|||||20170223||20171006|
+2|DGHP-EIGNA|-|6|1|0|Professional adviser and special laboratory test services|(Dr. Anusak  Kerdsin) see budget justification||20000.00|0.00|120000.00|140000.00|Month|10|14000.00|||||20170223||20171006|
+2|DGHP-EIGNA|-|6|2|0|Data analyst|(TBD) see budget justification||0.00|0.00|30000.00|30000.00|Quarter|3|10000.00|||||20170331||20170929|
+2|DGHP-EIGNA|-|6|3|0|Information Technology Specialist|(TBD) see budget justification||35492.00|84508.00|-0.00|120000.00|Quarter|4|30000.00|||||20170929||20171006|
+2|DGHP-EIGNA|-|8|1|0|Sample Collection reimbursement|||270000.00|0.00|-0.00|270000.00|Sample|1800|||||150.00|20170223||20171006|
+2|DGHP-EIGNA|-|8|2|0|Specimen shipping and transportation|||0.00|0.00|24000.00|24000.00|Sample|240|||||100.00|20170223||20170911|
+2|DGHP-EIGNA|-|8|3|0|Standard guideline,CLSI,text book|||0.00|0.00|31000.00|31000.00|Set|1|||||31000.00|20170223||20170809|
+2|DGHP-EIGNA|-|8|4|0|Communication cost|Internet access fee,Telephone fee||0.00|0.00|24000.00|24000.00|Month|12|||||2000.00|20170223||20170809|
+2|DGHP-EIGNA|-|8|5|0|Lab instruments calibration and lab equipments maintennance|||0.00|250000.00|-0.00|250000.00|Set|5|||||50000.00|20170223||20171003|
+2|DGHP-EIGNA|-|8|6|0|Experts and working group meeting to monitor and evaluation the project implementation (MoPH local)ประชุมผู้เชี่ยวชาญ|||0.00|0.00|24000.00|24000.00|Time|2|10.00|1.00|600.00|500.00|1000.00|20170223||20170309|
+2|DGHP-EIGNA|-|8|7|0|Meeting/Workshop Facilities|Meeting material for support each meeting||22803.93|0.00|44744.00|67547.93|Time|1|0.00|0.00|0.00|0.00|67547.93|20170223||20171006|
+2|DGHP-EIGNA|-|8|8|0|Paper and Poster preparation and publication fee|||0.00|0.00|3500.00|3500.00|Time|1|0.00|0.00|0.00|0.00|3500.00|20170223||20170817|
+2|DGHP-EIGNA|-|8|9|0|Summary report preparation and publish|||0.00|10000.00|70000.00|80000.00|Set|200|||||400.00|20170223||20171006|
+2|DGHP-EIGNA|-|8|10|0|Lingkage of Clinical & Microbiology data (GLASS) cost|||0.00|0.00|150000.00|150000.00|Site|1|||||150000.00|20170223||20170809|
+2|DGHP-EIGNA|-|8|11|0|Workshop/Meeting progression and information sharing on EIGNA project|(Non-MoPH, Non-Local )(ผู้เข้าร่วมประชุมนอกสังกัดกระทรวงสาธารณสุข)||0.00|0.00|16500.00|16500.00|Time|1|3.00|2.00|2000.00|1500.00|0.00|20170223||20170821|
+2|DGHP-EIGNA|-|8|12|0|Workshop/Meeting progression and information sharing on EIGNA project|(Non-MoPH Non-Local resource person:(วิทยากรนอกสังกัดกระทรวงสาธารณสุข) )||35000.00|10000.00|51000.00|96000.00|Time|1|10.00|2.00|2000.00|5000.00|6000.00|20170223||20171006|
+2|DGHP-EIGNA|-|8|13|0|Site visits and intensive consultative visits (Non-MoPH Non local)|(8 Qty/12 Month)(ผู้ร่วมนิเทศนอกสังกัดกระทรวงสาธารณสุข)||0.00|0.00|111000.00|111000.00|Time|6|2.00|2.00|2000.00|5250.00|0.00|20170223||20170907|
+2|DGHP-EIGNA|-|8|14|0|Miscellaneous expenses of Travel and training|( i.e. passport fee, visa fee, insurance, registration fee,bank fees,etc)||10000.00|0.00|30000.00|40000.00|Time|2|0.00|0.00|0.00|0.00|20000.00|20170324||20171006|
+2|DGHP-EIGNA|-|8|15|0|Technical working group meeting|Local MoPH i.e. Project manager,Co-Investigator,Project staff||10000.00|56000.00|-0.00|66000.00|Time|10|11.00|1.00|600.00|0.00|0.00|20170821||20171006|
+2|DGHP-EIGNA|-|8|16|0|Compensation for hospital network staff Local MoPH|see justification||10000.00|20000.00|-0.00|30000.00|Time|5|10.00|1.00|600.00|0.00|0.00|20170821||20171006|
+2|DGHP-EIGNA|-|8|17|0|Exchange rate management|Exchange rate management see justification||0.00|208000.00|-0.00|208000.00|Annual|||||||20170911||20171004|

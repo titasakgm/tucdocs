@@ -1,0 +1,4 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-IPC|-|20161025|9|16981.18|34.8300|591454.38||10172107|รับเงินงวดที่ 1 #10172137 (ส่วนต่างอัตราแลกเปลี่ยน 0.83 บาท/เหรียญสหรัฐ)|20170119|dghp-ipc|20170209|dghp-ipc
+1|DGHP-IPC|-|20161228|2|17440.82|35.7600|623683.85||10172193|รับเงินงวดที่ 2 (ส่วนต่างอัตราแลกเปลี่ยน 1.76 บาท/เหรียญสหรัฐ)|20170127|dghp-ipc|20170209|dghp-ipc
+1|DGHP-IPC|-|20170428|2|10000.00|34.2788|342788.00||10181856|รับเงินงวดที่ 3 (ส่วนต่างอัตราแลกเปลี่ยน 0.28 บาท/เหรียญสหรัฐ)|20170428|dghp-ipc|20170428|dghp-ipc

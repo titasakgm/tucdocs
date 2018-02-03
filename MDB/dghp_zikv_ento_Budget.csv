@@ -1,0 +1,32 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+2|DGHP-ZIKV-Ento|-|1|1|0|Compensation for Researcher|Preecha Prempree, BVBD Director||0.00|72000.00|-0.00|72000.00|Person|1|100.00|9.00|8000.00|||20170313||20170823|
+2|DGHP-ZIKV-Ento|-|1|2|0|Compensation for Researcher|Darin Areechokchai||0.00|90000.00|-0.00|90000.00|Person|1|100.00|9.00|10000.00|||20170313||20170823|
+2|DGHP-ZIKV-Ento|-|1|3|0|Compensation for Researcher|Piti Mongkhalangkun||0.00|90000.00|-0.00|90000.00|Person|1|100.00|9.00|10000.00|||20170313||20170823|
+2|DGHP-ZIKV-Ento|-|1|4|0|Compensation for Researcher|Piraporn Utchi||0.00|90000.00|-0.00|90000.00|Person|1|100.00|9.00|10000.00|||20170313||20170823|
+2|DGHP-ZIKV-Ento|-|1|5|0|Compensation for Researcher - Entomologist Lead (1) - Bueng Kan province|Kittiphit Chantee||0.00|63000.00|-0.00|63000.00|Person|1|100.00|9.00|7000.00|||20170313||20170823|
+2|DGHP-ZIKV-Ento|-|1|6|0|Compensation for Researcher - Entomologist Lead (2) - Mukdahan province|Petchaboon Poolphol||0.00|63000.00|-0.00|63000.00|Person|1|100.00|9.00|7000.00|||20170313||20170823|
+2|DGHP-ZIKV-Ento|-|1|7|0|Compensation for Researcher - Entomologists|||0.00|270000.00|-0.00|270000.00|Person|6|100.00|9.00|5000.00|||20170313||20170823|
+2|DGHP-ZIKV-Ento|-|1|8|0|Financial Management Officer|TBD||0.00|180000.00|60000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170313||20170906|
+2|DGHP-ZIKV-Ento|-|1|9|0|Overtime for full time staff|[60 THB/hr ($1.76) x 30hrs x 9months] x 1 person||0.00|16200.00|-0.00|16200.00|Annual|||||||20170313||20170823|
+2|DGHP-ZIKV-Ento|-|1|10|0|Compensation for government staff (Lab Technologist)|[80 THB/hr ($2.35) x 34hrs x 9months] x 7 persons||0.00|171360.00|-0.00|171360.00|Annual|||||||20170313||20170823|
+2|DGHP-ZIKV-Ento|-|2|1|0|Financial Management Officer|TBD||0.00|6750.00|2250.00|9000.00|Person|1|240000.00|5.00||||20170313||20170906|
+2|DGHP-ZIKV-Ento|-|2|2|0|Annual Medical Checkup for fulltime staff|$58.82 (2,000 THB) x 1 person||0.00|2000.00|-0.00|2000.00|Annual|||||||20170313||20170315|
+2|DGHP-ZIKV-Ento|-|3|1|0|Supervisory visits of district BVBD staff to field sites|Non-local participants (MOPH and CoAg staff)||0.00|544000.00|32000.00|576000.00|Time|18|8.00|2.00|2000.00|0.00|0.00|20170313||20170906|
+2|DGHP-ZIKV-Ento|-|3|2|0|Supervisory and monitoring visit of BVBD staff from Bangkok to sites|Non-local participants (MOPH and CoAg staff)||0.00|478500.00|43500.00|522000.00|Time|12|3.00|4.00|2000.00|6500.00|0.00|20170313||20170906|
+2|DGHP-ZIKV-Ento|-|3|3|0|Local transportation (gas, taxi, car rental)|$191.76/trip (6,520THB) x 30 trips||0.00|195600.00|-0.00|195600.00|Annual|||||||20170313||20170824|
+2|DGHP-ZIKV-Ento|-|3|4|0|International travel|TBD||0.00|0.00|-0.00|0.00|Annual|||||||20170824|||
+2|DGHP-ZIKV-Ento|-|4|1|0|Freezer -80c|1 unit x $17,740||0.00|603160.00|-0.00|603160.00|Time|1|603160.00|||||20170823||20170918|
+2|DGHP-ZIKV-Ento|-|4|2|0|Spray Machines|4 units x $205||0.00|28000.00|-0.00|28000.00|Time|4|7000.00|||||20170823||20170823|
+2|DGHP-ZIKV-Ento|-|4|3|0|Spectrophotometer|1 unit x $11,000||0.00|374000.00|-0.00|374000.00|Time|1|374000.00|||||20170823||20170918|
+2|DGHP-ZIKV-Ento|-|4|4|0|Portable freezer -20c|2 units x $1,750||0.00|119000.00|-0.00|119000.00|Time|2|59500.00|||||20170823||20170823|
+2|DGHP-ZIKV-Ento|-|4|5|0|Computer|1 unit x $1,000||0.00|34000.00|-0.00|34000.00|Time|1|34000.00|||||20170823||20170823|
+2|DGHP-ZIKV-Ento|-|4|6|0|Printer|1 unit x $500||0.00|17011.00|-0.00|17011.00|Time|1|17011.00|||||20170823||20170823|
+2|DGHP-ZIKV-Ento|-|5|1|0|PCR reagents|Reagent for 525 locations x 18 weeks = 9,450 reactions x $2.23 (75.71 THB)per reaction||0.00|716499.00|-0.00|716499.00|Annual|||||||20170313||20170823|
+2|DGHP-ZIKV-Ento|-|6|1|0|Software development|1 time x $20,167.65||0.00|685700.00|-0.00|685700.00|Time|1|685700.00|||||20170915|||
+2|DGHP-ZIKV-Ento|-|8|1|0|Specimen, document, package shipment|$211.76 (7,200THB)/month x 9 months||0.00|57600.00|7200.00|64800.00|Month|9|0.00|0.00|0.00|0.00|7200.00|20170313||20170906|
+2|DGHP-ZIKV-Ento|-|8|2|0|Compensation for research participants (case)|$8.82 (300THB)/case x 175 cases||0.00|42900.00|9600.00|52500.00|Case|175|||||300.00|20170313||20170906|
+2|DGHP-ZIKV-Ento|-|8|3|0|Compensation for research participants (control)|$8.82 (300THB)/case x 350 cases||0.00|85800.00|19200.00|105000.00|Case|350|||||300.00|20170313||20170906|
+2|DGHP-ZIKV-Ento|-|8|4|0|Information meeting|Local, Non-MOPH staff||0.00|151200.00|16800.00|168000.00|Time|10|14.00|2.00|600.00|0.00|0.00|20170313||20170906|
+2|DGHP-ZIKV-Ento|-|8|5|0|Printing and photocopying|$88.23 (3,000THB)/month x 9 months||0.00|27000.00|-0.00|27000.00|Month|9|||||3000.00|20170313||20170823|
+2|DGHP-ZIKV-Ento|-|8|6|0|Meeting facilities|$51.47 (1,750THB)/time x 10 times||0.00|15610.00|1890.00|17500.00|Time|10|0.00|0.00|0.00|0.00|1750.00|20170313||20170906|
+2|DGHP-ZIKV-Ento|-|8|7|0|Exchange Rate Management|To support depreciation from the exchange rate fluctuation||0.00|166158.00|-0.00|166158.00|Annual|||||||20170313||20170915|

@@ -1,0 +1,82 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-SevPn|-|1|2|2|Administrative and Financial Assistant TBD|20161025|23000.00|10167642||||||ค่าจ้างเดือนต.ค.59|20170130|dghp-sevpn|20170130|dghp-sevpn
+1|DGHP-SevPn|-|1|2|3|Administrative and Financial Assistant TBD|20161125|23000.00|10167647||||||ค่าจ้างเดือนพ.ย.59|20170130|dghp-sevpn|20170130|dghp-sevpn
+1|DGHP-SevPn|-|1|2|4|Administrative and Financial Assistant TBD|20161226|23000.00|10167650||||||ค่าจ้างเดือนธ.ค.59|20170130|dghp-sevpn|20170130|dghp-sevpn
+1|DGHP-SevPn|-|1|2|5|Administrative and Financial Assistant TBD|20170125|23000.00|10167657||||||ค่าจ้างเดือนม.ค.60|20170130|dghp-sevpn|20170130|dghp-sevpn
+1|DGHP-SevPn|-|1|2|6|Administrative and Financial Assistant TBD|20160930|23000.00|10167641||||||ค่าจ้างเดือนก.ย.59|20170130|dghp-sevpn|20170202|dghp-sevpn
+1|DGHP-SevPn|-|1|2|7|Administrative and Financial Assistant TBD|20170227|23000.00|10191708||||||ค่าจ้างเดือนก.พ.60|20170224|dghp-sevpn|20170224|dghp-sevpn
+1|DGHP-SevPn|-|1|2|8|Administrative and Financial Assistant TBD|20170327|23000.00|10191716||||||ค่าจ้างเดือนมี.ค.60|20170418|dghp-sevpn|20170418|dghp-sevpn
+1|DGHP-SevPn|-|1|2|9|Administrative and Financial Assistant TBD|20170425|23000.00|10191724||||||ค่าจ้างเดือนเม.ย.60|20170421|dghp-sevpn|20170421|dghp-sevpn
+1|DGHP-SevPn|-|1|2|10|Administrative and Financial Assistant TBD|20170525|23000.00|10191730||||||ค่าจ้างเดือนพ.ค.60|20170602|dghp-sevpn|20170602|dghp-sevpn
+1|DGHP-SevPn|-|1|2|11|Administrative and Financial Assistant TBD|20170626|23000.00|10191737||||||ค่าจ้างเดือน มิ.ย.60|20170622|dghp-sevpn|20170622|dghp-sevpn
+1|DGHP-SevPn|-|1|2|13|Administrative and Financial Assistant TBD|20170725|23000.00|10219244||||||ค่าจ้างเดือน ก.ค.60|20170807|dghp-sevpn|20170807|dghp-sevpn
+1|DGHP-SevPn|-|1|2|15|Administrative and Financial Assistant TBD|20170825|23000.00|10219248||||||ค่าจ้างเดือน ส.ค.60|20170807|dghp-sevpn|20170807|dghp-sevpn
+1|DGHP-SevPn|-|1|4|1|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20161226|2160.00|10167654||||||ค่าโอทีเดือนพ.ย.59/ศรินยา ไชยยา|20170130|dghp-sevpn|20170130|dghp-sevpn
+1|DGHP-SevPn|-|1|4|2|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20170130|1800.00|10167660||||||ค่าโอทีเดือนธ.ค.59/ดวงรัตน์ ร่วมพุ่ม|20170208|dghp-sevpn|20170208|dghp-sevpn
+1|DGHP-SevPn|-|1|4|3|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20170130|1800.00|10191704||||||ค่าโอทีเดือนธ.ค.59/ศริญญา ไชยยา|20170208|dghp-sevpn|20170208|dghp-sevpn
+1|DGHP-SevPn|-|1|4|7|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20170201|1800.00|10191703||||||ค่าโอทีเดือนม.ค.60/ศริญญา ไชยยา|20170208|dghp-sevpn|20170208|dghp-sevpn
+1|DGHP-SevPn|-|1|4|8|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20170201|1800.00|10191702||||||ค่าโอทีเดือนม.ค.60/ดวงรัตน์ ร่วมพุ่ม|20170208|dghp-sevpn|20170208|dghp-sevpn
+1|DGHP-SevPn|-|1|4|10|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20170331|1800.00|10191720||||||ค่าโอทีเดือนมี.ค.60/ศริญญา ไชยยา|20170418|dghp-sevpn|20170418|dghp-sevpn
+1|DGHP-SevPn|-|1|4|11|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20170301|1800.00|10191711||||||ค่าโอทีเดือนก.พ.60/ศริญญา ไชยยา|20170418|dghp-sevpn|20170418|dghp-sevpn
+1|DGHP-SevPn|-|1|4|13|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20170301|1800.00|10191712||||||ค่าโอทีเดือนก.พ.60/ดวงรัตน์ ร่วมพุ่ม|20170418|dghp-sevpn|20170418|dghp-sevpn
+1|DGHP-SevPn|-|1|4|15|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20170331|1800.00|10191721||||||ค่าโอทีเดือนมี.ค.60/ดวงรัตน์ ร่วมพุ่ม|20170418|dghp-sevpn|20170418|dghp-sevpn
+1|DGHP-SevPn|-|1|4|22|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20170531|1800.00|10191733||||||ค่าโอทีเดือนพ.ค.60/ศริญญา ไชยยา|20170602|dghp-sevpn|20170602|dghp-sevpn
+1|DGHP-SevPn|-|1|4|24|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20170531|1800.00|10191734||||||ค่าโอทีเดือนพ.ค.60/ดวงรัตน์ ร่วมพุ่ม|20170602|dghp-sevpn|20170602|dghp-sevpn
+1|DGHP-SevPn|-|1|4|26|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20170630|1800.00|10191740||||||ค่าโอทีเดือนมิ.ย.60/ศริญญา ไชยยา|20170622|dghp-sevpn|20170622|dghp-sevpn
+1|DGHP-SevPn|-|1|4|28|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20170630|1800.00|10219241||||||ค่าโอทีเดือนมิ.ย.60/ดวงรัตน์ ร่วมพุ่ม|20170622|dghp-sevpn|20170622|dghp-sevpn
+1|DGHP-SevPn|-|1|4|29|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20170425|1800.00|10191727||||||ค่าโอทีเดือนเม.ย.60/ศริญญา ไชยยา|20170421|dghp-sevpn|20170921|dghp-sevpn
+1|DGHP-SevPn|-|1|4|30|Overtime  ($1.76 X 2hrs/mnths) x 12 mnthsx3 persons|20170425|1800.00|10191728||||||ค่าโอทีเดือนเม.ย.60/ดวงรัตน์ ร่วมพุ่ม|20170421|dghp-sevpn|20170921|dghp-sevpn
+1|DGHP-SevPn|-|2|2|1|Administrative and Financial Assistant  TBD|20161025|750.00|10167643||||||ค่าประกันสังคมเดือนก.ย.59|20170130|dghp-sevpn|20170130|dghp-sevpn
+1|DGHP-SevPn|-|2|2|2|Administrative and Financial Assistant  TBD|20161025|750.00|10167644||||||ค่าประกันสังคมเดือนต.ค.59|20170130|dghp-sevpn|20170130|dghp-sevpn
+1|DGHP-SevPn|-|2|2|3|Administrative and Financial Assistant  TBD|20161125|750.00|10167648||||||ค่าประกันสังคมเดือนพ.ย.59|20170130|dghp-sevpn|20170130|dghp-sevpn
+1|DGHP-SevPn|-|2|2|4|Administrative and Financial Assistant  TBD|20161226|750.00|10167653||||||ค่าประกันสังคมเดือนธ.ค.59|20170130|dghp-sevpn|20170130|dghp-sevpn
+1|DGHP-SevPn|-|2|2|6|Administrative and Financial Assistant  TBD|20170123|750.00|10167658||||||ค่าประกันสังคมเดือนม.ค.60|20170130|dghp-sevpn|20170130|dghp-sevpn
+1|DGHP-SevPn|-|2|2|8|Administrative and Financial Assistant  TBD|20170227|750.00|10191710||||||ค่าประกันสังคมเดือนก.พ.60|20170224|dghp-sevpn|20170224|dghp-sevpn
+1|DGHP-SevPn|-|2|2|10|Administrative and Financial Assistant  TBD|20170327|750.00|10191717||||||ค่าประกันสังคมเดือนมี.ค.60|20170418|dghp-sevpn|20170418|dghp-sevpn
+1|DGHP-SevPn|-|2|2|12|Administrative and Financial Assistant  TBD|20170425|750.00|10191725||||||ค่าประกันสังคมเดือนเม.ย.60|20170421|dghp-sevpn|20170421|dghp-sevpn
+1|DGHP-SevPn|-|2|2|14|Administrative and Financial Assistant  TBD|20170525|750.00|10191731||||||ค่าประกันสังคมเดือนพ.ค.60|20170602|dghp-sevpn|20170602|dghp-sevpn
+1|DGHP-SevPn|-|2|2|16|Administrative and Financial Assistant  TBD|20170626|750.00|10191739||||||ค่าประกันสังคมเดือนมิ.ย.60|20170622|dghp-sevpn|20170622|dghp-sevpn
+1|DGHP-SevPn|-|2|2|18|Administrative and Financial Assistant  TBD|20170725|750.00|10219245||||||ค่าประกันสังคมเดือนก.ค.60|20170807|dghp-sevpn|20170807|dghp-sevpn
+1|DGHP-SevPn|-|2|2|20|Administrative and Financial Assistant  TBD|20170825|750.00|10219250||||||ค่าประกันสังคมเดือนส.ค.60|20170807|dghp-sevpn|20170807|dghp-sevpn
+1|DGHP-SevPn|-|2|4|1|Medical check-up for project staff  ($58.82 x 1 persons)|20170811|1230.00|10219253||||||ตรวจสุขภาพประจำปี|20170811|dghp-sevpn|20170811|dghp-sevpn
+1|DGHP-SevPn|-|3|1|1|Site visit Non-Local participants (MOPH and CoAg staff)|20170110|10000.00|10167656|20170201|-2520.00|Cash|||ไปราชการเชียงใหม่26-27ม.ค.60 และคืนเงินที่เหลือ|20170224|dghp-sevpn|20170224|dghp-sevpn
+1|DGHP-SevPn|-|3|1|2|Site visit Non-Local participants (MOPH and CoAg staff)|20170526|47500.00|10191735|20170621|-18830.00|Cash|||ไปราชการสุราษฎร์ธานี/7-9มิ.ย.60|20170622|dghp-sevpn|20170622|dghp-sevpn
+1|DGHP-SevPn|-|3|1|5|Site visit Non-Local participants (MOPH and CoAg staff)|20170815|12000.00|10219254|20170828|1100.00|10219252|||ไปราชการเพชรบุรี/24-25ส.ค.60 โดยรถตู้เช่า|20170807|dghp-sevpn|20170828|dghp-sevpn
+1|DGHP-SevPn|-|3|3|5|Expert meeting (MOPH staff) Local transportation for MOPH staff situated outside of main MOPH campus|20170621|1600.00|10191736||||||ประชุมผู้เชี่ยวชาญ20มิ.ย.60  (ยอดหน้าเช็ค19,600)|20170622|dghp-sevpn|20170622|dghp-sevpn
+1|DGHP-SevPn|-|3|3|6|Expert meeting (MOPH staff) Local transportation for MOPH staff situated outside of main MOPH campus|20170503|1600.00|10191729||||||ประชุมผู้เชี่ยวชาญ2พ.ค.60  (ยอดหน้าเช็ค19,100)|20170602|dghp-sevpn|20170622|dghp-sevpn
+1|DGHP-SevPn|-|3|3|7|Expert meeting (MOPH staff) Local transportation for MOPH staff situated outside of main MOPH campus|20170329|1200.00|10191719||||||ประชุมผู้เชี่ยวชาญ28มี.ค.60 (ยอดหน้าเช็ค 11,700)|20170418|dghp-sevpn|20170622|dghp-sevpn
+1|DGHP-SevPn|-|3|3|9|Expert meeting (MOPH staff) Local transportation for MOPH staff situated outside of main MOPH campus|20170804|1400.00|10219247||||||ประชุมผู้เชี่ยวชาญ3ส.ค.60    (ยอดหน้าเช็ค 17,100)|20170828|dghp-sevpn|20170828|dghp-sevpn
+1|DGHP-SevPn|-|5|1|1|General office supplies |20170307|9192.21|10191713|20170307|86.71|10191714|||ค่าวัสดุสำนักงาน/หักภาษีณที่จ่าย1%กรมสรรพากร|20170418|dghp-sevpn|20170418|dghp-sevpn
+1|DGHP-SevPn|-|5|1|3|General office supplies |20170727|10339.67|10219242|20170727|97.54|10219243|||ค่าวัสดุสำนักงาน/หักภาษีณที่จ่าย1%กรมสรรพากร|20170807|dghp-sevpn|20170807|dghp-sevpn
+1|DGHP-SevPn|-|8|2|1|Support for communication |20161028|600.00|10167645||||||ค่าบริการโทรศัพท์รายเดือน(ก.ย.-ต.ค.59)|20170130|dghp-sevpn|20170130|dghp-sevpn
+1|DGHP-SevPn|-|8|2|3|Support for communication |20161125|300.00|10167649||||||ค่าบริการโทรศัพท์รายเดือนพ.ย.59|20170130|dghp-sevpn|20170130|dghp-sevpn
+1|DGHP-SevPn|-|8|2|5|Support for communication |20161219|300.00|10167651||||||ค่าบริการโทรศัพท์รายเดือนธ.ค.59|20170130|dghp-sevpn|20170130|dghp-sevpn
+1|DGHP-SevPn|-|8|2|7|Support for communication |20170123|300.00|10167659||||||ค่าบริการโทรศัพท์รายเดือนม.ค.60|20170130|dghp-sevpn|20170130|dghp-sevpn
+1|DGHP-SevPn|-|8|2|10|Support for communication |20170227|300.00|10191709||||||ค่าบริการโทรศัพท์รายเดือนก.พ.60|20170224|dghp-sevpn|20170224|dghp-sevpn
+1|DGHP-SevPn|-|8|2|12|Support for communication |20170327|300.00|10191718||||||ค่าบริการโทรศัพท์รายเดือนมี.ค.60|20170418|dghp-sevpn|20170418|dghp-sevpn
+1|DGHP-SevPn|-|8|2|14|Support for communication |20170425|300.00|10191726||||||ค่าบริการโทรศัพท์รายเดือนเม.ย.60|20170421|dghp-sevpn|20170421|dghp-sevpn
+1|DGHP-SevPn|-|8|2|16|Support for communication |20170525|300.00|10191732||||||ค่าบริการโทรศัพท์รายเดือนพ.ค.60|20170602|dghp-sevpn|20170602|dghp-sevpn
+1|DGHP-SevPn|-|8|2|18|Support for communication |20170626|300.00|10191738||||||ค่าบริการโทรศัพท์รายเดือนมิ.ย.60|20170622|dghp-sevpn|20170622|dghp-sevpn
+1|DGHP-SevPn|-|8|2|20|Support for communication |20170725|300.00|10219246||||||ค่าบริการโทรศัพท์รายเดือนก.ค.60|20170807|dghp-sevpn|20170807|dghp-sevpn
+1|DGHP-SevPn|-|8|2|22|Support for communication |20170825|300.00|10219249||||||ค่าบริการโทรศัพท์รายเดือนก.ค.60|20170807|dghp-sevpn|20170807|dghp-sevpn
+1|DGHP-SevPn|-|8|3|1|Meeting facilities Meeting materials, photocopy, meeting room|20170320|2100.00|10191715||||||ค่าใข้จ่ายในการประชุม 17/03/60|20170418|dghp-sevpn|20170418|dghp-sevpn
+1|DGHP-SevPn|-|8|3|2|Meeting facilities Meeting materials, photocopy, meeting room|20170403|6474.60|10191722|20170403|65.40|10191723|||ค่าถ่ายเอกสารเพื่อการประชุม/ภาษีหัก ณที่จ่าย1%|20170421|dghp-sevpn|20170421|dghp-sevpn
+1|DGHP-SevPn|-|8|3|5|Meeting facilities Meeting materials, photocopy, meeting room|20170503|1500.00|10191729||||||ประชุมผู้เชี่ยวชาญ2พ.ค.60  (ยอดหน้าเช็ค19,100)|20170602|dghp-sevpn|20170602|dghp-sevpn
+1|DGHP-SevPn|-|8|3|7|Meeting facilities Meeting materials, photocopy, meeting room|20170621|1500.00|10191736||||||ประชุมผู้เชี่ยวชาญ20มิ.ย.60  (ยอดหน้าเช็ค19,600)|20170622|dghp-sevpn|20170622|dghp-sevpn
+1|DGHP-SevPn|-|8|3|9|Meeting facilities Meeting materials, photocopy, meeting room|20161102|1200.00|10167646||||||ประชุมผู้เชี่ยวชาญ25ต.ค.59 (ยอดหน้าเช็ค7,200)|20170807|dghp-sevpn|20170807|dghp-sevpn
+1|DGHP-SevPn|-|8|3|11|Meeting facilities Meeting materials, photocopy, meeting room|20161229|1800.00|10167655||||||ประชุมผู้เชี่ยวชาญ27 ธ.ค.59 (ยอดหน้าเช็ค 16,300)|20170807|dghp-sevpn|20170807|dghp-sevpn
+1|DGHP-SevPn|-|8|3|13|Meeting facilities Meeting materials, photocopy, meeting room|20170222|1500.00|10191707||||||ประชุมผู้เชี่ยวชาญ21ก.พ.60 (ยอดหน้าเช็ค 14,500)|20170807|dghp-sevpn|20170807|dghp-sevpn
+1|DGHP-SevPn|-|8|3|15|Meeting facilities Meeting materials, photocopy, meeting room|20170804|1200.00|10219247||||||ประชุมผู้เชี่ยวชาญ3ส.ค.60    (ยอดหน้าเช็ค 17,100)|20170828|dghp-sevpn|20170828|dghp-sevpn
+1|DGHP-SevPn|-|8|4|11|Expert meeting Non MOPH staff|20161229|2000.00|10167655||||||ประชุมผู้เชี่ยวชาญ27 ธ.ค.59 (ยอดหน้าเช็ค 16,300)|20170130|dghp-sevpn|20170323|dghp-sevpn
+1|DGHP-SevPn|-|8|4|12|Expert meeting Non MOPH staff|20161102|1000.00|10167646||||||ประชุมผู้เชี่ยวชาญ25ต.ค.59 (ยอดหน้าเช็ค7,200)|20170130|dghp-sevpn|20170324|dghp-sevpn
+1|DGHP-SevPn|-|8|4|14|Expert meeting Non MOPH staff (2,000bahtx3personsx16time)+(trans500bahtx3personsx4time)|20170621|2500.00|10191736||||||ประชุมผู้เชี่ยวชาญ20มิ.ย.60  (ยอดหน้าเช็ค19,600)|20170622|dghp-sevpn|20170622|dghp-sevpn
+1|DGHP-SevPn|-|8|4|16|Expert meeting Non MOPH staff (2,000bahtx3personsx16time)+(trans500bahtx3personsx4time)|20170804|2500.00|10219247||||||ประชุมผู้เชี่ยวชาญ3ส.ค.60    (ยอดหน้าเช็ค 17,100)|20170828|dghp-sevpn|20170828|dghp-sevpn
+1|DGHP-SevPn|-|8|5|15|Expert meeting Local participant (Local MOPH and CoAg staff)|20170329|10500.00|10191719||||||ประชุมผู้เชี่ยวชาญ28มี.ค.60 (ยอดหน้าเช็ค 11,700)|20170418|dghp-sevpn|20170418|dghp-sevpn
+1|DGHP-SevPn|-|8|5|17|Expert meeting Local participant (Local MOPH and CoAg staff)|20170503|16000.00|10191729||||||ประชุมผู้เชี่ยวชาญ2พ.ค.60  (ยอดหน้าเช็ค19,100)|20170602|dghp-sevpn|20170602|dghp-sevpn
+1|DGHP-SevPn|-|8|5|19|Expert meeting Local participant (Local MOPH and CoAg staff)|20170621|14000.00|10191736||||||ประชุมผู้เชี่ยวชาญ20มิ.ย.60  (ยอดหน้าเช็ค19,600)|20170622|dghp-sevpn|20170622|dghp-sevpn
+1|DGHP-SevPn|-|8|5|20|Expert meeting Local participant (Local MOPH and CoAg staff)|20161102|5000.00|10167646||||||ประชุมผู้เชี่ยวชาญ25ต.ค.59 (ยอดหน้าเช็ค7,200)|20170130|dghp-sevpn|20170807|dghp-sevpn
+1|DGHP-SevPn|-|8|5|21|Expert meeting Local participant (Local MOPH and CoAg staff)|20161229|12500.00|10167655||||||ประชุมผู้เชี่ยวชาญ27 ธ.ค.59 (ยอดหน้าเช็ค 16,300)|20170130|dghp-sevpn|20170807|dghp-sevpn
+1|DGHP-SevPn|-|8|5|22|Expert meeting Local participant (Local MOPH and CoAg staff)|20170222|13000.00|10191707||||||ประชุมผู้เชี่ยวชาญ21ก.พ.60 (ยอดหน้าเช็ค 14,500)|20170224|dghp-sevpn|20170807|dghp-sevpn
+1|DGHP-SevPn|-|8|5|24|Expert meeting Local participant (Local MOPH and CoAg staff)|20170804|12000.00|10219247||||||ประชุมผู้เชี่ยวชาญ3ส.ค.60    (ยอดหน้าเช็ค 17,100)|20170828|dghp-sevpn|20170828|dghp-sevpn
+1|DGHP-SevPn|-|8|7|1|IT equipment maintenance |20170208|14980.00|10191706||||||ค่าบริการกู้ข้อมูลระบบเฝ้าระวังโรคปอดอักเสบ|20170208|dghp-sevpn|20170208|dghp-sevpn
+1|DGHP-SevPn|-|8|8|4|Case review and report preparation fee |20170815|6200.00|10219251||||||ค่ารีวิวเคทเพื่อจัดประชุมผู้เชี่ยวชาญ/จำนวน 124 เคท|20170807|dghp-sevpn|20170921|dghp-sevpn

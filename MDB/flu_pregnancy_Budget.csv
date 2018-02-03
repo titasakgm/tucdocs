@@ -1,0 +1,157 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|FLU-Pregnancy|-|1|1|0|Study Nurse|(Ms.Jivanan Chompupuen, TBD)||0.00|0.00|1320000.00|1320000.00|Person|2|100.00|12.00|55000.00||||||
+1|FLU-Pregnancy|-|1|1|2|Study Nurse|(Ms.Jivanan Chompupuen, Ms.Naruemon Sassungnune)|||||880000.00|Annual|||||||20170607|FLU-Pregnancy|20170607|FLU-Pregnancy
+1|FLU-Pregnancy|-|1|2|0|Nurse Assistant|(Ms.Patsada Somkhuntod, Ms.Warangras Onsri)||0.00|0.00|852288.00|852288.00|Person|2|100.00|12.00|35512.00|||||20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|1|3|0|Data Managing Person|(Ms.Suchada Srisarang)||0.00|0.00|426144.00|426144.00|Person|1|100.00|12.00|35512.00||||||
+1|FLU-Pregnancy|-|1|4|0|Data Entry|(Ms.Jiraporn Siriarayagoson)||0.00|0.00|323868.00|323868.00|Person|1|100.00|12.00|26989.00||||||
+1|FLU-Pregnancy|-|1|5|0|Project Coordinator|(Mr.Chitdej Jirapong)||0.00|0.00|660000.00|660000.00|Person|1|100.00|12.00|55000.00||||||
+1|FLU-Pregnancy|-|1|6|0|Accountant|(Ms.Krongthong Jirapong)||0.00|0.00|463836.00|463836.00|Person|1|100.00|12.00|38653.00||||||
+1|FLU-Pregnancy|-|1|7|0|Assistant Accountant|(Ms.Anchalee Nontongpool)||0.00|0.00|231912.00|231912.00|Person|1|100.00|12.00|19326.00||||||
+1|FLU-Pregnancy|-|1|8|0|Researcher Compensation (Principal Investigator)|(Dr.Piyarat Santarattiwong)||0.00|0.00|120000.00|120000.00|Person|1|12.50|12.00|80000.00||||||
+1|FLU-Pregnancy|-|1|9|0|Expert Consultant 10% of FTE|(Dr.Tawee Chotpitayasunondh)||0.00|0.00|120000.00|120000.00|Person|1|10.00|12.00|100000.00||||||
+1|FLU-Pregnancy|-|1|10|0|Researcher Compensation (Newborn Investigator)|(Dr.Wiboon Kanjanapattanakul)||0.00|0.00|120000.00|120000.00|Person|1|12.50|12.00|80000.00||||||
+1|FLU-Pregnancy|-|1|11|0|Researcher Compensation (Rajavithi)|(Dr.Surasak Kaoiean, Dr.Suvanna Asavapiriyanont, Dr.Podjanee Phadungkiatwattana, Dr. Nattinee Srisantiroj)||0.00|0.00|480000.00|480000.00|Person|4|12.50|12.00|80000.00||||||
+1|FLU-Pregnancy|-|1|12|0|Researcher Compensation (Nopparat Rachathani)|(Dr.Boonsong Rawangban, Dr.Grisada Thomyabat, Dr.Orada Pathamasing Na Ayutaya)||0.00|0.00|360000.00|360000.00|Person|3|12.50|12.00|80000.00||||||
+1|FLU-Pregnancy|-|1|13|0|Researcher Compensation (another hospital site TBD)|(TBD)||0.00|0.00|-0.00|0.00|Person|0|12.50|12.00|80000.00||||||
+1|FLU-Pregnancy|-|1|14|0|Overtime for Study Nurse|(Estimate $2.35 or 80THB 88 hrs per month x6 month x 2person and $2.35 or 80THB x28 hrs x6 month x2 persons)||0.00|0.00|111360.00|111360.00|Annual||||||||||
+1|FLU-Pregnancy|-|1|15|0|Overtime for Nurse Assistant|(Estimate $1.76 or 60THB 88 hrs per month x6 month x 2 persons and $2.05 or 70THB x28 hrs x6 month x2 persons)||0.00|0.00|86880.00|86880.00|Annual||||||||||
+1|FLU-Pregnancy|-|1|15|1|Overtime for Nurse Assistant|(Estimate $1.76 or 60THB 88 hrs per month x4 month x 5 persons and $2.05 or 70THB x28 hrs x4 month x5 persons)|||||144800.00|Annual|||||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|1|16|0|Compensation for Study Nurse (Nopparat Rachathani hospital) (Enroll pregnant women and perform research procedures)|(Estimate $2.35 or 80THB 70 hrs per month x 12 month x 4 OB-GYN nurses)||0.00|0.00|268800.00|268800.00|Annual||||||||||
+1|FLU-Pregnancy|-|1|16|1|Compensation for Study Nurse (Nopparat Rachathani hospital) (Enroll pregnant women and perform research procedures)|(Estimate $2.28 or 80THB 70 hrs per month x 5 month x 4 OB-GYN nurses)|||||112000.00|Annual|||||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|1|16|2|Compensation for Study Nurse (Nopparat Rachathani hospital) (Enroll pregnant women and perform research procedures)|(Estimate $2.28 or 80THB 70 hrs per month x 4 month x 7 OB-GYN nurses)|||||156800.00|Annual|||||||20170607|FLU-Pregnancy|20170607|FLU-Pregnancy
+1|FLU-Pregnancy|-|1|17|0|Compensation for Nurse Assistant (Nopparat Rachathani hospital) (Assist Study nurse)|(Estimate $2.05 or 70THB 70 hrs per month x 12 month x 4 persons)||0.00|0.00|235200.00|235200.00|Annual||||||||||
+1|FLU-Pregnancy|-|1|17|1|Compensation for Nurse Assistant (Nopparat Rachathani hospital) (Assist Study nurse)|(Estimate $2 or 70THB 70 hrs per month x 4 month x 4 persons)|||||78400.00|Annual|||||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|1|17|2|Compensation for Nurse Assistant (Nopparat Rachathani hospital) (Assist Study nurse)|(Estimate $2 or 70THB 70 hrs per month x 4 month x 7 persons)|||||137200.00|Annual|||||||20170607|FLU-Pregnancy|20170607|FLU-Pregnancy
+1|FLU-Pregnancy|-|1|18|0|Compensation for government officers at Rajavithi Hospital|(Estimate $2.05 or 70THB 60 hrs per month x 12 month x 3 persons)||0.00|0.00|151200.00|151200.00|Annual||||||||||
+1|FLU-Pregnancy|-|1|18|1|Compensation for government officers at Rajavithi Hospital|(Estimate $2.28 or 70THB 60 hrs per month x 4 month x 3 persons)|||||50400.00|Annual|||||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|1|19|0|Compensation for Phlebotomists|(Estimate $4.11 or 140THB 50 hrs per month x 12 month x 3 Neonatologist)||0.00|0.00|252000.00|252000.00|Annual||||||||||
+1|FLU-Pregnancy|-|1|19|1|Compensation for Phlebotomists|(Estimate $4 or 140THB 50 hrs per month x 4 month x 3 Neonatologist)|||||84000.00|Annual|||||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|1|19|2|Compensation for Phlebotomists|(Estimate $2.28 or 80THB 7 hrs per day x 22 day per month x 4 months x 2 persons)|||||98560.00|Annual|||||||20170607|FLU-Pregnancy|20170607|FLU-Pregnancy
+1|FLU-Pregnancy|-|1|20|0|Compensation for Medical technologist at Nopparat Rachathani hospital)|(Estimate $2.35 or 80THB 50 hrs per month x 12 month x 2 persons)||0.00|0.00|96000.00|96000.00|Annual||||||||||
+1|FLU-Pregnancy|-|1|20|1|Compensation for Medical technologist at Nopparat Rachathani hospital)|(Estimate $2.35 or 80THB 50 hrs per month x 12 month x 2 persons)|||||0.00|Annual|||||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|1|21|0|Compensation for Medical technologist at QSNICH|(Estimate $2.35 or 80THB 70 hrs per month x 12 month x 2 persons)||0.00|0.00|134400.00|134400.00|Annual||||||||||
+1|FLU-Pregnancy|-|1|21|1|Compensation for Medical technologist at QSNICH|(Estimate $2.35 or 80THB 70 hrs per month x 12 month x 2 persons)|||||0.00|Annual|||||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|1|22|1|Study Nurse|(Ms.Somchit Ruenthong)|||||220000.00|Person|1|100.00|4.00|55000.00|||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|1|23|1|Nurse Assistant|(Ms.Saranya Winyawong, Ms.Sudarat Intranusorn, Ms.Wimolrat Riab-roi)|||||426144.00|Person|3|100.00|4.00|35512.00|||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|2|1|0|Study Nurse|(Ms.Jivanan Chompupuen, Ms.Naruemon Sassungnune)||0.00|0.00|18000.00|18000.00|Person|2|1320000.00|5.00||||||20170607|FLU-Pregnancy
+1|FLU-Pregnancy|-|2|2|0|Nurse Assistant|(Ms.Patsada Somkhuntod, Ms.Warangras Onsri)||0.00|0.00|18000.00|18000.00|Person|2|426144.00|5.00||||||20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|2|3|0|Data Managing Person|(Ms.Suchada Srisarang)||0.00|0.00|9000.00|9000.00|Person|1|426144.00|5.00|||||||
+1|FLU-Pregnancy|-|2|4|0|Data Entry|(Ms.Jiraporn Siriarayagoson)||0.00|0.00|9000.00|9000.00|Person|1|323868.00|5.00|||||||
+1|FLU-Pregnancy|-|2|5|0|Project Coordinator|(Mr.Chitdej Jirapong)||0.00|0.00|9000.00|9000.00|Person|1|660000.00|5.00|||||||
+1|FLU-Pregnancy|-|2|6|0|Accountant|(Ms.Krongthong Jirapong)||0.00|0.00|9000.00|9000.00|Person|1|463836.00|5.00|||||||
+1|FLU-Pregnancy|-|2|7|0|Assistant Accountant|(Ms.Anchalee Nontongpool)||0.00|0.00|9000.00|9000.00|Person|1|231912.00|5.00|||||||
+1|FLU-Pregnancy|-|2|8|0|Annual Medical Check-up|($58.82 or 2,000THB x 9 persons)||0.00|0.00|18000.00|18000.00|Annual||||||||||
+1|FLU-Pregnancy|-|2|8|1|Annual Medical Check-up|($58.82 or 2,000THB x 13 persons)|||||26000.00|Annual|||||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|2|9|1|Study Nurse|(Ms.Somchit Ruenthong)|||||3000.00|Annual|||||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|2|10|1|Nurse Assistant|(Ms.Saranya Winyawong, Ms.Sudarat Intranusorn, Ms.Wimolrat Riab-roi)|||||9000.00|Annual|||||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|3|1|0|OD and Refreshing session for staff|(Non local participants)||0.00|0.00|138000.00|138000.00|Time|1|12.00|3.00|2000.00|5500.00|0.00||||
+1|FLU-Pregnancy|-|3|1|1|OD and Refreshing session for staff|(Non local participants)|||||99000.00|Time|1|12.00|3.00|2000.00|2250.00|0.00|20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|3|2|0|International Travel - To present research findings in 1 internationl conferences per year|||0.00|0.00|420000.00|420000.00|Time|1|4.00|5.00|10000.00|50000.00|20000.00||||
+1|FLU-Pregnancy|-|3|2|1|International Travel - To present research findings in 1 internationl conferences per year||||||252530.00|Time|1|2.00|6.00|10000.00|60000.00|12530.00|20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|3|3|0|Local transportation expense|For staffs to travel between Rajavithi/Nopparat hospital or to travel to MOPH||0.00|0.00|16000.00|16000.00|Time|40|1.00|1.00|0.00|400.00|0.00||||
+1|FLU-Pregnancy|-|3|3|1|Local transportation expense|For staffs to travel between Rajavithi/Nopparat hospital or to travel to MOPH|||||216000.00|Time|90|3.00|1.00|0.00|800.00|0.00|20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|4|1|0|Tablets|To collect data at Nopparat hospital and another hospital site (TBD)||0.00|0.00|-0.00|0.00|Set|0|8000.00||||||||
+1|FLU-Pregnancy|-|4|1|1|Tablets|To collect data at Nopparat hospital and another hospital site (TBD)|||||40000.00|Set|4|10000.00|||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|4|2|0|Newborn infant digital weighting scale|To obtain newborn weight precisely in gram scale at Nopparat hospital and a spare one at QSNICH||0.00|0.00|-0.00|0.00|Set|0|0.00|||||||20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|4|3|0|Mobile phone|To telephone patients at Nopparat Hospital and another hospital site||0.00|0.00|50000.00|50000.00|Set|5|10000.00||||||||
+1|FLU-Pregnancy|-|4|4|1|Laptop|To record data at study sites|||||100000.00|Set|2|50000.00|||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|4|4|3|Laptop|To record data at study sites|||||127972.00|Set|2|63986.00|||||20170816|FLU-Pregnancy|20170816|FLU-Pregnancy
+1|FLU-Pregnancy|-|4|5|1|Weight standard|To calibrate infant weight scale|||||7500.00|Set|3|2500.00|||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|4|6|1|Office Furniture|Partitions, Working desk, Cabinets, etc.|||||70000.00|Time|1|70000.00|||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|4|6|3|Office Furniture|Partitions, Working desk, Cabinets, etc.|||||42028.00|Time|1|42028.00|||||20170816|FLU-Pregnancy|20170816|FLU-Pregnancy
+1|FLU-Pregnancy|-|4|7|1|Refrigerator|For storing specimens|||||10000.00|Set|1|10000.00|||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|5|1|0|General office supplies at Nopparat Hospital|To replace other office supplies||0.00|0.00|25000.00|25000.00|Month|5|5000.00||||||||
+1|FLU-Pregnancy|-|5|1|3|General office supplies at Nopparat Hospital|To replace other office supplies|||||60000.00|Month|6|10000.00|||||20170816|FLU-Pregnancy|20170816|FLU-Pregnancy
+1|FLU-Pregnancy|-|5|2|0|Specimen collection set|For respiratory specimens collection when enrolled pregnant women report a respiratory illness||0.00|0.00|500000.00|500000.00|Set|2500|200.00||||||||
+1|FLU-Pregnancy|-|5|2|3|Specimen collection set|For respiratory specimens collection when enrolled pregnant women report a respiratory illness|||||305600.00|Set|1528|200.00|||||20170816|FLU-Pregnancy|20170816|FLU-Pregnancy
+1|FLU-Pregnancy|-|5|3|0|Supplies for Tablet and Mobile Phone|To replace mobile outdated battery and other accessories||0.00|0.00|16222.00|16222.00|Set|1|16222.00||||||||
+1|FLU-Pregnancy|-|5|4|0|Clinical supplies|To use for specimen collection and perticipant clinical procedure in ANC clinic||0.00|0.00|100000.00|100000.00|Month|10|10000.00||||||||
+1|FLU-Pregnancy|-|5|4|3|Clinical supplies|To use for specimen collection and perticipant clinical procedure in ANC clinic|||||140000.00|Month|10|14000.00|||||20170816|FLU-Pregnancy|20170816|FLU-Pregnancy
+1|FLU-Pregnancy|-|5|5|0|laboratory supplies|Reagents and other supplies for laboratory tests for Zika||0.00|0.00|700000.00|700000.00|Month|2|350000.00||||||||
+1|FLU-Pregnancy|-|5|5|1|laboratory supplies|Reagents and other supplies for laboratory tests for Zika|||||543706.00|Time|1|543706.00|||||20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|5|5|2|laboratory supplies|Reagents and other supplies for laboratory tests for Zika|||||115546.00|Time|1|115546.00|||||20170607|FLU-Pregnancy|20170607|FLU-Pregnancy
+1|FLU-Pregnancy|-|8|1|0|Photocopy machine (leasing/month)|To produce study documents and photocopy at Nopparat Hospital||0.00|0.00|54000.00|54000.00|Month|12|||||4500.00||||
+1|FLU-Pregnancy|-|8|1|1|Photocopy machine (leasing/month)|To produce study documents and photocopy at Nopparat Hospital|||||0.00|Month|12|||||0.00|20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|8|2|0|Service charge for Janitors (at Nopparat Hospital)|||0.00|0.00|24000.00|24000.00|Month|12|||||2000.00||||
+1|FLU-Pregnancy|-|8|2|1|Service charge for Janitors (at Nopparat Hospital)||||||0.00|Month|12|||||0.00|20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|8|3|0|Patient compensation (Pregnant women enrollment)|||0.00|0.00|500000.00|500000.00|Time|1|2500.00|1.00|200.00|0.00|0.00||||
+1|FLU-Pregnancy|-|8|3|2|Patient compensation (Pregnant women enrollment)||||||1250000.00|Time|1|2500.00|1.00|500.00|0.00|0.00|20170607|FLU-Pregnancy|20170607|FLU-Pregnancy
+1|FLU-Pregnancy|-|8|4|0|Patient compensation for weekly call response|||0.00|0.00|500000.00|500000.00|Time|20|2500.00|1.00|10.00|0.00|0.00||||
+1|FLU-Pregnancy|-|8|5|0|Telephone card|(Telephone contact with the volunteers participating)||0.00|0.00|15000.00|15000.00|Time|1|0.00|0.00|0.00|0.00|15000.00||||
+1|FLU-Pregnancy|-|8|5|3|Telephone card|(Telephone contact with the volunteers participating)|||||105000.00|Time|1|0.00|0.00|0.00|0.00|105000.00|20170816|FLU-Pregnancy|20170816|FLU-Pregnancy
+1|FLU-Pregnancy|-|8|6|0|Specimen transportation|(To transfer Self-swab sample to laboratory)||0.00|0.00|200000.00|200000.00|Time|500|1.00|0.00|0.00|0.00|400.00||||
+1|FLU-Pregnancy|-|8|7|0|PCR test|(To test influenza PCR form sample collected)||0.00|0.00|-0.00|0.00|Time|0|1.00|0.00|0.00|0.00|800.00||||
+1|FLU-Pregnancy|-|8|8|0|Patient compensation (Pregnant women interview)|(For follow up interview 2 times after enrollment)||0.00|0.00|500000.00|500000.00|Time|2|2500.00|1.00|100.00|0.00|0.00||||
+1|FLU-Pregnancy|-|8|9|0|Patient compensation (Pregnant women serology blood draw)|(For participants in serology sub-study)||0.00|0.00|280000.00|280000.00|Time|2|700.00|1.00|200.00|0.00|0.00||||
+1|FLU-Pregnancy|-|8|10|0|Patient compensation (Pregnant women or infants travel to hospital)|(For participants travel to hospital for examination)||0.00|0.00|500000.00|500000.00|Time|1|1000.00|1.00|500.00|0.00|0.00||||
+1|FLU-Pregnancy|-|8|11|0|Newborn Laboratory test|(For newborns suspected microcephaly)||0.00|0.00|250000.00|250000.00|Time|1|250.00|1.00|1000.00|0.00|0.00||||
+1|FLU-Pregnancy|-|8|12|0|Newborn cranial ultrasound|(For newborns suspected microcephaly)||0.00|0.00|125000.00|125000.00|Time|1|250.00|1.00|500.00|0.00|0.00||||
+1|FLU-Pregnancy|-|8|13|0|Pregnant women ultrasound|(For pregnant women suspected Zika infection)||0.00|0.00|625000.00|625000.00|Time|5|250.00|1.00|500.00|0.00|0.00||||
+1|FLU-Pregnancy|-|8|14|0|Doctor fee|(For specialist consultation for pregnant women suspected Zika)||0.00|0.00|375000.00|375000.00|Time|5|250.00|1.00|300.00|0.00|0.00||||
+1|FLU-Pregnancy|-|8|15|0|Staff meeting and protocol training|||0.00|0.00|40000.00|40000.00|Time|2|30.00|1.00|500.00|0.00|5000.00||||
+1|FLU-Pregnancy|-|8|15|1|Staff meeting and protocol training||||||72000.00|Time|12|10.00|1.00|600.00|0.00|0.00|20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|8|15|3|Staff meeting and protocol training||||||101400.00|Time|13|13.00|1.00|600.00|0.00|0.00|20170816|FLU-Pregnancy|20170816|FLU-Pregnancy
+1|FLU-Pregnancy|-|8|16|1|Protocol training||||||54000.00|Time|1|30.00|3.00|600.00|0.00|0.00|20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+1|FLU-Pregnancy|-|8|17|1|Research Ethics Committee Fee||||||16000.00|Year|1|||||16000.00|20170605|FLU-Pregnancy|20170605|FLU-Pregnancy
+2|FLU-Pregnancy|-|1|1|0|Study Nurse|(Ms.Jivanan Chompupuen, Ms.Naruemon Sassungnune, Ms.Somchit Reunthong)||0.00|0.00|1980000.00|1980000.00|Person|3|100.00|12.00|55000.00|||20170227||20170321|
+2|FLU-Pregnancy|-|1|2|0|Nurse Assistant|(Ms.Patsada Somkhuntod, Ms.Warangras Onsri, Ms.Saranya Winyawong, Ms.Sudarat Intranusorn, Ms.Wimolrat Riab-roi)||0.00|0.00|2258580.00|2258580.00|Person|5|100.00|12.00|37643.00|||20170227||20170324|
+2|FLU-Pregnancy|-|1|3|0|Data Managing Person|(Ms.Suchada Srisarang)||0.00|0.00|451716.00|451716.00|Person|1|100.00|12.00|37643.00|||20170227|||
+2|FLU-Pregnancy|-|1|4|0|Data Entry|(Ms.Jiraporn Siriarayagoson)||0.00|0.00|343308.00|343308.00|Person|1|100.00|12.00|28609.00|||20170227|||
+2|FLU-Pregnancy|-|1|5|0|Project Coordinator|(Mr.Chitdej Jirapong)||0.00|0.00|660000.00|660000.00|Person|1|100.00|12.00|55000.00|||20170227|||
+2|FLU-Pregnancy|-|1|6|0|Accountant|(Ms.Krongthong Jirapong)||0.00|0.00|463836.00|463836.00|Person|1|100.00|12.00|38653.00|||20170227|||
+2|FLU-Pregnancy|-|1|7|0|Assistant Accountant|(Ms.Anchalee Nontongpool)||0.00|0.00|237600.00|237600.00|Person|1|100.00|12.00|19800.00|||20170227|||
+2|FLU-Pregnancy|-|1|8|0|Researcher Compensation (principal Investigator)|(Dr.Piyarat Santarattiwong)||0.00|0.00|67200.00|67200.00|Person|1|7.00|12.00|80000.00|||20170227||20170915|
+2|FLU-Pregnancy|-|1|9|0|Expert Consultant 10% of FTE|(Dr.Tawee Chotpitayasunondh)||0.00|0.00|120000.00|120000.00|Person|1|10.00|12.00|100000.00|||20170227|||
+2|FLU-Pregnancy|-|1|10|0|Researcher Compensation (Newborn Investigator)|(Dr.Wiboon Kanjanapattanakul)||0.00|0.00|120000.00|120000.00|Person|1|12.50|12.00|80000.00|||20170227|||
+2|FLU-Pregnancy|-|1|11|0|Researcher Compensation (Rajavithi)|(TBD, Dr.Surasak Kaoiean, Dr.Podjanee Phadungkiatwattana, Dr. Nattinee Srisantiroj)||0.00|0.00|480000.00|480000.00|Person|4|12.50|12.00|80000.00|||20170227||20170915|
+2|FLU-Pregnancy|-|1|12|0|Researcher Compensation (Nopparat Rachathani)|(Dr.Boonsong Rawangban, Dr.Grisada Thomyabat, Dr.Orada Pathamasing Na Ayutaya)||0.00|0.00|360000.00|360000.00|Person|3|12.50|12.00|80000.00|||20170227|||
+2|FLU-Pregnancy|-|1|13|0|Compensation for government officers at QSNICH|($2.35 (80THB)x63 hrsx12 monthsx2 persons+$2.05 (70THB)x72 hrs x12 month x3 persons)+$2.35 (80THB)x77 hrsx4 monthsx2 persons||0.00|48160.00|303520.00|351680.00|Annual|||||||20170227||20170911|
+2|FLU-Pregnancy|-|1|14|0|Overtime for Study Nurse|(Estimate $1.76 or 60THB 88 hrs per month x 12 month x 3 persons and $2.05 or 70THB x 28 hrs x 12 month x 3 persons)||0.00|78580.00|182060.00|260640.00|Annual|||||||20170321||20170911|
+2|FLU-Pregnancy|-|1|15|0|Overtime for Nurse Assistant|(Estimate $1.76 or 60THB x 88 hrs per month x 12 month x 3 persons and $2.05 or 70THB x 28 hrs x 12 month x 3 persons)||0.00|93420.00|167220.00|260640.00|Annual|||||||20170321||20170911|
+2|FLU-Pregnancy|-|1|16|0|Compensation for Study Nurse (Nopparat Rachathani hospital) (Enroll pregnant women and perform research procedures)|(Estimate $2.35 or 80THB x 70 hrs per month x 12 months x 11 persons)||0.00|0.00|739200.00|739200.00|Annual|||||||20170321||20170908|
+2|FLU-Pregnancy|-|1|17|0|Compensation for Nurse Assistant (Nopparat Rachathani hospital) (Assist Study nurse)|(Estimate $2.05 or 70THB x 70 hrs per month x 12 months x 8 persons)||0.00|29400.00|441000.00|470400.00|Annual|||||||20170321||20170911|
+2|FLU-Pregnancy|-|1|18|0|Compensation for government officers at Rajavithi Hospital|(Estimate $2.35 or 80THB x 75 hrs per month x 12 months x 3 persons and $2.05 or 70THB x 70 hrs per month x 12 months x 1 person)||0.00|0.00|274800.00|274800.00|Annual|||||||20170321||20170908|
+2|FLU-Pregnancy|-|1|19|0|Compensation for Medical Doctor at Nopparat Rachathani hospital|(Estimate $4.11 or 140THB x 50 hrs per month x 12 months x 3 Neonatologist)||0.00|0.00|252000.00|252000.00|Annual|||||||20170321||20170405|
+2|FLU-Pregnancy|-|1|20|0|Overtime for Accountant|(Estimate $2.05 or 70THB x 28 hrs x 11 month x 1 person)||21560.00|0.00|-0.00|21560.00|Annual|||||||20171009||20171010|
+2|FLU-Pregnancy|-|1|21|0|Overtime for Project Coordinator|(Estimate $2.05 or 70THB x 28 hrs x 11 month x 1 person)||21560.00|0.00|-0.00|21560.00|Annual|||||||20171009||20171010|
+2|FLU-Pregnancy|-|2|1|0|Study Nurse|(Ms.Jivanan Chompupuen, Ms.Naruemon Sassungnune, Ms.Somchit Reunthong)||0.00|0.00|27000.00|27000.00|Person|3|1980000.00|5.00||||20170227||20170911|
+2|FLU-Pregnancy|-|2|2|0|Nurse Assistant|(Ms.Patsada Somkhuntod, Ms.Warangrus Onsri, Ms.Saranya Winyawong, Ms.Sudarat Intranusorn, Ms.Wimolrat Riab-roi)||0.00|0.00|45000.00|45000.00|Person|5|2258580.00|5.00||||20170227||20170321|
+2|FLU-Pregnancy|-|2|3|0|Data Managing Person|(Ms.Suchada Srisarang)||0.00|0.00|9000.00|9000.00|Person|1|451716.00|5.00||||20170227||20170227|
+2|FLU-Pregnancy|-|2|4|0|Data Entry|(Ms.Jiraporn Siriarayagoson)||0.00|0.00|9000.00|9000.00|Person|1|343308.00|5.00||||20170227||20170227|
+2|FLU-Pregnancy|-|2|5|0|Project Coordinator|(Mr.Chitdej Jirapong)||0.00|0.00|9000.00|9000.00|Person|1|660000.00|5.00||||20170227||20170227|
+2|FLU-Pregnancy|-|2|6|0|Accountant|(Ms.Krongthong Jirapong)||0.00|0.00|9000.00|9000.00|Person|1|463836.00|5.00||||20170227||20170227|
+2|FLU-Pregnancy|-|2|7|0|Assistant Accountant|(Ms.Anchalee Nontongpool)||0.00|0.00|9000.00|9000.00|Person|1|237600.00|5.00||||20170227||20170227|
+2|FLU-Pregnancy|-|2|8|0|Annual Medical Check-up|($58.82 or 2,000THB x 13 persons)||0.00|15976.02|10023.98|26000.00|Annual|||||||20170227||20170911|
+2|FLU-Pregnancy|-|3|1|0|OD and Refreshing session for staff|(Non local participants)||0.00|0.00|110500.00|110500.00|Time|1|13.00|3.00|2000.00|2500.00|0.00|20170227|||
+2|FLU-Pregnancy|-|3|2|0|International Travel - To present research findings in 1 international conferences per year|||0.00|2433.07|217566.93|220000.00|Time|1|2.00|5.00|10000.00|50000.00|20000.00|20170227||20170911|
+2|FLU-Pregnancy|-|3|3|0|Local transportation expense (For staffs to travel between Rajavithi/Nopparat hospital or to travel to MOPH)|(Estimate $64.74 or 2,200THB x 22 day per month x 4 months + $11.76 or 400THB x 30 times)||0.00|0.00|205600.00|205600.00|Annual|||||||20170227||20171011|
+2|FLU-Pregnancy|-|4|1|0|Tablets|To collect data at Nopparat hospital and Rajavithi hospital||0.00|20000.00|-0.00|20000.00|Set|2|10000.00|||||20170911||20171010|
+2|FLU-Pregnancy|-|4|2|0|Mobile phone|To telephone patients at Nopparat hospital and Rajavithi hospital||0.00|20000.00|-0.00|20000.00|Set|2|10000.00|||||20170911||20171010|
+2|FLU-Pregnancy|-|4|3|0|Laptop|To record data at study sites||0.00|54539.20|-0.00|54539.20|Set|1|54539.20|||||20170911||20171011|
+2|FLU-Pregnancy|-|4|4|0|Weight standard|To calibrate infant weight scale (Will be supported with additional carry over)||0.00|7500.00|-0.00|7500.00|Set|3|2500.00|||||20170911||20171010|
+2|FLU-Pregnancy|-|5|1|0|General office supplies|To replace other office supplies||0.00|350.71|59649.29|60000.00|Time|6|10000.00|||||20170227||20170913|
+2|FLU-Pregnancy|-|5|2|0|Supplies for Tablet and Mobile Phone|To replace mobile outdated battery and other accessories||0.00|23461.00|-0.00|23461.00|Set|1|23461.00|||||20170227||20170913|
+2|FLU-Pregnancy|-|5|3|0|Clinical supplies|To use for research proceduces at ANC clinic and post-partum wards||0.00|439633.41|18120.80|457754.21|Annual|||||||20170227||20171011|
+2|FLU-Pregnancy|-|5|4|0|Program Antivirus|||0.00|0.00|36000.00|36000.00|Set|20|1800.00|||||20170321||20170908|
+2|FLU-Pregnancy|-|5|5|0|Specimen collection set|For respiratory specimens collection when enrolled pregnant women a respiratory illness||0.00|300000.00|-0.00|300000.00|Set|1500|200.00|||||20170331||20170913|
+2|FLU-Pregnancy|-|8|1|0|Photocopy machine (leasing/month)|To produce study documents and photocopy||0.00|0.00|54000.00|54000.00|Month|12|||||4500.00|20170227||20170913|
+2|FLU-Pregnancy|-|8|2|0|Service charge for Janitors|||0.00|0.00|24000.00|24000.00|Month|12|||||2000.00|20170227|||
+2|FLU-Pregnancy|-|8|3|0|Telephone card|||0.00|0.00|150000.00|150000.00|Time|5|0.00|0.00|0.00|0.00|30000.00|20170227||20171010|
+2|FLU-Pregnancy|-|8|4|0|Staff meeting|||0.00|0.00|96000.00|96000.00|Time|8|20.00|1.00|600.00|0.00|0.00|20170227||20171010|
+2|FLU-Pregnancy|-|8|5|0|Protocol training|||0.00|0.00|54000.00|54000.00|Time|1|30.00|3.00|600.00|0.00|0.00|20170227||20171010|
+2|FLU-Pregnancy|-|8|6|0|Meeting facility|photocopy, document, meeting expenses||0.00|0.00|5000.00|5000.00|Time|1|0.00|0.00|0.00|0.00|5000.00|20170227||20171010|
+2|FLU-Pregnancy|-|8|7|0|Maintenance cost for Deep Freezer|||0.00|0.00|25000.00|25000.00|Time|1|0.00|0.00|0.00|0.00|25000.00|20170227||20170908|
+2|FLU-Pregnancy|-|8|8|0|Maintenance cost for Computer, Printer, Mobile phone, Tablet|||0.00|0.00|15000.00|15000.00|Time|3|0.00|0.00|0.00|0.00|5000.00|20170227||20170908|
+2|FLU-Pregnancy|-|8|9|0|Research Ethics Committee Fee|Fee for Research Ethics Committee for reviewing research protocol and documentation  at protocol submission, renewal, and amendment||0.00|0.00|20000.00|20000.00|Annual|||||||20170321||20170913|
+2|FLU-Pregnancy|-|8|10|0|Executive committee meeting to monitor study|||0.00|0.00|60000.00|60000.00|Time|3|10.00|1.00|2000.00|0.00|0.00|20170323||20171010|
+2|FLU-Pregnancy|-|8|11|0|Patient compensation|Pregnant women enrollment||235900.00|0.00|514100.00|750000.00|Time|1|1500.00|1.00|500.00|0.00|0.00|20170331||20171011|
+2|FLU-Pregnancy|-|8|12|0|Patient compensation for weekly call response|||166713.41|133286.59|-0.00|300000.00|Time|2|1500.00|10.00|10.00|0.00|0.00|20170331||20171011|
+2|FLU-Pregnancy|-|8|13|0|Specimen transportation|To transfer Self-swab and blood sample to laboratory||498160.00|0.00|101840.00|600000.00|Time|1500|1.00|0.00|0.00|0.00|400.00|20170331||20171011|
+2|FLU-Pregnancy|-|8|14|0|Patient compensation (Pregnant women interview)|For follow up interview 2 times after enrollment||200000.00|0.00|-0.00|200000.00|Time|2|1000.00|1.00|100.00|0.00|0.00|20170331||20171010|
+2|FLU-Pregnancy|-|8|15|0|Patient compensation (Pregnant women serology blood draw)|For participants in serology sub-study||0.00|119000.00|161000.00|280000.00|Time|2|700.00|1.00|200.00|0.00|0.00|20170331||20171010|
+2|FLU-Pregnancy|-|8|16|0|Patient compensation (Pregnant women or infants travel to hospital)|For participants travel to hospital for examination||0.00|160000.00|-0.00|160000.00|Time|1|160.00|1.00|1000.00|0.00|0.00|20170331||20171011|
+2|FLU-Pregnancy|-|8|17|0|Pregnant women dating ultrasound|For participants ultrasound||0.00|50000.00|-0.00|50000.00|Time|1|100.00|1.00|500.00|0.00|0.00|20170331||20171010|
+2|FLU-Pregnancy|-|8|18|0|Specimen shipment cost|For the cost sending specimen to USA||0.00|0.00|200000.00|200000.00|Annual|||||||20170821||20170913|
+2|FLU-Pregnancy|-|8|19|0|Exchange rate management|To support depreciation from exchange rate fluctuation||0.00|0.00|368377.00|368377.00|Annual|||||||20170913|||
+2|FLU-Pregnancy|-|8|20|0|Service charge for Telephone/Internet|||72000.00|0.00|-0.00|72000.00|Month|12|||||6000.00|20171010|||
+2|FLU-Pregnancy|-|8|21|0|Medical data retrieval/abstract/entry at Nopparat hospital|||0.00|40000.00|-0.00|40000.00|Case|400|||||100.00|20171011|||

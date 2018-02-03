@@ -1,0 +1,39 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+2|Flu-Communication|-|1|1|0|Principle Investigator|(Dr. Pornsak Yoochareon)||0.00|0.00|120000.00|120000.00|Person|1|20.00|12.00|50000.00|||20170202||20170202|
+2|Flu-Communication|-|1|2|0|Researcher|(Dr. Chitsanu Pancharoen)||0.00|0.00|120000.00|120000.00|Person|1|20.00|12.00|50000.00|||20170202||20170223|
+2|Flu-Communication|-|1|3|0|Researcher|(Drs. Wichai Termrungruanglert, Surasith Chaithongwongwatthana)||0.00|0.00|168000.00|168000.00|Person|2|10.00|12.00|70000.00|||20170202||20170209|
+2|Flu-Communication|-|1|4|0|Project Coordinator|(Ms. Porpit Varinsathien)||0.00|0.00|420000.00|420000.00|Person|1|100.00|12.00|35000.00|||20170202||20170209|
+2|Flu-Communication|-|1|5|0|Researcher Assistant|(Ms. Saiy Chaiwang)||0.00|0.00|324000.00|324000.00|Person|1|100.00|10.00|32400.00|||20170202||20170908|
+2|Flu-Communication|-|1|6|0|Compensation for administrative government officers|(Ms.Naree: $2.05or70Bahtx58hrsx12mths, Ms.mayuree: $2.05or70Bahtx16hrsx12mths)||0.00|0.00|62160.00|62160.00|Annual|||||||20170209||20170908|
+2|Flu-Communication|-|1|7|0|Data Management Officer|(Ms. Natnicha Srilasak)||0.00|0.00|240000.00|240000.00|Person|1|100.00|10.00|24000.00|||20170821||20170908|
+2|Flu-Communication|-|1|8|0|Overtimes for project staff|($1.76 or 60 Baht x 12 hrs/month x 12 months x 3 Persons)||0.00|0.00|25920.00|25920.00|Annual|||||||20170823||20170823|
+2|Flu-Communication|-|2|1|0|Researcher Assistant|(Ms. Saiy Chaiwang)||0.00|0.00|9000.00|9000.00|Person|1|324000.00|5.00||||20170202||20170908|
+2|Flu-Communication|-|2|2|0|Data Management Officer|(Ms. Natnicha Srilasak)||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170202||20170908|
+2|Flu-Communication|-|2|3|0|Annual medical check-up for full-time staff|($58.82 or 2,000 Bath x 2 persons)||0.00|0.00|4000.00|4000.00|Annual|||||||20170823||20170823|
+2|Flu-Communication|-|3|1|0|Coordinate with Provincial Chief Medical Officer to participate as the study areas|||64000.00|0.00|192000.00|256000.00|Time|8|4.00|1.00|2000.00|6000.00|0.00|20170202||20171010|
+2|Flu-Communication|-|3|2|0|Local transportation for project staff|||40800.00|0.00|55200.00|96000.00|Time|32|0.00|0.00|0.00|0.00|3000.00|20170202||20171010|
+2|Flu-Communication|-|3|3|0|Pre test for KAP of HCW before training and organize training for the trainers in intervention province|||160000.00|0.00|200000.00|360000.00|Time|4|9.00|2.00|2000.00|6000.00|0.00|20170821||20171010|
+2|Flu-Communication|-|3|4|0|Pre test for KAP of HCW in control province|||96000.00|0.00|96000.00|192000.00|Time|4|6.00|1.00|2000.00|6000.00|0.00|20170821||20171010|
+2|Flu-Communication|-|3|5|0|Supervision visit to study sites|||0.00|0.00|192000.00|192000.00|Time|8|3.00|1.00|2000.00|6000.00|0.00|20170821||20170908|
+2|Flu-Communication|-|4|1|0|Desktop and program|||0.00|0.00|50000.00|50000.00|Set|2|25000.00|||||20170202||20170823|
+2|Flu-Communication|-|4|2|0|Mobile phone|||0.00|0.00|7000.00|7000.00|Set|1|7000.00|||||20170202||20170404|
+2|Flu-Communication|-|4|3|0|Laptop and program|||0.00|0.00|40000.00|40000.00|Set|1|40000.00|||||20170823|||
+2|Flu-Communication|-|4|4|0|LCD projector|||0.00|0.00|25000.00|25000.00|Set|1|25000.00|||||20170823|||
+2|Flu-Communication|-|5|1|0|Office supplies|(Stationary, ink, paper)||0.00|0.00|120000.00|120000.00|Month|12|10000.00|||||20170202||20170920|
+2|Flu-Communication|-|6|1|0|Handbook for communication strategy|(See appendix B)||0.00|0.00|499950.00|499950.00|Book|11000|45.45|||||20170202||20170921|
+2|Flu-Communication|-|6|2|0|Brochure for pregnant women and caretaker|||0.00|0.00|500000.00|500000.00|Set|1|500000.00|||||20170306||20170920|
+2|Flu-Communication|-|6|3|0|Poster printing for pregnant women and caretakers|||0.00|0.00|499950.00|499950.00|Copy|15000|33.33|||||20170821||20170921|
+2|Flu-Communication|-|6|4|0|Flip chart|||0.00|0.00|499950.00|499950.00|Copy|5500|90.90|||||20170821||20170921|
+2|Flu-Communication|-|6|5|0|Spot radio & clip video|||0.00|0.00|499950.00|499950.00|Copy|15000|33.33|||||20170821||20170920|
+2|Flu-Communication|-|8|1|0|Training for trainers on flu vaccine recoomendation to pregnant women and caretakers|(Local participants)||0.00|0.00|112000.00|112000.00|Time|4|20.00|2.00|600.00|200.00|0.00|20170202||20170908|
+2|Flu-Communication|-|8|2|0|Training for trainers on flu vaccine recoomendation to pregnant women and caretakers|(Trainer team - non MOPH and non local)||0.00|0.00|120000.00|120000.00|Time|4|3.00|2.00|2000.00|6000.00|0.00|20170202||20170908|
+2|Flu-Communication|-|8|3|0|Mobile monthly fee|||2400.00|0.00|9600.00|12000.00|Month|12|||||1000.00|20170202||20171010|
+2|Flu-Communication|-|8|4|0|Pilot the method of training for trainers and media before implement the project|||0.00|0.00|12000.00|12000.00|Time|1|20.00|0.00|1.00|600.00|0.00|20170821||20170917|
+2|Flu-Communication|-|8|5|0|Meeting facilities|||784.00|0.00|3216.00|4000.00|Time|1|0.00|0.00|0.00|0.00|4000.00|20170821||20171010|
+2|Flu-Communication|-|8|6|0|Photocopy for questionnaires|||33200.00|0.00|6800.00|40000.00|Copy|8000|0.00|0.00|0.00|0.00|5.00|20170821||20171010|
+2|Flu-Communication|-|8|7|0|Working group meeting|||0.00|0.00|48000.00|48000.00|Time|6|10.00|1.00|600.00|200.00|0.00|20170821||20170908|
+2|Flu-Communication|-|8|8|0|Compensation for study participant|(Pregnant women and caretakers of children age 6 - 35 months)||0.00|0.00|120000.00|120000.00|Person|1200|||||100.00|20170821||20170920|
+2|Flu-Communication|-|8|9|0|Compensation for questionnaires interviewers|||0.00|0.00|30000.00|30000.00|Time|1200|0.00|0.00|0.00|0.00|25.00|20170821||20170920|
+2|Flu-Communication|-|8|10|0|MOU printing cost|||0.00|0.00|735000.00|735000.00|Copy|30000|||||24.50|20170823||20170921|
+2|Flu-Communication|-|8|11|0|Exchange rate management|To support depreciation from exchange rate fluctuation||167791.61|0.00|500000.00|667791.61|Annual|||||||20170823||20171010|
+2|Flu-Communication|-|8|12|0|Transporation cost to deliver health communation package to 77 provinces|||300000.00|0.00|-0.00|300000.00|Time|10|1.00|0.00|0.00|30000.00|0.00|20171005||20171010|

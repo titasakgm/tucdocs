@@ -8,31 +8,38 @@ def f2(f)
 end
 
 def update_original_plan(proj,d)
-  pq1_total = d[8].to_f
-  pq2_total = d[12].to_f
-  pq3_total = d[16].to_f
-  pq4_total = d[20].to_f
-  pq1_4 = pq1_total + pq2_total + pq3_total + pq4_total
 
-  pq1_1 = d[6].to_s.to_f
-  pq1_2 = d[7].to_s.to_f
-  pq1_3 = d[8].to_s.to_f
-  pq1_4 = d[9].to_s.to_f
-  pq2_1 = d[10].to_s.to_f
-  pq2_2 = d[11].to_s.to_f
-  pq2_3 = d[12].to_s.to_f
-  pq2_4 = d[13].to_s.to_f
-  pq3_1 = d[14].to_s.to_f
-  pq3_2 = d[15].to_s.to_f
-  pq3_3 = d[16].to_s.to_f
-  pq3_4 = d[17].to_s.to_f
-  pq4_1 = d[18].to_s.to_f
-  pq4_2 = d[19].to_s.to_f
-  pq4_3 = d[6].to_s.to_f
-  pq4_4 = d[6].to_s.to_f
+  q1 = 5
+  # find pq1_sep for d[4] or d[5]
+  # 2018|CEI-NR|1|338400.0|28000.0|5600.0|12600.0|12600.0|30800.0|
+  if d[4].to_f + d[5].to_f + d[6].to_f == d[7].to_f
+    q1 = 4
+  end
+  pq1_total = d[q1+3].to_f
+  pq2_total = d[q1+7].to_f
+  pq3_total = d[q1+11].to_f
+  pq4_total = d[q1+15].to_f
+  pq1x4 = pq1_total + pq2_total + pq3_total + pq4_total
+
+  pq1_1 = d[q1].to_s.to_f
+  pq1_2 = d[q1+1].to_s.to_f
+  pq1_3 = d[q1+2].to_s.to_f
+  pq1_4 = d[q1+3].to_s.to_f
+  pq2_1 = d[q1+4].to_s.to_f
+  pq2_2 = d[q1+5].to_s.to_f
+  pq2_3 = d[q1+6].to_s.to_f
+  pq2_4 = d[q1+7].to_s.to_f
+  pq3_1 = d[q1+8].to_s.to_f
+  pq3_2 = d[q1+9].to_s.to_f
+  pq3_3 = d[q1+10].to_s.to_f
+  pq3_4 = d[q1+11].to_s.to_f
+  pq4_1 = d[q1+12].to_s.to_f
+  pq4_2 = d[q1+13].to_s.to_f
+  pq4_3 = d[q1+14].to_s.to_f
+  pq4_4 = d[q1+15].to_s.to_f
 
   original = d[3].to_f
-  bal = original - pq1_4
+  bal = original - pq1x4
 
   con = PG::Connection.connect("localhost",5432,nil,nil,"tuc-mon","admin")
   sql = "UPDATE progress SET pq1_sep=#{pq1_1},pq1_oct=#{pq1_2},pq1_nov=#{pq1_3},pq1_total=#{pq1_4},"
@@ -47,6 +54,9 @@ def update_original_plan(proj,d)
 end
 
 def check_original(proj,obj,budget)
+  proj = 'DGHP-OH-WFD' if proj == 'DGHP-OHWFD'
+  proj = 'DGHP-EOC' if proj == 'DGHP-MOPH-EOC'
+
   con = PG::Connection.connect("localhost",5432,nil,nil,"tuc-mon","admin")
   sql = "SELECT original "
   sql += "FROM progress "
@@ -57,7 +67,7 @@ def check_original(proj,obj,budget)
     return false
   else
     orig = res[0]['original'].to_s.to_f
-    if f2(orig) == f2(budget.to_f)
+    if f2(orig) == f2(budget.to_f) # FIX 234103.67 VS 234103.669999999999998
       return true
     else
       return false
@@ -81,7 +91,7 @@ def process(f)
     if flag
       update_original_plan(proj,d)
     else
-      puts "ERROR: #{proj} #{line} not match ORIGINAL"
+      puts "ERROR: #{proj} #{line} #{amt} not match ORIGINAL"
       exit
     end
   end
@@ -93,4 +103,3 @@ entries.each do |f|
   proj = f.upcase
   process(f)
 end
-

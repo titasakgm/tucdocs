@@ -1,0 +1,74 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|NCD-CVD|-|1|1|0|PI, Director, Bureau of NCD, Department of Disease Control|Dr.Sanchai Chasombat||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00||||||
+1|NCD-CVD|-|1|2|0|Co-PI, Head of Public Health System Development Sector, Bureau of NCD, Department of Disease Contr|Dr.Sumanee Wacharasint||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00||||||
+1|NCD-CVD|-|1|3|0|Project assistant|TBD||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00||||||
+1|NCD-CVD|-|1|4|0|Project staff|TBA||0.00|0.00|-0.00|0.00|Person|2|0.00|12.00|0.00||||||
+1|NCD-CVD|-|1|5|0|Project Financial Officer (to be hired)|($441.18*50%) x 12 months||0.00|0.00|90000.00|90000.00|Person|1|50.00|12.00|15000.00||||||
+1|NCD-CVD|-|1|5|1|Project Financial Officer (to be hired)|($441.18*50%) x 9 months|||||67500.00|Person|1|50.00|9.00|15000.00|||20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|1|6|0|Compensation for government staff|($2.06 or 70 THB x 30 hours/month x 12 months) x 2 persons||0.00|0.00|50400.00|50400.00|Annual||||||||||
+1|NCD-CVD|-|1|6|1|Compensation for government staff|($2.06 or 70 THB x 30 hours/month x 12 months) x 2 persons|||||0.00|Annual|||||||20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|3|1|0|Training workshop on GlobalHeart package|MOPH - Transportation: $14.71 or 500 THB/day x 2 days x 5 persons||0.00|0.00|5000.00|5000.00|Time|1|5.00|2.00|0.00|1000.00|0.00||||
+1|NCD-CVD|-|3|1|1|Training workshop on GlobalHeart package|MOPH - Transportation: $14.71 or 500 THB/day x 2 days x 5 persons|||||0.00|Time|1|5.00|2.00|0.00|0.00|0.00|20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|3|2|0|Meeting to identify area and draft framework for CVD and HT situational analysis in the two target settings|MopH Transportation: ($14.71 x 6 persons)||0.00|0.00|-0.00|0.00|Time|1|6.00|1.00|0.00|0.00|0.00||||
+1|NCD-CVD|-|3|3|0|Collecting data  and preliminary analysis in the two target settings|MoPH ($14.71x 4 persons x 2 days x 2 times)||0.00|0.00|8000.00|8000.00|Time|2|4.00|2.00|0.00|1000.00|0.00||||
+1|NCD-CVD|-|3|3|1|Collecting data  and preliminary analysis in the two target settings|MoPH ($14.71x 4 persons x 2 days x 2 times)|||||0.00|Time|2|4.00|2.00|0.00|0.00|0.00|20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|3|4|0|Collecting data  and preliminary analysis in the two target settingsCollecting data  and preliminary analysis in the two target settings|MoPH Non-local ($58.82 x 2days X 4 persons x 2times) + ($29.41 x 4 persons x 2 times)||0.00|0.00|40000.00|40000.00|Time|2|4.00|2.00|2000.00|1000.00|0.00||||
+1|NCD-CVD|-|3|4|1|Collecting data  and preliminary analysis in the two target settingsCollecting data  and preliminary analysis in the two target settings|MoPH Non-local ($58.82 x 2days X 4 persons x 2times) + ($29.41 x 4 persons x 2 times)|||||0.00|Time|2|4.00|2.00|0.00|0.00|0.00|20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|3|5|0|Transportation for project administration|($ 5.88 x 12 months)||0.00|0.00|2400.00|2400.00|Month|12|1.00|0.00|0.00|200.00|0.00||||
+1|NCD-CVD|-|3|5|1|Transportation for project administration|($ 5.88 x 9 months)|||||1800.00|Month|9|1.00|0.00|0.00|200.00|0.00|20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|3|6|0|International Travel to gain knowledge and experinces in improving CVD work in Thailand|||0.00|0.00|-0.00|0.00|Time|1|3.00|7.00|0.00|0.00|0.00||||
+1|NCD-CVD|-|4|1|0|Notebook computer|($882.35 x 1 set)||0.00|0.00|30000.00|30000.00|set|1|30000.00||||||||
+1|NCD-CVD|-|4|1|1|Notebook computer|($602.94 x 1 set)|||||20500.00|set|1|20500.00|||||20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|4|2|0|All-in-one printer, scanner and copier (laser)|($88.24 x 1 set)||0.00|0.00|3000.00|3000.00|set|1|3000.00||||||||
+1|NCD-CVD|-|4|2|1|All-in-one printer, scanner and copier (laser)|($367.65 x 1 set)|||||12500.00|set|1|12500.00|||||20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|5|1|0|Office supplies and IT supplies (Paper, Printer catridges, stationeries, thumb drive etc.)|($139.88x 1 year)||0.00|0.00|4756.00|4756.00|Annual||||||||||
+1|NCD-CVD|-|5|1|1|Office supplies and IT supplies (Paper, Printer catridges, stationeries, thumb drive etc.)|($2705.88x 1 year)|||||92000.00|Annual|||||||20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|5|2|0|Program software (Microsoft office (Business), Anti-virus, etc)|($88.24 x 1 Set)||0.00|0.00|3000.00|3000.00|Set|1|3000.00||||||||
+1|NCD-CVD|-|5|2|1|Program software (Microsoft office (Business), Anti-virus, etc)|($789.88 x 1 Set)|||||26856.00|Set|1|26856.00|||||20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|8|1|0|Training workshop on Global HEARTS package|Non-MOPH ($14.71 x 2 persons x 2 days) + ( $29.41 x 2 persons)||0.00|0.00|4000.00|4000.00|Time|1|2.00|2.00|500.00|1000.00|0.00||||
+1|NCD-CVD|-|8|1|1|Training workshop on Global HEARTS package|Non-MOPH ($14.71 x 2 persons x 2 days) + ( $29.41 x 2 persons)|||||0.00|Time|1|2.00|2.00|0.00|0.00|0.00|20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|8|2|0|Training workshop on Global HEARTS package|MOPH ($14.71 x 5 persons x 2 days)||0.00|0.00|5000.00|5000.00|Time|1|5.00|2.00|500.00|0.00|0.00||||
+1|NCD-CVD|-|8|2|1|Training workshop on Global HEARTS package|MOPH ($14.71 x 5 persons x 2 days)|||||0.00|Time|1|5.00|2.00|0.00|0.00|0.00|20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|8|3|0|Reporting, transalating and printing the integrated  strategic plan on Thailand Global HEARTS|Translation from Thai to English ($14.71 x 20 pages) + color printing ($5.88/set x 10 set)||0.00|0.00|12000.00|12000.00|Set|10|0.00|0.00|0.00|0.00|1200.00||||
+1|NCD-CVD|-|8|3|1|Reporting, transalating and printing the integrated  strategic plan on Thailand Global HEARTS|Translation from Thai to English ($14.71 x 20 pages) + color printing ($5.88/set x 10 set)|||||0.00|Set|10|0.00|0.00|0.00|0.00|0.00|20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|8|4|0|Meeting to identify area and draft framework for CVD and HT situational analysis in the two target settings|MoPH ($14.71x 6 persons)||0.00|0.00|3000.00|3000.00|Time|1|6.00|1.00|500.00|0.00|0.00||||
+1|NCD-CVD|-|8|4|1|Meeting to identify area and draft framework for CVD and HT situational analysis in the two target settings|MoPH ($14.71x 8 persons)|||||40000.00|Time|1|8.00|10.00|500.00|0.00|0.00|20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|8|5|0|Collecting data  and preliminary analysis in the two target settings|MoPH ($14.71x 4 persons x 2 times x 2days)||0.00|0.00|8000.00|8000.00|Time|2|4.00|2.00|500.00|0.00|0.00||||
+1|NCD-CVD|-|8|5|1|Collecting data  and preliminary analysis in the two target settings|MoPH ($14.71x 4 persons x 2 times x 2days)|||||0.00|Time|2|4.00|2.00|0.00|0.00|0.00|20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|8|6|0|Resource person for analyzing data and writing a final summary report on CVD and HT in the two target settings|($17.65/hr x 34 hrs x 2 persons)||0.00|0.00|40800.00|40800.00|Time|2|2.00|0.00|0.00|0.00|20400.00||||
+1|NCD-CVD|-|8|7|0|Reporting, translating and printing the CVD and HT situation in two target setting|Translation from Thai to English ($14.71 x 10 pages) + color printing ($5.88/set x 10 set)||0.00|0.00|7000.00|7000.00|Set|10|0.00|0.00|0.00|0.00|700.00||||
+1|NCD-CVD|-|8|8|0|Communication cost|($5.88x 12 months)||0.00|0.00|2400.00|2400.00|Month|12|0.00|0.00|0.00|0.00|200.00||||
+1|NCD-CVD|-|8|8|1|Communication cost|($8.82 x 6 months)|||||1800.00|Month|6|0.00|0.00|0.00|0.00|300.00|20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|8|9|0|Meeting facilities|($29.41 x 2 times)||0.00|0.00|2000.00|2000.00|Time|2|0.00|0.00|0.00|0.00|1000.00||||
+1|NCD-CVD|-|8|9|1|Meeting facilities|($29.41 x 2 times)|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170822|NCD-CVD|20170822|NCD-CVD
+1|NCD-CVD|-|8|10|1|Meeting to identify area and draft framework for CVD and HT situational analysis in the two target settings Non-MoPH|($14.71 x 2 persons x 5 days)|||||10000.00|Time|1|2.00|5.00|1000.00|0.00|0.00|20170822|NCD-CVD|20170822|NCD-CVD
+2|NCD-CVD|-|1|1|0|PI, Director, Bureau of NCD, Department of Disease Control|Dr.Direk Khampaen||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00|||20170303||20170303|
+2|NCD-CVD|-|1|2|0|Co-PI, Head of Public Health System Development Sector, Bureau of NCD, Department of Disease Contr|Dr.Sumanee Wacharasint||0.00|0.00|-0.00|0.00|Person|1|0.00|12.00|0.00|||20170303||20170303|
+2|NCD-CVD|-|1|3|0|Project Coordinator|Ms. Nathanonphan Phakawatchaiyakul ($441.18 x 100%) x 12 months||0.00|0.00|180000.00|180000.00|Person|1|100.00|12.00|15000.00|||20170303||20170922|
+2|NCD-CVD|-|1|4|0|Compensation for government staff|($2.06 or 70 THB x 32 hours x12 months x 3 persons)||0.00|0.00|80640.00|80640.00|Annual|||||||20170303||20170303|
+2|NCD-CVD|-|1|5|0|Over times for project staff|($1.76 or 60THB x 32 hours x 12 months x 1 person)||0.00|0.00|23040.00|23040.00|Annual|||||||20170303||20170303|
+2|NCD-CVD|-|2|1|0|Project Coordinator|($441.18 x 5%) x 12 months)||0.00|0.00|9000.00|9000.00|Person|12|15000.00|5.00||||20170303||20170922|
+2|NCD-CVD|-|2|2|0|Annual Medical chack-up for full time staff|($58.82 or 2,000 THB x 1 person)||0.00|0.00|2000.00|2000.00|Person|1|2000.00|100.00||||20170303||20170304|
+2|NCD-CVD|-|3|1|0|Try out the developed community assessment tools in the selected site(MoPH Non-local)|($58.82  x 3 daysx 1 times x 5 persons)+($88.24 x 5 persons x 1 time)||0.00|0.00|45000.00|45000.00|Time|1|5.00|3.00|2000.00|3000.00|0.00|20170223||20170825|
+2|NCD-CVD|-|3|2|0|community assessment in the two selected sites( MoPH Non-local)|($58.82 x2 timesx3days x 5 persons)+($88.24 x 2 times x 5 persons)||0.00|0.00|90000.00|90000.00|Time|2|5.00|3.00|2000.00|3000.00|0.00|20170223||20170825|
+2|NCD-CVD|-|3|3|0|community priority setting and plan for developing of CVD intervention (MoPH Non-local)|($29.41 x 2 times x 5 persons x 2 day)+($88.24 x 2 times x 5 persons)||0.00|0.00|50000.00|50000.00|Time|2|5.00|2.00|1000.00|3000.00|0.00|20170303||20170825|
+2|NCD-CVD|-|3|4|0|International travel to gain knowledge and experinces in improving CVD work in Thailand|||0.00|0.00|-0.00|0.00|Time|1|3.00|7.00|0.00|0.00|0.00|20170303||20170303|
+2|NCD-CVD|-|3|5|0|Transportation for Project administration|($14.71 x 12 months)||0.00|0.00|3600.00|3600.00|Time|12|0.00|0.00|0.00|0.00|300.00|20170303||20170306|
+2|NCD-CVD|-|4|1|0|LDC Projector|($588.24 x 1 set)||0.00|0.00|25000.00|25000.00|Set|1|25000.00|||||20170224||20171010|
+2|NCD-CVD|-|4|2|0|Digital Tape Recorder|($117.65 x 2 sets)||0.00|0.00|8000.00|8000.00|Set|2|4000.00|||||20170822||20170915|
+2|NCD-CVD|-|5|1|0|General Office Supplies (i.e. paper, stationery, ink catridges, cds, etc.)|($1257 x 1 time)||0.00|10296.00|32437.00|42733.00|Annual|||||||20170223||20170915|
+2|NCD-CVD|-|5|2|0|Renewed Software License|($3,848.41 x 1 time)||17246.09|42200.00|71400.00|130846.09|Annual|||||||20170914||20171101|
+2|NCD-CVD|-|5|3|0|External DVD Drive|($58.82 x 1 set)||0.00|0.00|2000.00|2000.00|Annual|||||||20170915|||
+2|NCD-CVD|-|8|1|0|Meeting to identify scope and compenent of the community assessment tool (MoPH Local)|($14.71 x 5 persons x 5 times)||0.00|0.00|12500.00|12500.00|Time|5|5.00|1.00|500.00|0.00|0.00|20170223||20170825|
+2|NCD-CVD|-|8|2|0|Meeting to identify scope and compenent of the community assessment tools(Non-MoPH local)|($14.71 x 3 persons x 5 times)||0.00|0.00|15000.00|15000.00|Time|5|3.00|1.00|500.00|500.00|0.00|20170304||20170825|
+2|NCD-CVD|-|8|3|0|Community assessment in the two selected sites( MoPH Local)|($14.71x10 persons x 3 days x 2 times)||0.00|0.00|30000.00|30000.00|Time|2|10.00|3.00|500.00|0.00|0.00|20170304||20170825|
+2|NCD-CVD|-|8|4|0|Community priority setting and plan for developing of CVD intervention (MoPH local)|($14.71x 2 times x 2 day x 20 persons)||0.00|0.00|40000.00|40000.00|Time|2|20.00|2.00|500.00|0.00|0.00|20170304||20170825|
+2|NCD-CVD|-|8|5|0|Try out the developed community assessment tools in the selected site (MoPH Local)|($14.71x 10 personsx 1 times x 3 days)||0.00|0.00|15000.00|15000.00|Time|1|10.00|3.00|500.00|0.00|0.00|20170304||20170825|
+2|NCD-CVD|-|8|6|0|Resource person for developing community assessment tool|(3 persons x 4 hours x $14.71/hr x 5 times)||0.00|0.00|30000.00|30000.00|Time|5|3.00|0.00|0.00|0.00|6000.00|20170304||20170825|
+2|NCD-CVD|-|8|7|0|Reporting,translating and printing community assessment result|(50 pages x $29.41 /page)||0.00|0.00|50000.00|50000.00|Set|1|||||50000.00|20170304||20170307|
+2|NCD-CVD|-|8|8|0|Data Analysis|($1764.71x 1 time)||0.00|0.00|60000.00|60000.00|Time|1|0.00|0.00|0.00|0.00|60000.00|20170304||20170307|
+2|NCD-CVD|-|8|9|0|communication cost|($14.71 x 12 months)||0.00|0.00|3600.00|3600.00|Time|12|0.00|0.00|0.00|0.00|300.00|20170304||20170306|
+2|NCD-CVD|-|8|10|0|Meeting facilities|($176.47 x 10 times)||0.00|0.00|60000.00|60000.00|Time|10|0.00|0.00|0.00|0.00|6000.00|20170304||20170304|
+2|NCD-CVD|-|8|11|0|Contributions to CoUnit Management|(See CU2-MoPH (Counit) budget breakdown)||0.00|0.00|0.00|0.00|Annual|||||||20170307||20170822|
+2|NCD-CVD|-|8|12|0|Contribution to Evaluation and Performance Measurement Plan (EPMP)|(See CU2-MoPH (Counit) budget breakdown)||0.00|0.00|0.00|0.00|Annual|||||||20170307||20170822|
+2|NCD-CVD|-|8|13|0|Exchange Rate Management|(1$ : 1฿ x Approved Budget)||0.00|0.00|28743.00|28743.00|Annual|||||||20170821||20170822|

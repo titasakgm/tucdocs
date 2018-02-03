@@ -1,0 +1,28 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|FLU-RightSize|-|1|1|0|Project Manager|(Dr. Thitipong Yingyong)||0.00|0.00|-0.00|0.00|Person|1|15.00|12.00|0.00||||||
+1|FLU-RightSize|-|1|2|0|Administrative and Financial Assistant|(TBD)||0.00|0.00|134400.00|134400.00|Person|1|20.00|12.00|56000.00||||||
+1|FLU-RightSize|-|1|3|0|Compensation for Project Manager|($2.06 x 0hrs./month x 12 months)||0.00|0.00|-0.00|0.00|Annual||||||||||
+1|FLU-RightSize|-|3|1|0|Site visit|(MOPH-non local and project staff)||0.00|0.00|40000.00|40000.00|Time|4|2.00|1.00|2000.00|3000.00|0.00||||
+1|FLU-RightSize|-|3|1|1|Site visit|(MOPH-non local and project staff)|||||72000.00|Time|3|3.00|2.00|2000.00|4000.00|0.00|20170224|flu-rightsize|20170224|flu-rightsize
+1|FLU-RightSize|-|3|1|2|Site visit|(MOPH-non local and project staff)|||||46150.00|Time|1|4.00|4.00|2000.00|3537.50|0.00|20170706|flu-rightsize|20170706|flu-rightsize
+1|FLU-RightSize|-|3|2|2|Laboratory surveillance network meeting|((22 person x perdiem 2,000 x 3 days)+(20 persons x tran 3,900)) x 1 times|||||210000.00|Annual|||||||20170706|flu-rightsize|20170706|flu-rightsize
+1|FLU-RightSize|-|5|1|0|Stationary and office supply|(Stationaries, toner, paper, etc.)||0.00|0.00|-0.00|0.00|Time|0|0.00|||||||20170706|flu-rightsize
+1|FLU-RightSize|-|8|1|0|Expert meeting|(Local participants - MOPH and non MOPH)||0.00|0.00|48000.00|48000.00|Time|4|8.00|1.00|1500.00|0.00|0.00||||
+1|FLU-RightSize|-|8|1|1|Expert meeting|(Local participants - MOPH and non MOPH)|||||16000.00|Time|2|4.00|1.00|2000.00|0.00|0.00|20170224|flu-rightsize|20170224|flu-rightsize
+1|FLU-RightSize|-|8|1|2|Expert meeting|(Local participants - MOPH and non MOPH)|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170706|flu-rightsize|20170706|flu-rightsize
+1|FLU-RightSize|-|8|2|0|Printing cost for surveillance and information sharing guideline|||0.00|0.00|5000.00|5000.00|Set|50|||||100.00||||
+1|FLU-RightSize|-|8|3|0|Meeting facilities|(Meeting materials, photocopy, meeting room rental)||0.00|0.00|6554.00|6554.00|Annual||||||||||
+1|FLU-RightSize|-|8|3|2|Meeting facilities|(Meeting materials, photocopy, meeting room rental)|||||5004.00|Annual|||||||20170706|flu-rightsize|20170706|flu-rightsize
+1|FLU-RightSize|-|8|4|3|Gain from exchange rate on 07 Jul 17 (Cheque # 10181877)||||||5859.38|Annual|||||||20170912|pma|20170912|pma
+2|FLU-RightSize|-|1|1|0|Program Coordinator|(Ms.Walaiporn Jiaranairungroj)||0.00|0.00|108000.00|108000.00|Person|1|25.00|12.00|36000.00|||20170407|||
+2|FLU-RightSize|-|1|2|0|Programmer|(Ms. Sunnaree Phachiphet)||0.00|0.00|168000.00|168000.00|Person|1|100.00|12.00|14000.00|||20170407||20170407|
+2|FLU-RightSize|-|1|3|0|Compensation for officers at MOPH|($2.06 or 70 Baht x 24 hours/month x 12 months) x 2 persons)||0.00|0.00|40320.00|40320.00|Annual|||||||20170407||20170407|
+2|FLU-RightSize|-|2|1|0|Programmer|||0.00|0.00|8400.00|8400.00|Person|1|168000.00|5.00||||20170407|||
+2|FLU-RightSize|-|2|2|0|Annual Medical check-up for full-time staff|(58.82 or 2,000 Bahtx 1 person)||0.00|0.00|2000.00|2000.00|Annual|||||||20170407||20170917|
+2|FLU-RightSize|-|3|1|0|Site visit to monitor project activities and data collection|(MOPH non-local)||0.00|0.00|55200.00|55200.00|Time|2|3.00|2.00|2000.00|5200.00|0.00|20170407||20170916|
+2|FLU-RightSize|-|3|2|0|Presenting at international meeting/conference|||4706.38|0.00|122082.00|126788.38|Time|1|1.00|5.00|7820.00|61200.00|26488.38|20170407||20171011|
+2|FLU-RightSize|-|4|1|0|PC or computer notebook and program|||0.00|0.00|39992.00|39992.00|Set|1|39992.00|||||20170407||20170917|
+2|FLU-RightSize|-|8|1|0|Meeting for policy making|||12000.00|0.00|24000.00|36000.00|Time|2|15.00|1.00|1200.00|0.00|0.00|20170407||20171011|
+2|FLU-RightSize|-|8|2|0|Technical meeting to develop a tool and flow to integrate data from two systems|||0.00|0.00|10800.00|10800.00|Time|3|6.00|1.00|600.00|0.00|0.00|20170407|||
+2|FLU-RightSize|-|8|3|0|Meeting facilities for technical meeting|||0.00|0.00|12500.00|12500.00|Time|5|1.00|1.00|0.00|2500.00|0.00|20170407||20170913|
+2|FLU-RightSize|-|8|4|0|Exchange rate management|To support depreciation from the exchange rate fluctuation||0.00|0.00|17918.00|17918.00|Annual|||||||20170913||20170913|

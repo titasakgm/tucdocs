@@ -1,0 +1,10 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|KPIS|SR|8|1|0|SR: Communication cost|(telephone and internet)||0.00|0.00|24000.00|24000.00|Month|12|||||2000.00||||
+1|KPIS|SR|8|2|0|SR: Lab and medical fee|||0.00|0.00|90000.00|90000.00|Year|1|||||90000.00||||
+1|KPIS|SR|8|3|0|SR: Compensation for participants|(follow-up visits)||0.00|0.00|275000.00|275000.00|Time|1|550.00|1.00|500.00|0.00|0.00||||
+1|KPIS|SR|8|4|0|SR: Progress meeting|||0.00|0.00|12000.00|12000.00|Time|2|10.00|1.00|500.00|0.00|1000.00||||
+1|KPIS|SR|8|5|0|SR: Compensation for PDI recruitment|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00||||
+2|KPIS|SR|8|1|0|SR: Lab and medical fee|||24905.00|21356.00|8739.00|55000.00|Year|1|||||55000.00|20170320||20171113|
+2|KPIS|SR|8|2|0|SR: Compensation for participants|(follow-up visits)||25000.00|75000.00|-0.00|100000.00|Time|1|200.00|1.00|500.00|0.00|0.00|20170320||20171113|
+2|KPIS|SR|8|3|0|SR: Progress meeting|||0.00|10000.00|-0.00|10000.00|Time|2|10.00|1.00|500.00|0.00|0.00|20170320||20171113|
+2|KPIS|SR|8|4|0|SR: Communication cost|(telephone and internet)||0.00|22000.00|-0.00|22000.00|Month|11|||||2000.00|20170320||20171113|

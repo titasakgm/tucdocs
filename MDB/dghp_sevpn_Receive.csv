@@ -1,0 +1,4 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-SevPn|-|20161025|2|4939.71|34.8300|172049.96||10172102,10172132|เงินงวดที่1 (167,950 บาท เลขที่เช็ค10172102,4,099.96 บาท เลขที่เช็ค10172132)|20170130|dghp-sevpn|20170919|dghp-sevpn
+1|DGHP-SevPn|-|20161228|3|8311.29|35.7600|297211.88||10172188|เงินงวดที่2 (297,211.88 เลขที่เช็ค 10172188)|20170130|dghp-sevpn|20170504|dghp-sevpn
+1|DGHP-SevPn|-|20170428|3|6000.00|34.2788|205672.80||10181853|เงินงวดที่3 (205,672.80 เลขที่เช็ค 10181853)|20170504|dghp-sevpn|20170504|dghp-sevpn

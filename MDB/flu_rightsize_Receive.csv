@@ -1,0 +1,5 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|FLU-RightSize|-|20161025|2|1720.25|34.8300|59916.31||10170113|เงินงวดที่1 (58,488.50 บาท เลขที่เช็ค10170113,1,427.81 บาท เลขที่เช็ค10172123)|20170208|flu-rightsize|20170208|flu-rightsize
+1|FLU-RightSize|-|20161228|2|2825.75|35.7600|101048.82||10172179|เงินงวดที่2 101,048.82 บาท เลขที่เช็ค 10172179|20170208|flu-rightsize|20170504|flu-rightsize
+1|FLU-RightSize|-|20170428|3|2000.00|34.2788|68557.60||10181860|เงินงวดที่3 68,557.60 บาท เลขที่เช็ค 10181860|20170504|flu-rightsize|20170504|flu-rightsize
+1|FLU-RightSize|-|20170707|1|5235.00|33.7900|176890.65||10181877|เงินงวดที่4 176,890.65 บาท เลขที่เช็ค 10181877|20170912|pma|20170912|pma

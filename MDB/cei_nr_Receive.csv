@@ -1,0 +1,5 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|CEI-NR|-|20161025|3|10000.00|34.8300|348300.00||10170112|เช็ค#1 10170112=340,000฿,เช็ค#2 10172122=8,300฿|20170117|cei2|20170126|cei2
+1|CEI-NR|-|20161228|3|17835.00|35.7600|637779.60||10172178|เงินโอนงวดที่ 2|20170117|cei2|20170126|cei2
+1|CEI-NR|-|20170428|2|1900.00|34.2788|65129.72||10181845|เงินโอนงวดที่ 3|20170613|cei2|20170613|cei2
+1|CEI-NR|-|20170712|1|10265.00|33.7900|346854.35||10181876|เงินโอนงวดที่ 4|20170911|cei2|20170911|cei2

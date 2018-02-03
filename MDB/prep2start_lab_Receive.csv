@@ -1,0 +1,5 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|PrEP2START-LAB|-|20161108|2|7720.59|34.8300|268908.09||10172143,10172144|10172143 (EX Rate 34)=262,500 B,10172144 (ส่วนต่าง 0.83)=6,408.09 B|20170207|prep2start-lab|20170207|prep2start-lab
+1|PrEP2START-LAB|-|20161228|3|7500.41|35.7600|268214.72||10172164|EX Rate 34= 255,014 B,ส่วนต่าง 1.76 =13,200.72 B|20170207|prep2start-lab|20170207|prep2start-lab
+1|PrEP2START-LAB|-|20170428|2|11000.00|34.2800|377066.80||10181831|EX Rate=34.2788|20170501|prep2start-lab|20170614|prep2start-lab
+1|PrEP2START-LAB|-|20170707|1|4661.35|33.7900|157507.02||10181864||20170810|prep2start-lab|20170810|prep2start-lab

@@ -1,0 +1,4 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|NCD-RTI|-|20161130|1|4717.00|34.8300|164293.11||10172153|งวดที่ 1 เช็ค 10172153 = 160,378  บาท เช็ค 10172154 = 3,915.11 บาท|20170308|ncd-rti|20170308|ncd-rti
+1|NCD-RTI|-|20161228|2|12375.00|35.7600|442530.00||10172175|งวดที่ 3|20170308|ncd-rti|20170808|NCD-RTI
+1|NCD-RTI|-|20170707|1|1776.00|33.7900|60011.04||10181874|งวดที่ 4|20170928||20170928|

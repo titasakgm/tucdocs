@@ -1,0 +1,274 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|PrEP2START-SU|SU|1|2|1|Compensation for Government staff (Project Coordinator) Ms.Tumneab|20161130|8550.00|10170700|20161130|450.00|10175043|||ค่าตอบแทน กย - พย 2559 ภาษี|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|2|3|Compensation for Government staff (Project Coordinator) Ms.Tumneab|20170208|5700.00|10175070|20170208|300.00|10175073|||ค่าตอบแทน ธค 59-มค 60 ภาษี|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|1|2|4|Compensation for Government staff (Project Coordinator) Ms.Tumneab|20170314|2850.00|10175094|20170331|150.00|10175097|||ค่าตอบแทน กพ 2560 ภาษี กพ|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|1|2|5|Compensation for Government staff (Project Coordinator) Ms.Tumneab|20170428|2850.00|10175103|20170428|150.00|10175109|||ค่าตอบแทน มีค 2560 ภาษี มีค|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|1|2|7|Compensation for Government staff (Project Coordinator) Ms.Tumneab|20170522|2850.00|10175119|20170531|150.00|10175124|||ค่าตอบแทน เมย 2560 ภาษี เมย|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|1|2|10|Compensation for Government staff (Project Coordinator) Ms.Tumneab|20170602|2850.00|10175135|20170602|150.00|10175140|||ค่าตอบแทน พค 2560 ภาษี พค|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|1|2|14|Compensation for Government staff (Project Coordinator) Ms.Tumneab|20170731|2850.00|10213654|20170731|150.00|10213646|||ค่าตอบแทน กค 2560 ภาษี กค|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|1|2|15|Compensation for Government staff (Project Coordinator) Ms.Tumneab|20170712|2850.00|10213633|20170712|150.00|10213638|||ค่าตอบแทน มิย 2560 ภาษี มิย|20170801|prep2start-su|20170802|prep2start-su
+1|PrEP2START-SU|SU|1|2|16|Compensation for Government staff (Project Coordinator) Ms.Tumneab|20170831|2850.00|10213667|20170831|150.00|10213672|||ค่าตอบแทน สค 2560 ภาษี สค|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|1|3|2|Project coordinator assistant Ms.Kanha|20161025|29650.00|10170681|20161031|500.00|10170684|||เงินเดือน กย 2559 ภาษี กย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|3|3|Project coordinator assistant Ms.Kanha|20161031|750.00|10170683||||||ปกส กย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|3|4|Project coordinator assistant Ms.Kanha|20161028|29650.00|10170687|20161031|500.00|10170690|||เงินเดือน ตค 2559 ภาษี ตค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|3|5|Project coordinator assistant Ms.Kanha|20161031|750.00|10170689||||||ปกส ตค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|3|7|Project coordinator assistant Ms.Kanha|20161130|29650.00|10170694|20161130|500.00|10170697|||เงินเดือน พย 2559 ภาษี พย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|3|8|Project coordinator assistant Ms.Kanha|20161130|750.00|10170696||||||ปกส พย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|3|10|Project coordinator assistant Ms.Kanha|20161230|29650.00|10175049|20161230|500.00|10175052|||เงินเดือน ธค 2559 ภาษี ธค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|3|11|Project coordinator assistant Ms.Kanha|20161230|750.00|10175051||||||ปกส ธค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|3|13|Project coordinator assistant Ms.Kanha|20170131|29650.00|10175059|20170131|500.00|10175062|||เงินเดือน มค 2560 ภาษี มค 2560|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|1|3|14|Project coordinator assistant Ms.Kanha|20170131|750.00|10175061||||||ปกส มค 2560|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|1|3|15|Project coordinator assistant Ms.Kanha|20170228|29650.00|10175078|20170228|500.00|10175081|||เงินเดือน กพ 2560 ภาษี|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|1|3|16|Project coordinator assistant Ms.Kanha|20170228|750.00|10175080||||||ปกส กพ 2560|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|1|3|17|Project coordinator assistant Ms.Kanha|20170331|29650.00|10175090|20170331|500.00|10175093|||เงินเดือน มีค 2560 ภาษี มีค 2560|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|1|3|18|Project coordinator assistant Ms.Kanha|20170331|750.00|10175092||||||ปกส มีค 2560|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|1|3|19|Project coordinator assistant Ms.Kanha|20170428|29650.00|10175113|20170428|500.00|10175116|||เงินเดือน เมย 2560 ภาษี เมย 2560|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|1|3|20|Project coordinator assistant Ms.Kanha|20170428|750.00|10175115||||||ปกส เมย 2560|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|1|3|23|Project coordinator assistant Ms.Kanha|20170531|29650.00|10175128|20170531|500.00|10175131|||เงินเดือน พค 2560 ภาษี พค 2560|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|1|3|24|Project coordinator assistant Ms.Kanha|20170531|750.00|10175130||||||ปกส พค 2560|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|1|3|29|Project coordinator assistant Ms.Kanha|20170630|750.00|10213626||||||ปกส มิย 2560|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|1|3|30|Project coordinator assistant Ms.Kanha|20170630|29650.00|10213624|20170630|500.00|10213627|||เงินเดือน มิย 2560 ภาษี มิย 2560|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|1|3|31|Project coordinator assistant Ms.Kanha|20170731|29650.00|10213648|20170731|500.00|10213651|||ค่าตอบแทน กค 2560 ภาษี กค|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|1|3|32|Project coordinator assistant Ms.Kanha|20170731|750.00|10213650||||||ปกส กค 2560|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|1|3|33|Project coordinator assistant Ms.Kanha|20170831|29650.00|10213674|20170831|500.00|10213677|||เงินเดือน สค 2560 ภาษี สค 2560|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|1|3|34|Project coordinator assistant Ms.Kanha|20170831|750.00|10213676||||||ปกส สค 2560|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|1|4|2|Computer Programmer Mr.Srilai|20161025|39330.00|10170682|20161031|500.00|10170684|||เงินเดือน กย 2559 ภาษี กย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|4|3|Computer Programmer Mr.Srilai|20161031|750.00|10170683||||||ปกส กย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|4|5|Computer Programmer Mr.Srilai|20161028|39330.00|10170688|20161031|500.00|10170690|||เงินเดือน ตค 2559 ภาษี ตค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|4|6|Computer Programmer Mr.Srilai|20161031|750.00|10170689||||||ปกส ตค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|4|8|Computer Programmer Mr.Srilai|20161130|39330.00|10170695|20161130|500.00|10170697|||เงินเดือน พย 2559 ภาษี พย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|4|10|Computer Programmer Mr.Srilai|20161230|39330.00|10175050|20161230|500.00|10175052|||เงินเดือน ธค 2559 ภาษี ธค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|4|11|Computer Programmer Mr.Srilai|20161230|750.00|10175051||||||ปกส ธค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|4|12|Computer Programmer Mr.Srilai|20170131|39330.00|10175060|20170131|500.00|10175062|||เงินเดือน มค 2560 ภาษี มค 2560|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|1|4|13|Computer Programmer Mr.Srilai|20170131|750.00|10175061||||||ปกส มค 2560|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|1|4|14|Computer Programmer Mr.Srilai|20170228|39330.00|10175079|20170228|500.00|10175081|||เงินเดือน กพ 2560 ภาษี|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|1|4|15|Computer Programmer Mr.Srilai|20170228|750.00|10175080||||||ปกส กพ 2560|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|1|4|16|Computer Programmer Mr.Srilai|20161130|750.00|10170696||||||ปกส พย 2559|20170206|prep2start-su|20170324|prep2start-su
+1|PrEP2START-SU|SU|1|4|18|Computer Programmer Mr.Srilai|20170331|39330.00|10175091|20170331|500.00|10175093|||เงินเดือน มีค 2560 ภาษี มีค 2560|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|1|4|20|Computer Programmer Mr.Srilai|20170331|750.00|10175092||||||ปกส มีค 2560|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|1|4|22|Computer Programmer Mr.Srilai|20170428|39330.00|10175114|20170428|500.00|10175116|||เงินเดือน เมย 2560 ภาษี เมย 2560|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|1|4|23|Computer Programmer Mr.Srilai|20170428|750.00|10175115||||||ปกส เมย 2560|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|1|4|25|Computer Programmer Mr.Srilai|20170531|39330.00|10175129|20170531|500.00|10175131|||เงินเดือน พค 2560 ภาษี พค 2560|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|1|4|26|Computer Programmer Mr.Srilai|20170531|750.00|10175130||||||ปกส พค 2560|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|1|4|28|Computer Programmer Mr.Srilai|20170630|39330.00|10213625|20170630|500.00|10213627|||เงินเดือน มิย 2560 ภาษี มิย 2560|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|1|4|29|Computer Programmer Mr.Srilai|20170630|750.00|10213626||||||ปกส มิย 2560|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|1|4|30|Computer Programmer Mr.Srilai|20170731|39330.00|10213649|20170731|500.00|10213651|||ค่าตอบแทน กค 2560 ภาษี กค|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|1|4|31|Computer Programmer Mr.Srilai|20170731|750.00|10213650||||||ปกส กค 2560|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|1|4|33|Computer Programmer Mr.Srilai|20170831|39330.00|10213675|20170831|500.00|10213677|||เงินเดือน สค 2560 ภาษี สค 2560|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|1|4|34|Computer Programmer Mr.Srilai|20170831|750.00|10213676||||||ปกส สค 2560|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|1|5|2|Compensation for Government staff (Provincial Manager,Hospital Manager) TBD:Nakhonratchasima|20170314|72000.00|10175087||||||โอนเงินให้โคราช #10175087 จำนวนเงิน 204,000 บาท|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|1|6|3|Compensation for Government staff (Provincial Manager,Hospital Manager) TBD:Chonburi|20170123|36000.00|10175055||||||โอนเงินให้ สสจ.ชลบุรี #10175055 จำนวนเงิน 100,800 บาท|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|1|6|6|Compensation for Government staff (Provincial Manager,Hospital Manager) TBD:Chonburi|20170331|17100.00|10175085|20170331|900.00|10175086|||ค่าตอบแทน กย 59 -กพ 60 ภาษี กย 59 -กพ 60 พ.ผกาพรรณ|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|1|6|9|Compensation for Government staff (Provincial Manager,Hospital Manager) TBD:Chonburi|20170428|2850.00|10175106|20170428|150.00|10175109|||ค่าตอบแทน มีค 2560 ภาษี มีค 2560|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|1|6|10|Compensation for Government staff (Provincial Manager,Hospital Manager) TBD:Chonburi|20170522|2850.00|10175122|20170531|150.00|10175124|||ค่าตอบแทน เมย 2560 ภาษี เมย|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|1|6|12|Compensation for Government staff (Provincial Manager,Hospital Manager) TBD:Chonburi|20170602|2850.00|10175138|20170602|150.00|10175140|||ค่าตอบแทน พค 2560 ภาษี พค|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|1|6|14|Compensation for Government staff (Provincial Manager,Hospital Manager) TBD:Chonburi|20170731|2850.00|10213644|20170731|150.00|10213646|||ค่าตอบแทน กค 2560 ภาษี กค|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|1|6|15|Compensation for Government staff (Provincial Manager,Hospital Manager) TBD:Chonburi|20170712|2850.00|10213636|20170712|150.00|10213638|||ค่าตอบแทน มิย 2560 ภาษี มิย|20170801|prep2start-su|20170802|prep2start-su
+1|PrEP2START-SU|SU|1|6|16|Compensation for Government staff (Provincial Manager,Hospital Manager) TBD:Chonburi|20170831|2850.00|10213670|20170831|150.00|10213672|||ค่าตอบแทน สค 2560 ภาษี สค|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|1|7|2|Compensation for Government staff (Provincial Manager, Hospital Manager) TBD: Nonthaburi|20170208|36000.00|10175075||||||โอนเงินให้ สสจ นนทบุรี #10175075 จำนวนเงิน 100,800 บาท|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|1|7|5|Compensation for Government staff (Provincial Manager, Hospital Manager) TBD: Nonthaburi|20170331|17100.00|10175084|20170331|900.00|10175086|||ค่าตอบแทน กย 59 -กพ 60 ภาษี กย 59 -กพ 60 พ.ศรีเพชรรัตน์|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|1|7|7|Compensation for Government staff (Provincial Manager, Hospital Manager) TBD: Nonthaburi|20170428|2850.00|10175107|20170428|150.00|10175109|||ค่าตอบแทน มีค 2560 ภาษี มีค 2560|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|1|7|9|Compensation for Government staff (Provincial Manager, Hospital Manager) TBD: Nonthaburi|20170522|2850.00|10175123|20170531|150.00|10175124|||ค่าตอบแทน เมย 2560 ภาษี เมย|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|1|7|10|Compensation for Government staff (Provincial Manager, Hospital Manager) TBD: Nonthaburi|20170602|2850.00|10175139|20170602|150.00|10175140|||ค่าตอบแทน พค 2560 ภาษี พค|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|1|7|12|Compensation for Government staff (Provincial Manager, Hospital Manager) TBD: Nonthaburi|20170731|2850.00|10213645|20170731|150.00|10213646|||ค่าตอบแทน กค 2560 ภาษี กค|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|1|7|13|Compensation for Government staff (Provincial Manager, Hospital Manager) TBD: Nonthaburi|20170712|2850.00|10213637|20170712|150.00|10213638|||ค่าตอบแทน มิย 2560 ภาษี มิย|20170801|prep2start-su|20170802|prep2start-su
+1|PrEP2START-SU|SU|1|7|14|Compensation for Government staff (Provincial Manager, Hospital Manager) TBD: Nonthaburi|20170831|2850.00|10213671|20170831|150.00|10213672|||ค่าตอบแทน สค 2560 ภาษี สค|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|1|8|2|Project coordinator assistant TBD: BATS|20161130|13680.00|10170698||||||เงินเดือน พย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|8|3|Project coordinator assistant TBD: BATS|20161130|720.00|10170699||||||ปกส พย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|8|4|Project coordinator assistant TBD: BATS|20161230|17250.00|10175048||||||เงินเดือน ธค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|8|5|Project coordinator assistant TBD: BATS|20161230|750.00|10175051||||||ปกส ธค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|8|6|Project coordinator assistant TBD: BATS|20170131|17250.00|10175058||||||เงินเดือน มค 2560|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|1|8|7|Project coordinator assistant TBD: BATS|20170131|750.00|10175061||||||ปกส มค 2560|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|1|8|8|Project coordinator assistant TBD: BATS|20170228|17250.00|10175077||||||เงินเดือน กพ 2560|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|1|8|9|Project coordinator assistant TBD: BATS|20170228|750.00|10175080||||||ปกส กพ 2560|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|1|8|10|Project coordinator assistant TBD: BATS|20170331|17250.00|10175089||||||เงินเดือน มีค 2560|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|1|8|11|Project coordinator assistant TBD: BATS|20170331|750.00|10175092||||||ปกส มีค 2560|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|1|8|12|Project coordinator assistant TBD: BATS|20170428|17250.00|10175112||||||เงินเดือน เมย 2560|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|1|8|13|Project coordinator assistant TBD: BATS|20170428|750.00|10175115||||||ปกส เมย 2560|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|1|8|17|Project coordinator assistant TBD: BATS|20170531|750.00|10175130||||||ปกส พค 2560|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|1|8|18|Project coordinator assistant TBD: BATS|20170531|17250.00|10175127||||||เงินเดือน พ 2560|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|1|8|23|Project coordinator assistant TBD: BATS|20170630|750.00|10213626||||||ปกส มิย 2560|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|1|8|24|Project coordinator assistant TBD: BATS|20170630|17250.00|10213623||||||เงินเดือน มิย 2560|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|1|8|26|Project coordinator assistant TBD: BATS|20170731|17250.00|10213647||||||ค่าตอบแทน กค 2560 ภาษี กค|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|1|8|27|Project coordinator assistant TBD: BATS|20170731|750.00|10213650||||||ปกส กค 2560|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|1|8|28|Project coordinator assistant TBD: BATS|20170831|17250.00|10213673||||||เงินเดือน สค 2560|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|1|8|29|Project coordinator assistant TBD: BATS|20170831|750.00|10213676||||||ปกส สค 2560|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|1|9|2|Compensation for Government staff TBD: Financial officer and administrative|20161130|1425.00|10175041|20161130|75.00|10175043|||ค่าตอบแทน กย - พย 2559 ภาษี|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|9|4|Compensation for Government staff TBD: Financial officer and administrative|20161130|2850.00|10175042|20161130|150.00|10175043|||ค่าตอบแทน กย - พย 2559 ภาษี|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|1|9|6|Compensation for Government staff TBD: Financial officer and administrative|20170208|950.00|10175071|20170208|50.00|10175073|||ค่าตอบแทน ธค 59-มค 60 ภาษี|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|1|9|7|Compensation for Government staff TBD: Financial officer and administrative|20170208|1900.00|10175072|20170208|100.00|10175073|||ค่าตอบแทน ธค 59-มค 60 ภาษี|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|1|9|9|Compensation for Government staff TBD: Financial officer and administrative|20170314|475.00|10175095|20170331|25.00|10175097|||ค่าตอบแทน กพ 2560 ภาษี กพ|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|1|9|11|Compensation for Government staff TBD: Financial officer and administrative|20170314|950.00|10175096|20170331|50.00|10175097|||ค่าตอบแทน กพ 2560 ภาษี กพ|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|1|9|13|Compensation for Government staff TBD: Financial officer and administrative|20170428|475.00|10175104|20170428|25.00|10175109|||ค่าตอบแทน มีค 2560 ภาษี มีค|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|1|9|14|Compensation for Government staff TBD: Financial officer and administrative|20170428|950.00|10175105|20170428|50.00|10175109|||ค่าตอบแทน มีค 2560 ภาษี มีค|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|1|9|16|Compensation for Government staff TBD: Financial officer and administrative|20170522|475.00|10175120|20170531|25.00|10175124|||ค่าตอบแทน เมย 2560 ภาษี เมย|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|1|9|17|Compensation for Government staff TBD: Financial officer and administrative|20170522|950.00|10175121|20170531|50.00|10175124|||ค่าตอบแทน เมย 2560 ภาษี เมย|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|1|9|21|Compensation for Government staff TBD: Financial officer and administrative|20170602|475.00|10175136|20170602|25.00|10175140|||ค่าตอบแทน พค 2560 ภาษี พค|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|1|9|22|Compensation for Government staff TBD: Financial officer and administrative|20170602|950.00|10175137|20170602|50.00|10175140|||ค่าตอบแทน พค 2560 ภาษี พค|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|1|9|25|Compensation for Government staff TBD: Financial officer and administrative|20170731|475.00|10213642|20170731|25.00|10213646|||ค่าตอบแทน กค 2560 ภาษี กค|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|1|9|26|Compensation for Government staff TBD: Financial officer and administrative|20170731|950.00|10213643|20170731|50.00|10213646|||ค่าตอบแทน กค 2560 ภาษี กค|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|1|9|27|Compensation for Government staff TBD: Financial officer and administrative|20170712|475.00|10213634|20170712|25.00|10213638|||ค่าตอบแทน มิย 2560 ภาษี มิย|20170801|prep2start-su|20170802|prep2start-su
+1|PrEP2START-SU|SU|1|9|28|Compensation for Government staff TBD: Financial officer and administrative|20170712|950.00|10213635|20170712|50.00|10213638|||ค่าตอบแทน มิย 2560 ภาษี มิย|20170801|prep2start-su|20170802|prep2start-su
+1|PrEP2START-SU|SU|1|9|30|Compensation for Government staff TBD: Financial officer and administrative|20170831|475.00|10213668|20170831|25.00|10213672|||ค่าตอบแทน สค 2560 ภาษี สค|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|1|9|32|Compensation for Government staff TBD: Financial officer and administrative|20170831|950.00|10213669|20170831|50.00|10213672|||ค่าตอบแทน สค 2560 ภาษี สค|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|2|1|1|Project coordinator assistant 1 Ms.Kanha|20161031|750.00|10170683||||||ปกส กย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|2|1|2|Project coordinator assistant 1 Ms.Kanha|20161031|750.00|10170689||||||ปกส ตค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|2|1|3|Project coordinator assistant 1 Ms.Kanha|20161130|750.00|10170696||||||ปกส พย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|2|1|4|Project coordinator assistant 1 Ms.Kanha|20161230|750.00|10175051||||||ปกส ธค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|2|1|5|Project coordinator assistant 1 Ms.Kanha|20170131|750.00|10175061||||||ปกส มค 2560|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|2|1|6|Project coordinator assistant 1 Ms.Kanha|20170228|750.00|10175080||||||ปกส กพ 2560|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|2|1|8|Project coordinator assistant 1 Ms.Kanha|20170331|750.00|10175092||||||ปกส มีค 2560|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|2|1|9|Project coordinator assistant 1 Ms.Kanha|20170428|750.00|10175115||||||ปกส เมย 2560|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|2|1|10|Project coordinator assistant 1 Ms.Kanha|20170531|750.00|10175130||||||ปกส พค 2560|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|2|1|11|Project coordinator assistant 1 Ms.Kanha|20170630|750.00|10213626||||||ปกส มิย 2560|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|2|1|12|Project coordinator assistant 1 Ms.Kanha|20170731|750.00|10213650||||||ปกส กค 2560|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|2|1|13|Project coordinator assistant 1 Ms.Kanha|20170831|750.00|10213676||||||ปกส สค 2560|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|2|2|1|Computer Programmer Mr.Srilai|20161031|750.00|10170683||||||ปกส กย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|2|2|2|Computer Programmer Mr.Srilai|20161031|750.00|10170689||||||ปกส ตค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|2|2|4|Computer Programmer Mr.Srilai|20161130|750.00|10170696||||||ปกส พย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|2|2|5|Computer Programmer Mr.Srilai|20161230|750.00|10175051||||||ปกส ธค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|2|2|6|Computer Programmer Mr.Srilai|20170131|750.00|10175061||||||ปกส มค 2560|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|2|2|7|Computer Programmer Mr.Srilai|20170228|750.00|10175080||||||ปกส กพ 2560|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|2|2|8|Computer Programmer Mr.Srilai|20170331|750.00|10175092||||||ปกส มีค 2560|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|2|2|10|Computer Programmer Mr.Srilai|20170402|750.00|10175115||||||ปกส เมย 2560|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|2|2|11|Computer Programmer Mr.Srilai|20170531|750.00|10175130||||||ปกส พค 2560|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|2|2|12|Computer Programmer Mr.Srilai|20170630|750.00|1023626||||||ปกส มิย 2560|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|2|2|13|Computer Programmer Mr.Srilai|20170731|750.00|10213650||||||ปกส กค 2560|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|2|2|14|Computer Programmer Mr.Srilai|20170831|750.00|10213676||||||ปกส สค 2560|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|2|3|1|Project coordinator assistant 2 Name TBD |20161130|720.00|10170699||||||ปกส พย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|2|3|2|Project coordinator assistant 2 Name TBD |20161230|750.00|10175051||||||ปกส ธค 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|2|3|3|Project coordinator assistant 2 Name TBD |20170131|750.00|10175061||||||ปกส มค 2560|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|2|3|4|Project coordinator assistant 2 Name TBD |20170228|750.00|10175080||||||ปกส กพ 2560|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|2|3|5|Project coordinator assistant 2 Name TBD |20170331|750.00|10175092||||||ปกส มีค 2560|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|2|3|7|Project coordinator assistant 2 Name TBD |20170428|750.00|10175115||||||ปกส เมย 2560|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|2|3|8|Project coordinator assistant 2 Name TBD |20170531|750.00|10175130||||||ปกส พค 2560|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|2|3|9|Project coordinator assistant 2 Name TBD |20170630|750.00|10213626||||||ปกส มิย 2560|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|2|3|10|Project coordinator assistant 2 Name TBD |20170731|750.00|10213650||||||ปกส กค 2560|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|2|3|11|Project coordinator assistant 2 Name TBD |20170831|750.00|10213676||||||ปกส สค 2560|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|2|4|1|Annual medical check up  $57.14  X 3 Persons|20170811|2000.00|10213662||||||ตรวจสุขภาพ กัณหา|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|2|4|2|Annual medical check up  $57.14  X 3 Persons|20170811|2000.00|10213663||||||ตรวจสุขภาพ ลัดดาวัลย์|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|2|4|3|Annual medical check up  $57.14  X 3 Persons|20170811|2000.00|10213664||||||ตรวจสุขภาพ ศรีลัย|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|3|1|1|Site monitoring |20170524|5450.00|10175126||||||ประชุม 11 พค 2560 #10175126 จำนวนเงิน 10,460 บาท|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|3|1|5|Site monitoring |20170810|15000.00|10213652|20170818|-8470.00|cash|||ประชุม 15 สค 2560 รพ. มหาราช #10213652 จำนวนเงิน 30,000 บาท|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|3|1|6|Site monitoring |20170810|15300.00|10213653|20170818|-11070.00|cash|||ประชุม 16 สค 2560 รพ.เทพรัตน์ #10213653 จำนวนเงิน 30,000 บาท|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|3|1|7|Site monitoring |20170601|15000.00|10175132|20170607|-15000.00|cash|||ประชุม 6 มิย 2560 #10175132 จำนวน 25,000 บาท|20170705|Prep2start-su|20171003|prep2start-su
+1|PrEP2START-SU|SU|3|3|3|Workshop PrEP/HIV |20161111|121440.00|10170692|20161123|-96698.00|cash|||อบรม 17-18 พย 2559 #10170692 จำนวนเงิน 350,000 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|3|3|4|Workshop PrEP/HIV |20161121|10000.00|10170693|20161129|-475.00|cash|||อบรม 23-24 พย 2559 #10170693 จำนวนเงิน 100,000 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|3|3|6|Workshop PrEP/HIV |20170117|32660.00|10175054||||||อบรม 19-20 มค 2560 #10175054 จำนวนเงิน 120,000 บาท|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|3|3|9|Workshop PrEP/HIV |20161216|30000.00|10175047|20170105|-7970.00|cash|||อบรม 20-21 ธค 2559 #10175047 จำนวนเงิน 150,000 บาท|20170206|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|3|3|12|Workshop PrEP/HIV |20170210|111270.00|10175063|20170329|-94445.00|cash|||ประชุม 16-17 กพ 2560 #10175063 จำนวนเงิน 250,000 บาท|20170306|prep2start-su|20170411|prep2start-su
+1|PrEP2START-SU|SU|3|3|19|Workshop PrEP/HIV |20170511|60000.00|10175118|20170519|-38190.00|cash|||อบรม 15-16 พค 2560 #10175118 จำนวนเงิน 130,000 บาท|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|3|3|23|Workshop PrEP/HIV |20170601|46840.00|10175133|20170608|-34230.00|cash|||อบรม 5 มิย 2560 #10175133 จำนวน 100,000 บาท|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|3|3|25|Workshop PrEP/HIV |20170612|60000.00|10213621|20170620|-45540.00|cash|||อบรม 16 มิย 2560 #10213621 จำนวนเงิน 100,000 บาท|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|3|3|26|Workshop PrEP/HIV |20170710|300000.00|10213628||||||อบรม 12-13 กค 2560 #10213628 จำนวนเงิน 400,000 บาท|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|3|3|27|Workshop PrEP/HIV |20170718|8500.00|10213639|20170726|-200.00|Cash|||เดินทางไปอบรมอุดร 21-22 กค 2560|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|3|3|29|Workshop PrEP/HIV |20170731|8164.00|10213657||||||เพิ่มเพิ่มครั้งที่ 2 อบรม 12-13 กค 2560|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|3|3|32|Workshop PrEP/HIV |20170731|5000.00|10213655||||||อบรม 8-9 สค 2560 #10213655 จำนวนเงิน 50,000 บาท|20170810|prep2start-su|20170810|prep2start-su
+1|PrEP2START-SU|SU|3|3|33|Workshop PrEP/HIV |20170607|70000.00|10175125|20170616|-42800.00|cash|||อบรม 12-13 มิย 2560 #10175125 จำนวน 200,000 บาท|20170705|Prep2start-su|20171003|prep2start-su
+1|PrEP2START-SU|SU|3|3|35|Workshop PrEP/HIV |20170505|250000.00|10175117|20170519|-87628.00|cash|||ประชุม 7-9 พค 2560 หัวหิน #10175117 จำนวนเงิน 300,000 บาท * คืนเงิน ครั้งที่ 1st วันที่ 19 พค 60 จำนวน 86,876 บาท และคืนเพิ่ม ครั้งที่ 2nd วันที่ 3 ตค 60 จำนวน 752 บาท|20170601|prep2start-su|20171003|prep2start-su
+1|PrEP2START-SU|SU|3|3|37|Workshop PrEP/HIV |20170718|149464.00|10213640|20170831|-488.00|cash|||เบิกเพิ่มครั้งที่ 1 อบรม 12-13 กค 2560 #10213640 จำนวนเงิน 211,193 บาท  *คืนเงินเพิ่ม 488 บาท วันที่ 3 ตค 2560|20170801|prep2start-su|20171003|prep2start-su
+1|PrEP2START-SU|SU|3|4|1|Reach - recruit activity to promote PrEP |20170206|11310.00|10175074||||||ประชุม 14-15 กพ 2560 #10175074 จำนวนเงิน 50,000 บาท|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|3|5|1|Technical working group meeting Provincial Level |20161025|13110.00|10170686||||||ประชุม 18-19 ตค 2559 #10170686 จำนวนเงิน 28,910 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|3|5|2|Technical working group meeting Provincial Level |20161107|6280.00|10170691||||||ประชุม 25-26 ตค 2559 #10170691 จำนวนเงิน 16,945 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|3|5|4|Technical working group meeting Provincial Level |20161213|7000.00|10175044|20161216|-725.00|cash|||ประชุม 14-15 ธค 2559 #10175044 จำนวนเงิน 25,000 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|3|5|9|Technical working group meeting Provincial Level |20170421|5325.00|10175110|20170428|-2475.00|cash|||ติดตามงานอบรมแกนนำ 21 เมย 2560 #10175103 จำนวนเงิน 9,200บาท|20170504|prep2start-su|20020101|prep2start-su
+1|PrEP2START-SU|SU|3|6|4| Resource Person to provide training workshop ($17.14 x 7hour x 1person)|20161216|6000.00|10175047|20170105|-3000.00|cash|||อบรม 20-21 ธค 2559 #10175047 จำนวนเงิน 150,000 บาท|20170206|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|3|7|1|Transportation cost/fuel |20161025|5000.00|10170686||||||ประชุม 18-19 ตค 2559 #10170686 จำนวนเงิน 28,910 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|3|7|2|Transportation cost/fuel |20161107|5865.00|10170691||||||ประชุม 25-26 ตค 2559 #10170691 จำนวนเงิน 16,945 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|3|7|3|Transportation cost/fuel |20161111|16060.00|10170692||||||อบรม 17-18 พย 2559 #10170692 จำนวนเงิน 350,000 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|3|7|8|Transportation cost/fuel |20161206|2000.00|10175045|20161223|-1700.00|cash|||อบรม 7-8 ธค 2559 #10175045 จำนวนเงิน 150,000 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|3|7|9|Transportation cost/fuel |20170117|7740.00|10175054||||||อบรม 19-20 มค 2560 #10175054 จำนวนเงิน 120,000 บาท|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|3|7|10|Transportation cost/fuel |20161213|6000.00|10175044|20161216|-550.00|cash|||ประชุม 14-15 ธค 2559 #10175044 จำนวนเงิน 25,000 บาท|20170206|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|3|7|12|Transportation cost/fuel |20161216|9000.00|10175047|20170105|-190.00|cash|||อบรม 20-21 ธค 2559 #10175047 จำนวนเงิน 150,000 บาท|20170206|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|3|7|13|Transportation cost/fuel |20170206|8000.00|10175074||||||ประชุม 14-15 กพ 2560 #10175074 จำนวนเงิน 50,000 บาท|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|3|7|16|Transportation cost/fuel |20170210|20000.00|10175063|20170329|-9200.00|cash|||ประชุม 16-17 กพ 2560 #10175063 จำนวนเงิน 250,000 บาท|20170306|prep2start-su|20170411|prep2start-su
+1|PrEP2START-SU|SU|3|7|20|Transportation cost/fuel |20170421|1175.00|10175110||||||ติดตามงานอบรมแกนนำ 21 เมย 2560 #10175103 จำนวนเงิน 9,200บาท|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|3|7|26|Transportation cost/fuel |20170524|1410.00|10175126||||||ประชุม 11 พค 2560 #10175126 จำนวนเงิน 10,460 บาท|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|3|7|27|Transportation cost/fuel |20170505|50000.00|10175117|20170519|-9065.00|cash|||ประชุม 7-9 พค 2560 หัวหิน #10175117 จำนวนเงิน 300,000 บาท|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|3|7|28|Transportation cost/fuel |20170511|15000.00|10175118|20170519|-2850.00|cash|||อบรม 15-16 พค 2560 #10175118 จำนวนเงิน 130,000 บาท|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|3|7|29|Transportation cost/fuel |20170601|3160.00|10175133||||||อบรม 5 มิย 2560 #10175133 จำนวน 100,000 บาท|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|3|7|30|Transportation cost/fuel |20170619|2000.00|10213622||||||เบิกเพิ่ม อบรม 5 มิย 2560 รร.ปัญจดารา|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|3|7|32|Transportation cost/fuel |20170612|2000.00|10213621|20170620|-760.00|cash|||อบรม 16 มิย 2560 #10213621 จำนวนเงิน 100,000 บาท|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|3|7|33|Transportation cost/fuel |20170810|5700.00|10213653||||||ประชุม 16 สค 2560 รพ.เทพรัตน์ #10213653 จำนวนเงิน 30,000 บาท|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|4|1|4|Computer notebook/LCD Presentation |20170831|41552.00|10213682||||||คอมพิวเตอร์ 2 เครื่อง|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|4|1|6|Computer notebook/LCD Presentation |20170831|392.00|10213683||||||ภาษี คอมพิวเตอร์ 2 เครื่อง|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|4|2|3|Printer |20170831|6254.00|10213682||||||เครื่องพิมพ์ชนิดเลเซอร์ 1 เครื่อง|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|4|2|5|Printer |20170831|59.00|10213683||||||ภาษี เครื่องพิมพ์ชนิดเลเซอร์ 1 เครื่อง|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|5|1|1|Office supplies |20161111|3500.00|10170692||||||อบรม 17-18 พย 2559 #10170692 จำนวนเงิน 350,000 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|5|1|4|Office supplies |20170131|9900.00|10175066||||||จัดซื้ออุปกรณ์สำนักงาน|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|5|1|5|Office supplies |20170131|100.00|10175067||||||ภาษี จัดซื้ออุปกรณ์สำนักงาน|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|5|1|7|Office supplies |20170418|9900.00|10175101||||||จัดซื้ออุปกรณ์สำนักงาน|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|5|1|8|Office supplies |20170428|100.00|10175102||||||ภาษี|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|5|1|10|Office supplies |20170731|7781.40|10213658||||||จัดซื้ออุปกรณ์สำนักงาน|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|5|1|11|Office supplies |20170731|78.60|10213659||||||ภาษี|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|5|1|12|Office supplies |20170831|25857.81|10213678||||||วัสดุ อุปกรณ์สำนักงาน|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|5|1|13|Office supplies |20170831|261.19|10213679||||||ภาษี|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|8|1|2|Communication cost |20161219|6000.00|10175046||||||บัตรเติมเงิน กย - พย 2559|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|8|1|3|Communication cost |20170123|4000.00|10175056||||||ค่าบัตรเติมเงิน|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|8|1|6|Communication cost |20170314|2000.00|10175088||||||ค่าโทรศัพท์เดือน มีค|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|8|1|7|Communication cost |20170428|2000.00|10175111||||||บัตรเติมเงิน|20170504|prep2start-su|20170504|prep2start-su
+1|PrEP2START-SU|SU|8|1|8|Communication cost |20170529|2000.00|10175134||||||บัตรเติมเงิน พค|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|8|1|9|Communication cost |20170626|2000.00|10213629||||||ค่าบัตรเติมเงิน มิย 60|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|8|1|10|Communication cost |20170220|2000.00|10175076||||||บัตรเติมเงินเดือน กพ 2560|20170301|Prep2start-su|20170829|prep2start-su
+1|PrEP2START-SU|SU|8|1|11|Communication cost |20170811|4000.00|10213661||||||บัตรเติมเงิน กค -สค 60|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|8|2|1|Technical working group meeting Provincial Level |20161025|6800.00|10170686||||||ประชุม 18-19 ตค 2559 #10170686 จำนวนเงิน 28,910 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|8|2|2|Technical working group meeting Provincial Level |20161107|4800.00|10170691||||||ประชุม 25-26 ตค 2559 #10170691 จำนวนเงิน 16,945 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|8|2|5|Technical working group meeting Provincial Level |20170123|36000.00|10175055||||||โอนเงินให้ สสจ.ชลบุรี #10175055 จำนวนเงิน 100,800 บาท|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|8|2|6|Technical working group meeting Provincial Level |20170208|36000.00|10175075||||||โอนเงินให้ สสจ นนทบุรี #10175075 จำนวนเงิน 100,800 บาท|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|8|2|7|Technical working group meeting Provincial Level |20170314|96000.00|10175087||||||โอนเงินให้โคราช #10175087 จำนวนเงิน 204,000 บาท|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|8|2|10|Technical working group meeting Provincial Level |20170421|1500.00|10175110||||||ติดตามงานอบรมแกนนำ 21 เมย 2560 #10175103 จำนวนเงิน 9,200บาท|20170504|prep2start-su|20171003|prep2start-su
+1|PrEP2START-SU|SU|8|3|1|Hospital working team meeting each site interdisciplinary team |20161025|4000.00|10170686||||||ประชุม 18-19 ตค 2559 #10170686 จำนวนเงิน 28,910 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|8|3|3|Hospital working team meeting each site interdisciplinary team |20161213|12000.00|10175044|20161216|-3000.00|cash|||ประชุม 14-15 ธค 2559 #10175044 จำนวนเงิน 25,000 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|8|3|4|Hospital working team meeting each site interdisciplinary team |20170113|6450.00|10175053||||||ประชุม 26 ธค 2559|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|8|3|5|Hospital working team meeting each site interdisciplinary team |20170202|10000.00|10175068||||||ประชุม 25 มค 2560|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|8|3|6|Hospital working team meeting each site interdisciplinary team |20170206|9000.00|10175074||||||ประชุม 14-15 กพ 2560 #10175074 จำนวนเงิน 50,000 บาท|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|8|3|9|Hospital working team meeting each site interdisciplinary team |20170524|3600.00|10175126||||||ประชุม 11 พค 2560 #10175126 จำนวนเงิน 10,460 บาท|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|8|3|14|Hospital working team meeting each site interdisciplinary team |20170811|10200.00|10213660||||||ประชุมเมื่อ 21 กค 2560 รพ.มหาวิทยาลัยบูรพา|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|8|3|15|Hospital working team meeting each site interdisciplinary team |20170313|6000.00|10175083||||||ประชุม 17 กพ 2560 รพ.มงกุฎวัฒนะ|20170407|prep2start-su|20171003|prep2start-su
+1|PrEP2START-SU|SU|8|3|16|Hospital working team meeting each site interdisciplinary team |20170601|10000.00|10175132|20170607|-10000.00|cash|||ประชุม 6 มิย 2560 #10175132 จำนวน 25,000 บาท|20170705|Prep2start-su|20171003|prep2start-su
+1|PrEP2START-SU|SU|8|3|17|Hospital working team meeting each site interdisciplinary team |20170818|10000.00|10213656|20170824|-2800.00|cash|||ประชุม 18 สค 2660 รพ.มงกุฎวัฒนะ|20170901|prep2start-su|20171003|prep2start-su
+1|PrEP2START-SU|SU|8|4|3|Workshop PrEP/HIV |20161111|200000.00|10170692|20161123|-110800.00|cash|||อบรม 17-18 พย 2559 #10170692 จำนวนเงิน 350,000 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|8|4|4|Workshop PrEP/HIV |20161121|66000.00|10170693|20161129|-31800.00|cash|||อบรม 23-24 พย 2559 #10170693 จำนวนเงิน 100,000 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|8|4|7|Workshop PrEP/HIV |20161206|142000.00|10175045|20161223|-82400.00|cash|||อบรม 7-8 ธค 2559 #10175045 จำนวนเงิน 150,000 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|8|4|8|Workshop PrEP/HIV |20170117|55600.00|10175054||||||อบรม 19-20 มค 2560 #10175054 จำนวนเงิน 120,000 บาท|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|8|4|9|Workshop PrEP/HIV |20170127|24200.00|10175057||||||อบรม 19-20 มค 2560 #เบิกเงินเพิ่ม 24,200 บาท|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|8|4|10|Workshop PrEP/HIV |20161216|105000.00|10175047|20170105|-52130.00|cash|||อบรม 20-21 ธค 2559 #10175047 จำนวนเงิน 150,000 บาท|20170206|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|8|4|11|Workshop PrEP/HIV |20170203|6600.00|10175069||||||ประชุม 30 มค 2560|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|8|4|14|Workshop PrEP/HIV |20170314|10200.00|10175098||||||อบรม 16 มีค 2560 รพ.มงกุฎวัฒนะ|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|8|4|17|Workshop PrEP/HIV |20170210|106730.00|10175063|20170329|-1538.00|cash|||ประชุม 16-17 กพ 2560 #10175063 จำนวนเงิน 250,000 บาท|20170306|prep2start-su|20170411|prep2start-su
+1|PrEP2START-SU|SU|8|4|20|Workshop PrEP/HIV |20170420|16500.00|10175100||||||ประชุม 1-2 พค 2560 #10175100 จำนวนเงิน 33,000 บาท|20170504|prep2start-su|20170508|prep2start-su
+1|PrEP2START-SU|SU|8|4|22|Workshop PrEP/HIV |20170511|35000.00|10175118|20170519|-200.00|cash|||อบรม 15-16 พค 2560 #10175118 จำนวนเงิน 130,000 บาท|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|8|4|26|Workshop PrEP/HIV |20170601|50000.00|10175133|20170608|-15100.00|cash|||อบรม 5 มิย 2560 #10175133 จำนวน 100,000 บาท|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|8|4|28|Workshop PrEP/HIV |20170612|38000.00|10213621|20170620|-19400.00|cash|||อบรม 16 มิย 2560 #10213621 จำนวนเงิน 100,000 บาท|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|8|4|29|Workshop PrEP/HIV |20170710|100000.00|10213628||||||อบรม 12-13 กค 2560 #10213628 จำนวนเงิน 400,000 บาท|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|8|4|32|Workshop PrEP/HIV |20170731|37500.00|10213655||||||อบรม 8-9 สค 2560 #10213655 จำนวนเงิน 50,000 บาท|20170801|prep2start-su|20170810|prep2start-su
+1|PrEP2START-SU|SU|8|4|33|Workshop PrEP/HIV |20170815|1300.00|10213666||||||เบิกเพิ่มประชุม 8-9 สค 2560|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|8|4|34|Workshop PrEP/HIV |20170314|60000.00|10175099|20170330|-2400.00|cash|||อบรม 17 มีค 2560 สถาบันบำราศ|20170407|prep2start-su|20171003|prep2start-su
+1|PrEP2START-SU|SU|8|4|35|Workshop PrEP/HIV |20170607|100000.00|10175125|20170616|-8906.00|cash|||อบรม 12-13 มิย 2560 #10175125 จำนวน 200,000 บาท|20170705|Prep2start-su|20171003|prep2start-su
+1|PrEP2START-SU|SU|8|4|36|Workshop PrEP/HIV |20170718|52129.00|10213640|20170831|-9300.00|cash|||เบิกเพิ่มครั้งที่ 1 อบรม 12-13 กค 2560 #10213640 จำนวนเงิน 211,193 บาท  *คืนเงินเพิ่ม 9,300 บาท|20170801|prep2start-su|20171003|prep2start-su
+1|PrEP2START-SU|SU|8|5|1|Workshop outreach activity to promote service |20170123|28800.00|10175055||||||โอนเงินให้ สสจ.ชลบุรี #10175055 จำนวนเงิน 100,800 บาท|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|8|5|2|Workshop outreach activity to promote service |20170206|21690.00|10175074||||||ประชุม 14-15 กพ 2560 #10175074 จำนวนเงิน 50,000 บาท|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|8|5|3|Workshop outreach activity to promote service |20170208|28800.00|10175075||||||โอนเงินให้ สสจ นนทบุรี #10175075 จำนวนเงิน 100,800 บาท|20170301|Prep2start-su|20170301|Prep2start-su
+1|PrEP2START-SU|SU|8|5|4|Workshop outreach activity to promote service |20170303|10110.00|10175082||||||เบิกเงินเพิ่มประชุม 14-16 กพ 2560|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|8|5|5|Workshop outreach activity to promote service |20170314|36000.00|10175087||||||โอนเงินให้โคราช #10175087 จำนวนเงิน 204,000 บาท|20170407|prep2start-su|20170407|prep2start-su
+1|PrEP2START-SU|SU|8|6|2| Site Monitoring |20170810|15000.00|10213652|20170818|-9000.00|cash|||ประชุม 15 สค 2560 รพ. มหาราช #10213652 จำนวนเงิน 30,000 บาท|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|8|6|3| Site Monitoring |20170810|9000.00|10213653|20170818|-158.00|cash|||ประชุม 16 สค 2560 รพ.เทพรัตน์ #10213653 จำนวนเงิน 30,000 บาท|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|8|7|1|Resource person MOPH ($17.65 x 7hour x 1person)|20161111|3000.00|10170692||||||อบรม 17-18 พย 2559 #10170692 จำนวนเงิน 350,000 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|8|7|3|Resource person MOPH ($17.65 x 7hour x 1person)|20161206|6000.00|10175045|20161223|-1800.00|cash|||อบรม 7-8 ธค 2559 #10175045 จำนวนเงิน 150,000 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|8|7|5|Resource person MOPH ($17.65 x 7hour x 1person)|20170210|6000.00|10175063|20170329|-2400.00|cash|||ประชุม 16-17 กพ 2560 #10175063 จำนวนเงิน 250,000 บาท|20170306|prep2start-su|20170411|prep2start-su
+1|PrEP2START-SU|SU|8|7|7|Resource person MOPH ($17.65 x 7hour x 1person)|20170420|16500.00|10175100||||||ประชุม 1-2 พค 2560 #10175100 จำนวนเงิน 33,000 บาท|20170508|prep2start-su|20170508|prep2start-su
+1|PrEP2START-SU|SU|8|7|10|Resource person MOPH ($17.65 x 7hour x 1person)|20170511|20000.00|10175118|20170519|-1400.00|cash|||อบรม 15-16 พค 2560 #10175118 จำนวนเงิน 130,000 บาท|20170601|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|8|7|11|Resource person MOPH ($17.65 x 7hour x 1person)|20170718|900.00|10213640||||||เบิกเพิ่มครั้งที่ 1 อบรม 12-13 กค 2560 #10213640 จำนวนเงิน 211,193 บาท|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|8|7|13|Resource person MOPH ($17.65 x 7hour x 1person)|20170731|7500.00|10213655||||||อบรม 8-9 สค 2560 #10213655 จำนวนเงิน 50,000 บาท|20170801|prep2start-su|20170810|prep2start-su
+1|PrEP2START-SU|SU|8|10|1|Resource person for Non- MOPH ($35.29 x 7hours x 2person)|20161111|6000.00|10170692||||||อบรม 17-18 พย 2559 #10170692 จำนวนเงิน 350,000 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|8|10|2|Resource person for Non- MOPH ($35.29 x 7hours x 2person)|20161121|24000.00|10170693||||||อบรม 23-24 พย 2559 #10170693 จำนวนเงิน 100,000 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|8|10|3|Resource person for Non- MOPH ($35.29 x 7hours x 2person)|20170117|24000.00|10175054||||||อบรม 19-20 มค 2560 #10175054 จำนวนเงิน 120,000 บาท|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|8|10|5|Resource person for Non- MOPH ($35.29 x 7hours x 2person)|20170210|6000.00|10175063|20170329|-2100.00|cash|||ประชุม 16-17 กพ 2560 #10175063 จำนวนเงิน 250,000 บาท|20170306|prep2start-su|20170411|prep2start-su
+1|PrEP2START-SU|SU|8|10|7|Resource person for Non- MOPH ($35.29 x 7hours x 2person)|20170607|30000.00|10175125||||||อบรม 12-13 มิย 2560 #10175125 จำนวน 200,000 บาท|20170705|Prep2start-su|20170705|Prep2start-su
+1|PrEP2START-SU|SU|8|10|8|Resource person for Non- MOPH ($35.29 x 7hours x 2person)|20170718|8700.00|10213640||||||เบิกเพิ่มครั้งที่ 1 อบรม 12-13 กค 2560 #10213640 จำนวนเงิน 211,193 บาท|20170801|prep2start-su|20170801|prep2start-su
+1|PrEP2START-SU|SU|8|10|9|Resource person for Non- MOPH ($35.29 x 7hours x 2person)|20170421|1200.00|10175110||||||ติดตามงานอบรมแกนนำ 21 เมย 2560 #10175103 จำนวนเงิน 9,200บาท|20170504|prep2start-su|20171003|prep2start-su
+1|PrEP2START-SU|SU|8|12|1|Activity to prepare site for PrEP implemantation |20161025|3600.00|10170685||||||ประชุม 12 ตค 2559 จำนวนเงิน 3,600 บาท|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|8|13|2|Guidline book printing Guideline publish|20170131|392.52|10175065||||||ภาษี พิมพ์หนังสือ GL เจ.เอส.การพิมพ์|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|8|13|3|Guidline book printing Guideline publish|20170131|41607.48|10175064||||||พิมพ์หนังสือ GL เจ.เอส.การพิมพ์|20170207|prep2start-su|20170207|prep2start-su
+1|PrEP2START-SU|SU|8|13|4|Guidline book printing Guideline publish|20170831|99065.42|10213680||||||GL Book|20170901|prep2start-su|20170901|prep2start-su
+1|PrEP2START-SU|SU|8|13|5|Guidline book printing Guideline publish|20170831|934.58|10213681||||||ภาษี GL Book|20170901|prep2start-su|20170901|prep2start-su

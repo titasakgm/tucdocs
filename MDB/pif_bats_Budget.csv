@@ -1,0 +1,221 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|PIF|BATS|1|1|0|Central: Project coordinator|TBD||0.00|0.00|160000.00|160000.00|Person|1|100.00|8.00|20000.00||||||
+1|PIF|BATS|1|1|1|Central: Project coordinator|Mr:Tatchakorn Prasanworakitkun|||||100000.00|Person|1|100.00|5.00|20000.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|2|0|BKK: Project coordinator|TBD||0.00|0.00|80000.00|80000.00|Person|1|100.00|5.00|16000.00||||||
+1|PIF|BATS|1|2|1|BKK: Project coordinator|Miss.Orathai khanngoen|||||100000.00|Person|1|100.00|5.00|20000.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|3|0|NTB: Project coordinator|TBD||0.00|0.00|80000.00|80000.00|Person|1|100.00|5.00|16000.00||||||
+1|PIF|BATS|1|3|1|NTB: Project coordinator|TBD|||||0.00|Person|1|100.00|0.00|0.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|4|0|PTN: Project coordinator|TBD||0.00|0.00|80000.00|80000.00|Person|1|100.00|5.00|16000.00||||||
+1|PIF|BATS|1|4|1|PTN: Project coordinator|TBD|||||0.00|Person|1|100.00|0.00|0.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|5|0|CNB: Project coordinator|TBD||0.00|0.00|80000.00|80000.00|Person|1|100.00|5.00|16000.00||||||
+1|PIF|BATS|1|5|1|CNB: Project coordinator|TBD|||||0.00|Person|1|100.00|0.00|0.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|6|0|SMP: Project coordinator|TBD||0.00|0.00|80000.00|80000.00|Person|1|100.00|5.00|16000.00||||||
+1|PIF|BATS|1|6|1|SMP: Project coordinator|TBD|||||0.00|Person|1|100.00|0.00|0.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|7|0|KR: Nurse|TBD||0.00|0.00|144000.00|144000.00|Person|1|100.00|8.00|18000.00||||||
+1|PIF|BATS|1|7|1|KR: Nurse|Miss Benjamas Rangklang|||||100000.00|Person|1|100.00|5.00|20000.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|8|0|KR: Project coordinator|TBD||0.00|0.00|128000.00|128000.00|Person|1|100.00|8.00|16000.00||||||
+1|PIF|BATS|1|8|1|KR: Project coordinator|TBD|||||0.00|Person|1|100.00|0.00|0.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|9|0|KK: Project coordinator|TBD||0.00|0.00|80000.00|80000.00|Person|1|100.00|5.00|16000.00||||||
+1|PIF|BATS|1|9|1|KK: Project coordinator|TBD|||||0.00|Person|1|100.00|0.00|0.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|10|0|UD: Project coordinator|TBD||0.00|0.00|80000.00|80000.00|Person|1|100.00|5.00|16000.00||||||
+1|PIF|BATS|1|10|1|UD: Project coordinator|TBD|||||0.00|Person|1|100.00|0.00|0.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|11|0|UB: Project coordinator|TBD||0.00|0.00|80000.00|80000.00|Person|1|100.00|5.00|16000.00||||||
+1|PIF|BATS|1|11|1|UB: Project coordinator|TBD|||||0.00|Person|1|100.00|0.00|0.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|12|0|CM: Project coordinator|TBD||0.00|0.00|80000.00|80000.00|Person|1|100.00|5.00|16000.00||||||
+1|PIF|BATS|1|12|1|CM: Project coordinator|TBD|||||0.00|Person|1|100.00|0.00|0.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|13|0|CR: Project coordinator|TBD||0.00|0.00|80000.00|80000.00|Person|1|100.00|5.00|16000.00||||||
+1|PIF|BATS|1|13|1|CR: Project coordinator|TBD|||||0.00|Person|1|100.00|0.00|0.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|14|0|PK: Project coordinator|TBD||0.00|0.00|128000.00|128000.00|Person|1|100.00|8.00|16000.00||||||
+1|PIF|BATS|1|14|1|PK: Project coordinator|TBD|||||0.00|Person|1|100.00|0.00|0.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|15|0|SKL: Project coordinator|TBD||0.00|0.00|80000.00|80000.00|Person|1|100.00|5.00|16000.00||||||
+1|PIF|BATS|1|15|1|SKL: Project coordinator|TBD|||||0.00|Person|1|100.00|0.00|0.00|||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|16|0|Center: Compensation for government staff|TBD||0.00|0.00|40000.00|40000.00|Annual||||||||||
+1|PIF|BATS|1|16|1|Center: Compensation for government staff|Pensri , Chaisuk , Sirilak , Rawiporn|||||60000.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|17|0|BKK: Compensation for government staff|TBD||0.00|0.00|25000.00|25000.00|Annual||||||||||
+1|PIF|BATS|1|17|1|BKK: Compensation for government staff|Patcharanut , Kunrachut|||||20000.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|18|0|NTB: Compensation for government staff|TBD||0.00|0.00|25000.00|25000.00|Annual||||||||||
+1|PIF|BATS|1|18|1|NTB: Compensation for government staff||||||0.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|19|0|PTN: Compensation for government staff|TBD||0.00|0.00|25000.00|25000.00|Annual||||||||||
+1|PIF|BATS|1|19|1|PTN: Compensation for government staff|TBD|||||0.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|20|0|CNB: Compensation for government staff|TBD||0.00|0.00|25000.00|25000.00|Annual||||||||||
+1|PIF|BATS|1|20|1|CNB: Compensation for government staff|TBD|||||0.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|21|0|SMP: Compensation for government staff|TBD||0.00|0.00|25000.00|25000.00|Annual||||||||||
+1|PIF|BATS|1|21|1|SMP: Compensation for government staff|TBD|||||0.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|22|0|KR: Compensation for government staff|TBD||0.00|0.00|40000.00|40000.00|Annual||||||||||
+1|PIF|BATS|1|22|1|KR: Compensation for government staff|TBD|||||0.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|23|0|KK: Compensation for government staff|TBD||0.00|0.00|25000.00|25000.00|Annual||||||||||
+1|PIF|BATS|1|23|1|KK: Compensation for government staff|TBD|||||0.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|24|0|UD: Compensation for government staff|TBD||0.00|0.00|25000.00|25000.00|Annual||||||||||
+1|PIF|BATS|1|24|1|UD: Compensation for government staff|TBD|||||0.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|25|0|UB: Compensation for government staff|TBD||0.00|0.00|25000.00|25000.00|Annual||||||||||
+1|PIF|BATS|1|25|1|UB: Compensation for government staff|TBD|||||0.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|26|0|CM: Compensation for government staff|TBD||0.00|0.00|25000.00|25000.00|Annual||||||||||
+1|PIF|BATS|1|26|1|CM: Compensation for government staff|TBD|||||0.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|27|0|CR: Compensation for government staff|TBD||0.00|0.00|25000.00|25000.00|Annual||||||||||
+1|PIF|BATS|1|27|1|CR: Compensation for government staff|TBD|||||0.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|28|0|PK: Compensation for government staff|TBD||0.00|0.00|40000.00|40000.00|Annual||||||||||
+1|PIF|BATS|1|28|1|PK: Compensation for government staff|TBD|||||0.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|1|29|0|SKL: Compensation for government staff|TBD||0.00|0.00|25000.00|25000.00|Annual||||||||||
+1|PIF|BATS|1|29|1|SKL: Compensation for government staff|TBD|||||0.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|1|0|Central: Project coordinator|TBD||0.00|0.00|8000.00|8000.00|Person|1|160000.00|5.00|||||||
+1|PIF|BATS|2|1|1|Central: Project coordinator|Mr:Tatchakorn Prasanworakitkun|||||3750.00|Person|1|75000.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|2|0|BKK: Project coordinator|TBD||0.00|0.00|4000.00|4000.00|Person|1|80000.00|5.00|||||||
+1|PIF|BATS|2|2|1|BKK: Project coordinator|Miss.Orathai khanngoen|||||3750.00|Person|1|75000.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|3|0|NTB: Project coordinator|TBD||0.00|0.00|4000.00|4000.00|Person|1|80000.00|5.00|||||||
+1|PIF|BATS|2|3|1|NTB: Project coordinator|TBD|||||0.00|Person|1|0.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|4|0|PTN: Project coordinator|TBD||0.00|0.00|4000.00|4000.00|Person|1|80000.00|5.00|||||||
+1|PIF|BATS|2|4|1|PTN: Project coordinator|TBD|||||0.00|Person|1|0.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|5|0|CNB: Project coordinator|TBD||0.00|0.00|4000.00|4000.00|Person|1|80000.00|5.00|||||||
+1|PIF|BATS|2|5|1|CNB: Project coordinator|TBD|||||0.00|Person|1|0.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|6|0|SMP: Project coordinator|TBD||0.00|0.00|4000.00|4000.00|Person|1|80000.00|5.00|||||||
+1|PIF|BATS|2|6|1|SMP: Project coordinator|TBD|||||0.00|Person|1|0.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|7|0|KR: Nurse|TBD||0.00|0.00|7200.00|7200.00|Person|1|144000.00|5.00|||||||
+1|PIF|BATS|2|7|1|KR: Nurse|Miss Benjamas Rangklang|||||3750.00|Person|1|75000.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|8|0|KR: Project coordinator|TBD||0.00|0.00|6400.00|6400.00|Person|1|128000.00|5.00|||||||
+1|PIF|BATS|2|8|1|KR: Project coordinator|TBD|||||0.00|Person|1|0.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|9|0|KK: Project coordinator|TBD||0.00|0.00|4000.00|4000.00|Person|1|80000.00|5.00|||||||
+1|PIF|BATS|2|9|1|KK: Project coordinator|TBD|||||0.00|Person|1|0.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|10|0|UD: Project coordinator|TBD||0.00|0.00|4000.00|4000.00|Person|1|80000.00|5.00|||||||
+1|PIF|BATS|2|10|1|UD: Project coordinator|TBD|||||0.00|Person|1|0.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|11|0|UB: Project coordinator|TBD||0.00|0.00|4000.00|4000.00|Person|1|80000.00|5.00|||||||
+1|PIF|BATS|2|11|1|UB: Project coordinator|TBD|||||0.00|Person|1|0.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|12|0|CM: Project coordinator|||0.00|0.00|4000.00|4000.00|Person|1|80000.00|5.00|||||||
+1|PIF|BATS|2|12|1|CM: Project coordinator||||||0.00|Person|1|0.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|13|0|CR: Project coordinator|TBD||0.00|0.00|4000.00|4000.00|Person|1|80000.00|5.00|||||||
+1|PIF|BATS|2|13|1|CR: Project coordinator|TBD|||||0.00|Person|1|0.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|14|0|PK: Project coordinator|TBD||0.00|0.00|6400.00|6400.00|Person|1|128000.00|5.00|||||||
+1|PIF|BATS|2|14|1|PK: Project coordinator|TBD|||||0.00|Person|1|0.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|15|0|SKL: Project coordinator|TBD||0.00|0.00|4000.00|4000.00|Person|1|80000.00|5.00|||||||
+1|PIF|BATS|2|15|1|SKL: Project coordinator|TBD|||||0.00|Person|1|0.00|5.00||||20170517|PIF|20170517|PIF
+1|PIF|BATS|2|16|0|Annual medical check up for 15 staff|(59 USD x 15 staff)||0.00|0.00|30000.00|30000.00|Annual||||||||||
+1|PIF|BATS|2|16|1|Annual medical check up for 15 staff|(59 USD x 15 staff)|||||6000.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|3|1|0|Central: Advisory committee meetings to develop accreditation system for community-based organizations (CBO)|||0.00|0.00|280000.00|280000.00|Time|1|40.00|1.00|2000.00|5000.00|0.00||||
+1|PIF|BATS|3|1|1|Central: Advisory committee meetings to develop accreditation system for community-based organizations (CBO)||||||0.00|Time|1|40.00|1.00|0.00|0.00|0.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|3|2|0|Central: Stigma & discrimination workshop|||0.00|0.00|280000.00|280000.00|Time|1|40.00|1.00|2000.00|5000.00|0.00||||
+1|PIF|BATS|3|2|1|Central: Stigma & discrimination workshop||||||283400.00|Time|1|44.00|3.00|2000.00|0.00|19400.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|3|2|4|Central: Stigma & discrimination workshop||||||170000.00|Time|1|25.00|3.00|2000.00|0.00|20000.00|20170830|pif|20170830|pif
+1|PIF|BATS|3|3|0|Central: Site monitoring & coaching by central/regional coaching team|||0.00|0.00|210000.00|210000.00|Time|6|5.00|1.00|2000.00|5000.00|0.00||||
+1|PIF|BATS|3|3|1|Central: Site monitoring & coaching by central/regional coaching team||||||76800.00|Time|6|2.00|2.00|2000.00|2300.00|200.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|3|3|4|Central: Site monitoring & coaching by central/regional coaching team||||||66487.00|Time|2|5.00|1.00|2000.00|4648.70|0.00|20170830|pif|20170830|pif
+1|PIF|BATS|3|4|0|Central: Provincial committee meeting|Non-local participants||0.00|0.00|273000.00|273000.00|Time|13|3.00|1.00|2000.00|5000.00|0.00||||
+1|PIF|BATS|3|4|1|Central: Provincial committee meeting|Non-local participants|||||0.00|Time|13|3.00|1.00|0.00|0.00|0.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|3|5|1|Annual project meeting Non-local|participants|||||225000.00|Time|1|36.00|1.00|2000.00|4000.00|9000.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|3|5|2|Annual project meeting Non-local|participants|||||0.00|Time|1|36.00|1.00|0.00|0.00|0.00|20170621||20170621|
+1|PIF|BATS|3|6|1|Differentiated care workshop (PIF CDC28) (UB and other provincial)||||||42000.00|Time|2|3.00|1.00|2000.00|5000.00|0.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|3|6|4|Differentiated care workshop (PIF CDC28) (UB and other provincial)||||||32450.00|Time|1|10.00|1.00|2000.00|1245.00|0.00|20170830|pif|20170830|pif
+1|PIF|BATS|3|7|1|Brain storming workshop for improved effective PCM||||||90000.00|Time|1|12.00|2.00|2000.00|3500.00|0.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|3|7|4|Brain storming workshop for improved effective PCM||||||0.00|Time|0|12.00|2.00|2000.00|3500.00|0.00|20170830|pif|20170830|pif
+1|PIF|BATS|3|8|2|Meeting PCM By NAMC||||||31250.00|Time|1|4.00|1.00|2000.00|5812.50|0.00|20170621||20170621|
+1|PIF|BATS|3|9|2|Meeting CBO 2018 by BATs||||||58086.00|Time|1|7.00|1.00|2000.00|6000.00|2086.00|20170621||20170621|
+1|PIF|BATS|3|10|2|site monitoring  & coaching by central/regional coaching team||||||134600.00|Time|2|6.00|2.00|2000.00|6000.00|7300.00|20170621||20170621|
+1|PIF|BATS|3|10|4|site monitoring  & coaching by central/regional coaching team||||||123080.00|Time|4|4.00|2.00|2000.00|3000.00|2770.00|20170830|pif|20170830|pif
+1|PIF|BATS|3|11|4|Stigma & discrimination workshop to prepare for 2018||||||352500.00|Time|1|50.00|2.00|2000.00|3000.00|2500.00|20170830|pif|20170830|pif
+1|PIF|BATS|5|1|0|Center: Office supplies|To support  GF transition activities||0.00|0.00|6600.00|6600.00|Year|1|6600.00||||||||
+1|PIF|BATS|5|1|1|Center: Office supplies|To support  GF transition activities|||||10000.00|Year|1|10000.00|||||20170517|PIF|20170517|PIF
+1|PIF|BATS|5|1|4|Center: Office supplies|To support  GF transition activities|||||20000.00|Year|1|20000.00|||||20170830|pif|20170830|pif
+1|PIF|BATS|5|2|0|BKK: Office supplies|To support  GF transition activities||0.00|0.00|5000.00|5000.00|Month|5|1000.00||||||||
+1|PIF|BATS|5|2|1|BKK: Office supplies|To support  GF transition activities|||||10000.00|Year|1|10000.00|||||20170517|PIF|20170830|pif
+1|PIF|BATS|5|3|0|NTB: Office supplies|To support  GF transition activities||0.00|0.00|5000.00|5000.00|Month|5|1000.00||||||||
+1|PIF|BATS|5|3|1|NTB: Office supplies|To support  GF transition activities|||||10000.00|Year|1|10000.00|||||20170517|PIF|20170517|PIF
+1|PIF|BATS|5|4|0|PTN: Office supplies|To support  GF transition activities||0.00|0.00|5000.00|5000.00|Month|5|1000.00||||||||
+1|PIF|BATS|5|4|1|PTN: Office supplies|To support  GF transition activities|||||10000.00|Year|1|10000.00|||||20170517|PIF|20170517|PIF
+1|PIF|BATS|5|5|0|CNB: Office supplies|To support  GF transition activities||0.00|0.00|5000.00|5000.00|Month|5|1000.00||||||||
+1|PIF|BATS|5|5|1|CNB: Office supplies|To support  GF transition activities|||||10000.00|Year|1|10000.00|||||20170517|PIF|20170517|PIF
+1|PIF|BATS|5|6|0|SMP: Office supplies|To support  GF transition activities||0.00|0.00|5000.00|5000.00|Month|5|1000.00||||||||
+1|PIF|BATS|5|6|1|SMP: Office supplies|To support  GF transition activities|||||10000.00|Yeae|1|10000.00|||||20170517|PIF|20170517|PIF
+1|PIF|BATS|5|6|4|SMP: Office supplies|To support  GF transition activities|||||0.00|Yeae|0|10000.00|||||20170830|pif|20170830|pif
+1|PIF|BATS|5|7|0|KR: Office supplies|To support  GF transition activities||0.00|0.00|8000.00|8000.00|Month|8|1000.00||||||||
+1|PIF|BATS|5|7|1|KR: Office supplies|To support  GF transition activities|||||10000.00|Yeae|1|10000.00|||||20170517|PIF|20170517|PIF
+1|PIF|BATS|5|8|0|KK: Office supplies|To support  GF transition activities||0.00|0.00|5000.00|5000.00|Month|5|1000.00||||||||
+1|PIF|BATS|5|8|1|KK: Office supplies|To support  GF transition activities|||||10000.00|Yeae|1|10000.00|||||20170517|PIF|20170517|PIF
+1|PIF|BATS|5|9|0|UD: Office supplies|To support  GF transition activities||0.00|0.00|5000.00|5000.00|Month|5|1000.00||||||||
+1|PIF|BATS|5|9|1|UD: Office supplies|To support  GF transition activities|||||10000.00|Yeae|1|10000.00|||||20170517|PIF|20170517|PIF
+1|PIF|BATS|5|10|0|UB: Office supplies|To support  GF transition activities||0.00|0.00|5000.00|5000.00|Month|5|1000.00||||||||
+1|PIF|BATS|5|10|1|UB: Office supplies|To support  GF transition activities|||||10000.00|Yeae|1|10000.00|||||20170517|PIF|20170517|PIF
+1|PIF|BATS|5|11|0|CM: Office supplies|To support  GF transition activities||0.00|0.00|5000.00|5000.00|Month|5|1000.00||||||||
+1|PIF|BATS|5|11|1|CM: Office supplies|To support  GF transition activities|||||10000.00|Yeae|1|10000.00|||||20170517|PIF|20170517|PIF
+1|PIF|BATS|5|11|4|CM: Office supplies|To support  GF transition activities|||||0.00|Yeae|0|10000.00|||||20170830|pif|20170830|pif
+1|PIF|BATS|5|12|0|CR: Office supplies|To support  GF transition activities||0.00|0.00|5000.00|5000.00|Month|5|1000.00||||||||
+1|PIF|BATS|5|12|1|CR: Office supplies|To support  GF transition activities|||||10000.00|Yeae|1|10000.00|||||20170517|PIF|20170517|PIF
+1|PIF|BATS|5|13|0|PK: Office supplies|To support  GF transition activities||0.00|0.00|8000.00|8000.00|Month|8|1000.00||||||||
+1|PIF|BATS|5|13|1|PK: Office supplies|To support  GF transition activities|||||10000.00|Yeae|1|10000.00|||||20170517|PIF|20170517|PIF
+1|PIF|BATS|5|13|4|PK: Office supplies|To support  GF transition activities|||||0.00|Yeae|0|10000.00|||||20170830|pif|20170830|pif
+1|PIF|BATS|5|14|0|SKL: Office supplies|To support  GF transition activities||0.00|0.00|5000.00|5000.00|Month|5|1000.00||||||||
+1|PIF|BATS|5|14|1|SKL: Office supplies|To support  GF transition activities|||||10000.00|Yeae|1|10000.00|||||20170517|PIF|20170517|PIF
+1|PIF|BATS|5|15|1|Rapid test supply for same day HIV test result||||||770000.00|Set|220|3500.00|||||20170517|PIF|20170517|PIF
+1|PIF|BATS|8|1|0|Provincial committee meeting (13 sites)|Local-participants||0.00|0.00|299000.00|299000.00|Time|13|35.00|1.00|600.00|0.00|2000.00||||
+1|PIF|BATS|8|1|1|Provincial committee meeting (13 sites)|Local-participants|||||0.00|Time|0|35.00|1.00|600.00|0.00|2000.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|2|0|Provincial HIV service providers training for RTTR, CBOs networking, differentiated care, linking with community-based care|||0.00|0.00|528000.00|528000.00|Time|12|35.00|2.00|600.00|0.00|2000.00||||
+1|PIF|BATS|8|2|1|Provincial HIV service providers training for RTTR, CBOs networking, differentiated care, linking with community-based care||||||0.00|Time|0|35.00|2.00|600.00|0.00|2000.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|3|0|Site monitoring & target mapping (13 sites)|||0.00|0.00|130000.00|130000.00|Time|26|5.00|1.00|600.00|0.00|2000.00||||
+1|PIF|BATS|8|3|1|Site monitoring & target mapping (13 sites)||||||0.00|Time|0|5.00|1.00|600.00|0.00|0.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|4|0|Central: Stakeholder meeting to develop accreditation system|||0.00|0.00|80000.00|80000.00|Time|4|30.00|1.00|600.00|0.00|2000.00||||
+1|PIF|BATS|8|4|1|Central: Stakeholder meeting to develop accreditation system||||||0.00|Time|4|30.00|1.00|0.00|0.00|0.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|5|0|Communication cost|||0.00|0.00|140000.00|140000.00|Site|14|||||10000.00||||
+1|PIF|BATS|8|5|1|Communication cost||||||12500.00|Month|5|||||2500.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|6|1|Rapid test supply for same day HIV test result||||||10000.00|Time|1|10.00|2.00|500.00|0.00|0.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|6|4|Rapid test supply for same day HIV test result|chang to Brainstom|||||0.00|Time|0|10.00|2.00|500.00|0.00|0.00|20170830|pif|20170830|pif
+1|PIF|BATS|8|7|1|Quarterly Working Group Meeting (HMIS,Accreditation,RRTTR)|3 working Group x 2 time/years (PIF-CDC17, PIF|||||105000.00|Time|6|25.00|1.00|600.00|0.00|2500.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|7|2|Quarterly Working Group Meeting (HMIS,Accreditation,RRTTR)|3 working Group x 2 time/years (PIF-CDC17, PIF|||||40000.00|Time|1|36.00|1.00|600.00|0.00|18400.00|20170621||20170621|
+1|PIF|BATS|8|8|1|Target mapping for RRTTRprogramatic mapping NAMC:(PIF-CDC23|meeting40,000,PIF-CDC24 data compiling 30,000) 2 provinces (PT, SK)|||||140000.00|Time|2|0.00|0.00|0.00|0.00|70000.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|8|4|Target mapping for RRTTRprogramatic mapping NAMC:(PIF-CDC23|meeting40,000,PIF-CDC24 data compiling 30,000) 2 provinces (PT, SK)|||||70000.00|Time|1|0.00|0.00|0.00|0.00|70000.00|20170830|pif|20170830|pif
+1|PIF|BATS|8|9|1|S&D situation analysismeeting NAMC: (PIF-CDC 25) 6 provinces|CM, KK, UD, SK, BKK, UB|||||186000.00|Time|6|50.00|1.00|600.00|0.00|1000.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|10|1|S&D situation analysis|meeting NAMC: (PIF-CDC 25) 1 Provinces CB|||||15000.00|Time|1|25.00|1.00|0.00|600.00|0.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|10|4|S&D situation analysis|meeting NAMC: (PIF-CDC 25) 1 Provinces CB|||||35000.00|Time|2|25.00|2.00|0.00|600.00|2500.00|20170830|pif|20170830|pif
+1|PIF|BATS|8|11|1|Strategic information (RHIS-RRTTR)|NAMc:(PIF-CDC 26)- 2 Provinces NA, UD|||||199000.00|Time|2|50.00|3.00|600.00|0.00|9500.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|11|4|Strategic information (RHIS-RRTTR)||||||119000.00|Time|2|45.00|2.00|600.00|0.00|5500.00|20170830|pif|20170830|pif
+1|PIF|BATS|8|12|1|Data utilization for AIDS ending plan and RRTTR program improvement|NAMc: (PIF-CDC 27) 3 Provinces NA, SK, UD|||||92500.00|Time|4|30.00|1.00|600.00|0.00|5125.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|12|4|Data utilization for AIDS ending plan and RRTTR program improvement|NAMc: (PIF-CDC 27) 3 Provinces NA, SK, UD|||||55500.00|Time|1|30.00|3.00|600.00|0.00|1500.00|20170830|pif|20170830|pif
+1|PIF|BATS|8|13|1|Differentiated Care workshop (PIF CDC28) Local|participants at 2 Provinces (UB and aother potential province)|||||24000.00|Time|2|20.00|1.00|600.00|0.00|0.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|13|4|Differentiated Care workshop (PIF CDC28) Local|participants at 2 Provinces (UB and aother potential province)|||||33550.00|Time|1|9.00|1.00|2000.00|0.00|15550.00|20170830|pif|20170830|pif
+1|PIF|BATS|8|14|1|Provincial AIDS Sub-committee|meeting NAMc: (PIF-CDC 31) 1 Province UD|||||16000.00|Time|1|25.00|1.00|500.00|0.00|3500.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|15|1|Annual project meeting local participants||||||12000.00|Time|1|20.00|1.00|600.00|0.00|0.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|15|2|Annual project meeting local participants||||||0.00|Time|1|20.00|1.00|0.00|0.00|0.00|20170621||20170621|
+1|PIF|BATS|8|16|1|Annual project meeting Resource person (PIF-CDC22)||||||15000.00|Time|1|5.00|1.00|0.00|0.00|15000.00|20170517|PIF|20170517|PIF
+1|PIF|BATS|8|16|2|Annual project meeting Resource person (PIF-CDC22)||||||0.00|Time|1|5.00|1.00|0.00|0.00|0.00|20170621||20170621|
+1|PIF|BATS|8|17|1|Developing tools  for  RRTTR  services assessment (Accreditation)||||||100000.00|Annual|||||||20170517|PIF|20170517|PIF
+1|PIF|BATS|8|18|2|Meeting PCM by NAMC||||||10760.00|Annual|||||||20170621||20170621|
+1|PIF|BATS|8|19|2|Meeting CBO by BATs||||||6450.00|Annual|||||||20170621||20170621|
+1|PIF|BATS|8|20|2|Site monitoring & coaching by central/regional coaching team||||||75854.00|Annual|||||||20170621||20170621|
+1|PIF|BATS|8|20|4|Site monitoring & coaching by central/regional coaching team||||||23790.00|Annual|||||||20170830|pif|20170830|pif
+1|PIF|BATS|8|21|3|Gain from exchange rate on 07 ก.ค. 60 (Cheque # 10181872)||||||89317.84|Annual|||||||20170824|pif|20170824|pif
+1|PIF|BATS|8|22|4|Develop Database Program (NA) for PCM||||||80000.00|Annual|||||||20170830|pif|20170830|pif
+1|PIF|BATS|8|23|4|Stigma & Discrimination workshop to prepare for 2018||||||8000.00|Time|1|10.00|1.00|0.00|600.00|2000.00|20170830|pif|20170830|pif
+1|PIF|BATS|8|24|4|Central : Stigma & Discrimination workshop||||||33797.00|Time|1|9.00|1.00|2000.00|0.00|15797.00|20170830|pif|20170830|pif
+2|PIF|BATS|1|1|0|PIF-BATS:Project Cordinator - BATS: Strategy|Tatchakorn Prasanworakitkun||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170324||20170411|
+2|PIF|BATS|1|2|0|PIF-BATS:Project Accounting and finance staff|TBD||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170324||20170411|
+2|PIF|BATS|1|3|0|PIF-BATS:Part-time M&E specailist|TBD ROP:$2,397.16||81000.00|0.00|360000.00|441000.00|Person|1|50.00|12.00|73500.00|||20170324||20171016|
+2|PIF|BATS|1|4|0|PIF-BATS:Compensation for government Staff (Central)|TBD||0.00|0.00|360000.00|360000.00|Annual|||||||20170324||20170411|
+2|PIF|BATS|1|5|0|PIF-BATS:Compensation For financial and supply procurement government Staff (Central)|TBD||0.00|0.00|96000.00|96000.00|Annual|||||||20170324||20170822|
+2|PIF|BATS|1|6|0|PIF-BATS:Accreditation: Full time project coordinator|TBD ROP:$2,841.08||96000.00|0.00|240000.00|336000.00|Person|1|100.00|12.00|28000.00|||20170328||20171016|
+2|PIF|BATS|1|7|0|PIF-BATS: KR Nurse Miss Benjamas Rangklang|||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170901||20170901|
+2|PIF|BATS|2|1|0|PIF-BATS:Project Cordinator - BATS: Strategy|Tatchakorn Prasanworakitkun||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170324||20170411|
+2|PIF|BATS|2|2|0|PIF-BATS:Project Accounting and finance staff|TBD||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170324||20170411|
+2|PIF|BATS|2|3|0|PIF-BATS:Accreditation: Full time project coordinator|TBD||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170404||20170411|
+2|PIF|BATS|2|4|0|PIF-BATS:Annual medical check up for staff|(2,000 THB or $58.82 x 3 persons)||0.00|0.00|6000.00|6000.00|Annual|||||||20170324||20170411|
+2|PIF|BATS|2|5|0|PIF-BATS: KR Nurse Miss Benjamas Rangklang|||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170901||20170901|
+2|PIF|BATS|3|1|0|PIF-BATS:Monitoring and suppervision visit to PCM,CBO,Health facility (central and region staff)|||0.00|0.00|60000.00|60000.00|Time|1|5.00|2.00|2000.00|8000.00|0.00|20170324||20170821|
+2|PIF|BATS|3|2|0|PIF-BATS:Semi  annual National meeting with 13 Provinces to monitor and follow up Project implementation progress|||0.00|0.00|-0.00|0.00|Time|0|39.00|2.00|2000.00|4500.00|0.00|20170324||20170821|
+2|PIF|BATS|3|3|0|PIF-BATS:Accreditation: adivisory/Technical team meeting for developing tools and guidelines|non-local MOPH||0.00|0.00|90000.00|90000.00|Time|2|4.00|2.00|2000.00|7250.00|0.00|20170328||20170411|
+2|PIF|BATS|3|4|0|PIF-BATS:(RST) Accreditation: Site visit for assessment of service models|non-local MOPH (BATS)||0.00|0.00|318000.00|318000.00|Site|6|4.00|3.00|2000.00|7250.00|0.00|20170328||20170821|
+2|PIF|BATS|3|5|0|Accreditation: Community forum for result sharing of community assessment data|||0.00|0.00|-0.00|0.00|Time|0|0.00|2.00|2000.00|4100.00|6960.00|20170328||20170821|
+2|PIF|BATS|4|1|0|PIF-BATS:Office table and chair|||0.00|0.00|80000.00|80000.00|Set|4|20000.00|||||20170324||20170901|
+2|PIF|BATS|4|2|0|PIF-BATS: Laptop and Accesseries|Using for 2 project admistration and 1 Accounting  finance staff||0.00|0.00|72000.00|72000.00|Set|3|24000.00|||||20170328||20170901|
+2|PIF|BATS|5|1|0|PIF-BATS:Office Supply|BATS strategy  + Accreditation||0.00|0.00|120000.00|120000.00|Month|12|10000.00|||||20170324||20170914|
+2|PIF|BATS|5|2|0|PIF-BATS:Rapid test kit supply|for HIV same day result||0.00|0.00|-0.00|0.00|Test|0|255.00|||||20170328||20170821|
+2|PIF|BATS|8|1|0|PIF-BATS:Semi  annual National meeting with 13 Provinces to monitor and follow up Project implementation progress (Central Staff)|||0.00|0.00|-0.00|0.00|Time|0|25.00|2.00|600.00|0.00|5000.00|20170324||20170822|
+2|PIF|BATS|8|2|0|PIF-BATS:Quarterly PIF Working Group Meeting (HMIS,Accreditation,RRTTR)| 3 working Group x 4 time/years||0.00|0.00|120000.00|120000.00|Time|6|25.00|1.00|600.00|0.00|5000.00|20170324||20170821|
+2|PIF|BATS|8|3|0|PIF-BATS:Communication Cost (Central,Province)|(Central + 13 Provinces)||0.00|0.00|140000.00|140000.00|Site|14|||||10000.00|20170324||20170411|
+2|PIF|BATS|8|4|0|PIF-BATS:Meeting Facility and management|14 meeting x $294.12||0.00|0.00|12800.00|12800.00|Annual|||||||20170324||20170914|
+2|PIF|BATS|8|5|0|PIF-BATS:Meeting Material and Printing|50 person x 14 meeting x $2.94||0.00|0.00|70000.00|70000.00|Annual|||||||20170324||20170914|
+2|PIF|BATS|8|6|0|PIF-BATS:Accreditation: Adivisory/Technical team meeting for developing tools and guidelines|local non-MOPH expert/resource person||0.00|0.00|30000.00|30000.00|Time|2|5.00|1.00|2000.00|0.00|5000.00|20170328||20170411|
+2|PIF|BATS|8|7|0|PIF-BATS:Accreditation: Adivisory/Teachnical team meeting for developing tools and guidelines|local partcipants||0.00|0.00|40000.00|40000.00|Time|2|25.00|1.00|600.00|0.00|5000.00|20170328||20170411|
+2|PIF|BATS|8|8|0|PIF-BATS:Accreditation: communication cost|To coordinate with team and stakeholders||0.00|0.00|24000.00|24000.00|Month|12|||||2000.00|20170328||20170411|
+2|PIF|BATS|8|9|0|PIF-BATS:(RST) Accreditation: RRTTR services assessment reporting|Data collection/ anaysis, report writing and printing||0.00|0.00|-0.00|0.00|Time|0|5.00|2.00|2000.00|6000.00|10000.00|20170328||20170821|
+2|PIF|BATS|8|10|0|PIF-BATS:Accreditation: Printing and materials|Tools and guideline printing etc.||0.00|0.00|50000.00|50000.00|Annual|||||||20170328||20170411|
+2|PIF|BATS|8|11|0|PIF-BATS:Accreditation: Community forum for result sharing of community assessment data|||0.00|0.00|23000.00|23000.00|Time|1|30.00|1.00|600.00|0.00|5000.00|20170328||20170411|
+2|PIF|BATS|8|12|0|PIF-BATS:Accreditation: Site visit for assessment of service models|Non-MOPH staff||0.00|0.00|156000.00|156000.00|Time|6|2.00|3.00|2000.00|7000.00|0.00|20170328||20170821|
+2|PIF|BATS|8|13|0|PIF-BAT : Project management to follow up on project progress and preparation for Activity|||0.00|0.00|14400.00|14400.00|Time|6|4.00|1.00|600.00|0.00|0.00|20170821||20170914|
+2|PIF|BATS|8|14|0|Exchange rate management|To support depreciation from the exchange rate fluctuation during the budget year||0.00|0.00|-0.00|0.00|Annual|||||||20170918|||
+2|PIF|BATS|8|15|0|Contribution for CoUnit Management|see budget justification||0.00|0.00|-0.00|0.00|Annual|||||||20170918||20170918|
+2|PIF|BATS|8|16|0|Contribution for Evauluation Perfermance and Management Plan|see budget justification||100490.42|0.00|-0.00|100490.42|Annual|||||||20170918||20171012|

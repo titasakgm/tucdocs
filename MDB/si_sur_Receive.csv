@@ -1,0 +1,5 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|SI|SUR|20161025|11|28105.88|34.8300|978927.88||10170109|รับเงินจาก สนย. งวดที่ 1 (Rate 34 + 0.83) = 955,600+23,327.88  (ลทช.10170109 / 10172119)|20170112|SI-SUR|20170911|SI-SUR
+1|SI|SUR|20161228|7|89227.12|35.7600|3190761.73||10172170|รับเงินจาก สนย. งวดที่ 2 (Rate 34 + 1.76) = 3,033,722+157,039.73 = 3,190,761.73|20170112|SI-SUR|20170126|SI-SUR
+1|SI|SUR|20170428|1|18000.00|34.2788|617018.40||10181837|รับเงินจาก สนย. งวดที่ 3 (Rate 34.28 ) = 617,018.40|20170613|SI-SUR|20170613|SI-SUR
+1|SI|SUR|20170707|2|5196.41|33.7900|175586.69||10181869|รับเงินจาก สนย. งวดที่ 4  (Rate 33.79 ) =  175,586.69|20170718|si-sur|20170808|SI-SUR

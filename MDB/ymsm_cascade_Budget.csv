@@ -1,0 +1,97 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|YMSM-Cascade|-|1|1|0|Social worker, SRR|Ms. Sirijit Kanakool||0.00|0.00|341760.00|341760.00|Person|1|100.00|12.00|28480.00||||||
+1|YMSM-Cascade|-|1|2|0|Compensation for hospital staff (Counselor)|Ms. Yuitiang Durier ($2.06/hour x 49 hours/month) x 12 months see justification||0.00|0.00|41280.00|41280.00|Annual||||||||||
+1|YMSM-Cascade|-|1|2|1|Compensation for hospital staff (Counselor)|Ms. Yuitiang Durier , Ms.Suchada Charoenras, Ms.Ladda Pannapoch ($2.06/hour x 49 hours/month) x 12 months see justification|||||71520.00|Annual|||||||20170228|ymsm-cascade|20170228|ymsm-cascade
+1|YMSM-Cascade|-|1|3|0|Overtime for project staff|($2. 06/hour x 23 hours/month) x 12 months x 1 person see justification||0.00|0.00|19200.00|19200.00|Annual||||||||||
+1|YMSM-Cascade|-|1|4|0|Project assistant (Part time)|TBD (For adult HIV clinic at SRR)||0.00|0.00|216000.00|216000.00|Person|1|75.00|12.00|24000.00||||||
+1|YMSM-Cascade|-|1|4|1|Project assistant (Part time)|(For BAT)|||||100000.00|Person|1|80.00|5.00|25000.00|||20170228|ymsm-cascade|20170228|ymsm-cascade
+1|YMSM-Cascade|-|2|1|0|Social worker, SRR|Ms. Sirijit Kanakool||0.00|0.00|9000.00|9000.00|Person|1|341760.00|5.00|||||||
+1|YMSM-Cascade|-|2|2|0|Annual medical check-up for FTE - staff|($58. 82 x 1 person)||0.00|0.00|2000.00|2000.00|Annual||||||||||
+1|YMSM-Cascade|-|3|1|0|Transportation: Taxi, gas|||0.00|0.00|4000.00|4000.00|Time|8|0.00|0.00|0.00|0.00|500.00||||
+1|YMSM-Cascade|-|5|1|0|Syphilis test kit|SRR = $2. 35/unit||0.00|0.00|8000.00|8000.00|Set|100|80.00||||||||
+1|YMSM-Cascade|-|5|1|1|Syphilis test kit|SRR = $2. 35/unit|||||0.00|Set|0|0.00|||||20170228|ymsm-cascade|20170228|ymsm-cascade
+1|YMSM-Cascade|-|5|2|0|General office supplies|||0.00|0.00|13760.00|13760.00|Year|1|13760.00||||||||
+1|YMSM-Cascade|-|5|2|1|General office supplies||||||14320.00|Year|1|14320.00|||||20170228|ymsm-cascade|20170228|ymsm-cascade
+1|YMSM-Cascade|-|8|1|0|Advisory group meeting to develop and monitor Y_MSM and cascade program|||0.00|0.00|90000.00|90000.00|Time|6|15.00|1.00|1000.00|0.00|0.00||||
+1|YMSM-Cascade|-|8|2|0|Working group meeting to develop and implement Y_MSM and cascade program|||0.00|0.00|36000.00|36000.00|Time|6|10.00|1.00|600.00|0.00|0.00||||
+1|YMSM-Cascade|-|8|3|0|Communication expense|||0.00|0.00|30000.00|30000.00|Month|12|||||2500.00||||
+1|YMSM-Cascade|-|8|3|1|Communication expense||||||12000.00|Month|12|||||1000.00|20170228|ymsm-cascade|20170228|ymsm-cascade
+1|YMSM-Cascade|-|8|4|0|Cleaning service fee for meeting and workshop|For SRR||0.00|0.00|9600.00|9600.00|Month|12|||||800.00||||
+1|YMSM-Cascade|-|8|5|0|Photocopy, meeting document, meeting facilities|||0.00|0.00|8000.00|8000.00|Year|1|||||8000.00||||
+1|YMSM-Cascade|-|8|6|0|Site visit for MSM clinic at Bangrak hospital and TRC|For participants||0.00|0.00|15000.00|15000.00|Time|2|15.00|1.00|500.00|0.00|0.00||||
+1|YMSM-Cascade|-|8|6|1|Site visit for MSM clinic at Bangrak hospital and TRC|For participants|||||25000.00|Time|2|25.00|1.00|500.00|0.00|0.00|20170228|ymsm-cascade|20170228|ymsm-cascade
+1|YMSM-Cascade|-|8|7|0|Site visit for MSM clinic at Bangrak hospital and TRC|For resource person||0.00|0.00|14400.00|14400.00|Time|2|2.00|1.00|3600.00|0.00|0.00||||
+1|YMSM-Cascade|-|8|8|0|Conduct MSM sensitivity training for project staff and hospital staffs working with young MSM|For participants and meeting room rental||0.00|0.00|45000.00|45000.00|Time|1|20.00|3.00|500.00|0.00|15000.00||||
+1|YMSM-Cascade|-|8|8|3|Conduct MSM sensitivity training for project staff and hospital staffs working with young MSM|For participants and meeting room rental|||||48000.00|Time|1|22.00|3.00|500.00|0.00|15000.00|20170613|ymsm-cascade|20170613|ymsm-cascade
+1|YMSM-Cascade|-|8|9|0|Conduct MSM sensitivity training for project staff and hospital staffs working with young MSM|For resource persons||0.00|0.00|43200.00|43200.00|Time|1|2.00|3.00|7200.00|0.00|0.00||||
+1|YMSM-Cascade|-|8|9|3|Conduct MSM sensitivity training for project staff and hospital staffs working with young MSM|For resource persons|||||40200.00|Time|1|3.00|2.00|6700.00|0.00|0.00|20170613|ymsm-cascade|20170613|ymsm-cascade
+1|YMSM-Cascade|-|8|10|0|RST: Conduct baseline interview/survey for young MSM/TG|||0.00|0.00|20000.00|20000.00|Time|1|40.00|1.00|500.00|0.00|0.00||||
+1|YMSM-Cascade|-|8|11|0|Printing comprehensive positive youth manual|||0.00|0.00|200000.00|200000.00|Set|800|||||250.00||||
+1|YMSM-Cascade|-|8|11|1|Printing comprehensive positive youth manual||||||100000.00|Set|400|||||250.00|20170228|ymsm-cascade|20170228|ymsm-cascade
+1|YMSM-Cascade|-|8|11|2|Printing comprehensive positive youth manual||||||200000.00|Set|1000|||||200.00|20170608||20170608|
+1|YMSM-Cascade|-|8|12|0|Protocol submission fee (Y_MSM and cascade)|EC Siriraj||0.00|0.00|5000.00|5000.00|Year|1|||||5000.00||||
+1|YMSM-Cascade|-|8|13|0|Protocol continuation fee (CARE-YOUTH)|EC Siriraj||0.00|0.00|2000.00|2000.00|Year|1|||||2000.00||||
+1|YMSM-Cascade|-|8|14|0|Quality improvement activities|.||0.00|0.00|200000.00|200000.00|Quarter|4|||||50000.00||||
+1|YMSM-Cascade|-|8|14|1|Quality improvement activities|.|||||160000.00|Annual|||||||20170228|ymsm-cascade|20170228|ymsm-cascade
+1|YMSM-Cascade|-|8|15|0|Conduct long - term follow up with youths to evaluate outcome of comprehensive positive youth program|For youths||0.00|0.00|90000.00|90000.00|Time|2|90.00|1.00|500.00|0.00|0.00||||
+1|YMSM-Cascade|-|8|16|0|Small working group meeting|Adult HIV clinic||0.00|0.00|28800.00|28800.00|Time|6|8.00|1.00|600.00|0.00|0.00||||
+1|YMSM-Cascade|-|8|16|1|Small working group meeting|Adult HIV clinic|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170228|ymsm-cascade|20170228|ymsm-cascade
+1|YMSM-Cascade|-|8|17|0|Laboratory screening for HIV+ young MSM/TG|||0.00|0.00|80000.00|80000.00|Case|40|||||2000.00||||
+1|YMSM-Cascade|-|8|17|1|Laboratory screening for HIV+ young MSM/TG||||||88000.00|Case|44|||||2000.00|20170228|ymsm-cascade|20170228|ymsm-cascade
+1|YMSM-Cascade|-|8|17|2|Laboratory screening for HIV+ young MSM/TG||||||50000.00|Case|25|||||2000.00|20170608||20170608|
+1|YMSM-Cascade|-|8|17|3|Laboratory screening for HIV+ young MSM/TG||||||40000.00|Case|20|||||2000.00|20170613|ymsm-cascade|20170613|ymsm-cascade
+1|YMSM-Cascade|-|8|18|0|Develop education package for HIV prevention in young MSM/TG|||0.00|0.00|100000.00|100000.00|Year|1|||||100000.00||||
+1|YMSM-Cascade|-|8|19|0|Cascade management tracking|||0.00|0.00|8000.00|8000.00|Case|400|||||20.00||||
+1|YMSM-Cascade|-|8|19|1|Cascade management tracking||||||0.00|Case|0|||||0.00|20170228|ymsm-cascade|20170228|ymsm-cascade
+1|YMSM-Cascade|-|8|20|1|Upload content and questionnaires on web||||||20000.00|Annual|||||||20170228|ymsm-cascade|20170228|ymsm-cascade
+1|YMSM-Cascade|-|8|20|2|Upload content and questionnaires on web||||||0.00|Annual|||||||20170608||20170608|
+1|YMSM-Cascade|-|8|21|1|Develop web page and chat room, update website and promote web through link building||||||250000.00|Time|4|||||62500.00|20170228|ymsm-cascade|20170228|ymsm-cascade
+1|YMSM-Cascade|-|8|21|2|Develop web page and chat room, update website and promote web through link building||||||206000.00|Time|4|||||51500.00|20170608||20170608|
+1|YMSM-Cascade|-|8|22|2|Training on Motivational Interview|for hospital start|||||2000.00|Time|1|5.00|2.00|200.00|0.00|0.00|20170608||20170608|
+1|YMSM-Cascade|-|8|22|3|Training on Motivational Interview|for hospital start|||||12000.00|Time|1|10.00|2.00|600.00|0.00|0.00|20170613|ymsm-cascade|20170613|ymsm-cascade
+2|YMSM-Cascade|BATS|1|1|0|BATS: Project assistant, SRR, Ms. Sirijit Kanakool|Full time equivalent||0.00|0.00|89700.00|89700.00|Person|1|100.00|3.00|29900.00|||20170405||20171120|
+2|YMSM-Cascade|BATS|1|2|0|BATS: Project assistant, BATS, Ms. Panida Nathanom|Full time equivalent||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170405||20171120|
+2|YMSM-Cascade|BATS|1|3|0|BATS: Compensation for 2 hospital staff|(SRR, Ms. Suchada+Ms. Ladda) and 1 Government staff (BATS, Ms. Jeeratikran)||0.00|0.00|21420.00|21420.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|BATS|1|4|0|BATS: Overtime for project staff (Ms. Yuitiang)|$2.06/hr x 49 hr x 3 months||0.00|0.00|10290.00|10290.00|Annual|||||||20170906||20171120|
+2|YMSM-Cascade|BATS|2|1|0|BATS: Project assistant, SRR, Ms. Sirijit Kanakool|3 months employed at BATs||0.00|0.00|2250.00|2250.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|BATS|2|2|0|BATS: Project assistant, BATs, Ms. Panida Nathanom|||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170405||20171120|
+2|YMSM-Cascade|BATS|2|3|0|BATS: Annual medical check-up for FTE| Ms.Panida($58.82 x 1 persons)||0.00|0.00|2000.00|2000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|BATS|3|1|0|BATS: Transportation: Taxi, gas|For project staff and participants||0.00|0.00|9000.00|9000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|BATS|4|1|0|BATS: Computer laptop to support financial job of YMSM-Cascade project|For BATS||0.00|0.00|25000.00|25000.00|Set|1|25000.00|||||20170405||20171120|
+2|YMSM-Cascade|BATS|4|2|0|BATS: Printer to support financial job of YMSM-Cascade project|For BATS||0.00|0.00|6000.00|6000.00|Set|1|6000.00|||||20170405||20171120|
+2|YMSM-Cascade|BATS|5|1|0|BATS: General office supplies|FOR BATS||0.00|0.00|5000.00|5000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|BATS|8|1|0|BATS: YMSM/TG Consortium meeting hosted by BATS|Every 4 months||0.00|0.00|225000.00|225000.00|Time|3|30.00|1.00|2000.00|0.00|15000.00|20170405||20171120|
+2|YMSM-Cascade|BATS|8|2|0|BATS: Protocol submission(YMSM-Cascade) and continuation fee  (CARE-YOUTH)|For EC-SRR||0.00|0.00|12000.00|12000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|BATS|8|3|0|BATS : Communication expense|||0.00|0.00|12000.00|12000.00|Month|6|||||2000.00|20170405||20171120|
+2|YMSM-Cascade|BATS|8|4|0|BATS:Photocopy, meeting document, meeting facilities|For  BATS||0.00|0.00|4000.00|4000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|BATS|8|5|0|BATS : Conduct long-term follow up with youths to evaluate outcome of comprehensive positive youth program (Y2-3)|||0.00|0.00|80000.00|80000.00|Time|2|80.00|1.00|500.00|0.00|0.00|20170405||20171120|
+2|YMSM-Cascade|BATS|8|6|0|BATS: Develop web page and chat room, update website and promote web through link building|Develop web page||82400.00|0.00|0.00|82400.00|Annual|||||||20171012||20171120|
+2|YMSM-Cascade|BATS|8|7|0|BATS: Exchange rate management|To support depreciation from exchange rate fluctuation||0.00|86225.76|0.00|86225.76|Annual|||||||20170912||20171120|
+2|YMSM-Cascade|SRR|1|1|0|SRR : Project assistant,  Ms. Sirijit Kanakool|Full time equivalent||0.00|0.00|269100.00|269100.00|Person|1|100.00|9.00|29900.00|||20170405||20171120|
+2|YMSM-Cascade|SRR|1|2|0|SRR : Compensation for 2 hospital staff|(SRR, Ms. Suchada+Ms. Ladda) and 1 Government staff (BATS, Ms. Jeeratikran)||0.00|0.00|51660.00|51660.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|SRR|1|3|0|SRR : Overtime for project staff (Ms. Yuitiang)|$2.06/hr x 49 hr x 9 months||0.00|0.00|30870.00|30870.00|Annual|||||||20170906||20171120|
+2|YMSM-Cascade|SRR|2|1|0|SRR : Project assistant, SRR, Ms. Sirijit Kanakool|9 months employed at SRR||0.00|0.00|6750.00|6750.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|SRR|2|2|0|SRR : Annual medical check-up for FTE|Ms. Sirijit ($58.82 x 1 persons)||0.00|0.00|2000.00|2000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|SRR|3|1|0|SRR : Transportation: Taxi, gas|For project staff and participants||0.00|0.00|9000.00|9000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|SRR|5|1|0|SRR : General office supplies|For SRR||0.00|0.00|16360.00|16360.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|SRR|8|1|0|SRR: Advisory group meeting to develop and monitor YMSM-Casacde program|||0.00|0.00|96000.00|96000.00|Time|6|15.00|1.00|1000.00|0.00|1000.00|20170405||20170906|
+2|YMSM-Cascade|SRR|8|2|0|SRR: Working group meeting to develop and implement YMSM-Cascade program|||0.00|0.00|42000.00|42000.00|Time|6|10.00|1.00|600.00|0.00|1000.00|20170405||20170906|
+2|YMSM-Cascade|SRR|8|3|0|SRR : Communication expense|||0.00|0.00|12000.00|12000.00|Month|6|||||2000.00|20170405||20171120|
+2|YMSM-Cascade|SRR|8|4|0|SRR : Photocopy, meeting document, meeting facilities|For SRR||0.00|0.00|4000.00|4000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|SRR|8|5|0|SRR: Cleaning service fee|For site office (SRR)||0.00|0.00|9600.00|9600.00|Month|12|||||800.00|20170405||20171120|
+2|YMSM-Cascade|SRR|8|6|0|SRR: Cascade management tracking|400 case x 20||0.00|0.00|8000.00|8000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|SRR|8|7|0|SRR :YMSM web maintenance (YMSM/TG)|For www.ym2m.lovecarestation.com||0.00|0.00|120000.00|120000.00|Annual|||||||20170405||20171120|
+2|YMSM-Cascade|SRR|8|8|0|SRR: Syphilis testing and service for YMSM/TG|||0.00|0.00|30000.00|30000.00|Case|300|||||100.00|20170405||20171120|
+2|YMSM-Cascade|SRR|8|9|0|SRR: Laboratory screening for HIV+ YMSM/TG|||0.00|0.00|80000.00|80000.00|Case|40|||||2000.00|20170405||20171120|
+2|YMSM-Cascade|SRR|8|10|0|SRR : Chat online moderator service|For 2-3 volunteers in chat room||0.00|0.00|72000.00|72000.00|Month|12|||||6000.00|20170405||20171120|
+2|YMSM-Cascade|SRR|8|11|0|SRR-PIF: Training on chatroom online for project staff and on call staff|For participants||0.00|0.00|18000.00|18000.00|Time|1|25.00|1.00|600.00|0.00|3000.00|20170405||20171120|
+2|YMSM-Cascade|SRR|8|12|0|SRR-PIF: Training on chatroom online for project staff and on call staff|For resource person||0.00|0.00|14400.00|14400.00|Time|1|2.00|1.00|7200.00|0.00|0.00|20170405||20171120|
+2|YMSM-Cascade|SRR|8|13|0|SRR-PIF: Chat online service for on call staff|For on call staff||0.00|0.00|86400.00|86400.00|Month|12|||||7200.00|20170405||20171120|
+2|YMSM-Cascade|SRR|8|14|0|SRR-PIF: Reach and recruit activities to promote VCT for YMSM/TG|For SRR and P2H (vocational school and youth detention center)||0.00|0.00|65600.00|65600.00|Time|4|20.00|1.00|600.00|0.00|4400.00|20170405||20171120|
+2|YMSM-Cascade|SRR|8|15|0|SRR-PIF: Lab and testing service|HIV-testing (same day result) + Syphilis testing||0.00|0.00|180000.00|180000.00|Case|300|||||600.00|20170405||20171120|
+2|YMSM-Cascade|SRR|8|16|0|SRR-PIF: PrEP package for YMSM/TG|For YMSM/TG||0.00|0.00|360000.00|360000.00|Annual|||||||20170906||20171120|
+2|YMSM-Cascade|SRR|8|17|0|SRR-PIF: YMSM Tools and materials|Digital outreach e.g. poster, brochure, back drop, flip chart and etc.||0.00|0.00|40000.00|40000.00|Annual|||||||20170906||20171120|
+2|YMSM-Cascade|SRR|8|18|0|PIF: YMSM promotion, media PR/marketing|Digital outreach||0.00|0.00|204600.00|204600.00|Annual|||||||20170907||20171120|
+2|YMSM-Cascade|SRR|8|19|0|RST: Conduct baseline interview for young MSM/TG|For HIV+ YMSM/TG (Happy Em program)||0.00|0.00|20000.00|20000.00|Time|1|40.00|1.00|500.00|0.00|0.00|20170908||20171120|
+2|YMSM-Cascade|SRR|8|20|0|SRR: Quality improvement activities|HIV cascade data collection and data entry||150000.00|0.00|0.00|150000.00|Annual|||||||20171012||20171120|
+2|YMSM-Cascade|SRR|8|21|0|SRR: YMSM promotion, media PR/marketing|cost of promotion and PR||172131.92|10768.08|0.00|182900.00|Annual|||||||20171012||20171120|

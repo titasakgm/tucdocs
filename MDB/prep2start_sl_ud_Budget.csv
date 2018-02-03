@@ -1,0 +1,20 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+2|PrEP2START-SL|UD|1|1|0|UD: Fulltime for project assistant : Ms.Wilailak Somsean|Admin and coordinate Udon Thani site||0.00|0.00|248040.00|248040.00|Person|1|100.00|12.00|20670.00|||20170317||20171113|
+2|PrEP2START-SL|UD|1|2|0|UD: Overtime for fulltime staff|Ms.Wilailak Somsean||0.00|0.00|20000.00|20000.00|Annual|||||||20170317||20171113|
+2|PrEP2START-SL|UD|1|3|0|UD: Compensation for government staffs (Management team: project and VCT data management, etc.)|Ms.Sirilak, Mr.Prachuab, and Mrs.Petcharee||0.00|0.00|72000.00|72000.00|Annual|||||||20170317||20171113|
+2|PrEP2START-SL|UD|1|4|0|UD: Case Manager|(TBD)||0.00|0.00|126000.00|126000.00|Person|1|100.00|12.00|10500.00|||20170317||20171113|
+2|PrEP2START-SL|UD|2|1|0|UD: Fulltime project assistant: Ms.Wilailak S.|||0.00|0.00|9000.00|9000.00|Person|1|248040.00|5.00||||20170317||20171113|
+2|PrEP2START-SL|UD|2|2|0|UD: Case Manager: (TBD)|||0.00|0.00|6300.00|6300.00|Person|1|126000.00|5.00||||20170317||20171113|
+2|PrEP2START-SL|UD|3|1|0|UD: Transportation for management and field works|Gas, rental, taxi, etc.||31.98|0.00|20000.00|20031.98|Annual|||||||20170324||20171113|
+2|PrEP2START-SL|UD|3|2|0|UD:Non-local resource persons for technical workshop/training|||48000.00|0.00|-0.00|48000.00|Time|2|2.00|2.00|2000.00|8000.00|0.00|20171113||20171113|
+2|PrEP2START-SL|UD|5|1|0|UD: Office supplies|||0.00|0.00|24000.00|24000.00|Months|12|2000.00|||||20170317||20171113|
+2|PrEP2START-SL|UD|8|1|0|UD: Technical team meeting|||0.00|0.00|35200.00|35200.00|Time|4|11.00|1.00|600.00|200.00|0.00|20170317||20171113|
+2|PrEP2START-SL|UD|8|2|0|UD: Provincial level team meeting|||0.00|0.00|80000.00|80000.00|Time|4|25.00|1.00|600.00|200.00|0.00|20170317||20171113|
+2|PrEP2START-SL|UD|8|3|0|UD: PrEP Peer educator workshop/meeting|||10000.00|0.00|23600.00|33600.00|Time|1|40.00|1.00|600.00|200.00|1600.00|20170317||20171113|
+2|PrEP2START-SL|UD|8|4|0|UD: Group activities to promote VCT/PrEP/Test and start|||0.00|0.00|60000.00|60000.00|Time|10|20.00|1.00|300.00|0.00|0.00|20170317||20171113|
+2|PrEP2START-SL|UD|8|5|0|UD: Fieldwork for mobile VCT|||0.00|0.00|37200.00|37200.00|Time|10|6.00|1.00|600.00|0.00|120.00|20170317||20171113|
+2|PrEP2START-SL|UD|8|6|0|UD: Communcation cost|||0.00|0.00|24000.00|24000.00|Month|12|||||2000.00|20170317||20171113|
+2|PrEP2START-SL|UD|8|7|0|UD-Care: Incentive for referring HIV positives from mobile VCT to treatment|||0.00|0.00|10000.00|10000.00|Persons|50|||||200.00|20170317||20171113|
+2|PrEP2START-SL|UD|8|8|0|UD-Care: Monitoring at site (ARV)|||0.00|0.00|61200.00|61200.00|Time|6|15.00|1.00|600.00|0.00|1200.00|20170324||20171113|
+2|PrEP2START-SL|UD|8|9|0|UD-Care-PN&PT: Incentive for transportation cost|||0.00|0.00|10000.00|10000.00|Persons|50|||||200.00|20170912||20171113|
+2|PrEP2START-SL|UD|8|10|0|UD:Local-resource persons for technical workshop/training|||14200.00|0.00|-0.00|14200.00|Time|2|3.00|1.00|2000.00|300.00|200.00|20171113||20171113|

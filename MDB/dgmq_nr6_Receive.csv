@@ -1,0 +1,4 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGMQ-NR6|-|20161012|2|3301.88|34.8300|115004.56||10172110,2140|รับเงินโอนงวดที่ 1 (112,264.00 # 10172110) (2,740.56 #10172140 Gain)|20170207|dgmq-nr6|20170207|dgmq-nr6
+1|DGMQ-NR6|-|20161228|1|3681.12|35.7600|131636.77||10172196|รับเงินโอนงวดที่ 2|20170207|dgmq-nr6|20170207|dgmq-nr6
+1|DGMQ-NR6|-|20170428|2|2000.00|34.2788|68557.60||10181859|รับโอนเงินงวดที่ 3|20170622|dgmq-nr6|20170623|dgmq-nr6

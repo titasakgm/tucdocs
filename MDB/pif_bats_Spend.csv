@@ -1,0 +1,124 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|PIF|BATS|1|1|3|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170428|16050.00|10209161||||||เงินเดือน04/60 เริ่ม3-30|20170518|PIF|20170518|PIF
+1|PIF|BATS|1|1|5|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170531|17250.00|10209167||||||เงินเดือน05/60|20170606|PIF|20170606|PIF
+1|PIF|BATS|1|1|6|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170531|750.00|10209169||||||สปส.ส่วนของลูกจ้าง|20170606|PIF|20170606|PIF
+1|PIF|BATS|1|1|7|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170428|750.00|10209162||||||สปส.04/60ส่วนของลูกจ้าง|20170518|PIF|20170606|PIF
+1|PIF|BATS|1|1|8|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170630|17250.00|10215703||||||เงินเดือน06/60|20170703|pif|20170703|pif
+1|PIF|BATS|1|1|9|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170630|750.00|10215705||||||สปส.ส่วนของลูกจ้าง|20170703|pif|20170703|pif
+1|PIF|BATS|1|1|11|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170731|16650.00|10215722||||||เงินเดือน ก.ค. 60|20170829|pif|20170829|pif
+1|PIF|BATS|1|1|14|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170731|750.00|10215724||||||สปส.ของลูกจ้าง เดือน กค. 60|20170830|pif|20170830|pif
+1|PIF|BATS|1|1|17|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170831|750.00|10215739||||||สปส. เดือนส.ค.60|20170908||20170908|
+1|PIF|BATS|1|1|18|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170831|4000.00|10215751||||||ค่าจ้างเงินตกเบิก ตั้งแต่วันที่ 1 กรกฎาคม 2560 ถึงวันที่ 31 สิงหาคม 2560 นายทัชชกร  ประสานวรกิจกุล|20170908||20170908|
+1|PIF|BATS|1|1|20|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170831|17250.00|10215737||||||เงินเดือน ส.ค.60|20170908||20170908|
+1|PIF|BATS|1|2|4|BKK: Project coordinator Miss.Orathai khanngoen|20170428|7410.00|10209163||||||เงินเดือน04/60 เริ่ม18-30|20170518|PIF|20170518|PIF
+1|PIF|BATS|1|2|7|BKK: Project coordinator Miss.Orathai khanngoen|20170531|17250.00|10209168||||||เงินเดือน05/60|20170606|PIF|20170606|PIF
+1|PIF|BATS|1|2|8|BKK: Project coordinator Miss.Orathai khanngoen|20170531|750.00|10209169||||||สปส.ส่วนของลูกจ้าง|20170606|PIF|20170606|PIF
+1|PIF|BATS|1|2|9|BKK: Project coordinator Miss.Orathai khanngoen|20170428|390.00|10209164||||||สปส.04/60 ส่วนของลูกจ้าง|20170518|PIF|20170606|PIF
+1|PIF|BATS|1|2|10|BKK: Project coordinator Miss.Orathai khanngoen|20170630|16650.00|10215704||||||เงินเดือน06/60|20170703|pif|20170703|pif
+1|PIF|BATS|1|2|11|BKK: Project coordinator Miss.Orathai khanngoen|20170630|750.00|10215705||||||สปส.ของลูกจ้าง|20170703|pif|20170703|pif
+1|PIF|BATS|1|2|13|BKK: Project coordinator Miss.Orathai khanngoen|20170731|16650.00|10215723||||||เงินเดือน ก.ค. 60|20170830|pif|20170830|pif
+1|PIF|BATS|1|2|14|BKK: Project coordinator Miss.Orathai khanngoen|20170731|750.00|10215724||||||สปส.ของลูกจ้าง เดือน กค. 60|20170830|pif|20170831|pif
+1|PIF|BATS|1|2|16|BKK: Project coordinator Miss.Orathai khanngoen|20170831|750.00|10215739||||||สปส. เดือนส.ค.60 จ้างน.ส.อภิฤดี ศรีวิรัช แทน|20170908||20170908|
+1|PIF|BATS|1|2|17|BKK: Project coordinator Miss.Orathai khanngoen|20170831|17250.00|10215738||||||เงินเดือน ส.ค.60 จ้างน.ส.อภิฤดี ศรีวิรัช แทน|20170908||20170908|
+1|PIF|BATS|1|7|2|KR: Nurse Miss Benjamas Rangklang|20170713|100000.00|10215713||||||เงินเดือนพยาบาล จ.นครราชสีมา #10215713|20170829|pif|20170908|pif
+1|PIF|BATS|1|16|2|Center: Compensation for government staff Pensri , Chaisuk , Sirilak , Rawiporn|20170724|8550.00|10215716||||||ค่าตอบแทน นายชัยสุข ตั้งวงศ์จุลเนียม เดือน เมย-มิย. 60|20170829|pif|20170829|pif
+1|PIF|BATS|1|16|8|Center: Compensation for government staff Pensri , Chaisuk , Sirilak , Rawiporn|20170724|8550.00|10215717||||||ค่าตอบแทน นางสาวศิริลักษณ์ กองพลี เดือน เมย-มิย. 60|20170829|pif|20170829|pif
+1|PIF|BATS|1|16|9|Center: Compensation for government staff Pensri , Chaisuk , Sirilak , Rawiporn|20170724|8550.00|10215718||||||ค่าตอบแทน นางสาวรวิพร เสาร์อินทร์ เดือน เมย-มิย. 60|20170829|pif|20170829|pif
+1|PIF|BATS|1|16|11|Center: Compensation for government staff Pensri , Chaisuk , Sirilak , Rawiporn|20170804|450.00|10215721||||||กรมสรรพากร ภาษีค่าตอบแทน นายชัยสุข ตั้งวงศ์จุลเนียม เดือน เมย-มิย. 60|20170908|pif|20170908|pif
+1|PIF|BATS|1|16|13|Center: Compensation for government staff Pensri , Chaisuk , Sirilak , Rawiporn|20170804|450.00|10215721||||||กรมสรรพากร ภาษีค่าตอบแทน นางสาวศิริลักษณ์ กองพลี เดือน เมย-มิย. 60|20170908|pif|20170908|pif
+1|PIF|BATS|1|16|15|Center: Compensation for government staff Pensri , Chaisuk , Sirilak , Rawiporn|20170804|450.00|10215721||||||กรมสรรพากร ภาษีค่าตอบแทน นางสาวรวิพร เสาร์อินทร์ เดือน เมย-มิย. 60|20170908|pif|20170908|pif
+1|PIF|BATS|1|16|16|Center: Compensation for government staff Pensri , Chaisuk , Sirilak , Rawiporn|20170829|5700.00|10215743||||||ค่าตอบแทน นายชัยสุข  ตั้งวงศ์จุลเนียม เดือน ก.ค.-ส.ค.60|20170908||20170908|
+1|PIF|BATS|1|16|18|Center: Compensation for government staff Pensri , Chaisuk , Sirilak , Rawiporn|20170829|5700.00|10215744||||||ค่าตอบแทน นางสาวศิริลักษณ์  กองพลี เดือน ก.ค.-ส.ค.60|20170908||20170908|
+1|PIF|BATS|1|16|20|Center: Compensation for government staff Pensri , Chaisuk , Sirilak , Rawiporn|20170829|5700.00|10215745||||||ค่าตอบแทน นางสาวรวิพร  เสาร์อินทร์ เดือน ก.ค.-ส.ค.60|20170908||20170908|
+1|PIF|BATS|1|16|22|Center: Compensation for government staff Pensri , Chaisuk , Sirilak , Rawiporn|20170831|300.00|10215748||||||ภาษี ค่าตอบแทน นายชัยสุข  ตั้งวงศ์จุลเนียม เดือน ก.ค.-ส.ค.60|20170908||20170908|
+1|PIF|BATS|1|16|24|Center: Compensation for government staff Pensri , Chaisuk , Sirilak , Rawiporn|20170831|300.00|10215748||||||ภาษี ค่าตอบแทน นางสาวศิริลักษณ์  กองพลี เดือน ก.ค.-ส.ค.60|20170908||20170908|
+1|PIF|BATS|1|16|26|Center: Compensation for government staff Pensri , Chaisuk , Sirilak , Rawiporn|20170831|300.00|10215748||||||ภาษี ค่าตอบแทน นางสาวรวิพร  เสาร์อินทร์ เดือน ก.ค.-ส.ค.60|20170908||20170908|
+1|PIF|BATS|1|17|4|BKK: Compensation for government staff Patcharanut , Kunrachut|20170724|5700.00|10215719||||||ค่าตอบแทนนางพัชรณัฏฐ์ เกิดสวัสดิ์ เดือน เมย-มิย. 60|20170829|pif|20170829|pif
+1|PIF|BATS|1|17|5|BKK: Compensation for government staff Patcharanut , Kunrachut|20170724|5700.00|10215720||||||ค่าตอบแทนนางกุลฉัตร รวมธรรม เดือน เมย-มิย. 60|20170829|pif|20170829|pif
+1|PIF|BATS|1|17|7|BKK: Compensation for government staff Patcharanut , Kunrachut|20170804|300.00|10215721||||||กรมสรรพากร ภาษีค่าตอบแทนนางพัชรณัฏฐ์ เกิดสวัสดิ์ เดือน เมย-มิย. 60|20170908|pif|20170908|pif
+1|PIF|BATS|1|17|9|BKK: Compensation for government staff Patcharanut , Kunrachut|20170804|300.00|10215721||||||กรมสรรพากร ภาษีค่าตอบแทนนางกุลฉัตร รวมธรรม เดือน เมย-มิย. 60|20170908|pif|20170908|pif
+1|PIF|BATS|1|17|11|BKK: Compensation for government staff Patcharanut , Kunrachut|20170829|3800.00|10215746||||||ค่าตอบแทน นางพัชรณัฎฐ์  เกิดสวัสดิ์ เดือน ก.ค.-ส.ค.60|20170908||20170908|
+1|PIF|BATS|1|17|13|BKK: Compensation for government staff Patcharanut , Kunrachut|20170829|3800.00|10215747||||||ค่าตอบแทน นางกุลฉัตร  รวมธรรม เดือน ก.ค.-ส.ค.60|20170908||20170908|
+1|PIF|BATS|1|17|15|BKK: Compensation for government staff Patcharanut , Kunrachut|20170831|200.00|10215748||||||ภาษี ค่าตอบแทน นางพัชรณัฎฐ์  เกิดสวัสดิ์ เดือน ก.ค.-ส.ค.60|20170908||20170908|
+1|PIF|BATS|1|17|17|BKK: Compensation for government staff Patcharanut , Kunrachut|20170831|200.00|10215748||||||ภาษี ค่าตอบแทน นางกุลฉัตร  รวมธรรม เดือน ก.ค.-ส.ค.60|20170908||20170908|
+1|PIF|BATS|2|1|4|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170428|750.00|10209162||||||สปส.ส่วนของนายจ้าง04/60|20170518|PIF|20170606|PIF
+1|PIF|BATS|2|1|5|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170531|750.00|10209169||||||สปส.ส่วนของนายจ้าง 05/60|20170606|PIF|20170606|PIF
+1|PIF|BATS|2|1|6|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170630|750.00|10215705||||||สปส.ส่วนของนายจ้าง 06/60|20170703|pif|20170703|pif
+1|PIF|BATS|2|1|8|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170731|750.00|10215724||||||สปส.ส่วนของนายจ้าง เดือน ก.ค. 60|20170830|pif|20170830|pif
+1|PIF|BATS|2|1|9|Central: Project coordinator Mr:Tatchakorn Prasanworakitkun|20170831|750.00|10215739||||||สปส.ส่วนของนายจ้าง เดือนส.ค.60|20170908||20170908|
+1|PIF|BATS|2|2|4|BKK: Project coordinator Miss.Orathai khanngoen|20170428|390.00|10209164||||||สปส.ส่วนของนายจ้าง04/60|20170518|PIF|20170606|PIF
+1|PIF|BATS|2|2|5|BKK: Project coordinator Miss.Orathai khanngoen|20170531|750.00|10209169||||||สปส.ส่วนของนายจ้าง 05/60|20170606|PIF|20170606|PIF
+1|PIF|BATS|2|2|6|BKK: Project coordinator Miss.Orathai khanngoen|20170630|750.00|10215705||||||สปส.ส่วนของนายจ้าง 06/60|20170703|pif|20170703|pif
+1|PIF|BATS|2|2|8|BKK: Project coordinator Miss.Orathai khanngoen|20170731|750.00|10215724||||||สปส.ส่วนของนายจ้าง เดือน ก.ค. 60|20170830|pif|20170830|pif
+1|PIF|BATS|2|2|12|BKK: Project coordinator Miss.Orathai khanngoen|20170831|750.00|10215739||||||สปส.ส่วนของนายจ้าง เดือนส.ค.60 จ้างน.ส.อภิฤดี ศรีวิรัช แทน|20170908||20170908|
+1|PIF|BATS|2|7|3|KR: Nurse Miss Benjamas Rangklang|20170713|3750.00|10215713||||||สปส.ของนายจ้าง จ.นครราชสีมา เดือน กค. 60 #10215713|20170830|pif|20170908|pif
+1|PIF|BATS|2|16|7|Annual medical check up for 15 staff (59 USD x 15 staff)|20170713|2000.00|10215713||||||ค่าตรวจสุขภาพ  จ.นครราชสีมา #10215713|20170830|pif|20170908|pif
+1|PIF|BATS|3|2|3|Central: Stigma & discrimination workshop |20170616|170000.00|10209177||||||จัดประชุมวันที่ 22-23 มิย.60 ที่เชียงราย|20170830|pif|20170831|pif
+1|PIF|BATS|3|3|3|Central: Site monitoring & coaching by central/regional coaching team |20170712|40000.00|10215711|20170720|-6910.00|cash|||จัดประชุม จ.อุดรธานี ในวันที่ 13-14 กค. 60 เงินยืม นส.นภากานต์ คนซื่อ|20170831|pif|20170831|pif
+1|PIF|BATS|3|3|4|Central: Site monitoring & coaching by central/regional coaching team |20170828|40000.00|10215741|20170831|-7100.00|cash|||ยืมเงิน นางสาวนภกานต์ คนซื่อ (บย.17/60) *หมายเหตุ คืนเงินวันที่ 4 ก.ย.60|20170908||20170908|
+1|PIF|BATS|3|6|1|Differentiated care workshop (PIF CDC28) (UB and other provincial) |20170711|32450.00|10215706||||||จัดประชุม จ.อุบลราชธานี ในวันที่ 17 ก.ค. 60 บย.6/60|20170830|pif|20170830|pif
+1|PIF|BATS|3|8|3|Meeting PCM By NAMC |20170529|31250.00|10209171||||||เงินยืมรวิพร จัดประชุมวันที่30/5/60ใสในหมวด8 จำนวน10,760|20170621||20170921|pif
+1|PIF|BATS|3|9|3|Meeting CBO 2018 by BATs |20170529|58086.00|10209166||||||เงินยืมศิริลักษณ์ 108,000 จัดประชุมวันที่31/05/60|20170621||20170921|pif
+1|PIF|BATS|3|10|1|site monitoring  & coaching by central/regional coaching team |20170630|36880.00|10209180||||||จัดประชุม จ.ขอนแก่น และ จ.อุดรธานี ในวันที่ 4-7 ก.ค. 60 เงินยืมนางสาวศิริลักษณ์ บย.5/60|20170830|pif|20170830|pif
+1|PIF|BATS|3|10|2|site monitoring  & coaching by central/regional coaching team |20170714|18950.00|10215715||||||จัดประชุมหารือฯ จ.นครราชสีมา ในวันที่ 17-18 ก.ค.60 เงินยืมนายชัยสุข ตั้งวงศ์จุลเนียม|20170831|pif|20170831|pif
+1|PIF|BATS|3|10|4|site monitoring  & coaching by central/regional coaching team |20170725|33210.00|10215725||||||คชจ.ในการจัดประชุมวันที่ 26-27 ก.ค. 60 เงินยืม นส.ศิริลักษณ์ กองพลี  #10215725|20170908|pif|20170908|pif
+1|PIF|BATS|3|10|9|site monitoring  & coaching by central/regional coaching team |20170815|6440.00|10215731||||||เบิก-จ่ายเงินเพิ่ม คชจ.ในการเดินทางไปราชการในวันที่ 31 ก.ค. - 1 ส.ค. 60 เงินยืม นส.วรรณรัตน์ มากำเนิด|20170908|pif|20170908|pif
+1|PIF|BATS|3|10|10|site monitoring  & coaching by central/regional coaching team |20170727|27600.00|10215726||||||คชจ.ในการเดินทางไปราชการในวันที่ 31 ก.ค. - 1 ส.ค. 60 เงินยืม นส.วรรณรัตน์ มากำเนิด #10215726|20170908|pif|20170908|pif
+1|PIF|BATS|3|11|3|Stigma & discrimination workshop to prepare for 2018 |20170817|8080.00|10215734||||||ยืมเงิน นางสาวศรัญญา สุขอ่ำ (บย.14/60) *หมายเหตุ คืนเงิน 1 ก.ย.60|20170908||20170908|
+1|PIF|BATS|3|11|5|Stigma & discrimination workshop to prepare for 2018 |20170818|316292.25|10215736||||||ยืมเงิน นางสาวปาริชาติ จันทร์จรัส (บย.15/60) *หมายเหตุ Other 8,710 บ.แต่นำไปไว้ใน Travel 710 บ. เนื่องจากเงินไม่พอ เพราสิ้นสุดปีงบประมาณ 31 ส.ค. 60 ไม่สามารถปรับแผนได้|20170908||20170908|
+1|PIF|BATS|3|11|6|Stigma & discrimination workshop to prepare for 2018 |20170824|12200.00|10215740|20170831|-4670.00|cash|||ยืมเงิน นางสาวศิริลักษณ์  กองพลี (บย.16/60) *หมายเหตุ คืนเงินวันที่ 1 ก.ย.60|20170908||20170908|
+1|PIF|BATS|5|1|4|Center: Office supplies To support  GF transition activities|20170725|9306.00|10215728||||||ค่าวัสดุสำนักงาน ศบจอ. ร้านจิตตการ|20170831|pif|20170831|pif
+1|PIF|BATS|5|1|5|Center: Office supplies To support  GF transition activities|20170713|5247.00|10215707||||||ค่าหมึกเครื่องพิมพ์ Phaser ร้านเจริญร่งเรืองพานิช|20170831|pif|20170908|pif
+1|PIF|BATS|5|1|6|Center: Office supplies To support  GF transition activities|20170804|53.00|10215708||||||กรมสรรพากร (ภาษี ค่าหมึกเครื่องพิมพ์ PHASER)|20170908|pif|20170908|pif
+1|PIF|BATS|5|1|7|Center: Office supplies To support  GF transition activities|20170804|94.00|10215729||||||กรมสรรพากร (ภาษี ค่าวัสดุ ร้านจิตตการ)|20170908|pif|20170908|pif
+1|PIF|BATS|5|2|5|BKK: Office supplies To support  GF transition activities|20170612|10000.00|10209172||||||ค่าวัสดุสำนักงานของกทม.#10209172|20170627||20170908|pif
+1|PIF|BATS|5|3|8|NTB: Office supplies To support  GF transition activities|20170612|10000.00|10209175|20170831|-50.00|cash|||ค่าวัสดุสำนักงานของนนทบุรี#10209175 หมายเหตุ : คืนจริง 26 ก.ย.60 #10233542|20170627||20170927|pif
+1|PIF|BATS|5|4|8|PTN: Office supplies To support  GF transition activities|20170612|10000.00|10209176||||||ค่าวัสดุสำนักงานของปทุมธานี#10209176|20170627||20170927|pif
+1|PIF|BATS|5|5|6|CNB: Office supplies To support  GF transition activities|20170612|10000.00|10209174||||||ค่าวัสดุสำนักงานของชลบุรี#10209174|20170621|PIF|20170908|pif
+1|PIF|BATS|5|7|2|KR: Office supplies To support  GF transition activities|20170713|10000.00|10215713||||||ค่าวัสดุสำนักงาน จ.นครราชสีมา #10215713|20170831|pif|20170908|pif
+1|PIF|BATS|5|8|2|KK: Office supplies To support  GF transition activities|20170630|10000.00|10215701||||||ค่าวัสดุสำนักงานของขอินแก่น#10215701|20170703|pif|20170908|pif
+1|PIF|BATS|5|9|5|UD: Office supplies To support  GF transition activities|20170612|10000.00|10209173||||||ค่าวัสดุสำนักงานของอุดรธาณี#10209173|20170621|PIF|20170908|pif
+1|PIF|BATS|5|10|4|UB: Office supplies To support  GF transition activities|20170713|10000.00|10215712||||||ค่าวัสดุสำนักงาน จ.อุบลราชธานี #10215712|20170831|pif|20170908|pif
+1|PIF|BATS|5|12|2|CR: Office supplies To support  GF transition activities|20170630|10000.00|10215702||||||ค่าวัสดุสำนักงานของเชียงราย#10215702|20170703|pif|20170908|pif
+1|PIF|BATS|5|14|3|SKL: Office supplies To support  GF transition activities|20170713|10000.00|10215714||||||ค่าวัสดุสำนักงาน จ.สงขลา  #10215714|20170831|pif|20170908|pif
+1|PIF|BATS|5|15|1|Rapid test supply for same day HIV test result |20170831|151250.12|10215752||||||ค่าวัสดุวิทยาศาสตร์ จ่ายบริษัท เอ็มพี เมดกรุ๊ป จำกัด|20170908||20170908|
+1|PIF|BATS|5|15|2|Rapid test supply for same day HIV test result |20170831|1426.88|10215753||||||กรมสรรพากร (ภาษี ค่าวัสดุวิทยาศาสตร์ บริษัท เอ็มพี เมดกรุ๊ป จำกัด)|20170908||20170908|
+1|PIF|BATS|5|15|3|Rapid test supply for same day HIV test result |20170831|457682.25|10215754||||||ค่าวัสดุวิทยาศาสตร์ จ่ายบริษัท อาร์เอ็กซ์ จำกัด|20170908||20170908|
+1|PIF|BATS|5|15|4|Rapid test supply for same day HIV test result |20170831|4317.75|10215755||||||กรมสรรพากร (ภาษี ค่าวัสดุวิทยาศาสตร์ บริษัท อาร์เอ็กซ์ จำกัด)|20170908||20170908|
+1|PIF|BATS|5|15|5|Rapid test supply for same day HIV test result |20170831|153960.00|10215756||||||ค่าวัสดุวิทยาศาสตร์ จ่ายบริษัท ไอเมด ลาบอราทอรี่ จำกัด|20170908||20170908|
+1|PIF|BATS|8|5|1|Communication cost |20170526|2400.00|10209170||||||ค่าบัตรเติมเงิน05/60|20170606|PIF|20170606|PIF
+1|PIF|BATS|8|5|2|Communication cost |20170620|2400.00|10209178||||||ค่าบัตรเติมเงินเดือน06/60|20170621|PIF|20170621|PIF
+1|PIF|BATS|8|5|5|Communication cost |20170712|2400.00|10215710||||||ค่าบัตรโทรศัพท์เติมเงินเดือนกรกฏาคม 2560 #นส.ศิริลักษณ์ กองพลี|20170831|pif|20170831|pif
+1|PIF|BATS|8|5|6|Communication cost |20170829|2400.00|10215742||||||ค่าจัดซื้อบัตรเติมเงินสำหรับโทรศัพท์เคลื่อนที่ ประจำเดือนสิงหาคม 2560|20170908||20170908|
+1|PIF|BATS|8|7|12|Quarterly Working Group Meeting (HMIS,Accreditation,RRTTR) 3 working Group x 2 time/years (PIF-CDC17, PIF|20170428|18000.00|10209165|20170505|-6680.00|cash|||จัดประชุมในวันที่1/05/2017    ยอดที่ใช้จริง คืนยอดที่ใช้จริง|20170606|PIF|20170607|PIF
+1|PIF|BATS|8|7|13|Quarterly Working Group Meeting (HMIS,Accreditation,RRTTR) 3 working Group x 2 time/years (PIF-CDC17, PIF|20170622|3880.00|10209179||||||คชจ.ในการจัดประชุมของกรรณิกา|20170622|PIF|20170622|PIF
+1|PIF|BATS|8|7|14|Quarterly Working Group Meeting (HMIS,Accreditation,RRTTR) 3 working Group x 2 time/years (PIF-CDC17, PIF|20170810|13000.00|10215732|20170825|-3800.00|cash|||ยืมเงิน นางสาวนันทวรรณ  วงษ์ทิพย์ (บย.12/60)|20170908|pif|20170908|pif
+1|PIF|BATS|8|7|16|Quarterly Working Group Meeting (HMIS,Accreditation,RRTTR) 3 working Group x 2 time/years (PIF-CDC17, PIF|20170810|10000.00|10215733|20170831|-4850.00|cash|||ยืมเงิน นางเครือทิพย์  จันทรธานีวัฒน์ (บย.13/60) **หมายเหตุ คืนเงินสดจริง วันที่ 6 ก.ย.60 เนื่องจากติดภารกิจทางราชการ|20170908|pif|20170908|pif
+1|PIF|BATS|8|7|17|Quarterly Working Group Meeting (HMIS,Accreditation,RRTTR) 3 working Group x 2 time/years (PIF-CDC17, PIF|20170817|1920.00|10215734|20170831|-270.00|cash|||ยืมเงิน นางสาวศรัญญา สุขอ่ำ (บย.14/60) *หมายเหตุ คืนเงิน 1 ก.ย.60|20170908||20170908|
+1|PIF|BATS|8|8|6|Target mapping for RRTTRprogramatic mapping NAMC:(PIF-CDC23 meeting40,000,PIF-CDC24 data compiling 30,000) 2 provinces (PT, SK)|20170612|70000.00|10209176||||||ลงพื้นที่เก็บข้อมูล Target mapping เพื่อจัดบริการ ปทุมธานี #10209176|20170627||20170908|pif
+1|PIF|BATS|8|9|19|S&D situation analysismeeting NAMC: (PIF-CDC 25) 6 provinces CM, KK, UD, SK, BKK, UB|20170612|30000.00|10209172||||||ดำเนินการสำรวจ S&D กทม.#10209172|20170627||20170908|pif
+1|PIF|BATS|8|9|22|S&D situation analysismeeting NAMC: (PIF-CDC 25) 6 provinces CM, KK, UD, SK, BKK, UB|20170630|36000.00|10215702||||||ดำเนินการสำรวจ เชียงราย #10215702|20170703|pif|20170908|pif
+1|PIF|BATS|8|9|24|S&D situation analysismeeting NAMC: (PIF-CDC 25) 6 provinces CM, KK, UD, SK, BKK, UB|20170713|30000.00|10215712||||||โอนเงินให้ จ.อุบลราชธานี #10215712|20170831|pif|20170908|pif
+1|PIF|BATS|8|9|26|S&D situation analysismeeting NAMC: (PIF-CDC 25) 6 provinces CM, KK, UD, SK, BKK, UB|20170630|30000.00|10215701|20170831|-4340.00|cash|||ดำเนินการสำรวจ S&D ขอนแก่น#10215701   *สสจ.ขอนแก่นแจ้งว่าอยู่ระหว่างดำเนินการคืนเงิน 3-10-60|20170703|pif|20171003|
+1|PIF|BATS|8|9|27|S&D situation analysismeeting NAMC: (PIF-CDC 25) 6 provinces CM, KK, UD, SK, BKK, UB|20170713|30000.00|10215714|20170831|-5200.00|cash|||โอนเงินให้ จ.สงขลา  #10215714 *สสจ.สงขลา แจ้งว่าอยุ่ระหว่างดำเนินการคืนเงิน 3-10-60|20170831|pif|20171003|
+1|PIF|BATS|8|9|30|S&D situation analysismeeting NAMC: (PIF-CDC 25) 6 provinces CM, KK, UD, SK, BKK, UB|20170612|30000.00|10209173||||||ดำเนินการสำรวจ S&D อุดร#10209173|20170627||20171003|
+1|PIF|BATS|8|10|6|S&D situation analysis meeting NAMC: (PIF-CDC 25) 1 Provinces CB|20170612|15000.00|10209174||||||ดำเนินก ารสำรวจเฝ้าระวังสถานการณ์ S&D ชลบุรี#10209174|20170627||20170908|pif
+1|PIF|BATS|8|10|7|S&D situation analysis meeting NAMC: (PIF-CDC 25) 1 Provinces CB|20170810|20000.00|10215730||||||โอนงบประมาณโครงการ งวดที่ 4/2560 ให้กับสำนักงานสาธารณสุขจังหวัดชลบุรี|20170908|pif|20170908|pif
+1|PIF|BATS|8|11|6|Strategic information (RHIS-RRTTR) |20170713|53000.00|10215713||||||โอนเงินให้ จ.นครราชสีมา #10215713|20170831|pif|20170908|pif
+1|PIF|BATS|8|11|7|Strategic information (RHIS-RRTTR) NAMc:(PIF-CDC 26)- 2 Provinces NA, UD|20170612|66000.00|10209173|20170831|-66000.00|cash|||ประชุม พัฒนาคุณภาพและความครอบคลุมระบบข้อมูลเชิงยุทธศาสตร์ (RIHIS-RRTTR) ระดับจังหวัดของอุดร#10209173 *เช็คคืนเลขที่10396648 ลงวันที่ 27-9-60 และนำฝากเข้าบัญชี 2-10-60|20170627||20171003|
+1|PIF|BATS|8|12|5|Data utilization for AIDS ending plan and RRTTR program improvement NAMc: (PIF-CDC 27) 3 Provinces NA, SK, UD|20170612|18500.00|10209173||||||ประชุมใช้ประโยชน์จากข้อมูลเพื่อจัดทำแผน ปรับปรุงงาน และ/หรือแผนยุติปัญหาเอดส์ระดับจังหวัด อุดร#10209173|20170627||20170908|pif
+1|PIF|BATS|8|12|6|Data utilization for AIDS ending plan and RRTTR program improvement NAMc: (PIF-CDC 27) 3 Provinces NA, SK, UD|20170713|37000.00|10215713||||||โอนเงินให้ จ.นครราชสีมา #10215713|20170831|pif|20170908|pif
+1|PIF|BATS|8|13|4|Differentiated Care workshop (PIF CDC28) Local participants at 2 Provinces (UB and aother potential province)|20170711|33550.00|10215706|20170726|-564.83|cash|||จัดประชุม จ.อุบลราชธานี ในวันที่ 17  ก.ค.60เงินยืมพัชรณัฏฐ์ เกิดสวัสดิ์ บย.6/60|20170830|pif|20170831|pif
+1|PIF|BATS|8|14|5|Provincial AIDS Sub-committee meeting NAMc: (PIF-CDC 31) 1 Province UD|20170612|16000.00|10209173||||||ประชุมคณะอนุกรรมการเอดส์ จังหวัด อุดร#10209173|20170627||20170908|pif
+1|PIF|BATS|8|17|1|Developing tools  for  RRTTR  services assessment (Accreditation) |20170831|96525.00|10215749||||||ค่าจ้างเหมาจัดทำเครื่องมือฯ นางสาวมนสิชา  พูลสวัสดิ์|20170908||20170908|
+1|PIF|BATS|8|17|2|Developing tools  for  RRTTR  services assessment (Accreditation) |20170831|975.00|10215750||||||กรมสรรพากร (ภาษี ค่าจ้างเหมาจัดทำเครื่องมือฯ นางสาวมนสิชา  พูลสวัสดิ์)|20170908||20170908|
+1|PIF|BATS|8|18|2|Meeting PCM by NAMC |20170526|32750.00|10209171|20170612|-21990.00|cash|||เงินยืมรวิพร ยืม64,000บ.เอาไปไว้หมวด3จำนวน 31,250บ.|20170621||20170921|pif
+1|PIF|BATS|8|19|3|Meeting CBO by BATs |20170529|50414.00|10209166|20170612|-43964.00|cash|||เงินยืมศิริลักษณ์ ยืม 108,000บ.|20170621||20170921|pif
+1|PIF|BATS|8|20|3|Site monitoring & coaching by central/regional coaching team |20170630|27720.00|10209180|20170719|-19570.00|cash|||จัดประชุม จ.ขอนแก่น และ จ.อุดรธานี ในวันที่ 4-7 ก.ค. 60 เงินยืมนางสาวศิริลักษณ์ บย.5/60|20170830|pif|20170830|pif
+1|PIF|BATS|8|20|6|Site monitoring & coaching by central/regional coaching team |20170614|10050.00|10215715|20170720|-1870.00|cash|||จัดประชุมหารือฯ จ.นครราชสีมา ในวันที่ 17-18 ก.ค.60 เงินยืมนายชัยสุข ตั้งวงศ์จุลเนียม|20170831|pif|20170831|pif
+1|PIF|BATS|8|20|8|Site monitoring & coaching by central/regional coaching team |20170711|2300.00|10215709||||||ประชุมหารือบริหารจัดการ CBO วันที่ 12 ก.ค. 60  ณ ห้องประชุม TUCเงินยืมรวิพร|20170831|pif|20170831|pif
+1|PIF|BATS|8|20|14|Site monitoring & coaching by central/regional coaching team |20170725|2020.00|10215727||||||คชจ.ในการจัดประชุมวันที่ 21 ก.ค. 60 นส.รวิพร เสาร์อินทร์|20170831|pif|20170831|pif
+1|PIF|BATS|8|20|15|Site monitoring & coaching by central/regional coaching team |20170725|4390.00|10215725|20170804|-1250.00|cash|||คชจ.ในการจัดประชุมวันที่ 26-27 ก.ค. 60 เงินยืม นส.ศิริลักษณ์ กองพลี  #10215725|20170831|pif|20170908|pif
+1|PIF|BATS|8|22|3|Develop Database Program (NA) for PCM |20170713|80000.00|10215713|20170831|-21500.00|cash|||1.โอนเงินให้ จ.นครราชสีมา #10215713  2.สสจ.นครราชสีมา โอนเงินคืนจริง18 กย.60 #10098775 ลว.18 ก.ย.60|20170831|pif|20170921|pif
+1|PIF|BATS|8|23|5|Stigma & Discrimination workshop to prepare for 2018 |20170818|34207.75|10215736|20170830|-26207.75|cash|||ยืมเงิน นางสาวปาริชาติ จันทร์จรัส (บย.15/60) *หมายเหตุ Other 8,710 บ.แต่นำไปไว้ใน Travel 710 บ. เนื่องจากเงินไม่พอ เพราสิ้นสุดปีงบประมาณ 31 ส.ค. 60 ไม่สามารถปรับแผนได้|20170908||20170908|
+1|PIF|BATS|8|24|3|Central : Stigma & Discrimination workshop |20170616|113400.00|10209177|20170718|-79603.00|cash|||จัดประชุมวันที่ 22-23 มิย.60 ที่เชียงราย|20170830|pif|20170830|pif

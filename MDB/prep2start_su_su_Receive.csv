@@ -1,0 +1,5 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|PrEP2START-SU|SU|20161025|2|30559.63|34.8300|1064392.00||10170107,10172117|1st Cheque =10170107 (1,039,027.50 Baht), 2nd Cheque 10172117 (25,364.50 Baht)|20170206|prep2start-su|20170206|prep2start-su
+1|PrEP2START-SU|SU|20161228|2|48981.37|35.7600|1751573.71||10172166||20170206|prep2start-su|20170601|prep2start-su
+1|PrEP2START-SU|SU|20170428|2|37000.00|34.2788|1268315.60||10181833|#Exchange rate 34.2788 Baht/USD|20170504|prep2start-su|20170523|prep2start-su
+1|PrEP2START-SU|SU|20170707|1|5697.53|33.7900|192519.54||10181866|#Exchange rate 33.79 Baht/USD|20170719|prep2start-su|20170719|prep2start-su

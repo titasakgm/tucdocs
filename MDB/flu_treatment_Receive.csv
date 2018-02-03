@@ -1,0 +1,4 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|FLU-Treatment|-|20161025|6|13302.00|34.8300|463308.66||10170118|รับเงินงวดที่ 1 #10172128 (ส่วนต่างอัตราแลกเปลี่ยน 0.83 บาท/เหรียญสหรัฐ)|20170119|flu-treatment|20170127|flu-treatment
+1|FLU-Treatment|-|20161228|1|15837.00|35.7600|566331.12||10172184|รับเงินงวดที่ 2 (ส่วนต่างอัตราแลกเปลี่ยน 1.76 บาท/เหรียญสหรัฐ)|20170127|flu-treatment|20170127|flu-treatment
+1|FLU-Treatment|-|20170428|1|7000.00|34.2788|239951.60||10181849|รับเงินงวดที่ 3 (ส่วนต่างอัตราแลกเปลี่ยน 0.28 บาท/เหรียญสหรัฐ)|20170428|flu-treatment|20170428|flu-treatment

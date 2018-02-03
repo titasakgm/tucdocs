@@ -1,0 +1,238 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-AFI|TAK|1|1|0|Compensation for Researcher|Dr.Adisorn Wattanasak, Provincial Chief Medical Officer, Tak province||0.00|0.00|36000.00|36000.00|Person|1|10.00|12.00|30000.00|||||20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|2|0|Compensation for Researcher|Dr.Suchat Porncharoenpong, Director of Mae Sot Hospital||0.00|0.00|36000.00|36000.00|Person|1|10.00|12.00|30000.00||||||
+1|DGHP-AFI|TAK|1|3|0|Compensation for Researcher|Dr.Nuttagan  Chuenchom, Technical coordinator||0.00|0.00|36000.00|36000.00|Person|1|10.00|12.00|30000.00||||||
+1|DGHP-AFI|TAK|1|4|0|Compensation for Researcher|Mr.Pongpot Peanumlom, AssistantTechnical coordinator||0.00|0.00|36000.00|36000.00|Person|1|10.00|12.00|30000.00||||||
+1|DGHP-AFI|TAK|1|5|0|Compensation for Researcher|Mr.Yingyot  Kaewnet, AssistantTechnical coordinator||0.00|0.00|36000.00|36000.00|Person|1|10.00|12.00|30000.00||||||
+1|DGHP-AFI|TAK|1|6|0|Project manager|Mr.Samkan Chaoprasert||0.00|0.00|456000.00|456000.00|Person|1|100.00|12.00|38000.00||||||
+1|DGHP-AFI|TAK|1|7|0|Data Manager|Ms.Pemika Mahasakpan||0.00|0.00|192000.00|192000.00|Person|1|100.00|12.00|16000.00||||||
+1|DGHP-AFI|TAK|1|8|0|Financial and Administrative Officer|Mr.Nutpacul Pianumlom||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00||||||
+1|DGHP-AFI|TAK|1|9|0|Translator : Mae Sot General Hospital -|TBD||0.00|0.00|-0.00|0.00|Person|0|0.00|0.00|0.00||||||
+1|DGHP-AFI|TAK|1|9|2|Translator : Mae Sot General Hospital -|TBD|||||75000.00|Person|1|100.00|6.00|12500.00|||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|10|0|Research Assistant (1) Mae Sot Genernal Hospital|Mr.Sumpun Butapun||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00||||||
+1|DGHP-AFI|TAK|1|11|0|Research Assistant (2) Mae Sot General Hospital - Translator|Mr.Kraisorn Srimuang||0.00|0.00|200000.00|200000.00|Person|1|100.00|10.00|20000.00|||||20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|12|0|Research Assistant (3) Tha Song Yang Hospital|Ms.Rakpon Panasathitwikarn||0.00|0.00|200000.00|200000.00|Person|1|100.00|10.00|20000.00|||||20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|13|0|Research Assistant (4) Um Phang Hospital|Ms.Surada Kongseesuaiwana||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||||20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|14|0|Research Assistant (5) Mae Ramat Hospital -|Mr.Somkeat Boonnayuen||0.00|0.00|200000.00|200000.00|Person|1|100.00|10.00|20000.00|||||20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|15|0|Research Assistant (6) Pob Phra Hospital -|Ms.Sariyaporn Saleedang||0.00|0.00|200000.00|200000.00|Person|1|100.00|10.00|20000.00|||||20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|0|Research Nurse (1) : Mae Sot Hospital|Ms.Vilaiwan Chevacharoen||0.00|0.00|288000.00|288000.00|Person|1|100.00|12.00|24000.00||||||
+1|DGHP-AFI|TAK|1|17|0|Research Nurse (2) Mae Sot Hospital|Ms.Veeraya Phinijwong||0.00|0.00|240000.00|240000.00|Person|1|100.00|10.00|24000.00|||||20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|18|0|Research Nurse (3) Tha Song Yang Hospital|TBD||0.00|0.00|240000.00|240000.00|Person|1|100.00|10.00|24000.00||||||
+1|DGHP-AFI|TAK|1|18|2|Research Nurse (3) Tha Song Yang Hospital|TBD|||||120000.00|Person|1|100.00|5.00|24000.00|||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|19|0|Research Nurse (4) Um Phang Hospital|TBD||0.00|0.00|240000.00|240000.00|Person|1|100.00|10.00|24000.00||||||
+1|DGHP-AFI|TAK|1|19|2|Research Nurse (4) Um Phang Hospital|TBD|||||120000.00|Person|1|100.00|5.00|24000.00|||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|20|0|Research Nurse (5) Mae Ramat Hospital|TBD||0.00|0.00|240000.00|240000.00|Person|1|100.00|10.00|24000.00||||||
+1|DGHP-AFI|TAK|1|20|2|Research Nurse (5) Mae Ramat Hospital|TBD|||||120000.00|Person|1|100.00|5.00|24000.00|||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|21|0|Research Nurse (6) Pob Phra Hospital -|TBD||0.00|0.00|240000.00|240000.00|Person|1|100.00|10.00|24000.00||||||
+1|DGHP-AFI|TAK|1|21|2|Research Nurse (6) Pob Phra Hospital -|TBD|||||120000.00|Person|1|100.00|5.00|24000.00|||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|22|0|Lab Technician (1)|Ms.Suthini Boonlong||0.00|0.00|264000.00|264000.00|Person|1|100.00|12.00|22000.00||||||
+1|DGHP-AFI|TAK|1|23|0|Lab Technician (2)|Ms.Tiwaporn Mangtan||0.00|0.00|220000.00|220000.00|Person|1|100.00|10.00|22000.00|||||20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|24|0|Lab Technician (3)|Ms.Patsachon Jantah||0.00|0.00|220000.00|220000.00|Person|1|100.00|10.00|22000.00|||||20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|25|0|Lab Technician (4)|Ms.Wanvisa Khamlasai||0.00|0.00|220000.00|220000.00|Person|1|100.00|10.00|22000.00|||||20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|26|0|Lab Technician (5)|Mr.Sirawit Kornnitikul||0.00|0.00|220000.00|220000.00|Person|1|100.00|10.00|22000.00|||||20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|27|0|Lab Technician (6) Tha Song Yang ?|Ms.Kalyarat Jasa||0.00|0.00|220000.00|220000.00|Person|1|100.00|10.00|22000.00|||||20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|28|0|OT for CoAg staff - Admin (3)|[$2.06 (THB 70)/hr x 16 hrs x 4 weeks x 10 mths] x 3 persons||0.00|0.00|134400.00|134400.00|Annual||||||||||
+1|DGHP-AFI|TAK|1|28|2|OT for CoAg staff - Admin (3)|[$2.06 (THB 70)/hr x 16 hrs x 4 weeks x 8 mths] x 3 persons|||||107520.00|Annual|||||||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|29|0|OT for Research Assistant (6) -|[$2.06 (THB 70/hr) x 24 hrs x 4 weeks x 10 mths] x 6 persons||0.00|0.00|403200.00|403200.00|Annual||||||||||
+1|DGHP-AFI|TAK|1|29|2|OT for Research Assistant (6) -|[$2.06 (THB 70/hr) x 24 hrs x 4 weeks x 8 mths] x 6 persons|||||322560.00|Annual|||||||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|30|0|OT for Research Nurse (6) -|[$2.06 (THB 70/hr x 24 hrs x 4 weeks x 10 mths] x 6 persons||0.00|0.00|403200.00|403200.00|Annual||||||||||
+1|DGHP-AFI|TAK|1|30|2|OT for Research Nurse (6) -|[$2.06 (THB 70/hr x 24 hrs x 4 weeks x 8 mths] x 6 persons|||||322560.00|Annual|||||||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|31|0|OT for Lab Technician (6)|[$17.65 (THB 600/shift) x 9 shifts x 4 weeks x 10 mths] x 2 persons||0.00|0.00|432000.00|432000.00|Annual||||||||||
+1|DGHP-AFI|TAK|1|31|2|OT for Lab Technician (6)|[$17.65 (THB 600/shift) x 9 shifts x 4 weeks x 5 mths] x 2 persons|||||216000.00|Annual|||||||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|32|0|Compensation for Government Staffs -| [$2.06 (THB 70)/hr x 20 hrs x 4 weeks x 4 mths] x 2 persons and Lab technician: [$17.65 (THB 600)/hr x 10S x 4 weeks x 3 mths] x 3 persons||0.00|0.00|260800.00|260800.00|Annual||||||||||
+1|DGHP-AFI|TAK|1|33|2|Translator (Karen): Mae Sot General Hospital|TBD|||||75000.00|Person|1|100.00|6.00|12500.00|||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|1|0|Project manager|Mr.Samkan Chaoprasert||0.00|0.00|9000.00|9000.00|Person|1|456000.00|5.00|||||||
+1|DGHP-AFI|TAK|2|2|0|Data Manager|Ms.Pemika Mahasakpan||0.00|0.00|9000.00|9000.00|Person|1|192000.00|5.00|||||||
+1|DGHP-AFI|TAK|2|3|0|Financial and Administrative Officer|Mr.Nutpacul Pianumlom||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00|||||||
+1|DGHP-AFI|TAK|2|4|0|Translator : Mae Sot General Hospital -|TBD||0.00|0.00|-0.00|0.00|Person|0|0.00|0.00|||||||
+1|DGHP-AFI|TAK|2|4|2|Translator : Mae Sot General Hospital -|TBD|||||3750.00|Person|1|75000.00|5.00||||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|5|0|Research Assistant (1) Mae Sot Genernal Hospital|Mr.Sumpun Butapun||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00|||||||
+1|DGHP-AFI|TAK|2|6|0|Research Assistant (2) Mae Sot General Hospital - Translator|Mr.Kraisorn Srimuang||0.00|0.00|7500.00|7500.00|Annual|||||||||20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|7|0|Research Assistant (3) Tha Song Yang Hospital|Ms.Rakpon Panasathitwikarn||0.00|0.00|7500.00|7500.00|Annual|||||||||20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|8|0|Research Assistant (4) Um Phang Hospital|Ms.Surada Kongseesuaiwana||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||||20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|9|0|Research Assistant (5) Mae Ramat Hospital -|Mr.Somkeat Boonnayuen||0.00|0.00|7500.00|7500.00|Annual|||||||||20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|10|0|Research Assistant (6) Pob Phra Hospital -|Ms.Sariyaporn Saleedang||0.00|0.00|7500.00|7500.00|Annual|||||||||20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|11|0|Research Nurse (1) : Mae Sot Hospital|Ms.Vilaiwan Chevacharoen||0.00|0.00|9000.00|9000.00|Person|1|288000.00|5.00|||||||
+1|DGHP-AFI|TAK|2|12|0|Research Nurse (2) Mae Sot Hospital|Ms.Veeraya Phinijwong||0.00|0.00|7500.00|7500.00|Annual|||||||||20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|13|0|Research Nurse (3) Tha Song Yang Hospital|TBD ($705.88/฿24,000 x 10M) ; See attached budget justification for details||0.00|0.00|7500.00|7500.00|Annual||||||||||
+1|DGHP-AFI|TAK|2|13|2|Research Nurse (3) Tha Song Yang Hospital|TBD ($705.88/฿24,000 x 10M) ; See attached budget justification for details|||||3750.00|Annual|||||||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|14|0|Research Nurse (4) Um Phang Hospital|TBD ($705.88/฿24,000 x 10M) ; See attached budget justification for details||0.00|0.00|7500.00|7500.00|Annual||||||||||
+1|DGHP-AFI|TAK|2|14|2|Research Nurse (4) Um Phang Hospital|TBD ($705.88/฿24,000 x 10M) ; See attached budget justification for details|||||3750.00|Annual|||||||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|15|0|Research Nurse (5) Mae Ramat Hospital|TBD ($705.88/฿24,000 x 10M) ; See attached budget justification for details||0.00|0.00|7500.00|7500.00|Annual||||||||||
+1|DGHP-AFI|TAK|2|15|2|Research Nurse (5) Mae Ramat Hospital|TBD ($705.88/฿24,000 x 10M) ; See attached budget justification for details|||||3750.00|Annual|||||||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|16|0|Research Nurse (6) Pob Phra Hospital -|TBD ($705.88/฿24,000 x 10M) ; See attached budget justification for details||0.00|0.00|7500.00|7500.00|Annual||||||||||
+1|DGHP-AFI|TAK|2|16|2|Research Nurse (6) Pob Phra Hospital -|TBD ($705.88/฿24,000 x 10M) ; See attached budget justification for details|||||3750.00|Annual|||||||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|17|0|Lab Technician (1)|Ms.Suthini Boonlong||0.00|0.00|9000.00|9000.00|Person|1|264000.00|5.00|||||||
+1|DGHP-AFI|TAK|2|18|0|Lab Technician (2)|Ms.Tiwaporn Mangtan||0.00|0.00|7500.00|7500.00|Annual|||||||||20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|19|0|Lab Technician (3)|Ms.Patsachon Jantah||0.00|0.00|7500.00|7500.00|Annual|||||||||20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|20|0|Lab Technician (4)|Ms.Wanvisa Khamlasai||0.00|0.00|7500.00|7500.00|Annual|||||||||20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|21|0|Lab Technician (5)|Mr.Sirawit Kornnitikul||0.00|0.00|7500.00|7500.00|Annual|||||||||20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|22|0|Lab Technician (6) Tha Song Yang ?|Ms.Kalyarat Jasa||0.00|0.00|7500.00|7500.00|Annual|||||||||20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|23|0|Annual Medical Check-up -|$58.82 (THB 2,000) x 21 persons||0.00|0.00|42000.00|42000.00|Annual||||||||||
+1|DGHP-AFI|TAK|2|23|2|Annual Medical Check-up -|$58.82 (THB 2,000) x 23 persons|||||46000.00|Annual|||||||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|24|2|Translator (Karen): Mae Sot General Hospital|TBD|||||3750.00|Annual|||||||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|3|1|0|Capacity building Training -|re AFI methods and specimens collection||0.00|0.00|195000.00|195000.00|Time|3|10.00|3.00|2000.00|500.00|0.00||||
+1|DGHP-AFI|TAK|3|1|3|Capacity building Training -|re AFI methods and specimens collection|||||162000.00|Time|6|6.00|2.00|2000.00|500.00|0.00|20170606|DGHP-AFI-TAK|20170606|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|3|2|0|Scientific Meeting -|See attached budget justification for details||0.00|0.00|264000.00|264000.00|Time|1|24.00|2.00|2000.00|7000.00|0.00||||
+1|DGHP-AFI|TAK|3|2|1|Scientific Meeting -|See attached budget justification for details|||||55000.00|Time|1|5.00|2.00|2000.00|7000.00|0.00|20170122||20170122|
+1|DGHP-AFI|TAK|3|3|0|Transportation cost / Fuel|in Tak||0.00|0.00|96000.00|96000.00|Month|12|4.00|1.00|0.00|2000.00|0.00||||
+1|DGHP-AFI|TAK|3|3|1|Transportation cost / Fuel|in Tak|||||64000.00|Month|8|4.00|1.00|0.00|2000.00|0.00|20170122||20170122|
+1|DGHP-AFI|TAK|3|3|3|Transportation cost / Fuel|in Tak|||||80000.00|Month|8|5.00|1.00|0.00|2000.00|0.00|20170606|DGHP-AFI-TAK|20170606|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|3|4|1|AFI protocol refreshing course and knowledge training for local & CoAg staff||||||180000.00|Time|2|6.00|4.00|2000.00|7000.00|0.00|20170122||20170122|
+1|DGHP-AFI|TAK|3|4|3|AFI protocol refreshing course and knowledge training for local & CoAg staff||||||126000.00|Time|1|6.00|7.00|2000.00|7000.00|0.00|20170606|DGHP-AFI-TAK|20170606|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|4|1|0|Lab Equipment|See attached budget justificationn for details||0.00|0.00|1935000.00|1935000.00|Time|1|1935000.00||||||||
+1|DGHP-AFI|TAK|4|2|0|IT Equipment -|see attached budget justification for details||0.00|0.00|70000.00|70000.00|Time|2|35000.00||||||||
+1|DGHP-AFI|TAK|4|2|2|IT Equipment -|see attached budget justification for details|||||91500.00|Time|1|91500.00|||||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|4|3|0|Office Eqiupment -|see attached budget justification for details||0.00|0.00|60000.00|60000.00|Time|1|60000.00||||||||
+1|DGHP-AFI|TAK|4|4|2|New lab equipment|(Bsc, incubator, refrigeratior)|||||1092160.00|Time|1|1092160.00|||||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|1|0|Office supplies -|See attached budget justificationn for details||0.00|0.00|48000.00|48000.00|Time|6|8000.00||||||||
+1|DGHP-AFI|TAK|5|1|3|Office supplies -|See attached budget justificationn for details|||||60000.00|Time|6|10000.00|||||20170606|DGHP-AFI-TAK|20170606|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|2|0|Medical supplies|See attached budget justificationn for details||0.00|0.00|210000.00|210000.00|Time|4|52500.00||||||||
+1|DGHP-AFI|TAK|5|3|0|Lab reagent & supplies|See attached budget justificationn for details||0.00|0.00|265000.00|265000.00|Time|2|132500.00||||||||
+1|DGHP-AFI|TAK|5|4|0|IT supplies -|See attached budget justification for details||0.00|0.00|68000.00|68000.00|Time|2|34000.00||||||||
+1|DGHP-AFI|TAK|5|4|3|IT supplies -|See attached budget justification for details|||||136000.00|Time|4|34000.00|||||20170606|DGHP-AFI-TAK|20170606|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|6|1|0|Specimen shipping and transportation|vehicle + driver + gas. See attached budget justificationn for details||0.00|0.00|500000.00|500000.00|Month|10|50000.00||||||||
+1|DGHP-AFI|TAK|6|1|2|Specimen shipping and transportation|vehicle + driver + gas. See attached budget justificationn for details|||||300000.00|Month|6|50000.00|||||20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|1|0|Specimen shipping to Bangkok|10 months x $147.06 (THB 5,000)||0.00|0.00|50000.00|50000.00|Month|10|||||5000.00||||
+1|DGHP-AFI|TAK|8|1|3|Specimen shipping to Bangkok|10 months x $147.06 (THB 5,000)|||||25000.00|Month|5|||||5000.00|20170606|DGHP-AFI-TAK|20170606|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|2|0|Compensation for research participants|1,500 cases x $8.82 (THB 300)||0.00|0.00|450000.00|450000.00|Case|1500|||||300.00||||
+1|DGHP-AFI|TAK|8|2|2|Compensation for research participants|1,300 cases x $8.82 (THB 300)|||||390000.00|Case|1300|||||300.00|20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|3|0|Compensation for participants'convalescent follow-up|1,500 f/u visit x $8.82 (THB 300)||0.00|0.00|450000.00|450000.00|Visit|1500|||||300.00||||
+1|DGHP-AFI|TAK|8|3|2|Compensation for participants'convalescent follow-up|1,300 f/u visit x $8.82 (THB 300)|||||390000.00|Visit|1300|||||300.00|20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|3|4|Compensation for participants'convalescent follow-up|1,000 f/u visit x $8.82 (THB 300)|||||300000.00|Visit|1000|||||300.00|20170714|DGHP-AFI-TAK|20170714|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|4|0|Specimen processing (1,500 x 2 times)|3,000 specimens x $4.12 (THB 140)||0.00|0.00|420000.00|420000.00|Specimen|3000|||||140.00||||
+1|DGHP-AFI|TAK|8|4|2|Specimen processing (1,500 x 2 times)|2,600 specimens x $4.12 (THB 140)|||||364000.00|Specimen|2600|||||140.00|20170605|DGHP-AFI-TAK|20170605|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|5|0|Photocopying|12 months x $88.23 (THB 3,000)||0.00|0.00|36000.00|36000.00|Month|12|||||3000.00||||
+1|DGHP-AFI|TAK|8|5|4|Photocopying|See 4th redirection justification for detail|||||110000.00|Annual|||||||20170714|DGHP-AFI-TAK|20170714|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|6|0|Information Meeting|Local participant. See attached budget justification for details||0.00|0.00|27000.00|27000.00|Time|3|15.00|1.00|600.00|0.00|0.00||||
+1|DGHP-AFI|TAK|8|6|3|Information Meeting|Local participant. See attached budget justification for details|||||54000.00|Time|3|30.00|1.00|600.00|0.00|0.00|20170606|DGHP-AFI-TAK|20170606|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|7|0|Scientific Meeting|Local participant. See attached budget justification for details||0.00|0.00|60000.00|60000.00|Time|1|50.00|2.00|600.00|0.00|0.00||||
+1|DGHP-AFI|TAK|8|7|3|Scientific Meeting|Local participant. See attached budget justification for details|||||74400.00|Time|1|62.00|2.00|600.00|0.00|0.00|20170606|DGHP-AFI-TAK|20170606|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|8|0|Refresher Training|Local participants. See attached budget justification for details||0.00|0.00|93600.00|93600.00|Time|3|26.00|2.00|600.00|0.00|0.00||||
+1|DGHP-AFI|TAK|8|8|3|Refresher Training|Local participants. See attached budget justification for details|||||62400.00|Time|2|26.00|2.00|600.00|0.00|0.00|20170606|DGHP-AFI-TAK|20170606|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|9|0|Meeting facilities -|Meeting material, printing, venue rental. See attached budget justification for details 7 meetings x $57.14 (THB 2,000)||0.00|0.00|16000.00|16000.00|Meeting|4|||||4000.00||||
+1|DGHP-AFI|TAK|8|10|0|Communication cost|telephone, internet||0.00|0.00|60000.00|60000.00|Month|12|||||5000.00||||
+1|DGHP-AFI|TAK|8|10|1|Communication cost|telephone, internet|||||56000.00|Month|8|||||7000.00|20170122||20170122|
+1|DGHP-AFI|TAK|8|11|0|Maintainance of office/lab equipment/IT -|See attached budget justification for details||0.00|0.00|50976.00|50976.00|Annual||||||||||
+1|DGHP-AFI|TAK|8|11|3|Maintainance of office/lab equipment/IT -|See attached budget justification for details|||||34176.00|Annual|||||||20170606|DGHP-AFI-TAK|20170606|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|12|0|Utilities cost -|Electric and water||0.00|0.00|60000.00|60000.00|Month|12|||||5000.00||||
+1|DGHP-AFI|TAK|8|13|0|Telephone for RN & RA (for F/U refer or convalescent) -|$8.82 (300 THB) X 6P x 12M||0.00|0.00|21600.00|21600.00|Month|12|||||1800.00||||
+1|DGHP-AFI|TAK|8|14|0|GLP traning for CoAg and local participant staff|||0.00|0.00|24000.00|24000.00|Time|1|20.00|2.00|600.00|0.00|0.00||||
+1|DGHP-AFI|TAK|8|15|0|GLP training - resource person|||0.00|0.00|28800.00|28800.00|Time|1|2.00|2.00|7200.00|0.00|0.00||||
+1|DGHP-AFI|TAK|8|15|3|GLP training - resource person||||||9600.00|Time|1|1.00|2.00|4800.00|0.00|0.00|20170606|DGHP-AFI-TAK|20170606|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|18|0|Contribution to CoUnit Management|See CU1-MoPH (CoUnit) budget breakdown||0.00|0.00|-0.00|0.00|Annual||||||||||
+1|DGHP-AFI|TAK|8|19|1|E-mail server||||||20000.00|Annual|||||||20170122||20170122|
+1|DGHP-AFI|TAK|8|20|1|Myanmar & Karen consent form verification||||||45000.00|Time|2|||||22500.00|20170122||20170122|
+1|DGHP-AFI|TAK|8|21|3|Specimen transportation support for Um Phang Hospital||||||25000.00|Month|5|||||5000.00|20170606|DGHP-AFI-TAK|20170606|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|22|3|Scientific meeting - resource person||||||16800.00|Time|1|1.00|2.00|8400.00|0.00|0.00|20170606|DGHP-AFI-TAK|20170606|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|23|4|Mail / Logistics post service||||||16000.00|Time|2|||||8000.00|20170714|DGHP-AFI-TAK|20170714|DGHP-AFI-TAK
+2|DGHP-AFI|TAK|1|1|0|Compensation for researcher (1): Tak PCMO|Dr. Adisorn Wattanasak, M.D.||0.00|0.00|36000.00|36000.00|Person|1|10.00|12.00|30000.00|||20170329||20170907|
+2|DGHP-AFI|TAK|1|2|0|Compensation for researcher (2): Director of Mae Sot General Hospital|Dr. Suchart Porncharoenpong M.D.||0.00|0.00|60000.00|60000.00|Person|1|10.00|12.00|50000.00|||20170329||20170907|
+2|DGHP-AFI|TAK|1|3|0|Compensation for researcher (3): Technical coordinator|Dr. Nuttakarn Chuenchom, M.D.||0.00|0.00|60000.00|60000.00|Person|1|10.00|12.00|50000.00|||20170329||20170907|
+2|DGHP-AFI|TAK|1|4|0|Compensation for researcher (4): Assistant technical coordinator|Mr. Pongpot Peanumlom||0.00|0.00|36000.00|36000.00|Person|1|10.00|12.00|30000.00|||20170329||20170907|
+2|DGHP-AFI|TAK|1|5|0|Compensation for researcher (5) Assistant technical coordinator|Mr. Yingyot Kaewnate||0.00|0.00|36000.00|36000.00|Person|1|10.00|12.00|30000.00|||20170329||20170907|
+2|DGHP-AFI|TAK|1|6|0|Project manager|Mr. Samkan Chaoprasert||0.00|456648.00|8472.00|465120.00|Person|1|100.00|12.00|38760.00|||20170329||20170329|
+2|DGHP-AFI|TAK|1|7|0|Financial admistration and IT support officer|Mr. Nutpakul Pianumlom||0.00|0.00|276000.00|276000.00|Person|1|100.00|12.00|23000.00|||20170329|||
+2|DGHP-AFI|TAK|1|8|0|Data manager|Ms. Pemika Mahasakpan||0.00|0.00|192000.00|192000.00|Person|1|100.00|12.00|16000.00|||20170329|||
+2|DGHP-AFI|TAK|1|9|0|Senior research assistant: Mae Sot (1/2)|Mr. Sumpun Butapun||0.00|0.00|264000.00|264000.00|Person|1|100.00|12.00|22000.00|||20170329||20170918|
+2|DGHP-AFI|TAK|1|10|0|Research assistant: Mae Sot (2/2)|Mr. Kraisorn Srimuang||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170329||20170918|
+2|DGHP-AFI|TAK|1|11|0|Research assistant: Tha Song Yang|Ms. Rakporn Panasathitwikan||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170329||20170329|
+2|DGHP-AFI|TAK|1|12|0|Research assistant: Mae Ramat|Mr. Somkeat Boonnayuen||0.00|0.00|244800.00|244800.00|Person|1|100.00|12.00|20400.00|||20170329||20170329|
+2|DGHP-AFI|TAK|1|13|0|Research assistant: Phop Phra|Ms. Sariyaporn Saleedaeng||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170329||20170916|
+2|DGHP-AFI|TAK|1|14|0|Research assistant: Um Phang|Ms. Surada Kongsisuaiwana||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170329|||
+2|DGHP-AFI|TAK|1|15|0|Research assistant: Mae Tao Clinic|TBD||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170329||20170329|
+2|DGHP-AFI|TAK|1|16|0|Research nurse: Mae Sot (1/2)|Ms. Wilaiwan Chevacharoen||0.00|0.00|293760.00|293760.00|Person|1|100.00|12.00|24480.00|||20170329||20170918|
+2|DGHP-AFI|TAK|1|17|0|Research nurse: Mae Sot (2/2)|Ms. Wiriya Pinitwong||0.00|0.00|288000.00|288000.00|Person|1|100.00|12.00|24000.00|||20170329||20170918|
+2|DGHP-AFI|TAK|1|18|0|Research nurse: Tha Song Yang|TBD||0.00|0.00|-0.00|0.00|Person|0|0.00|0.00|0.00|||20170329||20170907|
+2|DGHP-AFI|TAK|1|19|0|Research nurse: Mae Ramat|TBD||0.00|0.00|-0.00|0.00|Person|0|0.00|0.00|0.00|||20170329||20170907|
+2|DGHP-AFI|TAK|1|20|0|Research nurse: Phop Phra|TBD||0.00|0.00|-0.00|0.00|Person|0|0.00|0.00|0.00|||20170329||20170918|
+2|DGHP-AFI|TAK|1|21|0|Research nurse: Um Phang|TBD||0.00|0.00|-0.00|0.00|Person|0|0.00|0.00|0.00|||20170329||20170907|
+2|DGHP-AFI|TAK|1|22|0|Translator: Myanmar or Karen (1)|TBD||0.00|0.00|144000.00|144000.00|Person|1|100.00|12.00|12000.00|||20170329||20170918|
+2|DGHP-AFI|TAK|1|23|0|Translator: Myanmar or Karen (2)|TBD||0.00|0.00|144000.00|144000.00|Person|1|100.00|12.00|12000.00|||20170329||20170918|
+2|DGHP-AFI|TAK|1|24|0|Translator: Myanmar or Karen (3)|TBD||0.00|0.00|144000.00|144000.00|Person|1|100.00|12.00|12000.00|||20170329||20170916|
+2|DGHP-AFI|TAK|1|25|0|Translator: Myanmar or Karen (4)|TBD||0.00|0.00|144000.00|144000.00|Person|1|100.00|12.00|12000.00|||20170329||20170916|
+2|DGHP-AFI|TAK|1|26|0|Laboratory supervisor|Ms. Suthini Boonlong||0.00|0.00|360000.00|360000.00|Person|1|100.00|12.00|30000.00|||20170329||20170914|
+2|DGHP-AFI|TAK|1|27|0|Laboratory technician (1)|Ms. Tiwaporn Mungtan||0.00|0.00|264000.00|264000.00|Person|1|100.00|12.00|22000.00|||20170329|||
+2|DGHP-AFI|TAK|1|28|0|Laboratory technician (2)|TBD||0.00|0.00|264000.00|264000.00|Person|1|100.00|12.00|22000.00|||20170329||20170907|
+2|DGHP-AFI|TAK|1|29|0|Laboratory technician (3)|Ms. Wanwisa Khamlasai||0.00|0.00|264000.00|264000.00|Person|1|100.00|12.00|22000.00|||20170329|||
+2|DGHP-AFI|TAK|1|30|0|Laboratoy technician (4)|Mr. Sirawit Kornnithikul||0.00|0.00|264000.00|264000.00|Person|1|100.00|12.00|22000.00|||20170329|||
+2|DGHP-AFI|TAK|1|31|0|Laboratory technician (5)|Ms. Kanyarat Jasa||0.00|0.00|264000.00|264000.00|Person|1|100.00|12.00|22000.00|||20170329|||
+2|DGHP-AFI|TAK|1|32|0|Laboratory technician (6):|Mae Tao Clinic: TBD||0.00|0.00|264000.00|264000.00|Person|1|100.00|12.00|22000.00|||20170329||20170915|
+2|DGHP-AFI|TAK|1|33|0|Lab license for 6 lab technicians|$29.41 (฿1,000)/person x 6 persons x 12mths||0.00|0.00|72000.00|72000.00|Annual|||||||20170329||20171010|
+2|DGHP-AFI|TAK|1|34|0|OT for Admin office|$2.06 (฿70)/hr x 7hrs x 4w x 8m x 3p||0.00|0.00|47040.00|47040.00|Annual|||||||20170329||20170916|
+2|DGHP-AFI|TAK|1|35|0|OT for Research assistant + Translator|$2.06 (฿70)/hr x 20hrs x 4w x 12m x 11p||0.00|0.00|739200.00|739200.00|Annual|||||||20170329||20170916|
+2|DGHP-AFI|TAK|1|36|0|OT for Research nurse|$2.06 (฿70)/hr x 20hrs x 4w x 12m x 2p||0.00|0.00|134400.00|134400.00|Annual|||||||20170329||20170916|
+2|DGHP-AFI|TAK|1|37|0|OT for laboratory technicians|$17.65 (฿600)/shift x 15shifts x 12m x 7p||0.00|352800.00|403200.00|756000.00|Shift|105|100.00|12.00|600.00|||20170329||20171009|
+2|DGHP-AFI|TAK|1|38|0|Compensate for government staff|Procurement officer: ($2.06 (฿70)/hr. x 3hrs x 5d x 4w x 12m x 1p)||0.00|0.00|50400.00|50400.00|Annual|||||||20170329||20170916|
+2|DGHP-AFI|TAK|1|39|0|Compensation for researcher (6): Deputy director of Mae Sot General Hospital (Social Medicine division)|TBD||0.00|0.00|60000.00|60000.00|Person|1|10.00|12.00|50000.00|||20170907|||
+2|DGHP-AFI|TAK|1|40|0|Research assistant|TBD||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170907|||
+2|DGHP-AFI|TAK|1|41|0|Nurse license for 2 Research Nurse|$29.41 (฿1,000)/person x 2 persons x 12 months||0.00|0.00|24000.00|24000.00|Annual|||||||20170907||20171010|
+2|DGHP-AFI|TAK|1|42|0|Compensation for government staff|Lab technician ($2.35 (฿80)/hr x 80hrs x 4w x 3p)||0.00|4800.00|72000.00|76800.00|Annual|||||||20170915||20171009|
+2|DGHP-AFI|TAK|1|43|0|Compensation for government staff|Medical statistic officer ($2.06 (฿70/hr) x 4hrs x 3d x 2w x 12m x 2p)||0.00|40320.00|-0.00|40320.00|Person|2|100.00|12.00|1680.00|||20171009|||
+2|DGHP-AFI|TAK|2|1|0|Project manager|Mr. Samkan Chaoprasert||0.00|0.00|9000.00|9000.00|Person|1|465120.00|5.00||||20170329|||
+2|DGHP-AFI|TAK|2|2|0|Financial adiministration and IT support officer|Mr. Nutpakul Pianumlom||0.00|0.00|9000.00|9000.00|Person|1|276000.00|5.00||||20170329|||
+2|DGHP-AFI|TAK|2|3|0|Data manager|Ms. Pemika Mahasakpan||0.00|0.00|9000.00|9000.00|Person|1|192000.00|5.00||||20170329|||
+2|DGHP-AFI|TAK|2|4|0|Senior Research assistant: Mae Sot (1/2)|Mr. Sumpun Butapun||0.00|0.00|9000.00|9000.00|Person|1|264000.00|5.00||||20170329||20170918|
+2|DGHP-AFI|TAK|2|5|0|Research assistant: Mae Sot (2/2)|Mr. Kraisorn Srimuang||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170329||20170918|
+2|DGHP-AFI|TAK|2|6|0|Research assistant: Tha Song Yang|Ms. Rakporn Panasathitwikan||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170329|||
+2|DGHP-AFI|TAK|2|7|0|Research assistant: Mae Ramat|Mr. Somkeat Boonnayuen||0.00|0.00|9000.00|9000.00|Person|1|244800.00|5.00||||20170329|||
+2|DGHP-AFI|TAK|2|8|0|Research assistant: Phop Phra|Ms. Sariyaporn Saleedaeng||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170329||20170916|
+2|DGHP-AFI|TAK|2|9|0|Research assistant: Um Phang|Ms. Surada Kongsisuaiwana||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170329||20170329|
+2|DGHP-AFI|TAK|2|10|0|Research assistant: Mae Tao Clinic|TBD||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170329|||
+2|DGHP-AFI|TAK|2|11|0|Research nurse: Mae Sot (1/2)|Ms. Wilaiwan Chevacharoen||0.00|0.00|9000.00|9000.00|Person|1|293760.00|5.00||||20170329||20170918|
+2|DGHP-AFI|TAK|2|12|0|Research nurse: Mae Sot (2/2)|Ms. Wiriya Pinitwong||0.00|0.00|9000.00|9000.00|Person|1|288000.00|5.00||||20170329||20170918|
+2|DGHP-AFI|TAK|2|13|0|Research nurse: Tha Song Yang|TBD||0.00|0.00|-0.00|0.00|Person|0|0.00|0.00||||20170329||20170907|
+2|DGHP-AFI|TAK|2|14|0|Research nurse: Mae Ramat|TBD||0.00|0.00|-0.00|0.00|Person|0|0.00|0.00||||20170329||20170907|
+2|DGHP-AFI|TAK|2|15|0|Research nurse: Phop Phra|TBD||0.00|0.00|-0.00|0.00|Person|0|0.00|0.00||||20170329||20170918|
+2|DGHP-AFI|TAK|2|16|0|Research nurse: Um Phang|TBD||0.00|0.00|-0.00|0.00|Person|0|0.00|0.00||||20170329||20170907|
+2|DGHP-AFI|TAK|2|17|0|Translator: Myanmar or Karen (1)|TBD||0.00|0.00|7200.00|7200.00|Person|1|144000.00|5.00||||20170329||20170916|
+2|DGHP-AFI|TAK|2|18|0|Translator: Myanmar or Karen (2)|TBD||0.00|0.00|7200.00|7200.00|Person|1|144000.00|5.00||||20170329||20170916|
+2|DGHP-AFI|TAK|2|19|0|Translator: Myanmar or Karen (3)|TBD||0.00|0.00|7200.00|7200.00|Person|1|144000.00|5.00||||20170329||20170329|
+2|DGHP-AFI|TAK|2|20|0|Translator: Myanmar or Karen (4)|TBD||0.00|0.00|7200.00|7200.00|Person|1|144000.00|5.00||||20170329|||
+2|DGHP-AFI|TAK|2|21|0|Laboratory supervisor|Ms. Suthini Boonlong||0.00|0.00|9000.00|9000.00|Person|1|384000.00|5.00||||20170329||20170329|
+2|DGHP-AFI|TAK|2|22|0|Laboratory technician (1)|Ms. Tiwaporn Mungtan||0.00|0.00|9000.00|9000.00|Person|1|264000.00|5.00||||20170329|||
+2|DGHP-AFI|TAK|2|23|0|Laboratory technician (2)|TBD||0.00|0.00|9000.00|9000.00|Person|1|264000.00|5.00||||20170329||20170907|
+2|DGHP-AFI|TAK|2|24|0|Laboratory technician (3)|Ms. Wanwisa Khamlasai||0.00|0.00|9000.00|9000.00|Person|1|264000.00|5.00||||20170329|||
+2|DGHP-AFI|TAK|2|25|0|Laboratoy technician (4)|Mr. Sirawit Kornnithikul||0.00|0.00|9000.00|9000.00|Person|1|264000.00|5.00||||20170329|||
+2|DGHP-AFI|TAK|2|26|0|Laboratory technician (5)|Ms. Kanyarat Jasa||0.00|0.00|9000.00|9000.00|Person|1|264000.00|5.00||||20170329|||
+2|DGHP-AFI|TAK|2|27|0|Laboratory technician (6): Mae Tao Clinic|TBD||0.00|0.00|9000.00|9000.00|Person|1|264000.00|5.00||||20170329|||
+2|DGHP-AFI|TAK|2|28|0|Annual check-up|$58.82 (฿2,000)/person x 24 persons||0.00|0.00|48000.00|48000.00|Annual|||||||20170329||20171010|
+2|DGHP-AFI|TAK|2|29|0|Research assistant|TBD||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170907|||
+2|DGHP-AFI|TAK|3|1|0|Capacity building and training|Travel for local and CoAg staff from district and provincial hospitals to attend training/meeting/audit at Mae Sot hospital or another district within Tak (i.e. Refreshing AFI method and specimen collection, data audit)||0.00|117000.00|198000.00|315000.00|Time|3|15.00|3.00|2000.00|1000.00|0.00|20170329||20171009|
+2|DGHP-AFI|TAK|3|2|0|Scientific or academic meeting / training|Travel for government or CoAg staff to attend meeting/training. Obj: to broaden their capacity and knowledge, to share lesson learn, study finding and discussion about project and activity accomplishments.||0.00|130000.00|390000.00|520000.00|Time|1|40.00|3.00|2000.00|7000.00|0.00|20170329||20171010|
+2|DGHP-AFI|TAK|3|3|0|Local transportation in Tak|Cost for petrol, taxi, vihicle rental||0.00|24000.00|176000.00|200000.00|Month|10|5.00|1.00|0.00|4000.00|0.00|20170329||20171010|
+2|DGHP-AFI|TAK|3|4|0|RN and Lab staff training for renewing registerd nure/laboratory licensure|To support CoAg staff to earn point and renew thier licensure/certificate||0.00|26000.00|52000.00|78000.00|Time|2|3.00|3.00|2000.00|7000.00|0.00|20170907||20171011|
+2|DGHP-AFI|TAK|3|5|0|Organization development meeting for CoAg, local staff and co-worker|To improve organizational effectiveness and increase level of staff and group responsibility in knowlegde management, skill, coping capabilities and problem solving,||210000.00|0.00|-0.00|210000.00|Time|1|30.00|3.00|2000.00|1000.00|0.00|20171009||20171010|
+2|DGHP-AFI|TAK|3|6|0|Local scientific/ academic meeting|To attend knowledge meeting in Tak site between local staff and MoPH staff||0.00|200000.00|-0.00|200000.00|Time|2|20.00|2.00|2000.00|1000.00|0.00|20171010||20171010|
+2|DGHP-AFI|TAK|3|7|0|Hospital visit for monthly data audit|Travelling to participating hospital to audit data for accuracy and completeness||0.00|100000.00|-0.00|100000.00|Time|10|5.00|1.00|2000.00|0.00|0.00|20171010||20171010|
+2|DGHP-AFI|TAK|4|1|0|Lab equipment|See attached budget justificationn for details||0.00|0.00|500000.00|500000.00|Time|1|500000.00|||||20170329||20171010|
+2|DGHP-AFI|TAK|4|2|0|Office equipment|see attached budget justification for details + partition||20000.00|0.00|60469.00|80469.00|Time|1|80469.00|||||20170329||20171009|
+2|DGHP-AFI|TAK|4|3|0|IT equipment|see attached budget justification for details + scanner + printer + UPS stabilizer||40000.00|0.00|80000.00|120000.00|Time|1|120000.00|||||20170329||20171010|
+2|DGHP-AFI|TAK|4|4|0|Office electric fan|project will procure electric fans to use at office and facilitate coag staff who works in 4 local hospitals and MTC||43947.60|0.00|-0.00|43947.60|Time|1|43947.60|||||20171009||20171009|
+2|DGHP-AFI|TAK|5|1|0|Office supplies|To purchase stationery and office supplies, barcode sticker, folder, ring binder, ink pad, rubber stamp etc.||28200.00|0.00|91800.00|120000.00|Month|6|20000.00|||||20170329||20171009|
+2|DGHP-AFI|TAK|5|2|0|Lab reagent and lab/medical supplies|see attached budget justification for details||0.00|0.00|1500000.00|1500000.00|Time|4|375000.00|||||20170329||20170329|
+2|DGHP-AFI|TAK|5|3|0|Office and laboratory cleaning supplies|see attached budget justification for details||40000.00|0.00|40000.00|80000.00|Time|4|20000.00|||||20170329||20171009|
+2|DGHP-AFI|TAK|5|4|0|CO2 gas refill charge|To support the CO2 incubator for AFI laboratory use||0.00|32000.00|50000.00|82000.00|Month|4|20500.00|||||20170329||20171010|
+2|DGHP-AFI|TAK|5|5|0|IT supplies|see attached budget justification for details||0.00|30000.00|90000.00|120000.00|Time|3|40000.00|||||20170329||20171010|
+2|DGHP-AFI|TAK|6|1|0|Specimen shipping and transportation|vehicle + driver + gas. See attached budget justificationn for details||120000.00|0.00|720000.00|840000.00|Month|12|70000.00|||||20170329||20171009|
+2|DGHP-AFI|TAK|8|1|0|Specimen, document and package shipment|12 months x $250 (฿8,500)||0.00|60000.00|42000.00|102000.00|Month|12|||||8500.00|20170329||20171010|
+2|DGHP-AFI|TAK|8|2|0|Compensation for research participants|3,000 cases x $8.82 (฿300)||0.00|900000.00|-0.00|900000.00|case|3000|||||300.00|20170329||20170915|
+2|DGHP-AFI|TAK|8|3|0|Compensation for participants'convalescent follow-up|1,500 f/u visit x $8.82 (฿300)||0.00|330000.00|120000.00|450000.00|case|1500|||||300.00|20170329||20170915|
+2|DGHP-AFI|TAK|8|4|0|Compensation for specimen transportation by hospital|$235.29 (฿8,000) x 12mth||0.00|0.00|96000.00|96000.00|Month|12|||||8000.00|20170329||20171010|
+2|DGHP-AFI|TAK|8|5|0|Specimen processing|1,500 x 2 (acute & convalescent) x $4.12 (฿140)||0.00|0.00|420000.00|420000.00|case|3000|||||140.00|20170329||20170915|
+2|DGHP-AFI|TAK|8|6|0|Photocopying|12 months x $294.12 (฿10,000)||0.00|0.00|120000.00|120000.00|Month|12|||||10000.00|20170329||20170915|
+2|DGHP-AFI|TAK|8|7|0|Information meeting|Local participant. See attached budget justification for details||24000.00|0.00|96000.00|120000.00|Time|4|50.00|1.00|600.00|0.00|0.00|20170329||20171009|
+2|DGHP-AFI|TAK|8|8|0|Scientific meeting|Local participant. See attached budget justification for details||0.00|0.00|54000.00|54000.00|Time|1|45.00|2.00|600.00|0.00|0.00|20170329||20170907|
+2|DGHP-AFI|TAK|8|9|0|Refreshing training|Local participants. See attached budget justification for details||12000.00|0.00|36000.00|48000.00|Time|1|40.00|2.00|600.00|0.00|0.00|20170329||20171009|
+2|DGHP-AFI|TAK|8|10|0|Meeting fascilities|Meeting material, printing, folder, venue rental. See attached budget justification for details 7 meetings x $57.14 (THB 2,000)||29800.00|0.00|50200.00|80000.00|Time|4|0.00|0.00|0.00|0.00|20000.00|20170329||20171009|
+2|DGHP-AFI|TAK|8|11|0|internet fee for server, office/lab and participating hospital use|||0.00|0.00|108000.00|108000.00|Month|12|||||9000.00|20170329||20170916|
+2|DGHP-AFI|TAK|8|12|0|Maintenance of office/lab/IT equipment|See attached budget justification for details||150000.00|0.00|300000.00|450000.00|Time|3|0.00|0.00|0.00|0.00|150000.00|20170329||20171009|
+2|DGHP-AFI|TAK|8|13|0|Utilities cost for office and laboratory|See attached budget justification for details||0.00|30000.00|60000.00|90000.00|Month|12|||||7500.00|20170329||20171011|
+2|DGHP-AFI|TAK|8|14|0|Telephone for RN and RA, Lab and Admin|$8.82 (฿300)/person x 8p x 12m) See attached budget justification for details||0.00|0.00|28800.00|28800.00|Month|12|||||2400.00|20170329||20171010|
+2|DGHP-AFI|TAK|8|15|0|E-mail domain register|See attached budget justification for details||0.00|0.00|-0.00|0.00|Annual|||||||20170329||20170916|
+2|DGHP-AFI|TAK|8|16|0|Data audit|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170329||20170907|
+2|DGHP-AFI|TAK|8|17|0|Scientific/academic training and meeting|Resourch person ($35.29 (฿1,200) /hr) See attached budget justification for details||0.00|43200.00|14400.00|57600.00|Time|2|2.00|2.00|0.00|0.00|28800.00|20170907||20171010|
+2|DGHP-AFI|TAK|8|18|0|Exchange rate management|To support depreciation from exchange rate fluctuation during budget year||0.00|0.00|450133.00|450133.00|Annual|||||||20170914|||
+2|DGHP-AFI|TAK|8|19|0|Academic journal / textbook|To provide academic textbook, medical encyclopedia or journal to broden knowlegde associated project activity in 5 participated hospitals and MTC||100000.00|23270.00|-0.00|123270.00|Annual|||||||20171009||20171012|
+2|DGHP-AFI|TAK|8|20|0|local scientific/academic meeting|local participants from Tak site||0.00|120000.00|-0.00|120000.00|Time|2|50.00|2.00|600.00|0.00|0.00|20171010||20171012|
+2|DGHP-AFI|TAK|8|21|0|Register fee of CoAg staff (Nurse and lab technician) training for renewing licensure/certificate|To support nurse and lab staff for training so that they can earn point and renew their licensure or certificate||0.00|30000.00|-0.00|30000.00|Time|2|3.00|0.00|5000.00|0.00|15000.00|20171011||20171011|

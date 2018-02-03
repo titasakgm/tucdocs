@@ -1,0 +1,584 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-AFI|TAK|1|1|1|Compensation for Researcher Dr.Poonlarp Chantavichitwong, Provincial Chief Medical Officer, Tak province|20161216|6000.00|10106612||||||ประจำเดือน ต.ค.-พ.ย.59|20170120|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|1|3|Compensation for Researcher Dr.Poonlarp Chantavichitwong, Provincial Chief Medical Officer, Tak province|20170118|3000.00|10106617||||||ประจำเดือน ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|1|4|Compensation for Researcher Dr.Poonlarp Chantavichitwong, Provincial Chief Medical Officer, Tak province|20170217|3000.00|10118067||||||ประจำเดือน ม.ค.60|20170310|DGHP-AFI-TAK|20170310|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|1|5|Compensation for Researcher Dr.Poonlarp Chantavichitwong, Provincial Chief Medical Officer, Tak province|20170315|3000.00|10118080||||||ประจำเดือน ก.พ.60|20170426|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|1|6|Compensation for Researcher Dr.Adisorn Wattanasak, Provincial Chief Medical Officer, Tak province|20170412|3000.00|10126920||||||ประจำเดือน มี.ค.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|1|7|Compensation for Researcher Dr.Adisorn Wattanasak, Provincial Chief Medical Officer, Tak province|20170518|3000.00|10133187||||||ประจำเดือน เม.ย.60|20170702||20170702|
+1|DGHP-AFI|TAK|1|1|8|Compensation for Researcher Dr.Adisorn Wattanasak, Provincial Chief Medical Officer, Tak province|20170621|3000.00|10133220||||||ประจำเดือน พ.ค.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|1|9|Compensation for Researcher Dr.Adisorn Wattanasak, Provincial Chief Medical Officer, Tak province|20170719|3000.00|10137954||||||ประจำเดือน มิ.ย.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|1|10|Compensation for Researcher Dr.Adisorn Wattanasak, Provincial Chief Medical Officer, Tak province|20170816|3000.00|10137984||||||ประจำเดือน ก.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|1|1|12|Compensation for Researcher Dr.Adisorn Wattanasak, Provincial Chief Medical Officer, Tak province|20170831|3000.00|10146581||||||ประจำเดือน ส.ค.60 (จ่ายจริง 14/09/60)|20170907||20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|2|1|Compensation for Researcher Dr.Suchat Porncharoenpong, Director of Mae Sot Hospital|20161216|6000.00|10106612||||||ประจำเดือน ต.ค.-พ.ย.59|20170120|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|2|3|Compensation for Researcher Dr.Suchat Porncharoenpong, Director of Mae Sot Hospital|20170118|3000.00|10106617||||||ประจำเดือน ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|2|4|Compensation for Researcher Dr.Suchat Porncharoenpong, Director of Mae Sot Hospital|20170217|3000.00|10118067||||||ประจำเดือน ม.ค.60|20170310|DGHP-AFI-TAK|20170310|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|2|5|Compensation for Researcher Dr.Suchat Porncharoenpong, Director of Mae Sot Hospital|20170315|3000.00|10118080||||||ประจำเดือน ก.พ.60|20170426|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|2|7|Compensation for Researcher Dr.Suchat Porncharoenpong, Director of Mae Sot Hospital|20170412|3000.00|10126920||||||ประจำเดือน มี.ค.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|2|9|Compensation for Researcher Dr.Suchat Porncharoenpong, Director of Mae Sot Hospital|20170518|3000.00|10133187||||||ประจำเดือน เม.ย.60|20170702||20170702|
+1|DGHP-AFI|TAK|1|2|10|Compensation for Researcher Dr.Suchat Porncharoenpong, Director of Mae Sot Hospital|20170621|3000.00|10133220||||||ประจำเดือน พ.ค.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|2|12|Compensation for Researcher Dr.Suchat Porncharoenpong, Director of Mae Sot Hospital|20170719|3000.00|10137954||||||ประจำเดือน มิ.ย.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|2|13|Compensation for Researcher Dr.Suchat Porncharoenpong, Director of Mae Sot Hospital|20170816|3000.00|10137984||||||ประจำเดือน ก.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|1|2|15|Compensation for Researcher Dr.Suchat Porncharoenpong, Director of Mae Sot Hospital|20170831|3000.00|10146581||||||ประจำเดือน ส.ค.60 (จ่ายจริง 14/09/60)|20170907||20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|3|1|Compensation for Researcher Dr.Nuttagan  Chuenchom, Technical coordinator|20161216|6000.00|10106612||||||ประจำเดือน ต.ค.-พ.ย.59|20170120|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|3|3|Compensation for Researcher Dr.Nuttagan  Chuenchom, Technical coordinator|20170118|3000.00|10106617||||||ประจำเดือน ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|3|4|Compensation for Researcher Dr.Nuttagan  Chuenchom, Technical coordinator|20170217|3000.00|10118067||||||ประจำเดือน ม.ค.60|20170310|DGHP-AFI-TAK|20170310|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|3|5|Compensation for Researcher Dr.Nuttagan  Chuenchom, Technical coordinator|20170315|3000.00|10118080||||||ประจำเดือน ก.พ.60|20170426|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|3|6|Compensation for Researcher Dr.Nuttagan  Chuenchom, Technical coordinator|20170412|3000.00|10126920||||||ประจำเดือน มี.ค.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|3|7|Compensation for Researcher Dr.Nuttagan  Chuenchom, Technical coordinator|20170518|3000.00|10133187||||||ประจำเดือน เม.ย.60|20170702||20170702|
+1|DGHP-AFI|TAK|1|3|8|Compensation for Researcher Dr.Nuttagan  Chuenchom, Technical coordinator|20170621|3000.00|10133220||||||ประจำเดือน พ.ค.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|3|9|Compensation for Researcher Dr.Nuttagan  Chuenchom, Technical coordinator|20170719|3000.00|10137954||||||ประจำเดือน มิ.ย.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|3|10|Compensation for Researcher Dr.Nuttagan  Chuenchom, Technical coordinator|20170816|3000.00|10137984||||||ประจำเดือน ก.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|1|3|12|Compensation for Researcher Dr.Nuttagan  Chuenchom, Technical coordinator|20170831|3000.00|10146581||||||ประจำเดือน ส.ค.60 (จ่ายจริง 14/09/60)|20170907||20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|4|1|Compensation for Researcher Mr.Pongpot Peanumlom, AssistantTechnical coordinator|20161216|6000.00|10106612||||||ประจำเดือน ต.ค.-พ.ย.59|20170120|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|4|3|Compensation for Researcher Mr.Pongpot Peanumlom, AssistantTechnical coordinator|20170118|3000.00|10106617||||||ประจำเดือน ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|4|4|Compensation for Researcher Mr.Pongpot Peanumlom, AssistantTechnical coordinator|20170217|3000.00|10118067||||||ประจำเดือน ม.ค.60|20170310|DGHP-AFI-TAK|20170310|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|4|5|Compensation for Researcher Mr.Pongpot Peanumlom, AssistantTechnical coordinator|20170315|3000.00|10118080||||||ประจำเดือน ก.พ.60|20170426|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|4|6|Compensation for Researcher Mr.Pongpot Peanumlom, AssistantTechnical coordinator|20170412|3000.00|10126920||||||ประจำเดือน มี.ค.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|4|7|Compensation for Researcher Mr.Pongpot Peanumlom, AssistantTechnical coordinator|20170518|3000.00|10133187||||||ประจำเดือน เม.ย.60|20170702||20170702|
+1|DGHP-AFI|TAK|1|4|8|Compensation for Researcher Mr.Pongpot Peanumlom, AssistantTechnical coordinator|20170621|3000.00|10133220||||||ประจำเดือน พ.ค.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|4|9|Compensation for Researcher Mr.Pongpot Peanumlom, AssistantTechnical coordinator|20170719|3000.00|10137954||||||ประจำเดือน มิ.ย.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|4|10|Compensation for Researcher Mr.Pongpot Peanumlom, AssistantTechnical coordinator|20170816|3000.00|10137984||||||ประจำเดือน ก.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|1|4|12|Compensation for Researcher Mr.Pongpot Peanumlom, AssistantTechnical coordinator|20170831|3000.00|10146581||||||ประจำเดือน ส.ค.60 (จ่ายจริง 14/09/60)|20170907||20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|5|1|Compensation for Researcher Mr.Yingyot  Kaewnet, AssistantTechnical coordinator|20161216|6000.00|10106612||||||ประจำเดือน ต.ค.-พ.ย.59|20170120|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|5|3|Compensation for Researcher Mr.Yingyot  Kaewnet, AssistantTechnical coordinator|20170118|3000.00|10106617||||||ประจำเดือน ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|5|4|Compensation for Researcher Mr.Yingyot  Kaewnet, AssistantTechnical coordinator|20170217|3000.00|10118067||||||ประจำเดือน ม.ค.60|20170310|DGHP-AFI-TAK|20170310|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|5|5|Compensation for Researcher Mr.Yingyot  Kaewnet, AssistantTechnical coordinator|20170315|3000.00|10118080||||||ประจำเดือน ก.พ.60|20170426|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|5|6|Compensation for Researcher Mr.Yingyot  Kaewnet, AssistantTechnical coordinator|20170412|3000.00|10126920||||||ประจำเดือน มี.ค.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|5|7|Compensation for Researcher Mr.Yingyot  Kaewnet, AssistantTechnical coordinator|20170518|3000.00|10133187||||||ประจำเดือน เม.ย.60|20170702||20170702|
+1|DGHP-AFI|TAK|1|5|8|Compensation for Researcher Mr.Yingyot  Kaewnet, AssistantTechnical coordinator|20170621|3000.00|10133220||||||ประจำเดือน พ.ค.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|5|9|Compensation for Researcher Mr.Yingyot  Kaewnet, AssistantTechnical coordinator|20170719|3000.00|10137954||||||ประจำเดือน มิ.ย.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|5|10|Compensation for Researcher Mr.Yingyot  Kaewnet, AssistantTechnical coordinator|20170816|3000.00|10137984||||||ประจำเดือน ก.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|1|5|12|Compensation for Researcher Mr.Yingyot  Kaewnet, AssistantTechnical coordinator|20170831|3000.00|10146581||||||ประจำเดือน ส.ค.60 (จ่ายจริง 14/09/60)|20170907||20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|1|Project manager Mr.Samkan Chaoprasert|20161028|36668.75|10106601|20161028|750.00|10106602|||เงินเดือน ก.ย.59 ปกส. ก.ย.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|3|Project manager Mr.Samkan Chaoprasert|20161028|36668.75|10106603|20161028|750.00|10106604|||เงินเดือน ต.ค.59 ปกส. ต.ค.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|11|Project manager Mr.Samkan Chaoprasert|20161128|36668.75|10106606|20161215|750.00|10106608|||เงินเดือน พ.ย.59 ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|12|Project manager Mr.Samkan Chaoprasert|20161206|581.25|10106610||||||ภงด. หัก ณ ที่จ่าย พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|23|Project manager Mr.Samkan Chaoprasert|20170228|571.00|10118071||||||ภงด. หัก ณ ที่จ่าย ก.พ.60|20170310|DGHP-AFI-TAK|20170310|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|26|Project manager Mr.Samkan Chaoprasert|20161227|36668.75|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|30|Project manager Mr.Samkan Chaoprasert|20161031|581.25|10106605|20161031|581.25|10106605|||ภงด.หัก ณ ที่จ่าย ก.ย.-ต.ค.59|20170119|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|31|Project manager Mr.Samkan Chaoprasert|20170126|36679.17|10106618|20170106|750.00|10116619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|35|Project manager Mr.Samkan Chaoprasert|20170106|570.83|10118061||||||ภงด.หัก ณ ที่จ่าย ม.ค.60 วันที่เช็คผิด จ่ายจริง 06 ก.พ.|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|36|Project manager Mr.Samkan Chaoprasert|20170106|581.25|10106615||||||ภงด. หัก ณ ที่จ่าย ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|37|Project manager Mr.Samkan Chaoprasert|20170223|36679.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|38|Project manager Mr.Samkan Chaoprasert|20170324|36679.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|41|Project manager Mr.Samkan Chaoprasert|20170324|571.00|10126908||||||ภงด.หัก ณ ที่จ่าย มี.ค.60|20170427|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|49|Project manager Mr.Samkan Chaoprasert|20170524|36679.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|53|Project manager Mr.Samkan Chaoprasert|20170425|36679.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|54|Project manager Mr.Samkan Chaoprasert|20170503|571.00|10126924||||||ภงด. หัก ณ ที่จ่าย เม.ย.60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|60|Project manager Mr.Samkan Chaoprasert|20170606|571.00|10133190||||||ภ.ง.ด. หัก ณ ที่จ่าย พ.ค.60|20170701|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|61|Project manager Mr.Samkan Chaoprasert|20170627|36679.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170714|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|62|Project manager Mr.Samkan Chaoprasert|20170706|571.00|10133224||||||ภงด.หัก ณ ที่จ่าย มิ.ย.60|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|64|Project manager Mr.Samkan Chaoprasert|20170726|36679.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|69|Project manager Mr.Samkan Chaoprasert|20170828|36679.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907|DGHP-AFI-TAK|20170907|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|70|Project manager Mr.Samkan Chaoprasert|20170831|571.00|10137991||||||ภงด.หัก ณ ที่จ่าย ส.ค.60  จ่ายจริง 06/09/2560|20170907|DGHP-AFI-TAK|20170907|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|6|71|Project manager Mr.Samkan Chaoprasert|20170807|571.00|10137957||||||ภงด.หัก ณ ที่จ่าย ก.ค.60|20170801|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|1|7|2|Data Manager Ms.Pemika Mahasakpan|20161028|15250.00|10106601|20161028|750.00|10106602|||เงินเดือน ก.ย.59 ปกส. ก.ย.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|7|4|Data Manager Ms.Pemika Mahasakpan|20161028|15250.00|10106603|20161028|750.00|10106604|||เงินเดือน ต.ค.59 ปกส. ต.ค.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|7|8|Data Manager Ms.Pemika Mahasakpan|20161128|15250.00|10106606|20161215|750.00|10106608|||เงินเดือน พ.ย.59 ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|7|20|Data Manager Ms.Pemika Mahasakpan|20161227|15250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|7|22|Data Manager Ms.Pemika Mahasakpan|20170126|15250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|7|23|Data Manager Ms.Pemika Mahasakpan|20170223|15250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|7|24|Data Manager Ms.Pemika Mahasakpan|20170324|15250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|7|30|Data Manager Ms.Pemika Mahasakpan|20170524|15250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|7|31|Data Manager Ms.Pemika Mahasakpan|20170425|15250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|7|32|Data Manager Ms.Pemika Mahasakpan|20170627|15250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|7|33|Data Manager Ms.Pemika Mahasakpan|20170726|15250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|7|36|Data Manager Ms.Pemika Mahasakpan|20170828|15250.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907|DGHP-AFI-TAK|20170907|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|8|1|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20161028|19250.00|10106601|20161028|750.00|10106602|||เงินเดือน ก.ย.59 ปกส. ก.ย.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|8|2|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20161028|19250.00|10106603|20161028|750.00|10106604|||เงินเดือน ต.ค.59 ปกส. ต.ค.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|8|7|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20161128|19250.00|10106606|20161215|750.00|10106608|||เงินเดือน พ.ย.59 ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|8|17|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20161227|19250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|8|19|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170126|19250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|8|20|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170223|19250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|8|21|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170324|19250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|8|28|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170524|19250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|8|29|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170425|19250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|8|30|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170627|19250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|8|31|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170726|19250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|8|32|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170828|19250.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907|DGHP-AFI-TAK|20170907|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|10|1|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20161028|19250.00|10106601|20161028|750.00|10106602|||เงินเดือน ก.ย.59 ปกส. ก.ย.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|10|3|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20161028|19250.00|10106603|20161028|750.00|10106604|||เงินเดือน ต.ค.59 ปกส. ต.ค.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|10|7|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20161128|19250.00|10106606|20161215|750.00|10106608|||เงินเดือน พ.ย.59 ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|10|16|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20161227|19250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|10|18|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170126|19250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|10|19|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170223|19250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|10|20|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170324|19250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|10|26|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170524|19250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|10|27|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170425|19250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|10|28|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170627|19250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|10|29|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170726|19250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|10|30|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170828|19250.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907|DGHP-AFI-TAK|20170907|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|11|6|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20161128|6334.00|10106606|20161215|333.00|10106608|||เงินเดือน พ.ย.59 (เริ่มงาน 21) ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|11|15|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20161227|19250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|11|17|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170126|19250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|11|18|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170223|19250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|11|19|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170324|19250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|11|25|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170524|19250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|11|26|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170425|19250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|11|27|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170627|19250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|11|28|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170726|19250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|11|29|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170828|19250.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907|DGHP-AFI-TAK|20170907|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|12|10|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20161227|19250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|12|12|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170126|19250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|12|13|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170223|19250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|12|14|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170324|19250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|12|20|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170524|19250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|12|21|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170425|19250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|12|22|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170627|19250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|12|23|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170726|19250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|12|24|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170828|19250.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907|DGHP-AFI-TAK|20170907|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|13|1|Research Assistant (4) Um Phang Hospital Mr.Somkeat Boonnayuen|20161028|19250.00|10106601|20161028|750.00|10106602|||เงินเดือน ก.ย.59 ปกส. ก.ย.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|13|3|Research Assistant (4) Um Phang Hospital Mr.Somkeat Boonnayuen|20161028|19250.00|10106603|20161028|750.00|10106604|||เงินเดือน ต.ค.59 ปกส. ต.ค.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|13|16|Research Assistant (4) Um Phang Hospital Mr.Somkeat Boonnayuen|20161128|19250.00|10106606|20161215|750.00|10106608|||เงินเดือน พ.ย.59 ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|13|17|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20161227|19250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|13|19|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170126|19250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|13|20|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170223|19250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|13|21|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170324|19250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|13|27|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170524|19250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|13|28|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170425|19250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|13|29|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170627|19250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|13|30|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170726|19250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|13|31|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170828|19250.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907|DGHP-AFI-TAK|20170907|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|14|5|Research Assistant (5) Mae Ramat Hospital - Ms.Surada Kongseesuaiwana|20161128|6334.00|10106606|20161215|333.00|10106608|||เงินเดือน พ.ย.59 (เริ่มงาน 21) ปกส. พ.ย.59|20170120|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|14|14|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20161227|19250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|14|16|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170126|19250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|14|17|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170223|19250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส.  ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|14|18|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170324|19250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|14|25|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170524|19250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|14|26|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170425|19250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|14|27|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170627|19250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|14|28|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170726|19250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|14|29|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170828|19250.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907|DGHP-AFI-TAK|20170907|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|15|6|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20161128|6334.00|10106606|20161215|333.00|10106608|||เงินเดือน พ.ย.59 (เริ่มงาน 21) ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|15|15|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20161227|19250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|15|17|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170126|19250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|15|18|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170223|19250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|15|19|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170324|19250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|15|24|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170524|19250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|15|25|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170425|19250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|15|26|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170627|19250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|15|27|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170726|19250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|15|28|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170828|19250.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907|DGHP-AFI-TAK|20170907|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|1|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20161028|23250.00|10106601|20161028|750.00|10106602|||เงินเดือน ก.ย.59 ปกส. ก.ย.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|2|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20161028|23250.00|10106603|20161028|750.00|10106604|||เงินเดือน ต.ค.59 ปกส. ต.ค.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|6|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20161128|23250.00|10106606|20161215|750.00|10106608|||เงินเดือน พ.ย.59 ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|16|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20161227|23250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|17|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170126|23250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|18|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170223|23250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|19|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170324|23250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|25|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170524|22290.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|29|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170425|22290.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|30|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170503|960.00|10126924||||||ภงด. หัก ณ ที่จ่าย เม.ย.60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|32|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170627|22290.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|35|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170606|960.00|10133190||||||ภ.ง.ด. หัก ณ ที่จ่าย พ.ค.60|20170701|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|36|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170706|960.00|10133224||||||ภงด.หัก ณ ที่จ่าย มิ.ย.60|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|39|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170726|22290.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|40|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170828|22290.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907|DGHP-AFI-TAK|20170907|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|42|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170831|960.00|10137991||||||ภงด.หัก ณ ที่จ่าย ส.ค.60  จ่ายจริง 06/09/2560|20170907|DGHP-AFI-TAK|20170907|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|16|43|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170807|960.00|10137957||||||ภงด.หัก ณ ที่จ่าย ก.ค.60|20170801|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|1|17|6|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20161128|7600.00|10106606|20161215|400.00|10106608|||เงินเดือน พ.ย.59 (เริ่มงาน 21) ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|17|16|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20161227|23250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|17|17|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170126|23250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|17|18|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170223|23250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|17|19|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170324|23250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|17|24|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170524|23250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|17|25|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170425|23250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|17|26|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170627|23250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|17|27|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170726|23250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|17|29|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170828|23250.00|10137990|20170825|750.00|10137992|||ภงด.หัก ณ ที่จ่าย ส.ค.60  จ่ายจริง 06/09/2560|20170907|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|1|22|1|Lab Technician (1) Ms.Suthini Boonlong|20161028|21250.00|10106601|20161028|750.00|10106602|||เงินเดือน ก.ย.59 ปกส. ก.ย.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|22|2|Lab Technician (1) Ms.Suthini Boonlong|20161028|21250.00|10106603|20161028|750.00|10106604|||เงินเดือน ต.ค.59 ปกส. ต.ค.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|22|6|Lab Technician (1) Ms.Suthini Boonlong|20161128|21250.00|10106606|20161215|750.00|10106608|||เงินเดือน พ.ย.59 ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|22|15|Lab Technician (1) Ms.Suthini Boonlong|20161227|21250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|22|16|Lab Technician (1) Ms.Suthini Boonlong|20170126|21250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|22|17|Lab Technician (1) Ms.Suthini Boonlong|20170223|21250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|22|18|Lab Technician (1) Ms.Suthini Boonlong|20170324|21250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|22|23|Lab Technician (1) Ms.Suthini Boonlong|20170524|21250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|22|24|Lab Technician (1) Ms.Suthini Boonlong|20170425|21250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|22|25|Lab Technician (1) Ms.Suthini Boonlong|20170627|21250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|22|26|Lab Technician (1) Ms.Suthini Boonlong|20170726|21250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|22|28|Lab Technician (1) Ms.Suthini Boonlong|20170828|21250.00|10137990|20170825|750.00|10137992|||ภงด.หัก ณ ที่จ่าย ส.ค.60  จ่ายจริง 06/09/2560|20170907|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|1|23|6|Lab Technician (2) Ms.Tiwaporn Mangtan|20161128|6966.00|10106606|20161215|367.00|10106608|||เงินเดือน พ.ย.59 (เริ่มงาน 21) ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|23|14|Lab Technician (2) Ms.Tiwaporn Mangtan|20161227|21250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|23|15|Lab Technician (2) Ms.Tiwaporn Mangtan|20170126|21250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|23|16|Lab Technician (2) Ms.Tiwaporn Mangtan|20170223|21250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|23|17|Lab Technician (2) Ms.Tiwaporn Mangtan|20170324|21250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|23|22|Lab Technician (2) Ms.Tiwaporn Mangtan|20170524|21250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|23|23|Lab Technician (2) Ms.Tiwaporn Mangtan|20170425|21250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|23|24|Lab Technician (2) Ms.Tiwaporn Mangtan|20170627|21250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|23|25|Lab Technician (2) Ms.Tiwaporn Mangtan|20170726|21250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|23|27|Lab Technician (2) Ms.Tiwaporn Mangtan|20170828|21250.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|1|24|5|Lab Technician (3) Ms.Patsachon Jantah|20161128|6966.00|10106606|20161215|367.00|10106608|||เงินเดือน พ.ย.59 (เริ่มงาน 21) ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|24|15|Lab Technician (3) Ms.Patsachon Jantah|20161227|21250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|24|16|Lab Technician (3) Ms.Patsachon Jantah|20170126|21250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|24|17|Lab Technician (3) Ms.Patsachon Jantah|20170223|21250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|24|18|Lab Technician (3) Ms.Patsachon Jantah|20170324|21250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|24|23|Lab Technician (3) Ms.Patsachon Jantah|20170524|21250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|24|24|Lab Technician (3) Ms.Patsachon Jantah|20170425|21250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|24|25|Lab Technician (3) Ms.Patsachon Jantah|20170627|21250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|24|26|Lab Technician (3) Ms.Patsachon Jantah|20170726|21250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|24|28|Lab Technician (3) Ms.Patsachon Jantah|20170828|21250.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|1|25|7|Lab Technician (4) Ms.Wanvisa Khamlasai|20161128|6966.00|10106606|20161215|367.00|10106608|||เงินเดือน พ.ย.59 (เริ่มงาน 21) ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|25|15|Lab Technician (4) Ms.Wanvisa Khamlasai|20161227|21250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|25|16|Lab Technician (4) Ms.Wanvisa Khamlasai|20170126|21250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|25|17|Lab Technician (4) Ms.Wanvisa Khamlasai|20170223|21250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|25|18|Lab Technician (4) Ms.Wanvisa Khamlasai|20170324|21250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|25|23|Lab Technician (4) Ms.Wanvisa Khamlasai|20170524|21250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|25|24|Lab Technician (4) Ms.Wanvisa Khamlasai|20170425|21250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|25|25|Lab Technician (4) Ms.Wanvisa Khamlasai|20170627|21250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|25|27|Lab Technician (4) Ms.Wanvisa Khamlasai|20170726|21250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|25|28|Lab Technician (4) Ms.Wanvisa Khamlasai|20170828|21250.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|1|26|9|Lab Technician (5) Mr.Sirawit Kornnitikul|20161227|21250.00|10106613|20170113|750.00|10106614|||เงินเดือน ธ.ค.59 ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|26|10|Lab Technician (5) Mr.Sirawit Kornnitikul|20170126|21250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|26|11|Lab Technician (5) Mr.Sirawit Kornnitikul|20170223|21250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|26|12|Lab Technician (5) Mr.Sirawit Kornnitikul|20170324|21250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|26|17|Lab Technician (5) Mr.Sirawit Kornnitikul|20170524|21250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|26|18|Lab Technician (5) Mr.Sirawit Kornnitikul|20170425|21250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|26|19|Lab Technician (5) Mr.Sirawit Kornnitikul|20170627|21250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|26|21|Lab Technician (5) Mr.Sirawit Kornnitikul|20170726|21250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|26|22|Lab Technician (5) Mr.Sirawit Kornnitikul|20170828|21250.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|1|27|14|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170126|21250.00|10106618|20170106|750.00|10106619|||เงินเดือน ม.ค.60 ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|27|15|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20161227|10787.00|10106613|20170113|568.00|10106614|||เงินเดือน ธ.ค.59 (เริ่มงาน 16) ปกส. ธ.ค. 59|20170120|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|27|16|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170223|21250.00|10118069|20170308|750.00|10118070|||เงินเดือน ก.พ.60 ปกส. ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|27|17|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170324|21250.00|10126904|20170324|750.00|10126905|||เงินเดือน มี.ค.60 ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|27|22|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170524|21250.00|10133188|20170524|750.00|10133189|||เงินเดือน พ.ค.60 ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|27|23|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170425|21250.00|10126922|20170424|750.00|10126923|||เงินเดือน เม.ย..60 ปกส. เม.ย..60|20170518|DGHP-AFI-TAK|20170702|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|27|24|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170627|21250.00|10133223|20170623|750.00|10133225|||เงินเดือน มิ.ย.60 ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|27|25|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170726|21250.00|10137956|20170724|750.00|10137958|||เงินเดือน ก.ค.60 ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|27|26|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170828|21250.00|10137990|20170825|750.00|10137992|||เงินเดือน ส.ค.60 ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|1|28|1|OT for CoAg staff - Admin (3) [$2.06 (THB 70)/hr x 16 hrs x 4 weeks x 10 mths] x 3 persons|20170410|13320.00|10126914||||||OT ประจำเดือน มี.ค.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|28|2|OT for CoAg staff - Admin (3) [$2.06 (THB 70)/hr x 16 hrs x 4 weeks x 8 mths] x 3 persons|20170612|5880.00|10133206||||||O.T. ประจำเดือน พ.ค.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|28|3|OT for CoAg staff - Admin (3) [$2.06 (THB 70)/hr x 16 hrs x 4 weeks x 8 mths] x 3 persons|20170816|7350.00|10137981||||||OT ประจำเดือน ก.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|1|29|2|OT for Research Assistant (6) - [$2.06 (THB 70/hr) x 24 hrs x 4 weeks x 10 mths] x 6 persons|20170410|20480.00|10126913||||||OT ประจำเดือน มี.ค.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|29|3|OT for Research Assistant (6) - [$2.06 (THB 70/hr) x 24 hrs x 4 weeks x 8 mths] x 6 persons|20170515|15440.00|10133182||||||OT ประจำเดือน เม.ย.60|20170702||20170702|
+1|DGHP-AFI|TAK|1|29|5|OT for Research Assistant (6) - [$2.06 (THB 70/hr) x 24 hrs x 4 weeks x 8 mths] x 6 persons|20170612|19040.00|10133207||||||O.T. ประจำเดือน พ.ค.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|29|6|OT for Research Assistant (6) - [$2.06 (THB 70/hr) x 24 hrs x 4 weeks x 8 mths] x 6 persons|20170713|19760.00|10137945||||||O.T. ประจำเดือน มิ.ย.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|29|7|OT for Research Assistant (6) - [$2.06 (THB 70/hr) x 24 hrs x 4 weeks x 8 mths] x 6 persons|20170816|18100.00|10137982||||||OT ประจำเดือน ก.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|1|29|8|OT for Research Assistant (6) - [$2.06 (THB 70/hr) x 24 hrs x 4 weeks x 8 mths] x 6 persons|20170831|18420.00|10146588||||||O.T. ประจำเดือน ส.ค.60|20170922|DGHP-AFI-TAK|20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|30|1|OT for Research Nurse (6) - [$2.06 (THB 70/hr x 24 hrs x 4 weeks x 10 mths] x 6 persons|20170410|9440.00|10126913||||||OT ประจำเดือน มี.ค.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|30|2|OT for Research Nurse (6) - [$2.06 (THB 70/hr x 24 hrs x 4 weeks x 8 mths] x 6 persons|20170515|7760.00|10133182||||||OT ประจำเดือน เม.ย.60|20170702||20170702|
+1|DGHP-AFI|TAK|1|30|3|OT for Research Nurse (6) - [$2.06 (THB 70/hr x 24 hrs x 4 weeks x 8 mths] x 6 persons|20170612|8960.00|10133207||||||O.T. ประจำเดือน พ.ค.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|30|4|OT for Research Nurse (6) - [$2.06 (THB 70/hr x 24 hrs x 4 weeks x 8 mths] x 6 persons|20170713|9200.00|10139745||||||O.T. ประจำเดือน มิ.ย.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|30|5|OT for Research Nurse (6) - [$2.06 (THB 70/hr x 24 hrs x 4 weeks x 8 mths] x 6 persons|20170816|9460.00|10137982||||||OT ประจำเดือน ก.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|1|30|6|OT for Research Nurse (6) - [$2.06 (THB 70/hr x 24 hrs x 4 weeks x 8 mths] x 6 persons|20170831|8220.00|10146588||||||O.T. ประจำเดือน ส.ค.60|20170922|DGHP-AFI-TAK|20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|31|1|OT for Lab Technician (6) [$17.65 (THB 600/shift) x 9 shifts x 4 weeks x 5 mths] x 2 persons|20170515|9000.00|10133185||||||OT ประจำเดือน เม.ย.60|20170702||20170702|
+1|DGHP-AFI|TAK|1|31|3|OT for Lab Technician (6) [$17.65 (THB 600/shift) x 9 shifts x 4 weeks x 5 mths] x 2 persons|20170612|22800.00|10133208||||||O.T. ประจำเดือน พ.ค.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|31|4|OT for Lab Technician (6) [$17.65 (THB 600/shift) x 9 shifts x 4 weeks x 5 mths] x 2 persons|20170713|19800.00|10137944||||||O.T. ประจำเดือน มิ.ย.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|31|7|OT for Lab Technician (6) [$17.65 (THB 600/shift) x 9 shifts x 4 weeks x 5 mths] x 2 persons|20170816|28800.00|10137983||||||O.T. ประจำเดือน ก.ค.60|20170907||20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|31|8|OT for Lab Technician (6) [$17.65 (THB 600/shift) x 9 shifts x 4 weeks x 5 mths] x 2 persons|20170831|24600.00|10146589||||||O.T. ประจำเดือน ส.ค.60|20170922|DGHP-AFI-TAK|20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|32|3|Compensation for Government Staffs -  [$2.06 (THB 70)/hr x 20 hrs x 4 weeks x 4 mths] x 2 persons and Lab technician: [$17.65 (THB 600)/hr x 10S x 4 weeks x 3 mths] x 3 persons|20170612|4410.00|10133205||||||คตท. พัสดุ ประจำ พ.ค.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|32|4|Compensation for Government Staffs -  [$2.06 (THB 70)/hr x 20 hrs x 4 weeks x 4 mths] x 2 persons and Lab technician: [$17.65 (THB 600)/hr x 10S x 4 weeks x 3 mths] x 3 persons|20170713|4620.00|10137946||||||คตท.พัสดุ ประจำ มิ.ย.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|32|6|Compensation for Government Staffs -  [$2.06 (THB 70)/hr x 20 hrs x 4 weeks x 4 mths] x 2 persons and Lab technician: [$17.65 (THB 600)/hr x 10S x 4 weeks x 3 mths] x 3 persons|20170831|4620.00|10146582||||||คตท.พัสดุ ประจำ ส.ค.60|20170922|DGHP-AFI-TAK|20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|32|7|Compensation for Government Staffs -  [$2.06 (THB 70)/hr x 20 hrs x 4 weeks x 4 mths] x 2 persons and Lab technician: [$17.65 (THB 600)/hr x 10S x 4 weeks x 3 mths] x 3 persons|20170816|3990.00|10137980||||||คตท.พัสดุ ประจำ. ก.ค.60|20170907||20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|32|8|Compensation for Government Staffs -  [$2.06 (THB 70)/hr x 20 hrs x 4 weeks x 4 mths] x 2 persons and Lab technician: [$17.65 (THB 600)/hr x 10S x 4 weeks x 3 mths] x 3 persons|20170515|3360.00|10133181||||||คตท. พัสดุ ประจำ เม.ย.60|20170702||20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|1|32|9|Compensation for Government Staffs -  [$2.06 (THB 70)/hr x 20 hrs x 4 weeks x 4 mths] x 2 persons and Lab technician: [$17.65 (THB 600)/hr x 10S x 4 weeks x 3 mths] x 3 persons|20170410|3360.00|10126917||||||คตท. พัสดุ ประจำ มี.ค.60|20170518|DGHP-AFI-TAK|20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|1|3|Project manager Mr.Samkan Chaoprasert|20161028|750.00|10106602|20161028|750.00|10106604|||ปกส.เดือน ก.ย.59 ปกส.เดือน ต.ค.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|1|5|Project manager Mr.Samkan Chaoprasert|20161215|750.00|10106608||||||ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|1|7|Project manager Mr.Samkan Chaoprasert|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|1|10|Project manager Mr.Samkan Chaoprasert|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|1|11|Project manager Mr.Samkan Chaoprasert|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|1|12|Project manager Mr.Samkan Chaoprasert|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|1|13|Project manager Mr.Samkan Chaoprasert|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|1|16|Project manager Mr.Samkan Chaoprasert|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|1|17|Project manager Mr.Samkan Chaoprasert|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|1|18|Project manager Mr.Samkan Chaoprasert|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|1|19|Project manager Mr.Samkan Chaoprasert|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|2|6|Data Manager Ms.Pemika Mahasakpan|20161028|750.00|10106602|20161028|750.00|10106604|||ปกส.เดือน ก.ย.59 ปกส.เดือน ต.ค.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|2|7|Data Manager Ms.Pemika Mahasakpan|20161215|750.00|10106608||||||ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|2|9|Data Manager Ms.Pemika Mahasakpan|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|2|12|Data Manager Ms.Pemika Mahasakpan|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|2|13|Data Manager Ms.Pemika Mahasakpan|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|2|15|Data Manager Ms.Pemika Mahasakpan|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|2|16|Data Manager Ms.Pemika Mahasakpan|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|2|17|Data Manager Ms.Pemika Mahasakpan|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|2|18|Data Manager Ms.Pemika Mahasakpan|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|2|19|Data Manager Ms.Pemika Mahasakpan|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|2|20|Data Manager Ms.Pemika Mahasakpan|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|3|4|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20161028|750.00|10106602|20161028|750.00|10106604|||ปกส.เดือน ก.ย.59 ปกส.เดือน ต.ค.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|3|5|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20161215|750.00|10106608||||||ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|3|7|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|3|10|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|3|11|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|3|12|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|3|13|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|3|14|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|3|15|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|3|16|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|3|17|Financial and Administrative Officer Mr.Nutpacul Pianumlom|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|5|4|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20161028|750.00|10106602|20161028|750.00|10106604|||ปกส.เดือน ก.ย.59 ปกส.เดือน ต.ค.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|5|5|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20161215|750.00|10106608||||||ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|5|7|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|5|10|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|5|11|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|5|12|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|5|13|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|5|14|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|5|15|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|5|16|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|5|17|Research Assistant (1) Mae Sot Genernal Hospital Mr.Sumpun Butapun|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|6|3|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20161215|333.00|10106608||||||ปกส. พ.ย.59 (เริ่มงาน 21)|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|6|5|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|6|8|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|6|9|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|6|10|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|6|11|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|6|12|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|6|13|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|6|14|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|6|15|Research Assistant (2) Mae Sot General Hospital - Translator Mr.Kraisorn Srimuang|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|7|2|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|7|5|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|7|6|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|7|7|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|7|8|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|7|9|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|7|10|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|7|11|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|7|12|Research Assistant (3) Tha Song Yang Hospital Ms.Rakpon Panasathitwikarn|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|8|5|Research Assistant (4) Um Phang Hospital Mr.Somkeat Boonnayuen|20161028|750.00|10106602|20161028|750.00|10106604|||ปกส.เดือน ก.ย.59 ปกส.เดือน ต.ค.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|8|7|Research Assistant (4) Um Phang Hospital Mr.Somkeat Boonnayuen|20161215|750.00|10106608||||||ปกส. พ.ย.59|20170120|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|8|9|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|8|12|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|8|13|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|8|14|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|8|15|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|8|16|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|8|17|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|8|18|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|8|19|Research Assistant (4) Um Phang Hospital Ms.Surada Kongseesuaiwana|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|9|2|Research Assistant (5) Mae Ramat Hospital - Ms.Surada Kongseesuaiwana|20161215|333.00|10106608||||||ปกส. พ.ย.59|20170120|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|9|4|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|9|7|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|9|8|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|9|9|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|9|10|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|9|11|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|9|12|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|9|13|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|9|14|Research Assistant (5) Mae Ramat Hospital - Mr.Somkeat Boonnayuen|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|10|3|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20161215|333.00|10106608||||||ปกส. พ.ย.59 (เริ่มงาน 21)|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|10|5|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|10|8|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|10|9|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|10|10|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|10|11|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|10|12|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|10|13|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|10|14|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|10|15|Research Assistant (6) Pob Phra Hospital - Ms.Sariyaporn Saleedang|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|11|4|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20161028|750.00|10106602|20161028|750.00|10106604|||ปกส.เดือน ก.ย.59 ปกส.เดือน ต.ค.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|11|5|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20161215|750.00|10106608||||||ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|11|7|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|11|10|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|11|11|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|11|12|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|11|13|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|11|14|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|11|15|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|11|16|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|11|17|Research Nurse (1) : Mae Sot Hospital Ms.Vilaiwan Chevacharoen|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|12|3|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20161215|400.00|10106608||||||ปกส. พ.ย.59 (เริ่มงาน 21)|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|12|5|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|12|8|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|12|9|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|12|10|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|12|11|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|12|12|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|12|13|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|12|14|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|12|15|Research Nurse (2) Mae Sot Hospital Ms.Veeraya Phinijwong|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|17|4|Lab Technician (1) Ms.Suthini Boonlong|20161028|750.00|10106602|20161028|750.00|10106604|||ปกส.เดือน ก.ย.59 ปกส.เดือน ต.ค.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|17|5|Lab Technician (1) Ms.Suthini Boonlong|20161215|750.00|10106608||||||ปกส. พ.ย.59|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|17|7|Lab Technician (1) Ms.Suthini Boonlong|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|17|10|Lab Technician (1) Ms.Suthini Boonlong|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|17|11|Lab Technician (1) Ms.Suthini Boonlong|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|17|12|Lab Technician (1) Ms.Suthini Boonlong|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|17|13|Lab Technician (1) Ms.Suthini Boonlong|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|17|14|Lab Technician (1) Ms.Suthini Boonlong|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|17|15|Lab Technician (1) Ms.Suthini Boonlong|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|17|16|Lab Technician (1) Ms.Suthini Boonlong|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|17|17|Lab Technician (1) Ms.Suthini Boonlong|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|18|3|Lab Technician (2) Ms.Tiwaporn Mangtan|20161215|367.00|10106608||||||ปกส. พ.ย.59 (เริ่มงาน 21)|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|18|5|Lab Technician (2) Ms.Tiwaporn Mangtan|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|18|8|Lab Technician (2) Ms.Tiwaporn Mangtan|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|18|9|Lab Technician (2) Ms.Tiwaporn Mangtan|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|18|10|Lab Technician (2) Ms.Tiwaporn Mangtan|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|18|11|Lab Technician (2) Ms.Tiwaporn Mangtan|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|18|12|Lab Technician (2) Ms.Tiwaporn Mangtan|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|18|13|Lab Technician (2) Ms.Tiwaporn Mangtan|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|18|14|Lab Technician (2) Ms.Tiwaporn Mangtan|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|18|15|Lab Technician (2) Ms.Tiwaporn Mangtan|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|19|3|Lab Technician (3) Ms.Patsachon Jantah|20161215|367.00|10106608||||||ปกส. พ.ย.59 (เริ่มงาน 21)|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|19|5|Lab Technician (3) Ms.Patsachon Jantah|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|19|8|Lab Technician (3) Ms.Patsachon Jantah|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|19|9|Lab Technician (3) Ms.Patsachon Jantah|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|19|10|Lab Technician (3) Ms.Patsachon Jantah|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|19|11|Lab Technician (3) Ms.Patsachon Jantah|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|19|12|Lab Technician (3) Ms.Patsachon Jantah|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|19|13|Lab Technician (3) Ms.Patsachon Jantah|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|19|14|Lab Technician (3) Ms.Patsachon Jantah|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|19|15|Lab Technician (3) Ms.Patsachon Jantah|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|20|3|Lab Technician (4) Ms.Wanvisa Khmlasai|20161215|367.00|10106608||||||ปกส. พ.ย.59 (เริ่มงาน 21)|20170119|DGHP-AFI-TAK|20170120|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|20|5|Lab Technician (4) Ms.Wanvisa Khmlasai|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|20|8|Lab Technician (4) Ms.Wanvisa Khamlasai|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|20|9|Lab Technician (4) Ms.Wanvisa Khamlasai|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|20|10|Lab Technician (4) Ms.Wanvisa Khamlasai|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|20|11|Lab Technician (4) Ms.Wanvisa Khamlasai|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|20|12|Lab Technician (4) Ms.Wanvisa Khamlasai|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|20|13|Lab Technician (4) Ms.Wanvisa Khamlasai|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|20|14|Lab Technician (4) Ms.Wanvisa Khamlasai|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|20|15|Lab Technician (4) Ms.Wanvisa Khamlasai|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|21|2|Lab Technician (5) Mr.Sirawit Kornnitikul|20170113|750.00|10106614||||||ปกส. ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|21|5|Lab Technician (5) Mr.Sirawit Kornnitikul|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|21|6|Lab Technician (5) Mr.Sirawit Kornnitikul|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|21|7|Lab Technician (5) Mr.Sirawit Kornnitikul|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|21|8|Lab Technician (5) Mr.Sirawit Kornnitikul|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|21|9|Lab Technician (5) Mr.Sirawit Kornnitikul|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|21|10|Lab Technician (5) Mr.Sirawit Kornnitikul|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|21|11|Lab Technician (5) Mr.Sirawit Kornnitikul|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|21|12|Lab Technician (5) Mr.Sirawit Kornnitikul|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|22|5|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170113|568.00|10106614||||||ปกส. ธ.ค.59 (เริ่มงาน 16 ธ.ค. 59)|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|22|7|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170106|750.00|10106619||||||ปกส.เดือน ม.ค.60 (วันที่ในเช็คผิด จ่ายจริง 06/02/60)|20170218|DGHP-AFI-TAK|20170403|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|22|8|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170308|750.00|10118070||||||ปกส. เดือน ก.พ.60|20170310|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|22|9|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170324|750.00|10126905||||||ปกส. มี.ค.60|20170427|DGHP-AFI-TAK|20170427|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|22|10|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170424|750.00|10126923||||||ปกส. เม.ย.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|22|11|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170524|750.00|10133189||||||ปกส. พ.ค.60|20170701|DGHP-AFI-TAK|20170701|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|22|12|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170623|750.00|10133225||||||ปกส. มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|22|13|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170724|750.00|10137958||||||ปกส. ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|2|22|14|Lab Technician (6) Tha Song Yang ? Ms.Kalyarat Jasa|20170825|750.00|10137992||||||ปกส. ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|2|23|3|Annual Medical Check-up - $58.82 (THB 2,000) x 23 persons|20170804|31000.00|10137963||||||ตรวจสุขภาพประจำปี 60 จนท. 17 คน|20170801|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|3|1|28|Capacity building Training - re AFI methods and specimens collection|20170130|22300.00|10118062|20170217|-4400.00|cash||||20170310|DGHP-AFI-TAK|20170310|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|3|1|39|Capacity building Training - re AFI methods and specimens collection|20170324|4000.00|10126906||||||Per diem พี่แวว น้องนิก ไปอุ้มผางกับ SLCP เมื่อ 27 มี.ค.60|20170426|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|3|1|40|Capacity building Training - re AFI methods and specimens collection|20170228|2000.00|10118073||||||Per diem ชิง ไป อุ้มผาง กับ TUC เมือ 20 ก.พ.60|20170310|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|3|1|42|Capacity building Training - re AFI methods and specimens collection|20170217|43910.00|10118065|20170306|-35910.00|cash|||Per diem + meeting GLP: 23-24 Feb|20170310|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|3|1|43|Capacity building Training - re AFI methods and specimens collection|20170515|6000.00|10133186||||||Per diem ชิง หนึ่ง แบ็ต ไปอุ้มผาง 22 พ.ค.60|20170702||20170702|
+1|DGHP-AFI|TAK|3|1|44|Capacity building Training - re AFI methods and specimens collection|20170810|6000.00|10137974||||||Per diem อัป,เปม่า,พี่นิว ไปออดิทอุ้มผาง|20170907||20170907|
+1|DGHP-AFI|TAK|3|3|1|Transportation cost / Fuel in Tak|20170228|5600.00|10118072||||||ค่าเช่ารถตู้ GLP 23-24 Feb|20170310|DGHP-AFI-TAK|20170310|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|3|3|3|Transportation cost / Fuel in Tak|20170130|900.00|10118062|||||||20170310|DGHP-AFI-TAK|20170329|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|3|3|5|Transportation cost / Fuel in Tak|20170308|2800.00|10118078|20170313|-430.00|cash|||ค่าเช่ารถตู้ เมื่อ 7 มี.ค.60 ที่ DTRA กับ Paul มาแม่สอด|20170426|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|3|3|6|Transportation cost / Fuel in Tak|20170217|3100.00|10118065||||||ค่าน้ำมันรถ ประชุม GLP 23-24 Feb|20170426|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|3|3|7|Transportation cost / Fuel in Tak|20170515|8500.00|10133183||||||ค่าเช่ารถตู้ไปอุ้มผาง 22-24 พ.ค.60|20170702||20170702|
+1|DGHP-AFI|TAK|3|3|8|Transportation cost / Fuel in Tak|20170810|8500.00|10137979||||||ค่าเช่ารถตู้ไปออดิท 15-17 ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|3|4|1|AFI protocol refreshing course and knowledge training for local & CoAg staff |20170306|111600.00|10118074|20170330|-72.06|cash|||Lab 6 คน ไปเทรนที่ NP คืนเงิน 72.06 บาท|20170426|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|4|1|5|Lab Equipment See attached budget justificationn for details|20170525|1780800.00|10133193|20170606|16800.00|10133198|||Phoenix automated iden + ภงด. หัก ณ ที่จ่าย|20170403|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|4|1|8|Lab Equipment See attached budget justificationn for details|20170831|128785.05|10146583|20170831|1214.95|10146593|||Centrifuge (จ่าย 20/09/60) ภงด.หัก ณ ที่จ่าย ( ต.ค.60)|20170802|DGHP-AFI-TAK|20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|4|2|4|IT Equipment - see attached budget justification for details|20170428|30700.37|10126929|20170503|289.63|10126934|||Computer notebook ให้แล็บ + ภงด.หัก ณ ที่จ่าย|20170518||20170702|
+1|DGHP-AFI|TAK|4|2|7|IT Equipment - see attached budget justification for details|20170529|26500.00|10126935|20170606|250.00|10133198|||Barcode printer ของแล็บ + ภงด. หัก ณ ที่จ่าย|20170702||20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|4|2|11|IT Equipment - see attached budget justification for details|20170630|31700.93|10133233|20170706|299.07|10133234|||Netbook lenovo + ภงด. หัก ณ ที่จ่าย|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|4|3|4|Office Eqiupment - see attached budget justification for details|20170622|43885.98|10133221|20170706|414.02|10133234|||ครุภัณฑ์สำนักงาน แม่เมย เฟอ + ภงด. หัก ณ ที่จ่าย|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|4|4|2|New lab equipment (Bsc, incubator, refrigeratior)|20170831|381600.00|10146584|20170831|3600.00|10146593|||New Bsc (จ่าย 20/09/60)  ภงด. หัก ณ ที่จ่าย (ต.ค.60)|20170802|DGHP-AFI-TAK|20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|4|4|4|New lab equipment (Bsc, incubator, refrigeratior)|20170831|416074.77|10146590|20170831|3925.23|10146593|||CO2 incubator (จ่าย 20/09/60) + ภงด (จ่าย ต.ค.60)|20170922|DGHP-AFI-TAK|20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|4|4|6|New lab equipment (Bsc, incubator, refrigeratior)|20170831|178317.76|10146591|20170831|1682.24|10146593|||ตู้เย็น lab (จ่าย20/09/2560) + ภงด. (จ่าย ต.ค.60)|20170922|DGHP-AFI-TAK|20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|1|5|Office supplies - See attached budget justificationn for details|20170106|9500.37|10118064|20170307|89.63|10118076|||ตรายาง (ลงวันที่ในเช็คผิด ต้องเป็น 06/02) และ ภ.ง.ด.  หัก ณ ที่จ่าย|20170218|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|1|12|Office supplies - See attached budget justificationn for details|20170322|4537.20|10126903|20170407|42.80|10126912|||วัสดุสำนักงาน และ ภ.ง.ด. หัก ณ ที่จ่าย ของ วัสดุฯ ก.พ.60|20170426|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|1|21|Office supplies - See attached budget justificationn for details|20170428|4490.64|10126928|20170503|42.36|10126934|||office supplies ของ สนง.+  ภงด. หัก ณ ที่จ่าย|20170518||20170702|
+1|DGHP-AFI|TAK|5|1|23|Office supplies - See attached budget justificationn for details|20170404|4606.54|10126909|20170503|43.46|10126934|||วัสดุสำนักงานของออฟฟิส มี.ค. + ภงด. หัก ณ ที่จ่าย|20170518|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|5|1|24|Office supplies - See attached budget justificationn for details|20170504|4921.57|10126933|20170606|46.43|10133198|||Office supply ของ lab + ภงด. หัก ณ ที่จ่าย|20170702|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|1|32|Office supplies - See attached budget justificationn for details|20170712|9688.60|10133239|20170807|91.40|10137973|||ตรายางโครงการ รอบที่ 2 + ภงด. หัก ณ ที่จ่าย|20170801|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|5|1|33|Office supplies - See attached budget justificationn for details|20170725|14992.56|10137961|20170807|141.44|10137973|||วัสดุสำนักงาน มิ.ย.60 + ภงด. หัก ณ ที่จ่าย|20170801|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|5|1|34|Office supplies - See attached budget justificationn for details|20170821|5309.91|10137987|20170831|50.09|10137995|||Barcode sticker + ภงด.หัก ณ ที่จ่าย (จ่ายจริง 06/09/60)|20170907||20170907|
+1|DGHP-AFI|TAK|5|2|15|Medical supplies See attached budget justificationn for details|20170623|33888.20|10133215|20170706|319.70|10133234|||วัสดุทางการแพทย์ของห้องแล็บ + ภงด. หัก ณ ที่จ่าย|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|2|16|Medical supplies See attached budget justificationn for details|20170623|2773.83|10133216|20170706|26.17|10133234|||วัสดุทางการแพทย์ของห้องแล็บ 2 + ภงด. หัก ณ ที่จ่าย|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|2|17|Medical supplies See attached budget justificationn for details|20170623|5611.07|10133218|20170706|52.93|10133234|||วัสดุทางการแพทย์ของแล็บ 4 + ภงด. หัก ณ ที่จ่าย|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|2|20|Medical supplies See attached budget justificationn for details|20170811|56185.30|10137970|20170831|530.05|10137995|||supplies หลายอย่าง + ภงด.หัก ณ ที่จ่าย (จ่ายจริง 06/09/60)|20170907||20170907|
+1|DGHP-AFI|TAK|5|2|21|Medical supplies See attached budget justificationn for details|20170725|12497.40|10133217|20170807|117.90|10137973|||ซิลลิค ฟาร์มา (Vaccutainer) + ภงด. หัก ณ ที่จ่าย|20170713|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|5|2|22|Medical supplies See attached budget justificationn for details|20170731|3328.40|10133226|20170807|31.40|10137973|||Hypodemic needle: DKHS + ภงด. หัก ณ ที่จ่าย|20170713|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|5|2|25|Medical supplies See attached budget justificationn for details|20170811|15529.00|10137975|20170831|146.50|10137995|||Cool pack, กระป๋อง Urine + ภงด. หัก ณ ที่จ่าย (จ่ายจริง 06/09/60)|20170907||20170925|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|3|3|Lab reagent & supplies See attached budget justificationn for details|20170428|8451.27|10126927|20170503|79.73|10126934|||supplies ของ Lab + ภงด. หัก ณ ที่จ่าย|20170518||20170702|
+1|DGHP-AFI|TAK|5|3|8|Lab reagent & supplies See attached budget justificationn for details|20170525|26500.00|10126936|20170606|250.00|10133198|||Phoenix reagent +  ภงด. หัก ณ ที่จ่าย|20170702||20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|3|10|Lab reagent & supplies See attached budget justificationn for details|20170531|6200.00|10133196|20170612|-90.00|cash|||ยืมเงินซื้อ BP latex + ขนส่งและคืนกลับ 90 บาท|20170702||20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|3|12|Lab reagent & supplies See attached budget justificationn for details|20170712|6540.00|10137942||||||วัสดุ Lab, สำเพ็งแม่สอด|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|3|14|Lab reagent & supplies See attached budget justificationn for details|20170711|6450.00|10133240||||||ยืมเงินซื้อ BP_latex TropMed ล้างหนี้หมดแล้ว|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|3|22|Lab reagent & supplies See attached budget justificationn for details|20170731|13260.60|10137943|20170807|125.10|10137973|||Reagent ดีทแฮล์ม + ภงด. หัก ณ ที่จ่าย|20170801|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|5|3|24|Lab reagent & supplies See attached budget justificationn for details|20170831|15264.00|10137976|20170831|144.00|10137995|||น้ำยา API + ภงด. หัก ณ ที่จ่าย (จ่ายจริง 06/09/60)|20170907||20170907|
+1|DGHP-AFI|TAK|5|3|25|Lab reagent & supplies See attached budget justificationn for details|20170831|27814.40|10137971|20170831|262.40|10137995|||supplies หลายอย่าง + ภงด.หัก ณ ที่จ่าย (จ่ายจริง 06/09/60)|20170907||20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|4|1|IT supplies - See attached budget justification for details|20170410|9095.00|10126915||||||antivirus for server|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|4|8|IT supplies - See attached budget justification for details|20170428|27059.72|10126930|20170503|255.28|10126934|||antivirus + suppies อื่น ๆ และ ภงด. หัก ณ ที่จ่าย|20170614|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|5|4|9|IT supplies - See attached budget justification for details|20170428|29256.00|10126926|20170503|276.00|10126934|||Office software + ภงด. หัก ณ ที่จ่าย|20170518|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|5|4|13|IT supplies - See attached budget justification for details|20170608|4140.93|10133200|20170706|39.07|10133234|||หมึกพิมพ์ปริ้นท์เตอร์ห้องแล็บ + ภงด. หัก ณ ที่จ่าย|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|5|4|18|IT supplies - See attached budget justification for details|20170725|39665.79|10137960|20170807|374.21|10137973|||วัสดุคอมพิวเตอร์ มิ.ย.60 + ภงด. หัก ณ ที่จ่าย|20170801|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|5|4|19|IT supplies - See attached budget justification for details|20170831|23666.73|10137996|20170831|223.27|10146593|||วัสดุคอมพิวเตอร์ (จ่ายจริง 06/09/60) + ภงด. หัก ณ ที่จ่าย (จ่ายจริง ต.ค.60)|20170907||20170907|
+1|DGHP-AFI|TAK|6|1|7|Specimen shipping and transportation vehicle + driver + gas. See attached budget justificationn for details|20170621|36630.00|10133222|20170706|370.00|10133235|||ประจำเดือน พ.ค.60 + ภงด 3 หัก ณ ที่จ่าย|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|6|1|10|Specimen shipping and transportation vehicle + driver + gas. See attached budget justificationn for details|20170717|45787.50|10137953|20170807|462.50|10137973|||ประจำเดือน มิ.ย.60 + ภงด. 3 หัก ณ ที่จ่าย|20170801|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|6|1|11|Specimen shipping and transportation vehicle + driver + gas. See attached budget justificationn for details|20170517|14652.00|10133191|20170606|148.00|10133197|||ประจำเดือน เม.ย.60 + ภงด 3 หัก ณ ที่จ่าย|20170702||20170907|
+1|DGHP-AFI|TAK|6|1|14|Specimen shipping and transportation vehicle + driver + gas. See attached budget justificationn for details|20170810|43956.00|10137978|20170831|444.00|10137995|||ประจำเดือน ก.ค.60 + ภงด. 3 หัก ณ ที่จ่าย (จ่ายจริง 06/09/60)|20170907||20170907|
+1|DGHP-AFI|TAK|6|1|15|Specimen shipping and transportation vehicle + driver + gas. See attached budget justificationn for details|20170831|18315.00|10137993|20170831|185.00|10137995|||ประจำเดือน ส.ค.60 (ครึ่งแรก) + ภงด. 3 หัก ณ ที่จ่าย (จ่ายจริง 06/09/60)|20170907||20170907|
+1|DGHP-AFI|TAK|6|1|16|Specimen shipping and transportation vehicle + driver + gas. See attached budget justificationn for details|20170831|25245.00|10146585|20170831|255.00|10146593|||ประจำเดือน ส.ค.60 (ครึ่งหลัง) + ภงด. 3 หัก ณ ที่จ่าย (จ่าย ต.ค.60)|20170922|DGHP-AFI-TAK|20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|1|7|Specimen shipping to Bangkok 10 months x $147.06 (THB 5,000)|20170407|7000.00|10126916|20170430|-3799.00|cash|||ยืมและคืนเงินซื้อน้ำแข็งแห้งและขนส่ง ประจำเมษายน 60|20170518|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|8|1|11|Specimen shipping to Bangkok 10 months x $147.06 (THB 5,000)|20170503|14.00|10126934||||||ภงด.หัก ณ ที่จ่าย น้ำแข็งแห้ง เม.ย.60 หักส่งครั้งที่ 1|20170702||20170707|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|1|12|Specimen shipping to Bangkok 10 months x $147.06 (THB 5,000)|20170606|7.00|10133198||||||ภงด.หัก ณ ที่จ่าย น้ำแข็งแห้ง เม.ย.60 หักส่งครั้งที่ 2|20170707|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|1|14|Specimen shipping to Bangkok 10 months x $147.06 (THB 5,000)|20170503|7000.00|10126932|20170605|-1794.00|cash|||ยืมและคืนเงินซื้อน้ำแข็งแห้ง + ค่าขนส่ง เดือน พ.ค.60|20170702|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|1|16|Specimen shipping to Bangkok 10 months x $147.06 (THB 5,000)|20170612|6000.00|10133199|20170629|-794.00|cash|||ยืมและคืนเงินค่าน้ำแข็งแห้ง+ขนส่งไปนนทบุรี ประจำ มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|1|19|Specimen shipping to Bangkok 10 months x $147.06 (THB 5,000)|20170703|6000.00|10133232|20170724|-19.00|cash|||ยืมและคืนเงินซื้อน้ำแข็งแห้ง + ขนส่ง ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|1|25|Specimen shipping to Bangkok 10 months x $147.06 (THB 5,000)|20170831|0.80|10137998||||||จ่ายเงินที่คืนเงินยืมค่าน้ำแข็งแห้งเกินกลับให้ จนท. 80 สตางค์ (จ่ายจริง 07/09/60)|20170907||20170907|
+1|DGHP-AFI|TAK|8|1|26|Specimen shipping to Bangkok 10 months x $147.06 (THB 5,000)|20170803|6000.00|10137972|20170831|-736.00|cash|||ยืมและคืนเงินซื้อน้ำแข็งแห้ง + ขนส่ง ส.ค.60 (คืนจริง 01/09/60)|20170907||20170925|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|2|16|Compensation for research participants 1,300 cases x $8.82 (THB 300)|20170503|45000.00|10126931|20170526|-9300.00|cash|||ยืมและคืนเงินค่าตอบแทนผู้ป่วยครั้งที่ 4|20170702|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|8|2|17|Compensation for research participants 1,500 cases x $8.82 (THB 300)|20170313|45000.00|10118079|20170330|-15000.00|cash|||ยืมและคืนเงินค่าตอบแทนผู้ป่วย ครั้งที่ 2|20170426|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|8|2|18|Compensation for research participants 1,500 cases x $8.82 (THB 300)|20170403|45000.00|10126911|20170428|-13200.00|cash|||ยืมและคืนเงินค่าตอบแทนผู้ป่วย ครั้งที่ 3|20170518|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|8|2|24|Compensation for research participants 1,300 cases x $8.82 (THB 300)|20170613|75000.00|10133212|20170708|-24900.00|cash|||ยืมและคืนเงิน คตท.ผู้ป่วย ครั้งที่ 6|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|2|25|Compensation for research participants 1,300 cases x $8.82 (THB 300)|20170526|45000.00|10133194|20170613|-9000.00|cash|||ยืมและคืนเงินค่าตอบแทนผู้ป่วย ครั้งที่ 5|20170702||20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|2|26|Compensation for research participants 1,500 cases x $8.82 (THB 300)|20170217|45000.00|10118068|20170313|-9600.00|cash|||pilot phase เริ่ม 20 ก.พ. ยืม & คืนเงิน คตท ผู้ป่วย ครั้งที่ 1|20170310|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|2|31|Compensation for research participants 1,300 cases x $8.82 (THB 300)|20170711|60000.00|10137941|20170801|-16200.00|cash|||ยืมเงิน คตท. เข้าโครงการ ก.ค. คืนเงิน 16,200 บาท เมื่อ 2/8/60|20170801|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|8|2|33|Compensation for research participants 1,300 cases x $8.82 (THB 300)|20170802|60000.00|10137964|20170831|-10200.00|cash|||ยืมและคืนเงิน คตท. ส.ค.60  คืนเงิน10,200 บาท จริง เมื่อ 5/09/60|20170907||20170907|
+1|DGHP-AFI|TAK|8|3|4|Compensation for participants'convalescent follow-up 1,300 f/u visit x $8.82 (THB 300)|20170614|15000.00|10133213|20170708|-10800.00|cash|||ยืมและเงิน คตท. F/U ครั้งที่ 1|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|3|6|Compensation for participants'convalescent follow-up 1,000 f/u visit x $8.82 (THB 300)|20170711|15000.00|10133238|20170801|-600.00|cash|||ยืมเงิน คตท. f/u ก.ค.60  คืนเงิน 600 บาท|20170801|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|8|3|9|Compensation for participants'convalescent follow-up 1,000 f/u visit x $8.82 (THB 300)|20170802|30000.00|10137965|20170831|-5700.00|cash|||ยืมและคืนเงิน f/u. ส.ค.60 / คืนเงิน 5,700 บาท จริง เมื่อ 5/09/60|20170907||20170907|
+1|DGHP-AFI|TAK|8|4|1|Specimen processing (1,500 x 2 times) 2,600 specimens x $4.12 (THB 140)|20170612|8260.00|10133211||||||คตท. พยาบาล+แล็บ รพ. เจาะเลือด เม.ย.-พ.ค.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|4|2|Specimen processing (1,500 x 2 times) 2,600 specimens x $4.12 (THB 140)|20170717|8400.00|10137948||||||คตท.พยาบาล+แล็บ รพ. เจาะเลือด มิ.ย.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|4|4|Specimen processing (1,500 x 2 times) 2,600 specimens x $4.12 (THB 140)|20170816|11900.00|10137985||||||คตท.พยาบาล+แล็บ รพ. เจาะเลือด ก.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|8|4|6|Specimen processing (1,500 x 2 times) 2,600 specimens x $4.12 (THB 140)|20170831|12180.00|10146592||||||คตท.พยาบาล+แล็บ รพ. เจาะเลือด ส.ค.60 (จ่าย 14/09/60)|20170922|DGHP-AFI-TAK|20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|5|2|Photocopying 12 months x $88.23 (THB 3,000)|20170117|2369.00|10106620||||||ประจำเดือน ธ.ค.59|20170218|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|5|3|Photocopying 12 months x $88.23 (THB 3,000)|20170315|3231.00|10126901||||||ประจำเดือน ม.ค.-ก.พ.60|20170426|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|5|4|Photocopying 12 months x $88.23 (THB 3,000)|20170412|3426.00|10126921||||||ประจำเดือน มี.ค.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|5|5|Photocopying 12 months x $88.23 (THB 3,000)|20161215|4423.00|10106611||||||ประจำเดือน พ.ย.59|20170120|DGHP-AFI-TAK|20170518|
+1|DGHP-AFI|TAK|8|5|6|Photocopying 12 months x $88.23 (THB 3,000)|20170515|4982.00|10133184||||||ประจำเดือน เม.ย.60|20170702||20170702|
+1|DGHP-AFI|TAK|8|5|7|Photocopying 12 months x $88.23 (THB 3,000)|20170612|9961.00|10133209||||||ประจำเดือน พ.ค.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|5|8|Photocopying See 4th redirection justification for detail|20170717|6100.00|10137951||||||ประจำเดือน มิ.ย.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|5|12|Photocopying See 4th redirection justification for detail|20170724|13658.10|10137962|20170807|128.85|10137973|||Consent form ลำพรวน + ภงด 3 หัก ณ ที่จ่าย|20170801|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|8|5|13|Photocopying See 4th redirection justification for detail|20170810|2975.00|10137977||||||ประจำเดือน ก.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|8|6|4|Information Meeting Local participant. See attached budget justification for details|20170130|9200.00|10118062|||||||20170310|DGHP-AFI-TAK|20170501|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|10|18|Communication cost telephone, internet|20170403|3163.00|10126910||||||ติด internet  lab เม.ย.60|20170518|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|8|10|19|Communication cost telephone, internet|20170306|3484.00|10118075||||||ติด internet office มี.ค.|20170426|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|8|10|22|Communication cost telephone, internet|20170309|2332.00|10118077|20170407|22.00|10126912|||Internet server มี.ค.60 + ภงด. หัก ณ ที่จ่าย|20170426|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|8|10|23|Communication cost telephone, internet|20170412|2332.00|10126918|20170503|22.00|10126934|||Internet server เม.ย.60 + ภงด. หัก ณ ที่จ่าย|20170518|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|8|10|24|Communication cost telephone, internet|20170412|1272.00|10126919|20170503|12.00|10126934|||Internet office เม.ย.60 + ภงด. หัก ณ ที่จ่าย|20170518|DGHP-AFI-TAK|20170702|
+1|DGHP-AFI|TAK|8|10|32|Communication cost telephone, internet|20170508|2332.00|10126937|20170606|22.00|10133198|||Internet server พ.ค.60 +  ภงด. หัก ณ ที่จ่าย|20170702||20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|10|33|Communication cost telephone, internet|20170508|1272.00|10126938|20170606|12.00|10133198|||Internet office พ.ค.60 +  ภงด. หัก ณ ที่จ่าย|20170702||20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|10|34|Communication cost telephone, internet|20170508|954.00|10126939|20170606|9.00|10133198|||Internet lab พ.ค.60 + ภงด. หัก ณ ที่จ่าย|20170702||20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|10|47|Communication cost telephone, internet|20170612|2332.00|10133201|20170706|22.00|10133234|||Internet server มิ.ย.60 + ภงด. หัก ณ ที่จ่าย|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|10|48|Communication cost telephone, internet|20170612|1272.00|10133202|20170706|12.00|10133234|||Internet office มิ.ย.60 + ภงด. หัก ณ ที่จ่าย|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|10|49|Communication cost telephone, internet|20170612|954.00|10133203|20170706|9.00|10133234|||Internet lab มิ.ย.60 + ภงด. หัก ณ ที่จ่าย|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|10|57|Communication cost telephone, internet|20170713|1431.30|10137947|20170724|-6.05|cash|||ยืมและคืนเงินติด internet อุ้มผาง|20170801|DGHP-AFI-TAK|20170803|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|10|61|Communication cost telephone, internet|20170804|2332.00|10137967|20170831|22.00|10137995|||Internet server ส.ค.60 + ภงด. หัก ณ ที่จ่าย (จ่ายจริง 06/09/60)|20170907||20170907|
+1|DGHP-AFI|TAK|8|10|64|Communication cost telephone, internet|20170804|1272.00|10137968|20170831|12.00|10137995|||Internet office ส.ค.60 + ภงด. หัก ณ ที่จ่าย (จ่ายจริง 06/09/60)|20170907||20170907|
+1|DGHP-AFI|TAK|8|10|65|Communication cost telephone, internet|20170804|954.00|10137969|20170831|9.00|10137995|||Internet Lab ส.ค.60 + ภงด.หัก ณ ที่จ่าย (จ่ายจริง 06/09/60)|20170907||20170907|
+1|DGHP-AFI|TAK|8|10|66|Communication cost telephone, internet|20170706|2332.00|10133228|20170807|22.00|10137973|||Internet server ก.ค.60 + ภงด.หัก ณ ที่จ่าย|20170801|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|8|10|68|Communication cost telephone, internet|20170706|1272.00|10133229|20170807|12.00|10137973|||Internet office ก.ค.60 + ภงด. หัก ณ ที่จ่าย|20170801|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|8|10|69|Communication cost telephone, internet|20170807|5.90|10137973||||||ภงด. ติด internet อุ้มผาง|20170803|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|8|10|70|Communication cost telephone, internet|20170706|954.00|10133230|20170807|9.00|10137973|||Internet Lab ก.ค.60 + ภงด. หัก ณ ที่จ่าย|20170801|DGHP-AFI-TAK|20170908|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|10|71|Communication cost telephone, internet|20170130|5354.00|10118063||||||ติด internet server ม.ค.60 + คชจ net ก.พ.60|20170218|DGHP-AFI-TAK|20170925|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|11|1|Maintainance of office/lab equipment/IT - See attached budget justification for details|20170616|1500.00|10133214||||||ค่าติดตั้งชั้นวางของในห้องแล็บ|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|11|3|Maintainance of office/lab equipment/IT - See attached budget justification for details|20170821|4240.00|10137986|20170831|40.00|10137995|||ซ่อมกล้องจุลทรรศน์แล็บ + ภงด. หัก ณ ที่จ่าย (จ่ายจริง 06/09/60)|20170907||20170907|
+1|DGHP-AFI|TAK|8|11|5|Maintainance of office/lab equipment/IT - See attached budget justification for details|20170831|10401.87|10137997|20170831|98.13|10146593|||ซ่อม tablet (จ่ายจริง 06/09/60) +  ภงด.หัก ณ ที่จ่าย (จ่ายจริง ต.ค.60)|20170803|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|8|12|1|Utilities cost - Electric and water|20161117|10000.00|10106607||||||ประจำเดือน ต.ค.และ พ.ย.59|20170119|DGHP-AFI-TAK|20170119|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|12|3|Utilities cost - Electric and water|20170106|5000.00|10106616||||||ประจำเดือน ธ.ค.59|20170120|DGHP-AFI-TAK|20170218|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|12|4|Utilities cost - Electric and water|20170217|5000.00|10118066||||||ประจำเดือน ม.ค.60|20170310|DGHP-AFI-TAK|20170310|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|12|5|Utilities cost - Electric and water|20170316|5000.00|10126902||||||ประจำเดือน ก.พ.60|20170426|DGHP-AFI-TAK|20170426|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|12|6|Utilities cost - Electric and water|20170424|5000.00|10126925||||||ประจำเดือน มี.ค.60|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|12|7|Utilities cost - Electric and water|20170531|5000.00|10133195||||||ประจำเดือน เม.ย.60|20170702||20170702|
+1|DGHP-AFI|TAK|8|12|8|Utilities cost - Electric and water|20170629|5000.00|10133210||||||ประจำเดือน พ.ค.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|12|9|Utilities cost - Electric and water|20170724|5000.00|10137955||||||ประจำเดือน มิ.ย.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|12|10|Utilities cost - Electric and water|20170831|5000.00|10137994||||||ประจำเดือน ก.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|8|12|12|Utilities cost - Electric and water|20170831|5000.00|10146586||||||ประจำเดือน ส.ค.60 (จ่ายจริง 12/09/60)|20170907||20170922|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|13|1|Telephone for RN & RA (for F/U refer or convalescent) - $8.82 (300 THB) X 6P x 12M|20170515|1800.00|10126940||||||ค่าโทรศัพท์เจ้าหน้าที่ ประจำ พ.ค.60|20170702||20170702|
+1|DGHP-AFI|TAK|8|13|2|Telephone for RN & RA (for F/U refer or convalescent) - $8.82 (300 THB) X 6P x 12M|20170620|1800.00|10133219||||||ค่าโทรศัพท์ จนท. ประจำ มิ.ย.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|13|3|Telephone for RN & RA (for F/U refer or convalescent) - $8.82 (300 THB) X 6P x 12M|20170717|1800.00|10137952||||||ประจำเดือน ก.ค.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|13|4|Telephone for RN & RA (for F/U refer or convalescent) - $8.82 (300 THB) X 6P x 12M|20170825|1800.00|10137989||||||ประจำเดือน ส.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|8|14|3|GLP traning for CoAg and local participant staff |20170217|15990.00|10118065||||||เบี้ยประชุม และค่าใช้จ่ายในการประชุม 20 คน|20170426|DGHP-AFI-TAK|20170501|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|15|3|GLP training - resource person |20170217|9000.00|10118065||||||ค่าวิทยากร 2 วัน (7.5 ชั่วโมง)|20170426|DGHP-AFI-TAK|20170501|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|20|3|Myanmar & Karen consent form verification |20170612|18018.00|10133204|20170706|182.00|10133235|||ตรวจทานและแก้ไขภาษาพม่า + ภงด 3 หัก ณ ที่จ่าย|20170713|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|20|6|Myanmar & Karen consent form verification |20170717|18018.00|10134749|20170807|182.00|10137973|||ตรวจทาน+แก้ไขภาษากะเหรี่ยง + ภงด. 3 หัก ณ ที่จ่าย|20170801|DGHP-AFI-TAK|20170907|
+1|DGHP-AFI|TAK|8|21|1|Specimen transportation support for Um Phang Hospital |20170630|10000.00|10133227||||||ประจำเดือน เม.ย.-พ.ค.60|20170713|DGHP-AFI-TAK|20170713|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|21|2|Specimen transportation support for Um Phang Hospital |20170725|5000.00|10137959||||||ประจำเดือน มิ.ย.60|20170801|DGHP-AFI-TAK|20170801|DGHP-AFI-TAK
+1|DGHP-AFI|TAK|8|21|3|Specimen transportation support for Um Phang Hospital |20170825|5000.00|10137988||||||ประจำเดือน ก.ค.60|20170907||20170907|
+1|DGHP-AFI|TAK|8|21|5|Specimen transportation support for Um Phang Hospital |20170831|5000.00|10146587||||||ประจำเดือน ส.ค.60 (จ่ายจริง 12/09/60)|20170907||20170922|DGHP-AFI-TAK

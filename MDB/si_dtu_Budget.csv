@@ -1,0 +1,47 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|SI|DTU|1|1|0|Full time Project coordinator|Ms.Nattawan K.||0.00|0.00|254400.00|254400.00|Person|1|100.00|12.00|21200.00||||||
+1|SI|DTU|1|1|1|Full time Project coordinator||||||253200.00|Person|1|100.00|12.00|21100.00|||20170711||20170803|si-dtu
+1|SI|DTU|1|2|0|Full time programmer|||0.00|0.00|312000.00|312000.00|Person|1|100.00|12.00|26000.00||||||
+1|SI|DTU|1|2|1|Full time programmer|Mr.Pichitpon|||||176000.00|Annual|||||||20170711||20170711|
+1|SI|DTU|1|3|0|Overtime for Project staff|Project Coordinator and Programmer ($2.06/hourx14 hoursx12monthsx2persons)||0.00|0.00|24000.00|24000.00|Annual||||||||||
+1|SI|DTU|2|1|0|Full time for Project coordinator|||0.00|0.00|9000.00|9000.00|Person|1|254400.00|5.00|||||||
+1|SI|DTU|2|2|0|Full time for Programmer|||0.00|0.00|9000.00|9000.00|Person|1|312000.00|5.00|||||||
+1|SI|DTU|2|2|1|Full time for Programmer||||||4500.00|Person|1|90000.00|5.00||||20170711||20170711|
+1|SI|DTU|2|3|0|Annual Medical check up for full staff|$57.14 x 2 persons||0.00|0.00|4000.00|4000.00|Annual||||||||||
+1|SI|DTU|3|1|0|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation|Non local participants-MOPH||0.00|0.00|142500.00|142500.00|Time|5|3.00|2.00|2000.00|5500.00|0.00||||
+1|SI|DTU|3|2|0|Workshops: Using SI-multisources/AZP to monitor interventions towards 90-90-90 targets in pilot provinces|non local participants/resources-MOPH||0.00|0.00|241500.00|241500.00|Time|3|7.00|3.00|2000.00|5500.00|0.00||||
+1|SI|DTU|3|2|1|Workshops: Using SI-multisources/AZP to monitor interventions towards 90-90-90 targets in pilot provinces|non local participants/resources-MOPH|||||416000.00|Annual|||||||20170711||20170711|
+1|SI|DTU|3|2|3|Workshops: Using SI-multisources/AZP to monitor interventions towards 90-90-90 targets in pilot provinces|non local participants/resources-MOPH|||||178079.13|Annual|||||||20170831|si-dtu|20170831|si-dtu
+1|SI|DTU|3|3|0|Training: Build capacity of PCM on M&E and translation of monitoring data for program improvement (pilot provinces)|Non local participants-MOPH (DGHT and national priority provinces)||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00||||
+1|SI|DTU|5|1|0|Office supplies for meetings/trainings|Meeting materials and accessories for WS, training and meetings||0.00|0.00|5000.00|5000.00|Year|1|5000.00||||||||
+1|SI|DTU|8|1|0|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation|Local participants (Working group)||0.00|0.00|72000.00|72000.00|Time|5|12.00|2.00|600.00|0.00|0.00||||
+1|SI|DTU|8|1|1|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation|Local participants (Working group)|||||209200.00|Time|8|20.00|2.00|600.00|107.50|0.00|20170711||20170711|
+1|SI|DTU|8|1|3|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation|Local participants (Working group)|||||303492.00|Time|10|20.00|2.00|600.00|300.00|349.20|20170831|si-dtu|20170831|si-dtu
+1|SI|DTU|8|2|0|Workshops: Use of SI-multisources/AZP to monitor interventions towards 90-90-90 targets in pilot provinces|Local participants||0.00|0.00|189000.00|189000.00|Time|3|35.00|3.00|600.00|0.00|0.00||||
+1|SI|DTU|8|3|0|Workshops: Use of SI-multisources/AZP to monitor interventions towards 90-90-90 targets in pilot provinces|Resource person||0.00|0.00|32400.00|32400.00|Time|3|3.00|3.00|1200.00|0.00|0.00||||
+1|SI|DTU|8|4|0|Training: Build capacity of PCM on M&E and translation of monitoring data for program improvement (pilot provinces in 5 Regions)|Local participants/resources||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00||||
+1|SI|DTU|8|5|0|Training: Build capacity of PCM on M&E and translation of monitoring data for program improvement (pilot provinces in 5 Regions)|Resource person||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00||||
+1|SI|DTU|8|6|0|Small group work: Revision of AIDS Zero Portal for Thailand implementation|Resource persons||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00||||
+1|SI|DTU|8|7|0|Printed materials - SOP and traning materials|SOP for AZP||0.00|0.00|18600.00|18600.00|Time|2|0.00|0.00|0.00|0.00|9300.00||||
+1|SI|DTU|8|7|3|Printed materials - SOP and traning materials|SOP for AZP|||||200000.00|Year|1|0.00|0.00|0.00|0.00|200000.00|20170831|si-dtu|20170831|si-dtu
+1|SI|DTU|8|8|0|Communication cost|||0.00|0.00|6000.00|6000.00|Month|10|||||600.00||||
+1|SI|DTU|8|9|2|Gain from exchange rate on 26 ก.ค. 60 (Cheque # 10181887)||||||37771.13|Annual|||||||20170827|si-dtu|20170827|si-dtu
+1|SI|DTU|8|9|3|Gain from exchange rate on 26 ก.ค. 60 (Cheque # 10181887)||||||0.00|Annual|||||||20170831|si-dtu|20170831|si-dtu
+2|SI|DTU|1|1|0|Project coordinator|||0.00|0.00|120000.00|120000.00|Person|1|100.00|6.00|20000.00|||20170323||20170824|
+2|SI|DTU|1|2|0|Programmer|||0.00|0.00|150000.00|150000.00|Person|1|100.00|5.00|30000.00|||20170323||20170824|
+2|SI|DTU|1|3|0|Overtime for full time staff|$1.76/hour x 16 hours x 5 months x 2 persons||0.00|0.00|10660.00|10660.00|Annual|||||||20170323||20170918|
+2|SI|DTU|2|1|0|Project coordinator|||0.00|0.00|9000.00|9000.00|Person|1|253200.00|100.00||||20170323||20170410|
+2|SI|DTU|2|2|0|Programmer|||0.00|0.00|9000.00|9000.00|Person|1|360000.00|100.00||||20170323||20170410|
+2|SI|DTU|2|3|0|Annual medical check up|$58.82 x 2 persons||0.00|0.00|4000.00|4000.00|Annual|||||||20170323||20170410|
+2|SI|DTU|3|1|0|PIF(2)-Provide training of trainers for regional coaching team|non-local participants/resource- MOPH||0.00|0.00|-0.00|0.00|Time|0|50.00|5.00|2000.00|4000.00|0.00|20170323||20170918|
+2|SI|DTU|3|2|0|PIF(1)-Facilitate on the job training for provincial program managers and responsible M&E team/PCM to response HIV program and HIV strategic plan- 2 provinces|non-local participants/resource-MOPH||0.00|0.00|224000.00|224000.00|site|7|4.00|2.00|2000.00|4000.00|0.00|20170324||20170918|
+2|SI|DTU|3|3|0|Regional training for provincial program managers on response the HIV/AIDS program and situtaions|||583800.00|0.00|-0.00|583800.00|Time|1|50.00|2.00|2000.00|7676.00|0.00|20171011|||
+2|SI|DTU|5|1|0|PIF(1)-Office supply (Average semiannually)|for training, meeting and workshop||0.00|0.00|14000.00|14000.00|month|1|14000.00|||||20170323||20170918|
+2|SI|DTU|5|2|0|PIF(1)-Communication cost|||0.00|0.00|4200.00|4200.00|month|7|600.00|||||20170324||20170918|
+2|SI|DTU|8|1|0|PIF(1)-Working group for developing the tools and curriculam on the training of trainer for regional core team|||0.00|0.00|24400.00|24400.00|Time|2|12.00|1.00|600.00|0.00|5000.00|20170323||20170918|
+2|SI|DTU|8|2|0|PIF(2)-Provide training of trainers for regional coaching team|||0.00|0.00|-0.00|0.00|Time|0|15.00|5.00|600.00|0.00|5000.00|20170324||20170824|
+2|SI|DTU|8|3|0|PIF(2)-Working group for impact analysis or cost-effective from AEM|||0.00|0.00|-0.00|0.00|Time|0|10.00|3.00|600.00|0.00|5000.00|20170324||20170824|
+2|SI|DTU|8|4|0|PIF(1)-Working group for AIDS zero portal|||0.00|0.00|90000.00|90000.00|Time|5|10.00|3.00|600.00|0.00|0.00|20170324||20170918|
+2|SI|DTU|8|5|0|PIF(2)-Facilitate on the job training for provincial program managers and responsible M&E team/PCM to response HIV program and HIV strategic plan- 2 provinces|||0.00|0.00|-0.00|0.00|Time|0|30.00|2.00|600.00|0.00|5083.00|20170324||20170824|
+2|SI|DTU|8|6|0|Regional training for provincial program managers on response the HIV/AIDS program and situtaions|||16200.00|0.00|-0.00|16200.00|Time|1|10.00|2.00|600.00|0.00|4200.00|20171011|||
+2|SI|DTU|8|7|0|Exchang rate managemt|Exchang rate managemt||208210.62|0.00|-0.00|208210.62|Annual|||||||20170825||20171011|

@@ -66,7 +66,7 @@ def check_receive_dup(db,arr)
   con = PG::Connection.connect("localhost",5432,nil,nil,"#{db}","admin")
   sql = "SELECT \"CoAgYear\" FROM \"Receive\" "
   sql += "WHERE \"CoAgYear\"='#{arr[0]}' AND \"ProjectID\"='#{arr[1]}' "
-  sql += "AND \"SubprojectID\"='#{arr[2]}' AND \"DateReceived\"='#{fmt_date(arr[3])}' "
+  sql += "AND \"SubprojectID\"='#{arr[2]}' AND \"DateReceived\"='#{arr[3]}' "
   sql += "AND \"ReceiveNo\"='#{arr[4]}' "
   res = con.exec(sql)
   con.close
@@ -119,8 +119,8 @@ end
 def check_coagyear_dup(db,arr)
   con = PG::Connection.connect("localhost",5432,nil,nil,"#{db}","admin")
   sql = "SELECT \"CoAgYear\" FROM \"CoAgYear\" "
-  sql += "WHERE \"CoAgYear\"='#{arr[0]}' AND \"PeriodFrom\"='#{fmt_date(arr[1])}' "
-  sql += "AND \"PeriodTo\"='#{fmt_date(arr[2])}' "
+  sql += "WHERE \"CoAgYear\"='#{arr[0]}' AND \"PeriodFrom\"='#{arr[1]}' "
+  sql += "AND \"PeriodTo\"='#{arr[2]}' "
   res = con.exec(sql)
   con.close
   found = res.num_tuples
@@ -233,16 +233,11 @@ def insert(db,tbl,arr)
     end
   end
 
-  (0...arr.size).each do |n|
-    if arr[n] =~ /\d\d\/\d\d\/\d\d \d\d:\d\d:\d\d/
-      begin
-        dt = Date.strptime(arr[n],"%m/%d/%y")
-        arr[n] = dt.strftime("%Y%m%d")
-      rescue
-        puts "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!ERROR:"
-        log_error(arr[n])
-      end
-    end
+  # NO NEED to format Date because mdb-export use -D '%Y%m%d'
+
+  # replace single quote in arr to '' DOUBLE SINGLE QUOTE for PostgreSQL
+  (0...arr.length).each do |n|
+    arr[n] = arr[n].gsub("'","''")
   end
 
   con = PG::Connection.connect("localhost",5432,nil,nil,"#{db}","admin")
@@ -254,16 +249,8 @@ def insert(db,tbl,arr)
   con.close
 end
 
-def fmt_date(s)
-  if s =~ /\d\d\/\d\d\/\d\d \d\d:\d\d:\d\d/
-    dt = Date.strptime(s,"%m/%d/%y")
-    s = dt.strftime("%Y%m%d")
-  end
-  s
-end
-
 accdb = ARGV[0]
-db = ARGV[1].tr('&','and')
+db = ARGV[1].sub(/\&/,'and')
 tbl = ARGV[2]
 
 if tbl.nil?
@@ -272,16 +259,37 @@ if tbl.nil?
 end
 
 # export table from DB NAME (.accdb)
-if File.exists?("#{tbl}.csv")
-  FileUtils.rm_rf("#{tbl}.csv")
+if File.exists?("#{db}_#{tbl}.csv")
+  FileUtils.rm_rf("#{db}_#{tbl}.csv")
 end
-cmd = "mdb-export \"#{accdb}\" #{tbl} > #{tbl}.csv"
 
+# DELETE coach_1_Project_o.csv ONLY 1 EXCEPTION
+if tbl =~ /Project_o/
+  tbl = 'Project_o'
+  puts "EXCEPTION: DO NOT PROCESS THIS TABLE: #{tbl}"
+  exit
+end
+
+cmd = "mdb-export -d '|' -D '%Y%m%d' -Q -R '!' \"#{accdb}\" \"#{tbl}\" > #{db}_#{tbl}.csv"
 puts "cmd1: #{cmd}"
 system(cmd)
 
+# FIX data with newline inside => <tbl>.csv has > 1 line BEFORE NEXT STEP
+src = open("#{db}_#{tbl}.csv").readlines
+dst = open("#{db}_#{tbl}.csv","w")
+
+if src.length == 1
+  dst.write(src[0].split('!').join("\n"))
+  dst.close
+else # newline within data field!!!
+  # join all lines into 1 line > remove \n > split with ! > rejoin with \n
+  src = src.join(' ').tr("\n",'')  
+  dst.write(src.split('!').join("\n"))
+  dst.close
+end
+
 # get table header -> column (field)
-header = open("#{tbl}.csv").readline.chomp.split(',')
+header = open("#{db}_#{tbl}.csv").readline.chomp.split('|')
 
 sql = "CREATE TABLE \"#{tbl}\" (\n"
 header.each do |c|
@@ -306,18 +314,20 @@ else
   puts "Table #{tbl} exists"
 end
 
+# NO NEED!!
 # remove comma within quotes
-cmd = "./replace-comma-between-quotes.rb #{tbl}.csv"
-system(cmd)
+# cmd = "./replace-comma-between-quotes.rb #{db}_#{tbl}.csv"
+# system(cmd)
 
-# fix record split to 2 lines by counting comma in HEADER LINE AFTER replace-comma
-cmd = "./fix-field-count.rb #{tbl}.csv"
-system(cmd)
+# fix record split to 2 or 3 lines by counting pipe in HEADER LINE
+# cmd = "./fix-field-count.rb #{db}_#{tbl}.csv"
+# system(cmd)
 
-dat = open("#{tbl}.csv").readlines
+dat = open("#{db}_#{tbl}.csv").readlines # Array output
+
 n = 0
 dat[1..-1].each do |line|
-  insert(db,tbl,line.chomp.tr('"','').split(','))
+  insert(db,tbl,line.chomp.split('|'))
 end
 
 rows = get_rows(db,tbl)

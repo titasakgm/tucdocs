@@ -1,0 +1,144 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|CARE COACH|PIF|1|1|0|COACH-Project coordinator (Ms.Kanjana)|Coordinate with stakeholders and relevant organizations in order to achieve the objective of implementation||0.00|0.00|454548.00|454548.00|Person|1|100.00|12.00|37879.00||||||
+1|CARE COACH|PIF|1|2|0|COACH-Project coordinator assistant (Ms.Vachiraporn)|Organizae all of meeting and training : booking hotel, confirm participants and speaker, meeting logistic||0.00|0.00|276000.00|276000.00|Person|1|100.00|12.00|23000.00||||||
+1|CARE COACH|PIF|1|3|0|COACH-Compensation for Government staff|TBD:As a consultant and comment on the project||0.00|0.00|24000.00|24000.00|Annual||||||||||
+1|CARE COACH|PIF|1|4|0|COACH-Compensation for Government staff (Mr.Thitilat)|As a consultant and comment on the project, set work plan and conduct the implementation	 and support knowledge to project staff.(2.58 USD/hr x 18 hrs x 12 months x 1 person)||0.00|0.00|72000.00|72000.00|Annual||||||||||
+1|CARE COACH|PIF|1|5|0|COACH-Compensation for Government staff (Ms.Jeerattikarn)|As a consultant for Procurement||0.00|0.00|12000.00|12000.00|Annual||||||||||
+1|CARE COACH|PIF|1|6|0|COACH-Compensation for Government staff (Ms.Yupha)|As a consultant for Financial||0.00|0.00|12000.00|12000.00|Annual||||||||||
+1|CARE COACH|PIF|2|1|0|COACH-Project coordinator|Ms. Kanjana||0.00|0.00|9000.00|9000.00|Person|1|454458.00|5.00|||||||
+1|CARE COACH|PIF|2|2|0|COACH-Project coordinator assistant|Ms.Vachiraporn||0.00|0.00|9000.00|9000.00|Person|1|276000.00|5.00|||||||
+1|CARE COACH|PIF|2|3|0|COACH-Annual medical chek-up|Annual medical check up for 2 staffs  @ 2000 baht each person||0.00|0.00|4000.00|4000.00|Annual||||||||||
+1|CARE COACH|PIF|2|3|5|COACH-Annual medical chek-up|Annual medical check up for 2 staffs  @ 2000 baht each person|||||3020.00|Annual|||||||20170829||20170829|
+1|CARE COACH|PIF|3|1|0|COACH - Technical working group meeting|(Non Local , MOPH)||0.00|0.00|225000.00|225000.00|Time|1|45.00|1.00|2000.00|3000.00|0.00||||
+1|CARE COACH|PIF|3|1|1|COACH - Technical working group meeting|(Non Local , MOPH)|||||758021.00|Time|2|50.00|2.00|2000.00|3000.00|29010.50|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|3|1|2|COACH - Technical working group meeting|(Non Local , MOPH)|||||1099721.00|Time|4|40.00|2.00|2000.00|2800.00|2930.25|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|3|1|4|COACH - Technical working group meeting|(Non Local , MOPH)|||||995178.00|Time|4|35.00|2.00|2000.00|2800.00|10794.50|20170825|care-coach|20170825|care-coach
+1|CARE COACH|PIF|3|1|5|COACH - Technical working group meeting|(Non Local , MOPH)|||||1089184.25|Annual|||||||20170829||20170829|
+1|CARE COACH|PIF|3|2|0|COACH - Technical working group meeting|(Non Local, MOPH, Resource person)||0.00|0.00|15000.00|15000.00|Time|1|3.00|1.00|2000.00|3000.00|0.00||||
+1|CARE COACH|PIF|3|2|1|COACH - Technical working group meeting|(Non Local, MOPH, Resource person)|||||30675.00|Time|2|2.00|2.00|2000.00|3000.00|1337.50|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|3|2|2|COACH - Technical working group meeting|(Non Local, MOPH, Resource person)|||||56675.00|Time|4|2.00|2.00|2000.00|3000.00|168.75|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|3|2|4|COACH - Technical working group meeting|(Non Local, MOPH, Resource person)|||||41675.00|Time|2|2.00|2.00|2000.00|6418.75|0.00|20170825|care-coach|20170825|care-coach
+1|CARE COACH|PIF|3|2|5|COACH - Technical working group meeting|(Non Local, MOPH, Resource person)|||||51679.00|Time|2|2.00|2.00|2000.00|8919.75|0.00|20170829||20170829|
+1|CARE COACH|PIF|3|3|0|COACH - Onsite Supervison|(Non Local, MOPH)||0.00|0.00|180000.00|180000.00|Time|5|4.00|3.00|2000.00|3000.00|0.00||||
+1|CARE COACH|PIF|3|3|1|COACH - Onsite Supervison|(Non Local, MOPH)|||||67785.00|Time|1|5.00|3.00|2000.00|7300.00|1285.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|3|4|0|COACH - Onsite coaching|(Non Local, MOPH, Resource person)||0.00|0.00|135000.00|135000.00|Time|1|15.00|3.00|2000.00|3000.00|0.00||||
+1|CARE COACH|PIF|3|4|1|COACH - Onsite coaching|(Non Local, MOPH, Resource person)|||||10000.00|Time|1|1.00|3.00|2000.00|4000.00|0.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|3|4|2|COACH - Onsite coaching|(Non Local, MOPH, Resource person)|||||0.00|Time|0|1.00|3.00|2000.00|4000.00|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|3|5|0|COACH - Onsite coaching|(Non Local, MOPH)||0.00|0.00|270000.00|270000.00|Time|2|15.00|3.00|2000.00|3000.00|0.00||||
+1|CARE COACH|PIF|3|5|2|COACH - Onsite coaching|(Non Local, MOPH)|||||376341.00|Time|7|6.00|3.00|2000.00|2960.50|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|3|5|4|COACH - Onsite coaching|(Non Local, MOPH)|||||579787.00|Time|10|6.00|3.00|2000.00|3650.00|78.70|20170825|care-coach|20170825|care-coach
+1|CARE COACH|PIF|3|5|5|COACH - Onsite coaching|(Non Local, MOPH)|||||580069.50|Time|10|6.00|3.00|2000.00|3650.00|106.95|20170829||20170829|
+1|CARE COACH|PIF|3|6|0|COACH - Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Non Local , MOPH)||0.00|0.00|140000.00|140000.00|Time|1|20.00|2.00|2000.00|3000.00|0.00||||
+1|CARE COACH|PIF|3|6|2|COACH - Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Non Local , MOPH)|||||250000.00|Time|2|20.00|2.00|2000.00|2250.00|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|3|6|5|COACH - Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Non Local , MOPH)|||||185053.90|Time|2|15.00|2.00|2000.00|2000.00|2526.95|20170829||20170829|
+1|CARE COACH|PIF|3|7|0|COACH - Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Non Local , MOPH, Resource person)||0.00|0.00|18000.00|18000.00|Time|1|2.00|3.00|2000.00|3000.00|0.00||||
+1|CARE COACH|PIF|3|7|2|COACH - Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Non Local , MOPH, Resource person)|||||24000.00|Time|1|2.00|3.00|2000.00|6000.00|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|3|7|5|COACH - Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Non Local , MOPH, Resource person)|||||9834.00|Time|1|1.00|3.00|2000.00|3834.00|0.00|20170829||20170829|
+1|CARE COACH|PIF|3|8|0|COACH-Attend National  Forum (HA Forum / AIDS Siminar)  (Non-Local,MOPH)|Non-Local,MOPH||0.00|0.00|18000.00|18000.00|Time|1|2.00|3.00|2000.00|3000.00|0.00||||
+1|CARE COACH|PIF|3|8|2|COACH-Attend National  Forum (HA Forum / AIDS Siminar)  (Non-Local,MOPH)|Non-Local,MOPH|||||29944.30|Time|1|3.00|3.00|2000.00|3980.00|4.30|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|3|9|0|COACH-Attend National  Forum (HA Forum / AIDS Siminar)  (Non-Local,MOPH, Resource person)|||0.00|0.00|9000.00|9000.00|Time|1|1.00|3.00|2000.00|3000.00|0.00||||
+1|CARE COACH|PIF|3|9|2|COACH-Attend National  Forum (HA Forum / AIDS Siminar)  (Non-Local,MOPH, Resource person)||||||15389.00|Time|1|2.00|3.00|2000.00|1694.50|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|3|10|0|Transportation cost|tolls fee, fuel, van rental, taxi, etc.||0.00|0.00|26600.00|26600.00|Annual||||||||||
+1|CARE COACH|PIF|3|10|1|Transportation cost|tolls fee, fuel, van rental, taxi, etc.|||||1659.00|Annual|||||||20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|3|10|4|Transportation cost|tolls fee, fuel, van rental, taxi, etc.|||||0.00|Annual|||||||20170825|care-coach|20170825|care-coach
+1|CARE COACH|PIF|4|1|0|COACH-Computer|||0.00|0.00|50000.00|50000.00|set|2|25000.00||||||||
+1|CARE COACH|PIF|4|1|4|COACH-Computer||||||44940.00|set|2|22470.00|||||20170825|care-coach|20170825|care-coach
+1|CARE COACH|PIF|5|1|0|COACH-Stationary|||0.00|0.00|5452.00|5452.00|Year|1|5452.00||||||||
+1|CARE COACH|PIF|5|1|4|COACH-Stationary||||||10512.00|Year|1|10512.00|||||20170825|care-coach|20170825|care-coach
+1|CARE COACH|PIF|5|1|5|COACH-Stationary||||||10510.00|Year|1|10510.00|||||20170829||20170829|
+1|CARE COACH|PIF|8|1|0|COACH-Communication Cost|Postage Fee, Phone card, Fax, Mail||0.00|0.00|12000.00|12000.00|Month|12|||||1000.00||||
+1|CARE COACH|PIF|8|1|5|COACH-Communication Cost|Postage Fee, Phone card, Fax, Mail|||||11927.20|Year|1|||||11927.20|20170829||20170829|
+1|CARE COACH|PIF|8|2|0|COACH-Technical working group meeting (Local participants,MOPH, Non MOPH)|||0.00|0.00|50400.00|50400.00|Time|12|7.00|1.00|600.00|0.00|0.00||||
+1|CARE COACH|PIF|8|2|1|COACH-Technical working group meeting (Local participants,MOPH, Non MOPH)||||||144000.00|Time|6|20.00|2.00|600.00|0.00|0.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|8|2|2|COACH-Technical working group meeting (Local participants,MOPH, Non MOPH)||||||192000.00|Time|8|20.00|2.00|600.00|0.00|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|2|4|COACH-Technical working group meeting (Local participants,MOPH, Non MOPH)||||||125160.00|Time|5|20.00|2.00|600.00|0.00|1032.00|20170825|care-coach|20170825|care-coach
+1|CARE COACH|PIF|8|2|5|COACH-Technical working group meeting (Local participants,MOPH, Non MOPH)||||||198560.08|Time|4|20.00|2.00|600.00|0.00|25640.02|20170829||20170829|
+1|CARE COACH|PIF|8|3|0|COACH- Technical working group meeting (Non Local participants,Non MOPH)|||0.00|0.00|50000.00|50000.00|Time|5|2.00|1.00|2000.00|3000.00|0.00||||
+1|CARE COACH|PIF|8|3|1|COACH- Technical working group meeting (Non Local participants,Non MOPH)||||||23840.00|Time|2|2.00|1.00|2000.00|3960.00|0.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|8|3|2|COACH- Technical working group meeting (Non Local participants,Non MOPH)||||||43840.00|Time|4|2.00|1.00|2000.00|3480.00|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|3|4|COACH- Technical working group meeting (Non Local participants,Non MOPH)||||||70140.00|Time|4|4.00|1.00|2000.00|2383.75|0.00|20170825|care-coach|20170825|care-coach
+1|CARE COACH|PIF|8|3|5|COACH- Technical working group meeting (Non Local participants,Non MOPH)||||||33506.00|Time|4|2.00|1.00|2000.00|2188.25|0.00|20170829||20170829|
+1|CARE COACH|PIF|8|4|0|COACH-Technical working group meeting (Local resource person ,MOPH, Non MOPH)|||0.00|0.00|16500.00|16500.00|Time|3|5.00|1.00|600.00|500.00|0.00||||
+1|CARE COACH|PIF|8|4|4|COACH-Technical working group meeting (Local resource person ,MOPH, Non MOPH)||||||5200.00|Time|2|4.00|1.00|600.00|50.00|0.00|20170825|care-coach|20170825|care-coach
+1|CARE COACH|PIF|8|5|0|COACH- Technical working group meeting (Non Local resource person,Non MOPH)|||0.00|0.00|5000.00|5000.00|Time|1|1.00|1.00|2000.00|3000.00|0.00||||
+1|CARE COACH|PIF|8|5|1|COACH- Technical working group meeting (Non Local resource person,Non MOPH)||||||14829.00|Time|2|1.00|2.00|2000.00|3414.50|0.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|8|5|2|COACH- Technical working group meeting (Non Local resource person,Non MOPH)||||||28000.00|Time|4|1.00|2.00|2000.00|3000.00|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|5|5|COACH- Technical working group meeting (Non Local resource person,Non MOPH)||||||50979.00|Time|4|2.00|2.00|2000.00|2300.00|144.75|20170829||20170829|
+1|CARE COACH|PIF|8|6|0|COACH- Technical working group meeting (Resource person fee)|resource person fee||0.00|0.00|36000.00|36000.00|Time|1|5.00|1.00|7200.00|0.00|0.00||||
+1|CARE COACH|PIF|8|6|1|COACH- Technical working group meeting (Resource person fee)|resource person fee|||||65700.00|Time|2|5.00|1.00|6570.00|0.00|0.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|8|6|2|COACH- Technical working group meeting (Resource person fee)|resource person fee|||||96000.00|Time|4|5.00|1.00|4800.00|0.00|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|6|4|COACH- Technical working group meeting (Resource person fee)|resource person fee|||||109000.00|Year|1|0.00|0.00|0.00|0.00|109000.00|20170825|care-coach|20170825|care-coach
+1|CARE COACH|PIF|8|6|5|COACH- Technical working group meeting (Resource person fee)|resource person fee|||||120000.00|Year|1|0.00|0.00|0.00|0.00|120000.00|20170829||20170829|
+1|CARE COACH|PIF|8|7|0|COACH- Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Local participant, MOPH, Non MOPH)||0.00|0.00|27000.00|27000.00|Time|1|15.00|3.00|600.00|0.00|0.00||||
+1|CARE COACH|PIF|8|7|1|COACH- Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Local participant, MOPH, Non MOPH)|||||39000.00|Time|1|15.00|3.00|600.00|0.00|12000.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|8|7|2|COACH- Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Local participant, MOPH, Non MOPH)|||||128007.70|Time|2|35.00|2.00|600.00|0.00|22003.85|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|7|5|COACH- Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Local participant, MOPH, Non MOPH)|||||80396.00|Time|2|30.00|2.00|600.00|0.00|4198.00|20170829||20170829|
+1|CARE COACH|PIF|8|8|0|COACH- Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Non Local, Non MOPH, Participant)||0.00|0.00|45000.00|45000.00|Time|1|5.00|3.00|2000.00|3000.00|0.00||||
+1|CARE COACH|PIF|8|8|1|COACH- Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Non Local, Non MOPH, Participant)|||||12200.00|Time|1|2.00|2.00|2000.00|2100.00|0.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|8|8|2|COACH- Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Non Local, Non MOPH, Participant)|||||33000.00|Time|2|2.00|2.00|2000.00|4250.00|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|8|5|COACH- Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Non Local, Non MOPH, Participant)|||||17524.00|Time|2|1.00|2.00|2000.00|4762.00|0.00|20170829||20170829|
+1|CARE COACH|PIF|8|9|0|COACH- Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Local resource person ,MOPH, Non MOPH)||0.00|0.00|3000.00|3000.00|Time|1|5.00|1.00|600.00|0.00|0.00||||
+1|CARE COACH|PIF|8|9|2|COACH- Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Local resource person ,MOPH, Non MOPH)|||||4200.00|Time|2|1.00|2.00|600.00|900.00|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|9|5|COACH- Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Local resource person ,MOPH, Non MOPH)|||||1800.00|Time|2|1.00|1.00|600.00|300.00|0.00|20170829||20170829|
+1|CARE COACH|PIF|8|10|0|COACH- Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Non Local Resource person, Non MOPH )||0.00|0.00|18000.00|18000.00|Time|1|2.00|3.00|2000.00|3000.00|0.00||||
+1|CARE COACH|PIF|8|10|2|COACH- Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Non Local Resource person, Non MOPH )|||||25484.00|Time|2|2.00|2.00|2000.00|2371.00|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|10|5|COACH- Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|(Non Local Resource person, Non MOPH )|||||11484.00|Time|2|1.00|2.00|2000.00|1742.00|0.00|20170829||20170829|
+1|CARE COACH|PIF|8|11|0|COACH - Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|resource person fee||0.00|0.00|64800.00|64800.00|Time|1|3.00|3.00|7200.00|0.00|0.00||||
+1|CARE COACH|PIF|8|11|1|COACH - Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|resource person fee|||||34800.00|Time|1|3.00|2.00|5800.00|0.00|0.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|8|11|2|COACH - Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|resource person fee|||||66600.00|Time|2|3.00|1.00|11100.00|0.00|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|11|5|COACH - Quality improvement in HIV and STI treatment and care workshop for new suveyor and new coacher|resource person fee|||||51900.00|Year|1|0.00|0.00|0.00|0.00|51900.00|20170829||20170829|
+1|CARE COACH|PIF|8|12|0|COACH- Onsite coaching (Local, MOPH and Non MOPH)|hospital staff and observer, Local participant||0.00|0.00|135000.00|135000.00|Time|5|15.00|3.00|600.00|0.00|0.00||||
+1|CARE COACH|PIF|8|12|4|COACH- Onsite coaching (Local, MOPH and Non MOPH)|hospital staff and observer, Local participant|||||156000.00|Time|5|15.00|3.00|600.00|0.00|4200.00|20170825|care-coach|20170825|care-coach
+1|CARE COACH|PIF|8|12|5|COACH- Onsite coaching (Local, MOPH and Non MOPH)|hospital staff and observer, Local participant|||||164600.00|Time|5|15.00|3.00|600.00|0.00|5920.00|20170829||20170829|
+1|CARE COACH|PIF|8|13|0|COACH- Onsite coaching (Non Local, Non MOPH)|Resource Person||0.00|0.00|142500.00|142500.00|Time|1|15.00|3.00|2000.00|3500.00|0.00||||
+1|CARE COACH|PIF|8|13|1|COACH- Onsite coaching (Non Local, Non MOPH)|Resource Person|||||65531.00|Time|1|7.00|3.00|2000.00|3000.00|2531.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|8|13|2|COACH- Onsite coaching (Non Local, Non MOPH)|Resource Person|||||81000.00|Time|3|3.00|3.00|2000.00|3000.00|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|13|4|COACH- Onsite coaching (Non Local, Non MOPH)|Resource Person|||||109000.00|Time|5|2.00|3.00|2000.00|4900.00|0.00|20170825|care-coach|20170825|care-coach
+1|CARE COACH|PIF|8|13|5|COACH- Onsite coaching (Non Local, Non MOPH)|Resource Person|||||99717.00|Time|5|2.00|3.00|2000.00|3971.70|0.00|20170829||20170829|
+1|CARE COACH|PIF|8|14|0|COACH - Onsite coaching|resource person fee||0.00|0.00|134400.00|134400.00|Time|7|2.00|2.00|4800.00|0.00|0.00||||
+1|CARE COACH|PIF|8|14|1|COACH - Onsite coaching|resource person fee|||||10800.00|Time|3|1.00|1.00|3600.00|0.00|0.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|8|14|4|COACH - Onsite coaching|resource person fee|||||0.00|Time|0|1.00|1.00|3600.00|0.00|0.00|20170825|care-coach|20170825|care-coach
+1|CARE COACH|PIF|8|15|0|COACH- Onsite Supervison (Non Local,Non MOPH)|Surveyor||0.00|0.00|94000.00|94000.00|Time|5|2.00|3.00|2000.00|3400.00|0.00||||
+1|CARE COACH|PIF|8|15|1|COACH- Onsite Supervison (Non Local,Non MOPH)|Surveyor|||||31917.00|Time|1|2.00|2.00|2000.00|11958.50|0.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|8|16|0|COACH-Attend National  Forum (HA Forum / AIDS Siminar) - (Local participants,MOPH, Non MOPH)|Local participants,MOPH, Non MOPH||0.00|0.00|43000.00|43000.00|Time|2|5.00|3.00|600.00|500.00|10000.00||||
+1|CARE COACH|PIF|8|16|2|COACH-Attend National  Forum (HA Forum / AIDS Siminar) - (Local participants,MOPH, Non MOPH)|Local participants,MOPH, Non MOPH|||||31875.00|Time|2|3.00|3.00|600.00|500.00|9037.50|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|17|0|COACH-Attend National  Forum (HA Forum / AIDS Siminar) (Non Local participants,Non MOPH)|Non Local participants,Non MOPH||0.00|0.00|44000.00|44000.00|Time|2|2.00|3.00|2000.00|3000.00|4000.00||||
+1|CARE COACH|PIF|8|17|2|COACH-Attend National  Forum (HA Forum / AIDS Siminar) (Non Local participants,Non MOPH)|Non Local participants,Non MOPH|||||0.00|Time|0|2.00|3.00|2000.00|3000.00|4000.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|18|0|COACH-Attend National  Forum (HA Forum / AIDS Siminar)  (Local resource person ,MOPH, Non MOPH)|Local resource person ,MOPH, Non MOPH||0.00|0.00|2000.00|2000.00|Time|2|2.00|3.00|0.00|500.00|0.00||||
+1|CARE COACH|PIF|8|18|2|COACH-Attend National  Forum (HA Forum / AIDS Siminar)  (Local resource person ,MOPH, Non MOPH)|Local resource person ,MOPH, Non MOPH|||||1000.00|Time|2|1.00|1.00|0.00|500.00|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|19|0|COACH-Attend National  Forum (HA Forum / AIDS Siminar)   (Non Local resource person,Non MOPH)|Non Local resource person,Non MOPH||0.00|0.00|36000.00|36000.00|Time|2|2.00|3.00|2000.00|3000.00|0.00||||
+1|CARE COACH|PIF|8|19|2|COACH-Attend National  Forum (HA Forum / AIDS Siminar)   (Non Local resource person,Non MOPH)|Non Local resource person,Non MOPH|||||10519.00|Time|1|1.00|3.00|2000.00|4519.00|0.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|20|0|COACH- Attend National Forum (HA Forum / AIDS Siminar) (Resource person fee)|Resource person fee||0.00|0.00|36000.00|36000.00|Time|2|5.00|1.00|3600.00|0.00|0.00||||
+1|CARE COACH|PIF|8|20|1|COACH- Attend National Forum (HA Forum / AIDS Siminar) (Resource person fee)|Resource person fee|||||6300.00|Time|1|5.00|1.00|1260.00|0.00|0.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|8|21|0|COACH- Develop the DSC Curriculum for DSC HIV/STI surveyer|||0.00|0.00|50000.00|50000.00|Time|2|0.00|0.00|0.00|0.00|25000.00||||
+1|CARE COACH|PIF|8|21|1|COACH- Develop the DSC Curriculum for DSC HIV/STI surveyer||||||0.00|Time|0|0.00|0.00|0.00|0.00|25000.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|8|22|0|COACH-Printing the DSC Curriculum for surveyer|||0.00|0.00|18800.00|18800.00|Time|1|0.00|0.00|0.00|0.00|18800.00||||
+1|CARE COACH|PIF|8|22|1|COACH-Printing the DSC Curriculum for surveyer||||||18443.00|Time|1|0.00|0.00|0.00|0.00|18443.00|20170210|care-coach|20170210|care-coach
+1|CARE COACH|PIF|8|23|0|COACH-DSC media production for VDO implement|||0.00|0.00|50000.00|50000.00|Year|1|||||50000.00||||
+1|CARE COACH|PIF|8|23|2|COACH-DSC media production for VDO implement||||||0.00|Year|0|||||50000.00|20170515|CARE-COACH|20170515|CARE-COACH
+1|CARE COACH|PIF|8|24|0|COACH-DSC media production for publicity|||0.00|0.00|50000.00|50000.00|Year|1|||||50000.00||||
+1|CARE COACH|PIF|8|24|4|COACH-DSC media production for publicity||||||69200.23|Year|1|||||69200.23|20170825|care-coach|20170825|care-coach
+1|CARE COACH|PIF|8|24|5|COACH-DSC media production for publicity||||||69200.00|Year|1|||||69200.00|20170829||20170829|
+1|CARE COACH|PIF|8|25|3|Gain from exchange rate on 28 เม.ย. 60 (Cheque # 10181825)||||||100804.23|Annual|||||||20170530|care-coach|20170530|care-coach
+1|CARE COACH|PIF|8|25|4|Gain from exchange rate on 28 เม.ย. 60 (Cheque # 10181825)||||||0.00|Annual|||||||20170825|care-coach|20170825|care-coach
+2|CARE COACH|PIF|1|1|0|PIF-coach: Project Coordinator|||0.00|0.00|144000.00|144000.00|Person|1|100.00|6.00|24000.00|||20170315||20170901|
+2|CARE COACH|PIF|1|2|0|PIF-coach: Compensation of government staff|Project Manager for Care and Treatment:Ms.Porntip$2.06/hrx 86 hrs x6 monthsx1 person||0.00|0.00|36000.00|36000.00|Annual|||||||20170315||20170916|
+2|CARE COACH|PIF|1|3|0|PIF-coach: Compensation of government staff|Project Manager for Care and Treatment:TBD $2.06/hrx 86 hrs x 6 monthsx1 person||0.00|0.00|36000.00|36000.00|Annual|||||||20170324||20170916|
+2|CARE COACH|PIF|1|4|0|PIF-coach: Compensation of government staff|Financial official $2.06/hrx 10 hrs x 6 monthsx1 person||0.00|0.00|9000.00|9000.00|Annual|||||||20170324||20170916|
+2|CARE COACH|PIF|1|5|0|PIF-coach: Compensation of government staff|Procurement official $2.06/hrx 10 hrs x 6 monthsx1 person||0.00|0.00|9000.00|9000.00|Annual|||||||20170324||20170916|
+2|CARE COACH|PIF|2|1|0|PIF-coach: Project Coordinator|||0.00|0.00|4500.00|4500.00|Person|1|90000.00|5.00||||20170315||20170901|
+2|CARE COACH|PIF|2|2|0|PIF-coach: Annual medical check up|Annual medical check up for 1 staff  @ $58.82/person||0.00|0.00|2000.00|2000.00|Annual|||||||20170315||20170912|
+2|CARE COACH|PIF|3|1|0|PIF-coach: Technical working group|||0.00|0.00|231000.00|231000.00|Time|3|11.00|2.00|2000.00|3000.00|0.00|20170315||20170901|
+2|CARE COACH|PIF|3|2|0|PIF-coach: Workshop HIV care, PrEP|participants + resource||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|1500.00|1500.00|0.00|20170315||20170901|
+2|CARE COACH|PIF|3|3|0|PIF-coach: Workshop counselling and sensitivity|participants + resource||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|1500.00|1500.00|0.00|20170315||20170829|
+2|CARE COACH|PIF|3|4|0|PIF-Supervision and Coaching|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|2000.00|3000.00|0.00|20170324||20170829|
+2|CARE COACH|PIF|5|1|0|PIF- Stationary|||0.00|0.00|9900.00|9900.00|Year|1|9900.00|||||20170324||20170901|
+2|CARE COACH|PIF|8|1|0|PIF-coach: Technical working group|||0.00|0.00|93600.00|93600.00|Time|9|9.00|1.00|600.00|0.00|5000.00|20170315||20170911|
+2|CARE COACH|PIF|8|2|0|PIF-coach: Developing curriculum|Resource Person||0.00|0.00|49200.00|49200.00|Time|4|3.00|2.00|600.00|0.00|8700.00|20170315||20170901|
+2|CARE COACH|PIF|8|3|0|PIF-coach: Workshop HIV care, PrEP|Resource Person||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|1800.00|0.00|33000.00|20170315||20170829|
+2|CARE COACH|PIF|8|4|0|PIF-coach: Workshop Counseling and sensitivity|Resource Person||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|1800.00|0.00|41500.00|20170315||20170829|
+2|CARE COACH|PIF|8|5|0|PIF-coach: Workshop HIV care, PrEP,counseling, and sensitivity|Participants||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|600.00|0.00|10800.00|20170324||20170829|
+2|CARE COACH|PIF|8|6|0|PIF- Document, printing for meeting and workshop|||0.00|0.00|20400.00|20400.00|year|1|||||20400.00|20170324||20170331|
+2|CARE COACH|PIF|8|7|0|PIF-Supervision and Coaching|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|600.00|0.00|0.00|20170324||20170829|
+2|CARE COACH|PIF|8|8|0|PIF-Communiction Cost|||0.00|0.00|10200.00|10200.00|Year|1|||||10200.00|20170326||20170405|
+2|CARE COACH|PIF|8|9|0|PIF- Exchange rate management|||0.00|0.00|25200.00|25200.00|Year|1|||||25200.00|20170911||20170911|

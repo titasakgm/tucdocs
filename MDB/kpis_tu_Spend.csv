@@ -1,0 +1,46 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|KPIS|TU|8|1|1|TU: Communication cost (telephone and internet)|20161129|2000.00|10022973||||||ค่าบัตรเติมเงินโทรศัพท์ ก.ย.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|1|3|TU: Communication cost (telephone and internet)|20161129|2000.00|10022973||||||ค่าบัตรเติมเงินโทรศัพท์ ต.ค.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|1|5|TU: Communication cost (telephone and internet)|20161129|2000.00|10022973||||||ค่าบัตรเติมเงินโทรศัพท์ พ.ย.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|1|7|TU: Communication cost (telephone and internet)|20170111|2000.00|10022976||||||ค่าบัตรเติมเงินโทรศัพท์ ม.ค.60|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|1|9|TU: Communication cost (telephone and internet)|20170111|2000.00|10022975||||||ค่าบัตรเติมเงินโทรศัพท์ ธ.ค.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|1|10|TU: Communication cost (telephone and internet)|20170201|2000.00|10022977||||||ค่าบัตรเติมเงินโทรศัพท์ ก.พ.60|20170303|kpis-tu|20170303|kpis-tu
+1|KPIS|TU|8|1|12|TU: Communication cost (telephone and internet)|20170306|2000.00|10022981||||||ค่าบัตรเติมเงินโทรศัพท์ มี.ค.60|20170424|kpis-tu|20170424|kpis-tu
+1|KPIS|TU|8|1|14|TU: Communication cost (telephone and internet)|20170401|2000.00|10022985||||||ค่าบัตรเติมเงินโทรศัพท์ เม.ย.60|20170518|kpis-tu|20170518|kpis-tu
+1|KPIS|TU|8|1|16|TU: Communication cost (telephone and internet)|20170502|2000.00|10022988||||||ค่าบัตรเติมเงินโทรศัพท์ พ.ค.60|20170607|kpis-tu|20170607|kpis-tu
+1|KPIS|TU|8|1|18|TU: Communication cost (telephone and internet)|20170601|2000.00|10022992||||||ค่าบัตรเติมเงินโทรศัพท์ มิ.ย..60|20170714|Kpis-tu|20170714|Kpis-tu
+1|KPIS|TU|8|1|20|TU: Communication cost (telephone and internet)|20170704|2000.00|10022995||||||ค่าบัตรเติมเงินโทรศัพท์ ก.ค.60|20170803|kpis-tu|20170803|kpis-tu
+1|KPIS|TU|8|1|22|TU: Communication cost (telephone and internet)|20170801|2000.00|10022998||||||ค่าบัตรเติมเงินโทรศัพท์ ส.ค.60|20170904|kpis-tu|20170904|kpis-tu
+1|KPIS|TU|8|2|1|TU: Lab and medical fee |20161129|34118.00|10022973||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ์ ก.ย.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|2|3|TU: Lab and medical fee |20161129|11270.00|10022973||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ์ ต.ค.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|2|5|TU: Lab and medical fee |20161129|12312.00|10022973||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ์ พ.ย.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|2|7|TU: Lab and medical fee |20170111|8084.00|10022975||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ์ ธ.ค.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|2|9|TU: Lab and medical fee |20170111|9880.00|10022975||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ์ ม.ค.60|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|2|12|TU: Lab and medical fee |20170201|15000.00|10022978|20170228|-5280.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ ก.พ.60|20170303|kpis-tu|20170313|kpis-tu
+1|KPIS|TU|8|2|14|TU: Lab and medical fee |20170306|20000.00|10022982|20170331|-6955.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ มี.ค.60|20170424|kpis-tu|20170424|kpis-tu
+1|KPIS|TU|8|2|17|TU: Lab and medical fee |20170401|20000.00|10022986||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ เม.ย.60|20170606|kpis-tu|20170606|kpis-tu
+1|KPIS|TU|8|2|19|TU: Lab and medical fee |20170502|20000.00|10022989|20170531|-9970.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ พ.ค.60|20170607|kpis-tu|20170607|kpis-tu
+1|KPIS|TU|8|2|21|TU: Lab and medical fee |20170519|1155.00|10022991||||||เบิกเพิ่มค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิเดือนเมษายน60|20170607|kpis-tu|20170607|kpis-tu
+1|KPIS|TU|8|2|23|TU: Lab and medical fee |20170601|20000.00|10022993|20170630|-15520.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ มิ.ย.60|20170714|Kpis-tu|20170714|Kpis-tu
+1|KPIS|TU|8|2|25|TU: Lab and medical fee |20170704|20000.00|10022996|20170731|-10750.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ ก.ค.60|20170803|kpis-tu|20170803|kpis-tu
+1|KPIS|TU|8|2|27|TU: Lab and medical fee |20170801|30000.00|10022999|20170831|-5230.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ ส.ค.60|20170904|kpis-tu|20170904|kpis-tu
+1|KPIS|TU|8|3|1|TU: Compensation for participants (follow-up visits)|20161129|23500.00|10022973||||||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ ก.ย.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|3|3|TU: Compensation for participants (follow-up visits)|20161129|26500.00|10022973||||||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ ต.ค.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|3|6|TU: Compensation for participants (follow-up visits)|20161129|22500.00|10022973|20161130|-5500.00|cash|||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ พ.ย.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|3|8|TU: Compensation for participants (follow-up visits)|20170111|8500.00|10022975||||||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ ธ.ค.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|3|14|TU: Compensation for participants (follow-up visits)|20170111|20536.00|10022975|20170131|-9536.00|cash|||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ ม.ค.60|20170207|kpis-tu|20170303|kpis-tu
+1|KPIS|TU|8|3|15|TU: Compensation for participants (follow-up visits)|20170201|20000.00|10022979|20170228|-8500.00|cash|||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ ก.พ.60|20170303|kpis-tu|20170303|kpis-tu
+1|KPIS|TU|8|3|17|TU: Compensation for participants (follow-up visits)|20170306|30000.00|10022983|20170331|-6500.00|cash|||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ มี.ค.60|20170424|kpis-tu|20170424|kpis-tu
+1|KPIS|TU|8|3|23|TU: Compensation for participants (follow-up visits)|20170502|30000.00|10022990|20170531|-12500.00|cash|||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ พ.ค.60|20170607|kpis-tu|20170607|kpis-tu
+1|KPIS|TU|8|3|24|TU: Compensation for participants (follow-up visits)|20170401|20000.00|10022987|20170428|-7000.00|cash|||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ เม.ย.60 ฝากคืนวันที่ 28 เม.ย.60 จำนวน5,845 บาท, ฝากคืนเข้าบัญชีวันที่ 23 พ.ค.60 จำนวน 1,155 บาท|20170606|kpis-tu|20170607|kpis-tu
+1|KPIS|TU|8|3|26|TU: Compensation for participants (follow-up visits)|20170601|20000.00|10022994|20170630|-17500.00|cash|||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ มิ.ย.60|20170714|Kpis-tu|20170714|Kpis-tu
+1|KPIS|TU|8|3|28|TU: Compensation for participants (follow-up visits)|20170704|29600.00|10022997|20170731|-22600.00|cash|||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ ก.ค.60|20170803|kpis-tu|20170803|kpis-tu
+1|KPIS|TU|8|3|31|TU: Compensation for participants (follow-up visits)|20170801|30000.00|10023000|20170831|-23500.00|cash|||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ .ค.60|20170904|kpis-tu|20170904|kpis-tu
+1|KPIS|TU|8|4|2|TU: Compensation for participants (additional visits)|20161129|1000.00|10022973||||||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ PrEP ก.ย.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|4|4|TU: Compensation for participants (additional visits)|20161129|800.00|10022973||||||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ PrEP ต.ค.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|4|7|TU: Compensation for participants (additional visits)|20161129|2000.00|10022973||||||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ PrEP พ.ย.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|4|9|TU: Compensation for participants (additional visits)|20170111|200.00|10022975||||||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ PrEP ธ.ค.59|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|4|12|TU: Compensation for participants (additional visits)|20170111|800.00|10022975||||||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ PrEP ม.ค.60|20170207|kpis-tu|20170207|kpis-tu
+1|KPIS|TU|8|4|14|TU: Compensation for participants (additional visits)|20170704|400.00|10022997||||||ค่าตอบแทนอาสาสมัครที่เข้าร่วมโครงการ PrEP ก.ค.60|20170803|kpis-tu|20170803|kpis-tu
+1|KPIS|TU|8|5|1|TU: Progress meeting |20170201|6000.00|10022980||||||ค่าใช้จ่ายในการประชุมคณะทำงาน ก.พ.60|20170303|kpis-tu|20170303|kpis-tu
+1|KPIS|TU|8|5|3|TU: Progress meeting |20170306|6000.00|10022984||||||ค่าใช้จ่ายในการประชุมคณะทำงาน มี.ค.60|20170424|kpis-tu|20170424|kpis-tu

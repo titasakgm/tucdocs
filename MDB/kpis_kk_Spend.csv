@@ -1,0 +1,38 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|KPIS|KK|8|1|4|KK: Lab and medical fee |20161130|940.00|10277410||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ์ พ.ย.59|20170201|kpis-kk|20170201|kpis-kk
+1|KPIS|KK|8|1|10|KK: Lab and medical fee |20161130|380.00|10277407||||||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ์ ต.ค.59|20170201|kpis-kk|20170202|kpis-kk
+1|KPIS|KK|8|1|14|KK: Lab and medical fee |20170131|450.00|10277419||||||เบิกเพิ่มค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ์ ต.ค.59|20170206|kpis-kk|20170206|kpis-kk
+1|KPIS|KK|8|1|17|KK: Lab and medical fee |20161201|4000.00|10277413|20170131|-3730.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ์ ธ.ค.59|20170201|kpis-kk|20170207|kpis-kk
+1|KPIS|KK|8|1|18|KK: Lab and medical fee |20161230|4000.00|10277416|20170228|-2119.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ์ ม.ค.60|20170201|kpis-kk|20170303|kpis-kk
+1|KPIS|KK|8|1|19|KK: Lab and medical fee |20170131|4000.00|10277420|20170301|-3920.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ์ ก.พ.60|20170206|kpis-kk|20170420|kpis-kk
+1|KPIS|KK|8|1|22|KK: Lab and medical fee |20170301|4000.00|10321703|20170429|-3660.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ์ มี.ค.60|20170420|kpis-kk|20170511|kpis-kk
+1|KPIS|KK|8|1|25|KK: Lab and medical fee |20170403|4000.00|10321706|20170531|-3920.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ เม.ย.60|20170511|kpis-kk|20170607|kpis-kk
+1|KPIS|KK|8|1|31|KK: Lab and medical fee |20170501|4000.00|10321709|20170630|-3880.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ พ.ค.60|20170607|kpis-kk|20170711|kpis-kk
+1|KPIS|KK|8|1|34|KK: Lab and medical fee |20170531|4000.00|10321712|20170731|-4000.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ มิ.ย.60|20170711|kpis-kk|20170807|kpis-kk
+1|KPIS|KK|8|1|35|KK: Lab and medical fee |20170629|4000.00|10321715|20170831|-3820.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ ก.ค.60|20170711|kpis-kk|20170914|kpis-kk
+1|KPIS|KK|8|1|38|KK: Lab and medical fee |20170801|4000.00|10321718|20170831|-580.00|cash|||ค่าบริการทางการแพทย์ในส่วนที่เกินสิทธิ์ ส.ค.60 **คืนเงินเข้าบัญชีวันที่ 14 ก.ย.60|20170914|kpis-kk|20170914|kpis-kk
+1|KPIS|KK|8|2|1|KK: Compensation for participants (follow-up visits)|20161130|3000.00|10277405||||||ค่าตอบแทนอาสาสมัคร ก.ย.59|20170201|kpis-kk|20170201|kpis-kk
+1|KPIS|KK|8|2|3|KK: Compensation for participants (follow-up visits)|20161130|7500.00|10277408||||||ค่าตอบแทนอาสาสมัคร ต.ค.59|20170201|kpis-kk|20170201|kpis-kk
+1|KPIS|KK|8|2|5|KK: Compensation for participants (follow-up visits)|20161130|13000.00|10277411||||||ค่าตอบแทนอาสาสมัคร พ.ย.59|20170201|kpis-kk|20170201|kpis-kk
+1|KPIS|KK|8|2|10|KK: Compensation for participants (follow-up visits)|20161201|18500.00|10277414|20170131|-11500.00|cash|||ค่าตอบแทนอาสาสมัคร ธ.ค.59|20170201|kpis-kk|20170206|kpis-kk
+1|KPIS|KK|8|2|13|KK: Compensation for participants (follow-up visits)|20161230|18500.00|10277417|20170228|-12000.00|cash|||ค่าตอบแทนอาสาสมัคร ม.ค.60|20170201|kpis-kk|20170303|kpis-kk
+1|KPIS|KK|8|2|14|KK: Compensation for participants (follow-up visits)|20170131|18500.00|10321701|20170301|-15500.00|cash|||ค่าตอบแทนอาสาสมัคร ก.พ.60|20170206|kpis-kk|20170420|kpis-kk
+1|KPIS|KK|8|2|17|KK: Compensation for participants (follow-up visits)|20170301|18500.00|10321704|20170429|-12500.00|cash|||ค่าตอบแทนอาสาสมัคร มี.ค.60|20170420|kpis-kk|20170511|kpis-kk
+1|KPIS|KK|8|2|20|KK: Compensation for participants (follow-up visits)|20170403|18500.00|10321707|20170531|-15000.00|cash|||ค่าตอบแทนอาสาสมัคร เม.ย.60|20170511|kpis-kk|20170607|kpis-kk
+1|KPIS|KK|8|2|26|KK: Compensation for participants (follow-up visits)|20170501|18500.00|10321710|20170630|-13500.00|cash|||ค่าตอบแทนอาสาสมัคร พ.ค.60|20170607|kpis-kk|20170711|kpis-kk
+1|KPIS|KK|8|2|29|KK: Compensation for participants (follow-up visits)|20170531|18500.00|10321713|20170731|-17000.00|cash|||ค่าตอบแทนอาสาสมัคร มิ.ย.60|20170711|kpis-kk|20170807|kpis-kk
+1|KPIS|KK|8|2|30|KK: Compensation for participants (follow-up visits)|20170626|18500.00|10321716|20170831|-15000.00|cash|||ค่าตอบแทนอาสาสมัคร ก.ค.60|20170711|kpis-kk|20170914|kpis-kk
+1|KPIS|KK|8|2|33|KK: Compensation for participants (follow-up visits)|20170801|18500.00|10321719|20170831|-13500.00|cash|||ค่าตอบแทนอาสาสมัคร ส.ค.60 **คืนเงินเข้าบัญชีวันที่ 14 ก.ย.60|20170914|kpis-kk|20170914|kpis-kk
+1|KPIS|KK|8|3|1|KK: Progress meeting |20170824|12000.00|10380881||||||ค่าใช้จ่ายในการประชุมคณะทำงาน|20170914|kpis-kk|20170914|kpis-kk
+1|KPIS|KK|8|4|4|KK: Communication cost (telephone and internet)|20161130|2000.00|10277406||||||ค่าบัตรเติมเงินโทรศัพท์ ก.ย.59|20170201|kpis-kk|20170201|kpis-kk
+1|KPIS|KK|8|4|5|KK: Communication cost (telephone and internet)|20161130|2000.00|10277409||||||ค่าบัตรเติมเงินโทรศัพท์ ต.ค.59|20170201|kpis-kk|20170201|kpis-kk
+1|KPIS|KK|8|4|7|KK: Communication cost (telephone and internet)|20161130|2000.00|10277412||||||ค่าบัตรเติมเงินโทรศัพท์ พ.ย.59|20170201|kpis-kk|20170201|kpis-kk
+1|KPIS|KK|8|4|18|KK: Communication cost (telephone and internet)|20170131|2000.00|10321702||||||ค่าบัตรเติมเงินโทรศัพท์ ก.พ60|20170206|kpis-kk|20170303|kpis-kk
+1|KPIS|KK|8|4|19|KK: Communication cost (telephone and internet)|20161201|2000.00|10277415||||||ค่าบัตรเติมเงินโทรศัพท์ ธ.ค.59|20170201|kpis-kk|20170313|kpis-kk
+1|KPIS|KK|8|4|21|KK: Communication cost (telephone and internet)|20161230|2000.00|10277418||||||ค่าบัตรเติมเงินโทรศัพท์ ม.ค.60|20170201|kpis-kk|20170420|kpis-kk
+1|KPIS|KK|8|4|22|KK: Communication cost (telephone and internet)|20170301|2000.00|10321705||||||ค่าบัตรเติมเงินโทรศัพท์ มี.ค.60|20170420|kpis-kk|20170420|kpis-kk
+1|KPIS|KK|8|4|24|KK: Communication cost (telephone and internet)|20170403|2000.00|10321708||||||ค่าบัตรเติมเงินโทรศัพท์ เม.ย.60|20170511|kpis-kk|20170511|kpis-kk
+1|KPIS|KK|8|4|26|KK: Communication cost (telephone and internet)|20170501|2000.00|10321711||||||ค่าบัตรเติมเงินโทรศัพท์ พ.ค.60|20170607|kpis-kk|20170607|kpis-kk
+1|KPIS|KK|8|4|31|KK: Communication cost (telephone and internet)|20170531|2000.00|10321714||||||ค่าบัตรเติมเงินโทรศัพท์ มิ.ย.60|20170711|kpis-kk|20170711|kpis-kk
+1|KPIS|KK|8|4|32|KK: Communication cost (telephone and internet)|20170629|2000.00|10321715||||||ค่าบัตรเติมเงินโทรศัพท์ ก.ค.60|20170711|kpis-kk|20170807|kpis-kk
+1|KPIS|KK|8|4|33|KK: Communication cost (telephone and internet)|20170801|2000.00|10321720||||||ค่าบัตรเติมเงินโทรศัพท์ ส.ค.60|20170914|kpis-kk|20170914|kpis-kk

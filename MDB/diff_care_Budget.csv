@@ -1,0 +1,42 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+2|Diff-CARE|-|1|1|0|BATS: Project coordinator|Ms.Maneenut Wittikarn||0.00|0.00|311460.00|311460.00|Person|1|100.00|12.00|25955.00|||20170310||20170322|
+2|Diff-CARE|-|1|2|0|BATS: Project assistance|Ms.Nutchanart Yimyai||0.00|0.00|310116.00|310116.00|Person|1|100.00|12.00|25843.00|||20170310||20170314|
+2|Diff-CARE|-|1|3|0|BATS: Compensation for Government staff|($2.06/hr x 43 hrs x 12 months x 2 persons)||0.00|0.00|72000.00|72000.00|Annual|||||||20170310||20170403|
+2|Diff-CARE|-|1|4|0|PIF- Diff Care UB: Project assistance|TBD||0.00|0.00|216000.00|216000.00|Person|1|100.00|12.00|18000.00|||20170310||20170403|
+2|Diff-CARE|-|1|5|0|PIF-Diff Care UB: Compensation for Government staff|($2.06/hr x 86 hrs x 12 months x 1 person)||0.00|0.00|72000.00|72000.00|Annual|||||||20170314||20170403|
+2|Diff-CARE|-|1|6|0|PIF-Diff Care UB: Part time for PLHIV volunteer|$661.76 x 40% x 12 months x 2 persons||0.00|0.00|216000.00|216000.00|Person|2|40.00|12.00|22500.00|||20170314||20170403|
+2|Diff-CARE|-|2|1|0|BATS: Project coordinator|Ms.Maneenut Wuttikarn||0.00|0.00|9000.00|9000.00|Person|1|311460.00|5.00||||20170314||20170314|
+2|Diff-CARE|-|2|2|0|BATS: Project assistance|Ms.Nutchanart Yimyai||0.00|0.00|9000.00|9000.00|Person|1|310116.00|5.00||||20170314|||
+2|Diff-CARE|-|2|3|0|BATS:Annual medical check-up|$58.82 x 2 persons||0.00|0.00|4000.00|4000.00|Annual|||||||20170314||20170913|
+2|Diff-CARE|-|2|4|0|PIF-Diff Care UB: Project assistance|TBD||0.00|0.00|9000.00|9000.00|Person|1|216000.00|5.00||||20170314||20170403|
+2|Diff-CARE|-|2|5|0|PIF-Diff Care UB: Annual medical check-up|$58.82 x 1 person||0.00|0.00|2000.00|2000.00|Annual|||||||20170314||20170829|
+2|Diff-CARE|-|3|1|0|BATS: ACC advisory and working group meeting|||0.00|0.00|175000.00|175000.00|Time|1|25.00|1.00|2000.00|5000.00|0.00|20170314||20170322|
+2|Diff-CARE|-|3|2|0|BATS: ACC regional workshop to establish provincial case manager|||0.00|0.00|782000.00|782000.00|Time|2|46.00|2.00|2000.00|4500.00|0.00|20170314||20170911|
+2|Diff-CARE|-|3|3|0|BATS: Follow-up and coaching at the implementation sites|||0.00|0.00|210000.00|210000.00|Time|5|6.00|1.00|2000.00|5000.00|0.00|20170314||20170911|
+2|Diff-CARE|-|3|4|0|PIF-Diff Care BATS: Working group meeting|||0.00|0.00|375000.00|375000.00|Time|5|10.00|1.00|2000.00|5500.00|0.00|20170314||20170403|
+2|Diff-CARE|-|3|5|0|PIF-Diff Care BATS: Share lesson learn for model development and site expansion|||0.00|0.00|-0.00|0.00|Time|0|70.00|2.00|2000.00|6870.00|0.00|20170314||20170822|
+2|Diff-CARE|-|3|6|0|PIF-Care UB: Van rental and gasoline for follow-up at district hospital|||0.00|0.00|60100.00|60100.00|Time|10|0.00|0.00|0.00|0.00|6010.00|20170403||20170403|
+2|Diff-CARE|-|4|1|0|BATS: Computer note book|||0.00|0.00|30000.00|30000.00|Set|1|30000.00|||||20170320||20170403|
+2|Diff-CARE|-|4|2|0|PIF-Diff Care UB: Printer|||0.00|0.00|5000.00|5000.00|Set|1|5000.00|||||20170317||20170320|
+2|Diff-CARE|-|4|3|0|PIF-Diff Care UB: Computer note book|||0.00|0.00|30000.00|30000.00|Set|1|30000.00|||||20170314||20170403|
+2|Diff-CARE|-|5|1|0|BATS: Office supplies|||0.00|0.00|10000.00|10000.00|Year|1|10000.00|||||20170314||20170320|
+2|Diff-CARE|-|5|2|0|PIF-Diff Care UB: Office supplies|||0.00|0.00|20000.00|20000.00|Year|1|20000.00|||||20170314||20170320|
+2|Diff-CARE|-|8|1|0|BATS: ACC advisory and working group meeting|Local Participants||0.00|0.00|48000.00|48000.00|Time|4|20.00|1.00|600.00|0.00|0.00|20170314||20170403|
+2|Diff-CARE|-|8|2|0|BATS: ACC advisory and working group meeting|Non local, non  MOPH||0.00|0.00|47424.00|47424.00|Time|1|6.00|1.00|2000.00|5000.00|5424.00|20170314||20170322|
+2|Diff-CARE|-|8|3|0|BATS: ACC regional workshop to establish provincial case manager|Local Participants||0.00|0.00|48000.00|48000.00|Time|2|20.00|2.00|600.00|0.00|0.00|20170314||20170403|
+2|Diff-CARE|-|8|4|0|PIF-Diff Care BATS: Diff-Care working group meeting|Local Participants||0.00|0.00|19000.00|19000.00|Time|1|30.00|1.00|600.00|0.00|1000.00|20170314||20170403|
+2|Diff-CARE|-|8|5|0|PIF-Diff Care BATS: Follow-up and coaching at implementation sites|Local Participants||0.00|0.00|72000.00|72000.00|Time|6|20.00|1.00|600.00|0.00|0.00|20170314||20170403|
+2|Diff-CARE|-|8|6|0|PIF-Diff Care BATS: Diff-Care model development and share lesson learn for site expansion|Local Participants||0.00|0.00|26000.00|26000.00|Time|1|35.00|1.00|600.00|0.00|5000.00|20170314||20170403|
+2|Diff-CARE|-|8|7|0|PIF-Diff Care UB: Provincial Diff-Care working group meeting|Local Participants||0.00|0.00|96000.00|96000.00|Time|4|40.00|1.00|600.00|0.00|0.00|20170314||20170403|
+2|Diff-CARE|-|8|8|0|PIF-Diff Care UB: Capacity building: ART refresher training for HCPs|Local Participants||0.00|0.00|62924.00|62924.00|Time|1|100.00|1.00|600.00|0.00|2924.00|20170314||20170403|
+2|Diff-CARE|-|8|9|0|PIF-Diff Care UB: Capacity building: ART refresher training for PLHIV|Local Participants||0.00|0.00|72000.00|72000.00|Time|2|60.00|1.00|600.00|0.00|0.00|20170314||20170403|
+2|Diff-CARE|-|8|10|0|PIF-Diff Care UB: Peer group activities to promote ART adherence and retention|||0.00|0.00|187500.00|187500.00|Time|15|50.00|1.00|250.00|0.00|0.00|20170314||20170331|
+2|Diff-CARE|-|8|11|0|PIF-Diff Care UB: Provinincial annual meeting to share lesson learn|Local Participants||0.00|0.00|-0.00|0.00|Time|0|100.00|1.00|600.00|0.00|576.00|20170314||20170822|
+2|Diff-CARE|-|8|12|0|PIF-Diff Care BATS: Communication expenses|||0.00|0.00|12000.00|12000.00|Month|12|||||1000.00|20170314||20170403|
+2|Diff-CARE|-|8|13|0|PIF-Diff Care UB: Communication expenses|||0.00|0.00|12000.00|12000.00|Month|12|||||1000.00|20170314||20170403|
+2|Diff-CARE|-|8|14|0|PIF-Diff Care BATS: Printing documents|Diff-Care SOP and materials||0.00|0.00|-0.00|0.00|Annual|||||||20170314||20170822|
+2|Diff-CARE|-|8|15|0|PIF-Diff Care UB: Coaching and follow-up at district hospital|||0.00|0.00|72000.00|72000.00|Time|6|20.00|1.00|600.00|0.00|0.00|20170314||20170322|
+2|Diff-CARE|-|8|16|0|PIF-Diff Care UB: Quality Improvement activities for Diff-care|QI project for Diff-care||0.00|0.00|100000.00|100000.00|Time|4|20.00|2.00|600.00|0.00|1000.00|20170322||20170829|
+2|Diff-CARE|-|8|17|0|PIF-Diff Care UB: Study visit for HCWs from district hospital to learn Diff-Care model at provinical hospital|||0.00|0.00|68000.00|68000.00|Time|4|20.00|1.00|600.00|0.00|5000.00|20170322||20170829|
+2|Diff-CARE|-|8|18|0|PIF-Diff Care UB: Diff-care data monitoring and analysis|||0.00|0.00|133476.00|133476.00|Time|3|15.00|4.00|600.00|0.00|8492.00|20170331||20170829|
+2|Diff-CARE|-|8|19|0|Exchange rate management|USD||0.00|0.00|110000.00|110000.00|Annual|||||||20170822||20170911|

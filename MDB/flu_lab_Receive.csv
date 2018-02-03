@@ -1,0 +1,5 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|FLU-Lab|-|20161025|2|12500.00|34.8300|435375.00||10170119|เงินเบิกงวดที่ 1 ได้เช็ค 2 ใบ ใบที่ 1 เลขที่เช็ค 10170119 ยอดเงิน 425,000.-บาท ใบที่ 2 เลขที่เช็ค  10172129 อัตราแลกเปลี่ยน ยอดเงิน 10,375.-บาท|20170116|Flu-Lab|20170206|Flu-Lab
+1|FLU-Lab|-|20161228|2|17977.00|35.7600|642857.52||10172185|เงินเบิกงวดที่ 2 อัตราแลกเปลี่ยน 1.76 ยอดเงิน 31639.52 บาท Gain Loss|20170206|Flu-Lab|20170505|Flu-Lab
+1|FLU-Lab|-|20170428|1|17000.00|34.2788|582739.60||10181850|เงินเบิกงวดที่ 3|20170508|Flu-Lab|20170508|Flu-Lab
+1|FLU-Lab|-|20170707|1|2523.00|33.7900|85252.17||10181881|เงินงวดที่ 4|20170718|flu-lab|20170718|flu-lab

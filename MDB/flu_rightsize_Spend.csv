@@ -1,0 +1,16 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|FLU-RightSize|-|1|2|2|Administrative and Financial Assistant (TBD)|20161025|11200.00|10169862||||||ค่าจ้างพาสทามเดือนต.ค.59|20170208|flu-rightsize|20170208|flu-rightsize
+1|FLU-RightSize|-|1|2|3|Administrative and Financial Assistant (TBD)|20161125|11200.00|10169863||||||ค่าจ้างพาสทามเดือนพ.ย.59|20170208|flu-rightsize|20170208|flu-rightsize
+1|FLU-RightSize|-|1|2|4|Administrative and Financial Assistant (TBD)|20161226|11200.00|10169864||||||ค่าจ้างพาสทามเดือนธ.ค.59|20170208|flu-rightsize|20170208|flu-rightsize
+1|FLU-RightSize|-|1|2|5|Administrative and Financial Assistant (TBD)|20170125|11200.00|10169867||||||ค่าจ้างพาสทามเดือนม.ค.60|20170208|flu-rightsize|20170208|flu-rightsize
+1|FLU-RightSize|-|1|2|7|Administrative and Financial Assistant (TBD)|20170227|11200.00|10169869||||||ค่าจ้างพาสทามเดือนก.พ.60|20170224|flu-rightsize|20170224|flu-rightsize
+1|FLU-RightSize|-|1|2|8|Administrative and Financial Assistant (TBD)|20160930|11200.00|10169861||||||ค่าจ้างพาสทามเดือนก.ย.59|20170208|flu-rightsize|20170228|flu-rightsize
+1|FLU-RightSize|-|1|2|10|Administrative and Financial Assistant (TBD)|20170327|11200.00|10169870||||||ค่าจ้างพาสทามเดือนมี.ค.60|20170418|flu-rightsize|20170418|flu-rightsize
+1|FLU-RightSize|-|1|2|12|Administrative and Financial Assistant (TBD)|20170425|11200.00|10169871||||||ค่าจ้างพาสทามเดือนเม.ย.60|20170421|flu-rightsize|20170421|flu-rightsize
+1|FLU-RightSize|-|1|2|14|Administrative and Financial Assistant (TBD)|20170525|11200.00|10169872||||||ค่าจ้างพาสทามเดือนพ.ค.60|20170602|flu-rightsize|20170602|flu-rightsize
+1|FLU-RightSize|-|1|2|16|Administrative and Financial Assistant (TBD)|20170626|11200.00|10169873||||||ค่าจ้างพาสทามเดือนมิ.ย.60|20170706|flu-rightsize|20170706|flu-rightsize
+1|FLU-RightSize|-|1|2|19|Administrative and Financial Assistant (TBD)|20170725|11200.00|10169875||||||ค่าจ้างพาสทามเดือนก.ค.6|20170807|flu-rightsize|20170807|flu-rightsize
+1|FLU-RightSize|-|1|2|21|Administrative and Financial Assistant (TBD)|20170825|11200.00|10169876||||||ค่าจ้างพาสทามเดือนส.ค.6|20170807|flu-rightsize|20170807|flu-rightsize
+1|FLU-RightSize|-|3|1|6|Site visit (MOPH-non local and project staff)|20170227|5950.00|10169868||||||(เบิกเพิ่ม)ไปราชการเชียงใหม่24-27 ม.ค.60|20170224|flu-rightsize|20170224|flu-rightsize
+1|FLU-RightSize|-|3|1|7|Site visit (MOPH-non local and project staff)|20170110|40200.00|10169866||||||เบิกจ่ายไปราชการเชียงใหม่24-27 ม.ค.60|20170217|flu-rightsize|20170227|flu-rightsize
+1|FLU-RightSize|-|3|2|1|Laboratory surveillance network meeting ((22 person x perdiem 2,000 x 3 days)+(20 persons x tran 3,900)) x 1 times|20170714|210000.00|10169874|20170802|-843.00|Cash|||ไปราชการเพื่อประชุม ณ จังหวัดเพชรบุรี/23-26ก.ค.60|20170807|flu-rightsize|20170807|flu-rightsize

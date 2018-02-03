@@ -1,0 +1,21 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+2|SI|PS-ITC|1|1|0|Full time Programmer - ICT-1|TBD||0.00|0.00|216000.00|216000.00|Person|1|100.00|9.00|24000.00|||20170407||20170917|
+2|SI|PS-ITC|1|2|0|Full time Coordinator - ICT|TBD||0.00|0.00|162000.00|162000.00|Person|1|100.00|9.00|18000.00|||20170329||20170917|
+2|SI|PS-ITC|1|3|0|PIF(2)-Full time Programmer - ICT-2|TBD||0.00|0.00|-0.00|0.00|Person|0|100.00|9.00|24000.00|||20170917||20170917|
+2|SI|PS-ITC|1|4|0|PIF(2)-Compensation for Government staff|Average 2.06 USD/hr x 60 hrs x 9 months x 4 person||0.00|0.00|-0.00|0.00|Annual|||||||20170917||20170917|
+2|SI|PS-ITC|2|1|0|Full time Programmer - 1|TBD||0.00|0.00|6750.00|6750.00|Person|9|15000.00|5.00||||20170407||20170917|
+2|SI|PS-ITC|2|2|0|Full time Coordinator - ICT|TBD||0.00|0.00|6750.00|6750.00|Person|9|15000.00|5.00||||20170410||20170917|
+2|SI|PS-ITC|2|3|0|Annual Medical Check up|$58.82 x 2 person (Programmer-1 and coordinator)||0.00|0.00|4000.00|4000.00|Annual|||||||20170917||20170917|
+2|SI|PS-ITC|2|4|0|PIF(2)-Full time Programmer - 2|TBD||0.00|0.00|-0.00|0.00|Person|0|15000.00|5.00||||20170917||20170917|
+2|SI|PS-ITC|2|5|0|PIF(2)-Annual Medical Check up|$58.82 x 1 person (Programmer-2)||0.00|0.00|-0.00|0.00|Annual|||||||20170917||20170917|
+2|SI|PS-ITC|3|1|0|Workshops/Trainings: e-health and HDC-MIS management for surveillance|Non local participants||0.00|0.00|220000.00|220000.00|Time|5|4.00|3.00|2000.00|5000.00|0.00|20170329||20170917|
+2|SI|PS-ITC|3|2|0|PIF(2)-Training workshop of Public Health Informatics|||0.00|0.00|-0.00|0.00|Time|0|25.00|5.00|2000.00|6000.00|0.00|20170917||20170917|
+2|SI|PS-ITC|5|1|0|Computer supplies for applications, trainings or workshops|Computer accessories for applications, trainings or workshops||0.00|0.00|29830.00|29830.00|Year|1|29830.00|||||20170329||20170917|
+2|SI|PS-ITC|5|2|0|PIF(2)-Office supplies for meeting and training|Meeting materials and accessories for WS, training and meetings||0.00|0.00|-0.00|0.00|Year|0|4410.00|||||20170917||20170917|
+2|SI|PS-ITC|6|1|0|Technical supervisor on Health Informatics Management|Data science expert for providing guidance on designing the  informatics management platform||0.00|0.00|300000.00|300000.00|year|1|300000.00|||||20170407||20170917|
+2|SI|PS-ITC|6|2|0|PIF(2)-Contact devloper(s) for development and implement the tools for data management|To develop the auto-generating of HIV related surveillance and monitoring reports||0.00|0.00|-0.00|0.00|year|0|1300000.00|||||20170329||20170917|
+2|SI|PS-ITC|8|1|0|Workshops/Trainings: e-health and HDC-MIS management for surveillance|Local and Non-local participants||0.00|0.00|126000.00|126000.00|Time|5|10.00|3.00|600.00|0.00|7200.00|20170329||20170917|
+2|SI|PS-ITC|8|2|0|PIF(2)-Workshop of Public Health Informatics|Local and Non-local participants||0.00|0.00|-0.00|0.00|Time|0|30.00|5.00|600.00|0.00|4076.00|20170329||20170917|
+2|SI|PS-ITC|8|3|0|PIF(2)-Executive Working Group Meeting for strategic plan decision|Local participants||0.00|0.00|-0.00|0.00|Time|0|15.00|1.00|600.00|0.00|2000.00|20170329||20170917|
+2|SI|PS-ITC|8|4|0|PIF(2)-Communication cost|Telephone, fax and internet||0.00|0.00|-0.00|0.00|Month|0|||||500.00|20170917||20170917|
+2|SI|PS-ITC|8|5|0|Exchange rate management|To support depreciation from the exchange rate fluctuation during the budget year||0.00|0.00|78822.00|78822.00|Annual|||||||20170917||20170918|

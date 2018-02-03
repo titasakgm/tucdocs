@@ -1,0 +1,4 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|HSRP-COMBO|-|20161025|3|45576.60|34.8300|1587432.98||10170081/ 10170093|#10170081 for (ภาษี) =rate 34.00 Baht 1,549,604.40 B and #10170093 for rate 0.83 Baht=37,828.58 B|20170207|hsrp-combo|20170615|hsrp-combo
+1|HSRP-COMBO|-|20170502|3|10000.00|34.2788|342788.00||10172016|rate 34.2788 Baht|20170615|hsrp-combo|20170615|hsrp-combo
+1|HSRP-COMBO|-|20170731|1|16345.40|34.2788|560300.70||10172027||20170810|hsrp-combo|20170810|hsrp-combo

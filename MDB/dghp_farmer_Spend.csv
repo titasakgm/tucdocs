@@ -1,0 +1,105 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-Farmer|-|1|1|1|Project Coordinator Ms. Apiladee Soonngam|20161026|24500.00|10167623||||||Saraly Sep 2016|20170112|DGHP-FARMER|20170112|DGHP-FARMER
+1|DGHP-Farmer|-|1|1|2|Project Coordinator Ms. Apiladee Soonngam|20161026|24500.00|10167628||||||Salary Oct 2016|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|1|3|Project Coordinator Ms. Apiladee Soonngam|20161125|24500.00|10167636||||||Salary Nov 2016|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|1|4|Project Coordinator Ms. Apiladee Soonngam|20161226|24500.00|10172984||||||Salary Dec 2016|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|1|5|Project Coordinator Ms. Apiladee Soonngam|20170125|24500.00|10172993||||||Salary Jan 2017|20170209|DGHP-farmer|20170209|DGHP-farmer
+1|DGHP-Farmer|-|1|1|6|Project Coordinator Ms. Apiladee Soonngam|20170227|24500.00|10173000||||||Salary Feb 2017|20170303|dghp-farmer|20170303|dghp-farmer
+1|DGHP-Farmer|-|1|1|7|Project Coordinator Ms. Apiladee Soonngam|20170327|24500.00|10173011||||||Salary Mar 2017|20170328|dghp-farmer|20170328|dghp-farmer
+1|DGHP-Farmer|-|1|1|8|Project Coordinator Ms. Apiladee Soonngam|20170425|24500.00|10173019||||||Salary April 2017|20170501|dghp-farmer|20170501|dghp-farmer
+1|DGHP-Farmer|-|1|1|9|Project Coordinator Ms. Apiladee Soonngam|20170525|24500.00|10173029||||||Salary May 2017|20170526|dghp-farmer|20170526|dghp-farmer
+1|DGHP-Farmer|-|1|1|10|Project Coordinator Ms. Apiladee Soonngam|20170626|24500.00|10173037||||||Salary June 2017|20170707|dghp-farmer|20170707|dghp-farmer
+1|DGHP-Farmer|-|1|1|11|Project Coordinator Ms. Apiladee Soonngam|20170727|24500.00|10173046||||||Salary July 2017|20170802|dghp-farmer|20170802|dghp-farmer
+1|DGHP-Farmer|-|1|1|14|Project Coordinator Ms. Apiladee Soonngam|20170825|24500.00|10173053||||||Salary Aug 2017|20170817|dghp-farmer|20170822|dghp-farmer
+1|DGHP-Farmer|-|1|2|2|Programmer (Part-time) Mr.Jiruntaanin Paasarlkulanurn|20161026|4900.00|10167625||||||Saraly Sep 2016|20170112|DGHP-FARMER|20170112|DGHP-FARMER
+1|DGHP-Farmer|-|1|2|3|Programmer (Part-time) Mr.Jiruntaanin Paasarlkulanurn|20161026|4900.00|10167631||||||Salary Oct 2016|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|2|4|Programmer (Part-time) Mr.Jiruntaanin Paasarlkulanurn|20161125|4900.00|10167639||||||Salary Nov 2016|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|2|6|Programmer (Part-time) Mr.Jiruntaanin Paasarlkulanurn|20161226|4900.00|10172987||||||Salary Dec 2016|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|2|7|Programmer (Part-time) Mr.Jiruntaanin Paasarlkulanurn|20170125|4900.00|10172996||||||Salary Jan 2017|20170209|DGHP-farmer|20170209|DGHP-farmer
+1|DGHP-Farmer|-|1|2|8|Programmer (Part-time) Mr.Jiruntaanin Paasarlkulanurn|20170227|4900.00|10173003||||||Salary Feb 2017|20170303|dghp-farmer|20170303|dghp-farmer
+1|DGHP-Farmer|-|1|2|9|Programmer (Part-time) Ms.Prapasree Thiengtham|20170327|4900.00|10173014||||||Salary Mar 2017|20170328|dghp-farmer|20170328|dghp-farmer
+1|DGHP-Farmer|-|1|2|10|Programmer (Part-time) Ms.Prapasree Thiengtham|20170425|4900.00|10173022||||||Salary April 2017|20170501|dghp-farmer|20170501|dghp-farmer
+1|DGHP-Farmer|-|1|2|11|Programmer (Part-time) Ms.Prapasree Thiengtham|20170525|4900.00|10173032||||||Salary May 2017|20170526|dghp-farmer|20170526|dghp-farmer
+1|DGHP-Farmer|-|1|2|12|Programmer (Part-time) Ms.Prapasree Thiengtham|20170626|4900.00|10173040||||||Salary June 2017|20170707|dghp-farmer|20170707|dghp-farmer
+1|DGHP-Farmer|-|1|2|14|Programmer (Part-time) Ms.Prapasree Thiengtham|20170727|4900.00|10173049||||||Salary July 2017|20170802|dghp-farmer|20170802|dghp-farmer
+1|DGHP-Farmer|-|1|2|15|Programmer (Part-time) Ms.Prapasree Thiengtham|20170825|4900.00|10173056||||||Salary Aug 2017|20170817|dghp-farmer|20170817|dghp-farmer
+1|DGHP-Farmer|-|1|3|1|Data analysis Officer (Part-time) Mrs. Punnarai Smithsuwan|20161026|11500.00|10167630||||||Salary Oct 2016|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|3|2|Data analysis Officer (Part-time) Mrs. Punnarai Smithsuwan|20161125|11500.00|10167638||||||Salary Nov 2016|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|3|3|Data analysis Officer (Part-time) Mrs. Punnarai Smithsuwan|20161226|11500.00|10172986||||||Salary Dec 2016|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|3|4|Data analysis Officer (Part-time) Mrs. Punnarai Smithsuwan|20170125|11500.00|10172995||||||Salary Jan 2017|20170209|DGHP-farmer|20170209|DGHP-farmer
+1|DGHP-Farmer|-|1|3|5|Data analysis Officer (Part-time) Mrs. Punnarai Smithsuwan|20170227|11500.00|10173002||||||Salary Feb 2017|20170303|dghp-farmer|20170303|dghp-farmer
+1|DGHP-Farmer|-|1|3|6|Data analysis Officer (Part-time) Mrs. Punnarai Smithsuwan|20170327|11500.00|10173013||||||Salary Mar 2017|20170328|dghp-farmer|20170328|dghp-farmer
+1|DGHP-Farmer|-|1|3|7|Data analysis Officer (Part-time) Mrs. Punnarai Smithsuwan|20170425|11500.00|10173021||||||Salary April 2017|20170501|dghp-farmer|20170501|dghp-farmer
+1|DGHP-Farmer|-|1|3|8|Data analysis Officer (Part-time) Mrs. Punnarai Smithsuwan|20170525|11500.00|10173031||||||Salary May 2017|20170526|dghp-farmer|20170526|dghp-farmer
+1|DGHP-Farmer|-|1|3|9|Data analysis Officer (Part-time) Mrs. Punnarai Smithsuwan|20170626|11500.00|10173039||||||Salary June 2017|20170707|dghp-farmer|20170707|dghp-farmer
+1|DGHP-Farmer|-|1|3|10|Data analysis Officer (Part-time) Mrs. Punnarai Smithsuwan|20170727|11500.00|10173048||||||Salary July 2017|20170802|dghp-farmer|20170802|dghp-farmer
+1|DGHP-Farmer|-|1|3|11|Data analysis Officer (Part-time) Mrs. Punnarai Smithsuwan|20170825|11500.00|10173055||||||Salary Aug 2017|20170817|dghp-farmer|20170817|dghp-farmer
+1|DGHP-Farmer|-|1|4|11|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20161026|3850.00|10167621||||||Salary Sep 2016 (Soawapak Hinjoy)|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|4|12|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20161026|1750.00|10167622||||||Salary Sep 2016 (Articha Wongkhumma)|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|4|14|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20161026|3850.00|10167626||||||Salary Oct 2016 (Soawapak Hinjoy)|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|4|20|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20161026|1750.00|10167627||||||Salary Oct 2016 (Articha Wongkhumma)|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|4|21|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20161125|1750.00|10167635||||||Salary Nov 2016 (Articha Wongkhumma)|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|4|22|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20161125|3850.00|10167634||||||Salary Nov 2016 (Soawapak Hinjoy)|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|4|24|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20161226|3850.00|10172982||||||Salary Dec 2016 (Soawapak Hinjoy)|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|4|26|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20161226|1750.00|10172983||||||Salary Dec 2016 (Articha Wongkhumma)|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|1|4|27|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170125|3850.00|10172991||||||Salary Jan 2017 (Soawapak Hinjoy)|20170209|DGHP-farmer|20170209|DGHP-farmer
+1|DGHP-Farmer|-|1|4|28|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170125|1750.00|10172992||||||Salary Jan 2017 (Articha Wongkhumma)|20170209|DGHP-farmer|20170209|DGHP-farmer
+1|DGHP-Farmer|-|1|4|30|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170227|3850.00|10172998||||||Salary Feb 2017 (Soawapak Hinjoy)|20170303|dghp-farmer|20170303|dghp-farmer
+1|DGHP-Farmer|-|1|4|32|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170227|1750.00|10172999||||||Salary Feb 2017 (Articha Wongkhumma)|20170303|dghp-farmer|20170303|dghp-farmer
+1|DGHP-Farmer|-|1|4|34|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170327|3850.00|10173009||||||Salary Mar 2017 (Soawapak Hinjoy)|20170328|dghp-farmer|20170328|dghp-farmer
+1|DGHP-Farmer|-|1|4|36|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170327|1750.00|10173010||||||Salary Mar 2017 (Articha Wongkhumma)|20170328|dghp-farmer|20170328|dghp-farmer
+1|DGHP-Farmer|-|1|4|38|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170425|3850.00|10173017||||||Salary April 2017 (Soawapak Hinjoy)|20170501|dghp-farmer|20170501|dghp-farmer
+1|DGHP-Farmer|-|1|4|40|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170425|1750.00|10173018||||||Salary April 2017 (Articha Wongkhumma)|20170501|dghp-farmer|20170501|dghp-farmer
+1|DGHP-Farmer|-|1|4|42|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170525|3850.00|10173027||||||Salary May 2017 (Soawapak Hinjoy)|20170526|dghp-farmer|20170526|dghp-farmer
+1|DGHP-Farmer|-|1|4|44|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170525|1750.00|10173028||||||Salary May 2017 (Articha Wongkhumma)|20170526|dghp-farmer|20170526|dghp-farmer
+1|DGHP-Farmer|-|1|4|46|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170626|3850.00|10173035||||||Salary June 2017 (Soawapak Hinjoy)|20170707|dghp-farmer|20170707|dghp-farmer
+1|DGHP-Farmer|-|1|4|48|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170626|1750.00|10173036||||||Salary June 2017 (Articha Wongkhumma)|20170707|dghp-farmer|20170707|dghp-farmer
+1|DGHP-Farmer|-|1|4|50|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170727|3850.00|10173044||||||Salary July 2017 (Soawapak Hinjoy)|20170802|dghp-farmer|20170802|dghp-farmer
+1|DGHP-Farmer|-|1|4|52|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170727|1750.00|10173045||||||Salary July 2017 (Articha Wongkhumma)|20170802|dghp-farmer|20170802|dghp-farmer
+1|DGHP-Farmer|-|1|4|54|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170825|3850.00|10173051||||||Salary Aug 2017 (Soawapak Hinjoy)|20170817|dghp-farmer|20170817|dghp-farmer
+1|DGHP-Farmer|-|1|4|56|Compensation for government officers at MoPH ($2.06 or 70 Baht x 40 hours/month x 12 months) x 2 persons|20170825|1750.00|10173052||||||Salary Aug 2017 (Articha Wongkhumma)|20170817|dghp-farmer|20170817|dghp-farmer
+1|DGHP-Farmer|-|2|1|1|Program Coordinator Ms. Apiladee Soonngam|20161026|750.00|10167624||||||Sep 2016|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|2|1|3|Program Coordinator Ms. Apiladee Soonngam|20161125|750.00|10167637||||||Nov 2016|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|2|1|4|Program Coordinator Ms. Apiladee Soonngam|20161226|750.00|10172985||||||Dec 2016|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|2|1|5|Program Coordinator Ms. Apiladee Soonngam|20170125|750.00|10172994||||||Jan 2017|20170209|DGHP-farmer|20170209|DGHP-farmer
+1|DGHP-Farmer|-|2|1|6|Program Coordinator Ms. Apiladee Soonngam|20161026|750.00|10167629||||||Oct 2016|20170120|dghp-farmer|20170222|dghp-farmer
+1|DGHP-Farmer|-|2|1|7|Program Coordinator Ms. Apiladee Soonngam|20170227|750.00|10173001||||||Feb 2017|20170303|dghp-farmer|20170303|dghp-farmer
+1|DGHP-Farmer|-|2|1|8|Program Coordinator Ms. Apiladee Soonngam|20170327|750.00|10173012||||||Mar 2017|20170328|dghp-farmer|20170328|dghp-farmer
+1|DGHP-Farmer|-|2|1|10|Program Coordinator Ms. Apiladee Soonngam|20170425|750.00|10173020||||||April 2017|20170501|dghp-farmer|20170526|dghp-farmer
+1|DGHP-Farmer|-|2|1|11|Program Coordinator Ms. Apiladee Soonngam|20170525|750.00|10173030||||||May 2017|20170526|dghp-farmer|20170526|dghp-farmer
+1|DGHP-Farmer|-|2|1|12|Program Coordinator Ms. Apiladee Soonngam|20170626|750.00|10173038||||||June 2017|20170707|dghp-farmer|20170707|dghp-farmer
+1|DGHP-Farmer|-|2|1|13|Program Coordinator Ms. Apiladee Soonngam|20170727|750.00|10173047||||||July 2017|20170802|dghp-farmer|20170802|dghp-farmer
+1|DGHP-Farmer|-|2|1|14|Program Coordinator Ms. Apiladee Soonngam|20170825|750.00|10173054||||||Aug 2017|20170817|dghp-farmer|20170817|dghp-farmer
+1|DGHP-Farmer|-|2|2|2|Annual Medical Check-up for full time staff ($58.82 or 2,000 Baht) x 1 person|20170823|2000.00|10173057||||||ตรวจสุขภาพ|20170817|dghp-farmer|20170823|dghp-farmer
+1|DGHP-Farmer|-|3|1|2|Meeting with stakeholders to develop data collection instruments Non-Local Participants and MoPH|20161114|5800.00|10167633|20161114|-1600.00|cash|||ประชุมคณะทำงาน 14 พ.ย. 59|20170120|dghp-farmer|20170203|dghp-farmer
+1|DGHP-Farmer|-|3|1|3|Meeting with stakeholders to develop data collection instruments Non-Local Participants and MoPH|20170110|5600.00|10172989|20170110|-2000.00|cash|||ประชุมคณะทำงาน 10 ม.ค.60|20170209|DGHP-farmer|20170209|DGHP-farmer
+1|DGHP-Farmer|-|3|1|4|Meeting with stakeholders to develop data collection instruments Non-Local Participants and MoPH|20170614|5600.00|10173033|20170615|-2000.00|Cash|||ประชุมคณะทำงาน 15 มิ.ย. 60|20170707|dghp-farmer|20170707|dghp-farmer
+1|DGHP-Farmer|-|3|2|2|A three-day workshop on event-based surveillance to reduce the burden of respiratory diseases Non-Local Participants|20170220|155256.00|10172997|20170316|-18406.00|cash|||Workshop 27 -2, 6-8 Mar 2017|20170328|dghp-farmer|20170328|dghp-farmer
+1|DGHP-Farmer|-|3|3|3|A refresher workshop on event-based surveillance Non-Local Participants|20170714|280265.00|10173043|20170802|-84125.00|Cash|||Refresher|20170802|dghp-farmer|20170817|dghp-farmer
+1|DGHP-Farmer|-|3|4|3|Site visit and data collection for non-local participants to monitor and evaluation Non-Local Participants|20161209|91330.00|10172981|20161220|-11525.00|cash|||ประชุมชี้แจง 12-13,15-16 ธ.ค. 59 (ครั้งแรก)|20170120|dghp-farmer|20170203|dghp-farmer
+1|DGHP-Farmer|-|3|4|7|Site visit and data collection for non-local participants to monitor and evaluation Non-Local Participants|20170505|47875.00|10173023|20170515|-8266.00|cash|||ติดตามงาน 8-9 พ.ค. 60     จ.น่าน (2)|20170526|dghp-farmer|20170526|dghp-farmer
+1|DGHP-Farmer|-|3|4|9|Site visit and data collection for non-local participants to monitor and evaluation Non-Local Participants|20170517|10000.00|10173025|20170519|-276.00|Cash|||ติดตามงาน 18 พ.ค. 60     จ.ศรีสะเกษ (3)|20170526|dghp-farmer|20170526|dghp-farmer
+1|DGHP-Farmer|-|3|4|11|Site visit and data collection for non-local participants to monitor and evaluation Non-Local Participants|20170517|49680.00|10173026|20170525|-6630.00|Cash|||ติดตามงาน 22-23 พ.ค. 60   จ.ศรีสะเกษ (4)|20170526|dghp-farmer|20170526|dghp-farmer
+1|DGHP-Farmer|-|3|4|13|Site visit and data collection for non-local participants to monitor and evaluation Non-Local Participants|20170629|19400.00|10173041|20170721|-2570.00|Cash|||ติดตามงาน 3-8 ก.ค. 60     จ.ศรีสะเกษ|20170707|dghp-farmer|20170802|dghp-farmer
+1|DGHP-Farmer|-|3|4|15|Site visit and data collection for non-local participants to monitor and evaluation Non-Local Participants|20170705|4000.00|10173042||||||ติดตามงาน 24 มิ.ย. - 1 ก.ค. 60  จ.ศรีสะเกษ|20170802|dghp-farmer|20170802|dghp-farmer
+1|DGHP-Farmer|-|3|4|17|Site visit and data collection for non-local participants to monitor and evaluation Non-Local Participants|20170823|9050.00|10173050||||||ติตตามงาน 10-11 ส.ค. 60|20170817|dghp-farmer|20170823|dghp-farmer
+1|DGHP-Farmer|-|3|5|1|Presenting at international meeting/conference |20170113|90543.00|10172990||||||เสนอผลงาน ตปท.หมอจุ๊บ|20170209|DGHP-farmer|20170209|DGHP-farmer
+1|DGHP-Farmer|-|4|1|1|Notebook Computer |20170322|24765.84|10173005|20170323|233.64|10173006|||ค่า Notebook หักภาษี ณ ที่จ่าย 1%|20170328|dghp-farmer|20170328|dghp-farmer
+1|DGHP-Farmer|-|5|1|6|General Office Supplies Stationeries,paper, paper clips, ink cartridge etc.|20170331|21676.03|10173015|20170407|204.49|10173016|||ค่าอุปกรณ์สำนักงาน หักภาษี ณ ที่จ่าย 1%|20170418|dghp-farmer|20170501|dghp-farmer
+1|DGHP-Farmer|-|8|1|1|Technical meeting for local participants at BOE office Local Participants|20161103|3000.00|10167632||||||ประชุมทีมงาน 1 พ.ย. 59|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|8|1|3|Technical meeting for local participants at BOE office Local Participants|20161226|3000.00|10172988||||||ประชุมทีมงาน 14 ธ.ค.59|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|8|1|5|Technical meeting for local participants at BOE office Local Participants|20170215|2400.00|10173004||||||ประชุมทีมงาน 15 ก.พ. 60|20170303|dghp-farmer|20170303|dghp-farmer
+1|DGHP-Farmer|-|8|1|7|Technical meeting for local participants at BOE office Local Participants|20170428|1800.00|10173024||||||ประชุมทีมงาน 28 เม.ย. 60|20170501|dghp-farmer|20170501|dghp-farmer
+1|DGHP-Farmer|-|8|1|8|Technical meeting for local participants at BOE office Local Participants|20170615|1800.00|10173034||||||ประชุมทีมงาน 15 มิ.ย. 60|20170707|dghp-farmer|20170707|dghp-farmer
+1|DGHP-Farmer|-|8|2|2|Printing a guideline of event-based surveillance |20170317|54060.00|10173007|20170323|510.00|10173008|||ค่าพิมพ์คู่มือ 300 เล่ม หักภาษี ณ ที่จ่าย 1%|20170328|dghp-farmer|20170328|dghp-farmer
+1|DGHP-Farmer|-|8|3|1|Meeting facilities for technical meeting Meeting materials,photocopy,meeting room|20161209|4670.00|10172981||||||ประชุมชี้แจง 12-13,15-16 ธ.ค. 59 (ครั้งแรก)|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|8|3|2|Meeting facilities for technical meeting Meeting materials,photocopy,meeting room|20170220|8000.00|10172997||||||Workshop 27-2,6-8March 2017|20170328|dghp-farmer|20170328|dghp-farmer
+1|DGHP-Farmer|-|8|3|5|Meeting facilities for technical meeting Meeting materials,photocopy,meeting room|20170505|2125.00|10173023||||||ติดตามงาน 8-9 พ.ค. 60     จ.น่าน (2)|20170526|dghp-farmer|20170526|dghp-farmer
+1|DGHP-Farmer|-|8|3|6|Meeting facilities for technical meeting Meeting materials,photocopy,meeting room|20170629|1600.00|10173041||||||ติดตามงาน 3-8 ก.ค. 60 จ.ศรีสะเกษ|20170802|dghp-farmer|20170802|dghp-farmer
+1|DGHP-Farmer|-|8|3|7|Meeting facilities for technical meeting Meeting materials,photocopy,meeting room|20170714|10755.00|10173043||||||Refresher|20170817|dghp-farmer|20170817|dghp-farmer
+1|DGHP-Farmer|-|8|3|8|Meeting facilities for technical meeting Meeting materials,photocopy,meeting room|20170517|3320.00|10173026||||||ติดตามงาน 22-23 พ.ค. 60   จ.ศรีสะเกษ (4)|20170817|dghp-farmer|20170817|dghp-farmer
+1|DGHP-Farmer|-|8|4|1|Meeting with stakeholders to develop data collection instruments Local participants and Non- MoPH|20161114|1200.00|10167633||||||ประชุมคณะทำงาน 14 พ.ย. 59|20170120|dghp-farmer|20170120|dghp-farmer
+1|DGHP-Farmer|-|8|4|3|Meeting with stakeholders to develop data collection instruments Local participants and Non- MoPH|20170110|2400.00|10172989||||||ประชุมคณะทำงาน 10 ม.ค.60|20170209|DGHP-farmer|20170209|DGHP-farmer
+1|DGHP-Farmer|-|8|4|6|Meeting with stakeholders to develop data collection instruments Local participants and Non- MoPH|20170614|2400.00|10173033||||||ประชุมคณะทำงาน 15 มิ.ย. 60|20170707|dghp-farmer|20170707|dghp-farmer
+1|DGHP-Farmer|-|8|5|2|A three-day workshop on event -based surveillance to reduce the burden of respiratory diseases Local participants and Non MoPH|20170220|116744.00|10172997||||||Workshop 27-2,6-8March 2017|20170328|dghp-farmer|20170328|dghp-farmer
+1|DGHP-Farmer|-|8|6|2|A refresher workshop on event-based surveillance Local participants and Non MoPH|20170714|108980.00|10173043||||||Refresher|20170802||20170817|dghp-farmer

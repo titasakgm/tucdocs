@@ -1,0 +1,275 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-AFI|NP|1|1|0|Project manager|Mr.Tuwan Simmali||0.00|0.00|371640.00|371640.00|Person|1|100.00|12.00|30970.00||||||
+1|DGHP-AFI|NP|1|2|0|Research assistant|Ms.Pawinee Wongthawee||0.00|0.00|240840.00|240840.00|Person|1|100.00|12.00|20070.00||||||
+1|DGHP-AFI|NP|1|3|0|Research  assistant|Ms. Autcharaporn Sangkasat||0.00|0.00|216000.00|216000.00|Person|1|100.00|12.00|18000.00||||||
+1|DGHP-AFI|NP|1|4|0|Research assistant|Mr.Narongdech Paripurana||0.00|0.00|358560.00|358560.00|Person|1|100.00|12.00|29880.00||||||
+1|DGHP-AFI|NP|1|5|0|Research assistant|Ms.Natthakan Boottrawet||0.00|0.00|283380.00|283380.00|Person|1|100.00|12.00|23615.00||||||
+1|DGHP-AFI|NP|1|6|0|Research nurse|Mrs. Chanyarat Yokgochphanngam||0.00|0.00|385560.00|385560.00|Person|1|100.00|12.00|32130.00||||||
+1|DGHP-AFI|NP|1|7|0|Research nurse|Ms.Tewa Faipet||0.00|0.00|360000.00|360000.00|Person|1|100.00|12.00|30000.00||||||
+1|DGHP-AFI|NP|1|8|0|Research assistant|Mr.Yuttapong Norapet||0.00|0.00|220500.00|220500.00|Person|1|100.00|12.00|18375.00||||||
+1|DGHP-AFI|NP|1|9|0|Laboratory technician|Ms.Payaowadee Abthaisong||0.00|0.00|296520.00|296520.00|Person|1|100.00|12.00|24710.00||||||
+1|DGHP-AFI|NP|1|10|0|Laboratory technician|Ms.Nanthanat Techawetcharoen||0.00|0.00|294060.00|294060.00|Person|1|100.00|12.00|24505.00||||||
+1|DGHP-AFI|NP|1|11|0|Overtimes for laboratory technician-AFI & AFI2|($17.64/ Shift x 35 Shifts x 12 months-AFI) + ($17.64/ Shift x 28 Shifts x 12 months-AFI2)||0.00|0.00|453600.00|453600.00|Shift|63|100.00|12.00|600.00||||||
+1|DGHP-AFI|NP|1|12|0|Laboratory technician license|$29.41 x 4 persons x 12 months (2 AFI & 2 AFI2)||0.00|0.00|48000.00|48000.00|Person|4|100.00|12.00|1000.00||||||
+1|DGHP-AFI|NP|1|13|0|Overtimes for reseach nurse|($17.64/ Shift x 27 Shifts x 12 months-AFI) + ($17.14/ Shift x 30 Shifts x 12 months-AFI2)||0.00|0.00|410400.00|410400.00|Shift|57|100.00|12.00|600.00||||||
+1|DGHP-AFI|NP|1|14|0|Compensation for government staff|$2.05 x 22 times x 3.5 hrs x 12 months||0.00|0.00|64680.00|64680.00|Month|1|100.00|12.00|5390.00||||||
+1|DGHP-AFI|NP|1|15|0|Research nurse-AFI2|To be named||0.00|0.00|360000.00|360000.00|Person|1|100.00|12.00|30000.00||||||
+1|DGHP-AFI|NP|1|15|2|Research nurse-AFI2|To be named|||||270000.00|Person|1|100.00|9.00|30000.00|||20170619||20170619|
+1|DGHP-AFI|NP|1|16|0|Laboraotory technician-AFI2|To be named||0.00|0.00|264000.00|264000.00|Person|1|100.00|12.00|22000.00||||||
+1|DGHP-AFI|NP|1|17|0|Research assistant-AFI|To be named||0.00|0.00|108000.00|108000.00|Person|1|100.00|6.00|18000.00||||||
+1|DGHP-AFI|NP|1|18|0|Compensation for resercher-AFI & AFI2|Dr.Prapatr Weerapol (Nakhon Phanom PCMO)||0.00|0.00|60000.00|60000.00|Annual||||||||||
+1|DGHP-AFI|NP|1|19|0|Compensation for researcher-AFI & AFI2|Dr.Preeda Worahan (The vice PCMO)||0.00|0.00|60000.00|60000.00|Annual||||||||||
+1|DGHP-AFI|NP|1|20|0|Compensation for reseacher-AFI & AFI2|Miss Paiwan Laowatthanathaworn (The vice PCMO)||0.00|0.00|60000.00|60000.00|Annual||||||||||
+1|DGHP-AFI|NP|1|21|0|Compensation for reseacher-AFI & AFI2|Dr.Suphachoke Khemla (Internist at Nakhon Phanom hospital)||0.00|0.00|60000.00|60000.00|Annual||||||||||
+1|DGHP-AFI|NP|1|22|0|Compensation for reseacher- AFI & AFI2|Ms.Choowattana Chara (Hospital coordinator at Nakhon Phanom hospital)||0.00|0.00|36000.00|36000.00|Annual||||||||||
+1|DGHP-AFI|NP|1|23|0|Compensation for reseacher- AFI & Zika|Ms.Chidchanok Promkhong (Head of Nakhon phanom hospital lab department)||0.00|0.00|18000.00|18000.00|Annual||||||||||
+1|DGHP-AFI|NP|1|24|0|Compensation for reseacher-AFI|Ms.Sompron Orn-wan (NP GDD lab consultant)||0.00|0.00|18000.00|18000.00|Annual||||||||||
+1|DGHP-AFI|NP|1|25|0|Compensation for Obstetrician-AFI2|Nakhon Phanom Hospital||0.00|0.00|60000.00|60000.00|Annual||||||||||
+1|DGHP-AFI|NP|1|26|0|Compensation for Pediatrician-AFI2|Nakhon Phanom Hospital||0.00|0.00|60000.00|60000.00|Annual||||||||||
+1|DGHP-AFI|NP|1|27|0|Compensation for PI-AFI3|To be named||0.00|0.00|60000.00|60000.00|Annual||||||||||
+1|DGHP-AFI|NP|1|28|0|Compensation for Co PI-AFI3|To be named||0.00|0.00|60000.00|60000.00|Annual||||||||||
+1|DGHP-AFI|NP|1|29|0|Compensation for PHO-AFI3|To be named||0.00|0.00|60000.00|60000.00|Annual||||||||||
+1|DGHP-AFI|NP|1|30|0|Project Manager AFI3|To be named||0.00|0.00|456000.00|456000.00|Person|1|100.00|12.00|38000.00||||||
+1|DGHP-AFI|NP|1|30|2|Project Manager AFI3|To be named|||||228000.00|Person|1|100.00|6.00|38000.00|||20170619||20170619|
+1|DGHP-AFI|NP|1|31|0|Project data manager AFI3|To be named||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00||||||
+1|DGHP-AFI|NP|1|32|0|Financial and Administrative Officer AFI3|To be named||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00||||||
+1|DGHP-AFI|NP|1|32|2|Financial and Administrative Officer AFI3|To be named|||||120000.00|Person|1|100.00|6.00|20000.00|||20170619||20170619|
+1|DGHP-AFI|NP|1|33|0|Research assistant (1) AFI3|To be named||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00||||||
+1|DGHP-AFI|NP|1|34|0|Research assistant (2) AFI3|To be named||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00||||||
+1|DGHP-AFI|NP|1|35|0|Research nurse (1) AFI3|To be named||0.00|0.00|360000.00|360000.00|Person|1|100.00|12.00|30000.00||||||
+1|DGHP-AFI|NP|1|35|2|Research nurse (1) AFI3|To be named|||||270000.00|Person|1|100.00|9.00|30000.00|||20170619||20170619|
+1|DGHP-AFI|NP|1|36|0|Research nurse (2) AFI3|To be named||0.00|0.00|360000.00|360000.00|Person|1|100.00|12.00|30000.00||||||
+1|DGHP-AFI|NP|1|37|0|Research nurse (3) AFI3|To be named||0.00|0.00|360000.00|360000.00|Person|1|100.00|12.00|30000.00||||||
+1|DGHP-AFI|NP|1|38|0|Research nurse (4) AFI3|To be named||0.00|0.00|360000.00|360000.00|Person|1|100.00|12.00|30000.00||||||
+1|DGHP-AFI|NP|1|39|0|Laboratory Technician (1) AFI3|To be named||0.00|0.00|276000.00|276000.00|Person|1|100.00|12.00|23000.00||||||
+1|DGHP-AFI|NP|1|40|0|Laboratory Technician (1) AFI3|To be named||0.00|0.00|276000.00|276000.00|Person|1|100.00|12.00|23000.00||||||
+1|DGHP-AFI|NP|1|41|0|Overtimes for full-time CoAg staff (AFI3)|[$2.05/hr x70 hr x 12 monthsx11 persons]||0.00|0.00|646800.00|646800.00|Annual||||||||||
+1|DGHP-AFI|NP|1|41|2|Overtimes for full-time CoAg staff (AFI3)|[10 persons x $2.05/hr (or 70 THB) x 65 hrs x 12 monthsx11 persons]|||||546000.00|Annual|||||||20170619||20170619|
+1|DGHP-AFI|NP|1|42|0|Compensation for Government staffs  AFI3|[$2.05/hr x 30 hrs x 12 months] x 4 persons||0.00|0.00|100800.00|100800.00|Annual||||||||||
+1|DGHP-AFI|NP|1|42|2|Compensation for Government staffs  AFI3|[$2.05/hr x 40 hrs x 12 months] x 0 persons|||||0.00|Annual|||||||20170619||20170619|
+1|DGHP-AFI|NP|1|43|0|Research nurse|To be named||0.00|0.00|360000.00|360000.00|Person|1|100.00|12.00|30000.00||||||
+1|DGHP-AFI|NP|1|44|0|Research nurse-AFI2|To be named||0.00|0.00|360000.00|360000.00|Person|1|100.00|12.00|30000.00||||||
+1|DGHP-AFI|NP|1|45|0|Research nurse-AFI2|To be named||0.00|0.00|360000.00|360000.00|Person|1|100.00|12.00|30000.00||||||
+1|DGHP-AFI|NP|1|46|0|Research assistant-AFI|To be named||0.00|0.00|108000.00|108000.00|Person|1|100.00|6.00|18000.00||||||
+1|DGHP-AFI|NP|1|46|3|Research assistant-AFI|(Mr.Weerayoot Polsuwan)|||||144000.00|Person|1|100.00|8.00|18000.00|||20170817|dghp-afi-np|20170817|dghp-afi-np
+1|DGHP-AFI|NP|1|47|0|Research assistant-AFI|To be named||0.00|0.00|216000.00|216000.00|Person|1|100.00|12.00|18000.00||||||
+1|DGHP-AFI|NP|1|47|3|Research assistant-AFI|(Ms.Nuchnapa Faipet)|||||180000.00|Person|1|100.00|10.00|18000.00|||20170817|dghp-afi-np|20170817|dghp-afi-np
+1|DGHP-AFI|NP|1|48|0|Laboraotory technician-AFI2|To be named||0.00|0.00|264000.00|264000.00|Person|1|100.00|12.00|22000.00||||||
+1|DGHP-AFI|NP|2|1|0|Project manager|Mr.Tuwan Simmali||0.00|0.00|9000.00|9000.00|Person|1|390228.00|5.00|||||||
+1|DGHP-AFI|NP|2|2|0|Research assistant|Ms.Pawinee Wongthawee||0.00|0.00|9000.00|9000.00|Person|1|252888.00|5.00|||||||
+1|DGHP-AFI|NP|2|3|0|Research assistant|Ms.Autcharaporn Sangkasat||0.00|0.00|9000.00|9000.00|Person|1|226880.00|5.00|||||||
+1|DGHP-AFI|NP|2|4|0|Research assistant|Mr.Narongdech Paripurana||0.00|0.00|9000.00|9000.00|Person|1|376488.00|5.00|||||||
+1|DGHP-AFI|NP|2|5|0|Research assistant|Ms.Natthakan Boottrawet||0.00|0.00|9000.00|9000.00|Person|1|297552.00|5.00|||||||
+1|DGHP-AFI|NP|2|6|0|Research nurse|Ms.Chanyarat Yokgochphanngam||0.00|0.00|9000.00|9000.00|Person|1|404844.00|5.00|||||||
+1|DGHP-AFI|NP|2|7|0|Research nurse|Ms.Tewa Faipet||0.00|0.00|9000.00|9000.00|Person|1|360000.00|5.00|||||||
+1|DGHP-AFI|NP|2|8|0|Research assistant|Mr.Yuttapong Norapet||0.00|0.00|9000.00|9000.00|Person|1|231528.00|5.00|||||||
+1|DGHP-AFI|NP|2|9|0|Laboratory technician|Ms.Payaowadee Abthaisong||0.00|0.00|9000.00|9000.00|Person|1|302448.00|5.00|||||||
+1|DGHP-AFI|NP|2|10|0|Laboratory technician|Ms.NanthanatTechawetcharoen||0.00|0.00|9000.00|9000.00|Person|1|299940.00|5.00|||||||
+1|DGHP-AFI|NP|2|11|0|Annual medical check-up| ($58.82 x 19 persons) (11 AFI + 3 additional AFI Ras + 5 AFI2 Staffs(3 RNs + 2 Lab Techs))||0.00|0.00|38000.00|38000.00|Annual||||||||||
+1|DGHP-AFI|NP|2|12|0|AFI2 Research nurse|To be named||0.00|0.00|9000.00|9000.00|Person|1|360000.00|5.00|||||||
+1|DGHP-AFI|NP|2|12|2|AFI2 Research nurse|To be named|||||6750.00|Person|1|135000.00|5.00||||20170619||20170619|
+1|DGHP-AFI|NP|2|13|0|AFI2 Laboratory technician|To be named||0.00|0.00|9000.00|9000.00|Person|1|264000.00|5.00|||||||
+1|DGHP-AFI|NP|2|14|0|Research assistant-AFI|To be named||0.00|0.00|4500.00|4500.00|Person|1|108000.00|5.00|||||||
+1|DGHP-AFI|NP|2|15|0|Project manager AFI3|To be named||0.00|0.00|9000.00|9000.00|Person|1|456000.00|5.00|||||||
+1|DGHP-AFI|NP|2|15|2|Project manager AFI3|To be named|||||4500.00|Person|1|90000.00|5.00||||20170619||20170619|
+1|DGHP-AFI|NP|2|16|0|Project data manager AFI3|To be named||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00|||||||
+1|DGHP-AFI|NP|2|17|0|Financial and Administrative Officer AFI3|To be named||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00|||||||
+1|DGHP-AFI|NP|2|17|2|Financial and Administrative Officer AFI3|To be named|||||4500.00|Person|1|90000.00|5.00||||20170619||20170619|
+1|DGHP-AFI|NP|2|18|0|Research assistant  AFI3|To be named||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00|||||||
+1|DGHP-AFI|NP|2|19|0|Research nurse AFI3|To be named||0.00|0.00|9000.00|9000.00|Person|1|360000.00|5.00|||||||
+1|DGHP-AFI|NP|2|19|2|Research nurse AFI3|To be named|||||6750.00|Person|1|135000.00|5.00||||20170619||20170619|
+1|DGHP-AFI|NP|2|20|0|Laboratory Technician (2) AFI3|To be named||0.00|0.00|9000.00|9000.00|Person|1|276000.00|5.00|||||||
+1|DGHP-AFI|NP|2|21|0|Annual Medical Check-up (11) AFI3|11 persons x $58.82||0.00|0.00|22000.00|22000.00|Annual||||||||||
+1|DGHP-AFI|NP|2|21|2|Annual Medical Check-up (11) AFI3|5 persons x $58.82 (or 2,000 THB)|||||10000.00|Annual|||||||20170619||20170619|
+1|DGHP-AFI|NP|2|22|0|Research nurse|To be named||0.00|0.00|9000.00|9000.00|Person|1|360000.00|5.00|||||||
+1|DGHP-AFI|NP|2|23|0|AFI2 Research nurse|To be named||0.00|0.00|9000.00|9000.00|Person|1|360000.00|5.00|||||||
+1|DGHP-AFI|NP|2|24|0|AFI2 Research nurse|To be named||0.00|0.00|9000.00|9000.00|Person|1|360000.00|5.00|||||||
+1|DGHP-AFI|NP|2|25|0|Research assistant-AFI|To be named||0.00|0.00|4500.00|4500.00|Person|1|108000.00|5.00|||||||
+1|DGHP-AFI|NP|2|25|3|Research assistant-AFI|(Mr.Weerayoot Polsuwan)|||||6000.00|Person|1|120000.00|5.00||||20170817|dghp-afi-np|20170817|dghp-afi-np
+1|DGHP-AFI|NP|2|26|0|Research assistant-AFI|To be named||0.00|0.00|9000.00|9000.00|Person|1|216000.00|5.00|||||||
+1|DGHP-AFI|NP|2|26|3|Research assistant-AFI|(Ms.Nuchnapa Faipet)|||||7500.00|Person|1|150000.00|5.00||||20170817|dghp-afi-np|20170817|dghp-afi-np
+1|DGHP-AFI|NP|2|27|0|Research assistant (2) AFI3|To be named||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00|||||||
+1|DGHP-AFI|NP|2|28|0|Research nurse AFI3|To be named||0.00|0.00|9000.00|9000.00|Person|1|360000.00|5.00|||||||
+1|DGHP-AFI|NP|2|29|0|Research nurse AFI3|To be named||0.00|0.00|9000.00|9000.00|Person|1|360000.00|5.00|||||||
+1|DGHP-AFI|NP|2|30|0|Research nurse AFI3|To be named||0.00|0.00|9000.00|9000.00|Person|1|360000.00|5.00|||||||
+1|DGHP-AFI|NP|2|31|0|Laboratory Technician (2) AFI3|To be named||0.00|0.00|9000.00|9000.00|Person|1|276000.00|5.00|||||||
+1|DGHP-AFI|NP|2|32|0|AFI2 Laboratory technician|To be named||0.00|0.00|9000.00|9000.00|Person|1|264000.00|5.00|||||||
+1|DGHP-AFI|NP|3|1|0|Scientific conference-AFI & AFI2|See attached budget justification for details||0.00|0.00|64000.00|64000.00|Time|2|4.00|4.00|2000.00|0.00|0.00||||
+1|DGHP-AFI|NP|3|2|0|Capacity building training- AFI, AFI2 & AFI3|GCP, GLP, SOP, lab related and etc -||0.00|0.00|180000.00|180000.00|Time|2|22.00|2.00|2000.00|0.00|2000.00||||
+1|DGHP-AFI|NP|3|2|2|Capacity building training- AFI, AFI2 & AFI3|GCP, GLP, SOP, lab related and etc -|||||72000.00|Time|2|4.00|2.00|2000.00|5000.00|0.00|20170619||20170619|
+1|DGHP-AFI|NP|3|3|0|Transportation cost/ fuel-AFI, AFI2 & AFI3|See attached justification -||0.00|0.00|421158.29|421158.29|Annual||||||||||
+1|DGHP-AFI|NP|3|4|0|International conference-AFI|See attached justification||0.00|0.00|86180.00|86180.00|Time|1|2.00|5.00|8618.00|0.00|0.00||||
+1|DGHP-AFI|NP|3|5|0|Kick-off Meeting-AFI3|See attached budget justification for details -||0.00|0.00|48000.00|48000.00|Time|1|8.00|3.00|2000.00|0.00|0.00||||
+1|DGHP-AFI|NP|4|1|0|Laboratory and office equipment-AFI, AFI2 & AFI3|Incubator AFI2, AFI3 Freezer (-70), Centifuge also see attached justification -||0.00|0.00|1353865.00|1353865.00|Time|1|1353865.00||||||||
+1|DGHP-AFI|NP|4|1|2|Laboratory and office equipment-AFI, AFI2 & AFI3|Incubator AFI2, AFI3 Freezer (-70), Centifuge also see attached justification -|||||150000.00|Time|1|150000.00|||||20170619||20170619|
+1|DGHP-AFI|NP|4|2|0|Tablet for data collection-AFI2|See attached justification||0.00|0.00|90000.00|90000.00|Set|3|30000.00||||||||
+1|DGHP-AFI|NP|4|2|2|Tablet for data collection-AFI2|See attached justification|||||30000.00|Set|1|30000.00|||||20170619||20170619|
+1|DGHP-AFI|NP|4|3|0|Desktop Computer-AFI|See attached justification||0.00|0.00|40000.00|40000.00|Set|1|40000.00||||||||
+1|DGHP-AFI|NP|4|4|0|Printer-AFI|See attached justification||0.00|0.00|10500.00|10500.00|Set|3|3500.00||||||||
+1|DGHP-AFI|NP|4|4|3|Printer-AFI|See attached justification|||||40000.00|Set|8|5000.00|||||20170817|dghp-afi-np|20170817|dghp-afi-np
+1|DGHP-AFI|NP|4|5|0|Color printer-AFI2|See attached justification||0.00|0.00|40000.00|40000.00|Set|1|40000.00||||||||
+1|DGHP-AFI|NP|4|5|2|Color printer-AFI2|See attached justification|||||0.00|Set|0|40000.00|||||20170619||20170619|
+1|DGHP-AFI|NP|4|6|0|File cabinet-AFI2|See attached justification||0.00|0.00|20000.00|20000.00|Set|4|5000.00||||||||
+1|DGHP-AFI|NP|4|6|2|File cabinet-AFI2|See attached justification|||||0.00|Set|0|5000.00|||||20170619||20170619|
+1|DGHP-AFI|NP|4|7|0|Refridgerator-AFI2|See attached justification||0.00|0.00|30000.00|30000.00|Set|1|30000.00||||||||
+1|DGHP-AFI|NP|4|7|2|Refridgerator-AFI2|See attached justification|||||0.00|Set|0|30000.00|||||20170619||20170619|
+1|DGHP-AFI|NP|4|8|0|Centrifuge-AFI2|See attached justification||0.00|0.00|200000.00|200000.00|Set|2|100000.00||||||||
+1|DGHP-AFI|NP|4|8|2|Centrifuge-AFI2|See attached justification|||||0.00|Set|0|100000.00|||||20170619||20170619|
+1|DGHP-AFI|NP|4|9|0|Autopipet(Adjusted volumn)-AFI & AFI2|See attached justification||0.00|0.00|210000.00|210000.00|Set|14|15000.00||||||||
+1|DGHP-AFI|NP|4|10|0|Timer for laboratory activity-AFI & AFI2|See attached justification||0.00|0.00|70000.00|70000.00|Set|14|5000.00||||||||
+1|DGHP-AFI|NP|4|10|3|Timer for laboratory activity-AFI & AFI2|See attached justification|||||40500.00|Set|10|4050.00|||||20170817|dghp-afi-np|20170817|dghp-afi-np
+1|DGHP-AFI|NP|4|11|0|Office Equipment-AFI3|See attached justification||0.00|0.00|200000.00|200000.00|Time|1|200000.00||||||||
+1|DGHP-AFI|NP|4|11|2|Office Equipment-AFI3|See attached justification|||||0.00|Time|0|200000.00|||||20170619||20170619|
+1|DGHP-AFI|NP|4|12|0|IT Equipment-AFI3|See attached justification||0.00|0.00|700000.00|700000.00|Time|1|700000.00||||||||
+1|DGHP-AFI|NP|4|12|2|IT Equipment-AFI3|See attached justification|||||0.00|Time|0|700000.00|||||20170619||20170619|
+1|DGHP-AFI|NP|4|13|0|CO2 incubator|See attached justification||0.00|0.00|410000.00|410000.00|Set|1|410000.00||||||||
+1|DGHP-AFI|NP|5|1|0|General office supplies-AFI & AFI2|See attached justification||0.00|0.00|239485.71|239485.71|Time|1|239485.71||||||||
+1|DGHP-AFI|NP|5|1|3|General office supplies-AFI & AFI2|See attached justification|||||283538.00|Time|2|141769.00|||||20170817|dghp-afi-np|20170817|dghp-afi-np
+1|DGHP-AFI|NP|5|2|0|IT supplies-AFI & AFI2|See attached justification||0.00|0.00|195840.00|195840.00|Time|4|48960.00||||||||
+1|DGHP-AFI|NP|5|3|0|Laboratory and medical supplies-AFI|See attached justification||0.00|0.00|35000.00|35000.00|Time|2|17500.00||||||||
+1|DGHP-AFI|NP|5|3|3|Laboratory and medical supplies-AFI|See attached justification|||||232000.00|Time|4|58000.00|||||20170817|dghp-afi-np|20170817|dghp-afi-np
+1|DGHP-AFI|NP|5|4|0|Laboratory and medical supply of AFI2 & AFI3|See attached justification||0.00|0.00|1240000.00|1240000.00|Time|4|310000.00||||||||
+1|DGHP-AFI|NP|5|4|2|Laboratory and medical supply of AFI2 & AFI3|See attached justification|||||310000.00|Time|1|310000.00|||||20170619||20170619|
+1|DGHP-AFI|NP|5|4|3|Laboratory and medical supply of AFI2 & AFI3|See attached justification|||||68947.71|Time|1|68947.71|||||20170817|dghp-afi-np|20170817|dghp-afi-np
+1|DGHP-AFI|NP|5|5|0|IT supply for AFI2 & AFI3|See attached justification||0.00|0.00|200000.00|200000.00|Time|4|50000.00||||||||
+1|DGHP-AFI|NP|5|5|2|IT supply for AFI2 & AFI3|See attached justification|||||0.00|Time|0|50000.00|||||20170619||20170619|
+1|DGHP-AFI|NP|5|6|0|Office and laboraotry cleaning supply-AFI2|See attached justification||0.00|0.00|220000.00|220000.00|Time|4|55000.00||||||||
+1|DGHP-AFI|NP|5|7|0|Office supply for AFI2 & AFI3|See attached justification||0.00|0.00|260000.00|260000.00|Time|4|65000.00||||||||
+1|DGHP-AFI|NP|5|7|2|Office supply for AFI2 & AFI3|See attached justification|||||159445.00|Time|2|79722.50|||||20170619||20170619|
+1|DGHP-AFI|NP|5|8|0|Refill Nitrogen-AFI3|See attached justification||0.00|0.00|12600.00|12600.00|Time|6|2100.00||||||||
+1|DGHP-AFI|NP|5|9|1|Forceps|100 forceps x $20|||||68000.00|Piece|100|680.00|||||20170531|dghp-afi-np|20170531|dghp-afi-np
+1|DGHP-AFI|NP|5|10|1|RNAlater|3 ml per vial x 312,000 vials = 600 liters x $25 per liter|||||795600.00|Liter|936|850.00|||||20170531|dghp-afi-np|20170531|dghp-afi-np
+1|DGHP-AFI|NP|5|11|1|Vials|2,000 traps x 40 weeks x 2 vials per trap = 160,000 vials x $ 0.5 per vials|||||2720000.00|Piece||17.00|||||20170531|dghp-afi-np|20170531|dghp-afi-np
+1|DGHP-AFI|NP|5|12|1|PCR reagents|taq polymerase and nucleotides suffficient for 525 locations x 40 weeks = 21,000 reactions x $3 per reaction|||||2142000.00|Test|21000|102.00|||||20170531|dghp-afi-np|20170531|dghp-afi-np
+1|DGHP-AFI|NP|5|13|1|Office supplies for AFI2 & AFI3|4 times x $425|||||57800.00|Time|4|14450.00|||||20170531|dghp-afi-np|20170531|dghp-afi-np
+1|DGHP-AFI|NP|6|1|0|Vihicles for Specimen shipping and transportation|(vehicle + driver + gas. See attached budget justificationn for details) x 3||0.00|0.00|1620000.00|1620000.00|Month|12|135000.00||||||||
+1|DGHP-AFI|NP|8|1|0|Specimen shipping to BKK-AFI,AFI2 & AFI3|See attached justification||0.00|0.00|225000.00|225000.00|Month|10|||||22500.00||||
+1|DGHP-AFI|NP|8|1|2|Specimen shipping to BKK-AFI,AFI2 & AFI3|See attached justification|||||207000.00|Month|10|||||20700.00|20170619||20170619|
+1|DGHP-AFI|NP|8|2|0|Specimen processing for nurse-AFI|$4.12 (or THB 140)  x 3,000 samples) @60% of sample||0.00|0.00|217000.00|217000.00|Sample|1550|||||140.00||||
+1|DGHP-AFI|NP|8|3|0|Compensation for research participants-AFI|$8.82 (or THB300) x 1,375 cases)||0.00|0.00|412500.00|412500.00|Case|1375|||||300.00||||
+1|DGHP-AFI|NP|8|3|3|Compensation for research participants-AFI|$8.82 (or THB300) x 1,842 cases)|||||552600.00|Case|1842|||||300.00|20170817|dghp-afi-np|20170817|dghp-afi-np
+1|DGHP-AFI|NP|8|3|4|Compensation for research participants-AFI|$8.82 (or THB300) x 1,915 cases)|||||574500.00|Case|1915|||||300.00|20170831|dghp-afi-np|20170831|dghp-afi-np
+1|DGHP-AFI|NP|8|4|0|Compensation for participants's convalescent follow-up-AFI|$8.82 (or THB300) x 1,225 cases)||0.00|0.00|367500.00|367500.00|Case|1225|||||300.00||||
+1|DGHP-AFI|NP|8|4|3|Compensation for participants's convalescent follow-up-AFI|$8.82 (or THB300) x 718 cases)|||||215400.00|Case|718|||||300.00|20170817|dghp-afi-np|20170817|dghp-afi-np
+1|DGHP-AFI|NP|8|4|4|Compensation for participants's convalescent follow-up-AFI|$8.82 (or THB300) x 645 cases)|||||193500.00|Case|645|||||300.00|20170831|dghp-afi-np|20170831|dghp-afi-np
+1|DGHP-AFI|NP|8|5|0|Photocopier rental for office and laboratory-AFI|See attached justification||0.00|0.00|48000.00|48000.00|Month|12|||||4000.00||||
+1|DGHP-AFI|NP|8|6|0|Photocopying-AFI, AFI2 & AFI3|See attached justification||0.00|0.00|108000.00|108000.00|Month|12|||||9000.00||||
+1|DGHP-AFI|NP|8|6|2|Photocopying-AFI, AFI2 & AFI3|See attached justification|||||84000.00|Month|12|||||7000.00|20170619||20170619|
+1|DGHP-AFI|NP|8|6|3|Photocopying-AFI, AFI2 & AFI3|See attached justification|||||96000.00|Month|12|||||8000.00|20170817|dghp-afi-np|20170817|dghp-afi-np
+1|DGHP-AFI|NP|8|7|0|Gasoline for project activities-AFI & AFI2|See attached justification||0.00|0.00|300000.00|300000.00|Month|12|||||25000.00||||
+1|DGHP-AFI|NP|8|8|0|Refresher course training- AFI & AFI2|See attached justification(1 for AFI and 1 for AFI2)||0.00|0.00|30000.00|30000.00|Time|2|25.00|1.00|600.00|0.00|0.00||||
+1|DGHP-AFI|NP|8|9|0|Information meeting-AFI, AFI2 & AFI3|See attached justification||0.00|0.00|211200.00|211200.00|Time|11|16.00|2.00|600.00|0.00|0.00||||
+1|DGHP-AFI|NP|8|9|2|Information meeting-AFI, AFI2 & AFI3|See attached justification|||||163200.00|Time|8|17.00|2.00|600.00|0.00|0.00|20170619||20170619|
+1|DGHP-AFI|NP|8|10|0|Maintenace for lab equipments-AFI, AFI2 & AFI3|See attached justification||0.00|0.00|200009.00|200009.00|Annual||||||||||
+1|DGHP-AFI|NP|8|11|0|Meeting facilities-AFI, AFI2 & AFI3|(Photocopy, binders, room rental, and meeting expenses) -||0.00|0.00|40000.00|40000.00|Time|8|0.00|0.00|0.00|0.00|5000.00||||
+1|DGHP-AFI|NP|8|11|2|Meeting facilities-AFI, AFI2 & AFI3|(Photocopy, binders, room rental, and meeting expenses) -|||||24000.00|Time|12|0.00|0.00|0.00|0.00|2000.00|20170619||20170619|
+1|DGHP-AFI|NP|8|12|0|Compensation for research participants of AFI2 project-AFI2|$8.82 (or THB300) x 1,000 cases||0.00|0.00|300000.00|300000.00|Case|1000|||||300.00||||
+1|DGHP-AFI|NP|8|13|0|Compensation for research participants follow-up-AFI2|$8.82 (or THB300) x 5 times x 1,000 cases||0.00|0.00|1275000.00|1275000.00|Case|4250|||||300.00||||
+1|DGHP-AFI|NP|8|14|0|Kick-off meeting for AFI2 & AFI3|See attached justification||0.00|0.00|144000.00|144000.00|Time|1|80.00|3.00|600.00|0.00|0.00||||
+1|DGHP-AFI|NP|8|14|2|Kick-off meeting for AFI2 & AFI3|See attached justification|||||24000.00|Time|1|20.00|2.00|600.00|0.00|0.00|20170619||20170619|
+1|DGHP-AFI|NP|8|15|0|AFI2 project announcement meeting-AFI2|See attached justification||0.00|0.00|72000.00|72000.00|Time|1|120.00|1.00|600.00|0.00|0.00||||
+1|DGHP-AFI|NP|8|16|0|Communication cost-AFI2|See attached justification||0.00|0.00|72000.00|72000.00|Month|12|||||6000.00||||
+1|DGHP-AFI|NP|8|16|2|Communication cost-AFI2|See attached justification|||||36000.00|Month|6|||||6000.00|20170619||20170619|
+1|DGHP-AFI|NP|8|17|0|Compensation for children of reseach participants follow-up-AFI2|$8.82 (or THB300) x 5 times x 600 cases||0.00|0.00|900000.00|900000.00|Case|3000|||||300.00||||
+1|DGHP-AFI|NP|8|18|0|Specimen processing for AFI2 project|$1.18 (or THB40) x 7,250 cases||0.00|0.00|290000.00|290000.00|Case|7250|||||40.00||||
+1|DGHP-AFI|NP|8|19|0|Compensation for research participants AFI3|See attached justification||0.00|0.00|1275000.00|1275000.00|Case|4250|||||300.00||||
+1|DGHP-AFI|NP|8|20|0|Compensation for follow up of research participant  AFI3|See attached justification||0.00|0.00|516000.00|516000.00|Case|1720|||||300.00||||
+1|DGHP-AFI|NP|8|21|0|Specimen processing AFI3|See attached justification||0.00|0.00|290000.00|290000.00|Specimen|7250|||||40.00||||
+1|DGHP-AFI|NP|8|22|0|Capacity meeting/training-AFI3|See attached justification||0.00|0.00|144000.00|144000.00|Time|6|20.00|2.00|600.00|0.00|0.00||||
+1|DGHP-AFI|NP|8|22|2|Capacity meeting/training-AFI3|See attached justification|||||48000.00|Time|2|20.00|2.00|600.00|0.00|0.00|20170619||20170619|
+1|DGHP-AFI|NP|8|23|0|Utilities cost-AFI3|See attached justification||0.00|0.00|84000.00|84000.00|Month|12|||||7000.00||||
+1|DGHP-AFI|NP|8|24|0|lab refurbishment-AFI3|See attached justification||0.00|0.00|400000.00|400000.00|Time|1|0.00|0.00|0.00|0.00|400000.00||||
+1|DGHP-AFI|NP|8|25|0|Office refurbishment-AFI3|See attached justification||0.00|0.00|200000.00|200000.00|Time|1|0.00|0.00|0.00|0.00|200000.00||||
+1|DGHP-AFI|NP|8|26|0|Internet for data server|See attached justification||0.00|0.00|50000.00|50000.00|Month|10|||||5000.00||||
+2|DGHP-AFI|NP|1|1|0|Adjunct coordinator|Mr.Barameht Piralam||0.00|0.00|472116.00|472116.00|Person|1|100.00|12.00|39343.00|||20170227||20170317|
+2|DGHP-AFI|NP|1|2|0|Financial and administive officer|Ms.Jureeporn Sudchai||0.00|0.00|346860.00|346860.00|Person|1|100.00|12.00|28905.00|||20170317|||
+2|DGHP-AFI|NP|1|3|0|Driver|Mr.Thanapol Pannawong||0.00|0.00|153516.00|153516.00|Person|1|100.00|12.00|12793.00|||20170317|||
+2|DGHP-AFI|NP|1|4|0|House keeper|Ms.Warinnada Lasopha||0.00|0.00|108768.00|108768.00|Person|1|100.00|12.00|9064.00|||20170317||20170905|
+2|DGHP-AFI|NP|1|5|0|Research team lead|Mr.Tuwan Simmali||0.00|0.00|379080.00|379080.00|Person|1|100.00|12.00|31590.00|||20170317|||
+2|DGHP-AFI|NP|1|6|0|Research assistant|Ms.Pawinee Wongthawee||0.00|0.00|245664.00|245664.00|Person|1|100.00|12.00|20472.00|||20170317|||
+2|DGHP-AFI|NP|1|7|0|Research assistant|Ms.Jariya Chaiyagool||0.00|0.00|327528.00|327528.00|Person|1|100.00|12.00|27294.00|||20170317|||
+2|DGHP-AFI|NP|1|8|0|Research assistant|Mr.Narongdech Paripurana||0.00|0.00|365736.00|365736.00|Person|1|100.00|12.00|30478.00|||20170317|||
+2|DGHP-AFI|NP|1|9|0|Research assistant|Mrs.Natthakarn Buachoom||0.00|0.00|289044.00|289044.00|Person|1|100.00|12.00|24087.00|||20170317||20170906|
+2|DGHP-AFI|NP|1|10|0|Research assistant|Mr.Yuttapong Norapech||0.00|0.00|224916.00|224916.00|Person|1|100.00|12.00|18743.00|||20170317|||
+2|DGHP-AFI|NP|1|11|0|Research assistant|Ms.Praepitcha Kaewpud||0.00|0.00|332412.00|332412.00|Person|1|100.00|12.00|27701.00|||20170317|||
+2|DGHP-AFI|NP|1|12|0|Research assistant|Mr.Weerayoot Polsuwan ($529.41 x 5 months + $540 x 7 months)||0.00|0.00|218520.00|218520.00|Annual|||||||20170317||20170905|
+2|DGHP-AFI|NP|1|13|0|Research assistant|Ms.Nuchnapha Faipet ($529.41 x 4 months + $540 x 8 months)||0.00|0.00|218880.00|218880.00|Annual|||||||20170317||20170905|
+2|DGHP-AFI|NP|1|14|0|Research nurse|Mrs.Chayarat Yokkochpanngam||0.00|0.00|393276.00|393276.00|Person|1|100.00|12.00|32773.00|||20170317||20170906|
+2|DGHP-AFI|NP|1|15|0|Reseach nurse|Ms.Tewa Faipet||0.00|0.00|367200.00|367200.00|Person|1|100.00|12.00|30600.00|||20170317|||
+2|DGHP-AFI|NP|1|16|0|Senior IT technician|Mr.Apisit Khumgonluecha||0.00|0.00|375024.00|375024.00|Person|1|100.00|12.00|31252.00|||20170317|||
+2|DGHP-AFI|NP|1|17|0|Laboratory technician|Ms.Payawadee Abthaisong||0.00|0.00|302448.00|302448.00|Person|1|100.00|12.00|25204.00|||20170317|||
+2|DGHP-AFI|NP|1|18|0|Laboratory technician|Ms.Nanthanat Techawechcharoen||0.00|0.00|299940.00|299940.00|Person|1|100.00|12.00|24995.00|||20170317|||
+2|DGHP-AFI|NP|1|19|0|Laboratory technician|Ms.Warunee Poarmart||0.00|0.00|269280.00|269280.00|Person|1|100.00|12.00|22440.00|||20170317|||
+2|DGHP-AFI|NP|1|20|0|Laboratory technician|Ms.Rachchanida Wongkampin ($647.06 x 2 months + $660 x 10 months)||0.00|0.00|268400.00|268400.00|Annual|||||||20170317||20170905|
+2|DGHP-AFI|NP|1|21|0|Laboratory technician|Ms.Pornpun Bungkanjana ($647.06 x 8 months + $660 x 4 months)||0.00|0.00|265760.00|265760.00|Annual|||||||20170317||20170905|
+2|DGHP-AFI|NP|1|22|0|Laboratory clerk|Ms.Gristana Janpeng||0.00|0.00|170160.00|170160.00|Person|1|100.00|12.00|14180.00|||20170317|||
+2|DGHP-AFI|NP|1|23|0|Overtime for laboratory technician|($17.65/ shift x 44 Shifts x 12 months) + ($17.38 x 3 Shifts x 52 weeks) + ($17.38 x 5 Persons x 10 Shifts) +($17.38 x 52 Shifts)||351761.82|119838.18|-0.00|471600.00|Annual|||||||20170317||20171006|
+2|DGHP-AFI|NP|1|24|0|Laboratory technician license| ($29.41 x 5 persons x 12 months)||60000.00|0.00|-0.00|60000.00|Person|5|100.00|12.00|1000.00|||20170317||20171006|
+2|DGHP-AFI|NP|1|25|0|Overtime for driver|($2.05 x 21 hrs x 12 months)||17640.00|0.00|-0.00|17640.00|Month|1|100.00|12.00|1470.00|||20170317||20171006|
+2|DGHP-AFI|NP|1|26|0|Overtime for research nurse|($17.65 x 15 Shifts x 12 Months)||108000.00|0.00|-0.00|108000.00|Shift|15|100.00|12.00|600.00|||20170317||20171006|
+2|DGHP-AFI|NP|1|27|0|Compensation for government staff|($2.05 x 77 hrs x 12 months)||43423.14|0.00|21256.86|64680.00|Month|1|100.00|12.00|5390.00|||20170317||20171006|
+2|DGHP-AFI|NP|1|28|0|Compensation for researcher|Dr.Jarun Jantamuttukarn (Nakhon Phanom PCMO)||0.00|0.00|60000.00|60000.00|Annual|||||||20170317|||
+2|DGHP-AFI|NP|1|29|0|Compensation for researcher|Dr.Preeda Worahan (The vice PCMO)||0.00|0.00|60000.00|60000.00|Annual|||||||20170317|||
+2|DGHP-AFI|NP|1|30|0|Compensation for researcher|Dr.Siriluk Chaichuang||0.00|0.00|60000.00|60000.00|Annual|||||||20170317||20170913|
+2|DGHP-AFI|NP|1|31|0|Compensation for researcher|Dr.Supachoke Khemla||0.00|0.00|60000.00|60000.00|Annual|||||||20170317||20170317|
+2|DGHP-AFI|NP|1|32|0|Compensation for researcher|Ms.Choowattana Chara||0.00|0.00|36000.00|36000.00|Annual|||||||20170317|||
+2|DGHP-AFI|NP|1|33|0|Compensation for researcher|Ms.Chidchanok Promkong||0.00|0.00|18000.00|18000.00|Annual|||||||20170317|||
+2|DGHP-AFI|NP|1|34|0|Compensation for researcher|Ms.Somporn Orn-wan||0.00|0.00|18000.00|18000.00|Annual|||||||20170317|||
+2|DGHP-AFI|NP|1|35|0|Medical assistant|Ms.Wipawan Pilaburt||0.00|0.00|195600.00|195600.00|Person|1|100.00|12.00|16300.00|||20170904|||
+2|DGHP-AFI|NP|2|1|0|Adjunct coordinator|Mr.Barameht Piralam||0.00|0.00|9000.00|9000.00|Person|1|472116.00|5.00||||20170227||20170317|
+2|DGHP-AFI|NP|2|2|0|Financial and adminstrative officer|Ms.Jureeporn Sudchai||0.00|0.00|9000.00|9000.00|Person|1|346860.00|5.00||||20170317|||
+2|DGHP-AFI|NP|2|3|0|Driver|Mr.Thanapol Pannawong||0.00|0.00|7680.00|7680.00|Person|1|153600.00|5.00||||20170317||20170317|
+2|DGHP-AFI|NP|2|4|0|House keeper|Ms.Warinada Lasopha||0.00|0.00|5448.00|5448.00|Person|1|108960.00|5.00||||20170317||20170905|
+2|DGHP-AFI|NP|2|5|0|Research team lead|Mr.Tuwan Simmali||0.00|0.00|9000.00|9000.00|Person|1|379080.00|5.00||||20170317|||
+2|DGHP-AFI|NP|2|6|0|Research assistant|Ms.Pawinee Wongthawee||0.00|0.00|9000.00|9000.00|Person|1|245664.00|5.00||||20170317|||
+2|DGHP-AFI|NP|2|7|0|Research  assistant|Ms.Jariya Chaiyagool||0.00|0.00|9000.00|9000.00|Person|1|327528.00|5.00||||20170317||20170317|
+2|DGHP-AFI|NP|2|8|0|Research  assistant|Mr.Narongdech Paripurana||0.00|0.00|9000.00|9000.00|Person|1|365736.00|5.00||||20170317|||
+2|DGHP-AFI|NP|2|9|0|Research  assistant|Ms.Natthakarn Buachoom||0.00|0.00|9000.00|9000.00|Person|1|289044.00|5.00||||20170317||20170906|
+2|DGHP-AFI|NP|2|10|0|Research  assistant|Mr.Yuttapong Norapech||0.00|0.00|9000.00|9000.00|Person|1|224916.00|5.00||||20170317|||
+2|DGHP-AFI|NP|2|11|0|Research  assistant|Ms.Praepitcha Kaewpud||0.00|0.00|9000.00|9000.00|Person|1|332412.00|5.00||||20170317|||
+2|DGHP-AFI|NP|2|12|0|Research  assistant|Mr.Weerayoot Polsuwan||0.00|0.00|9000.00|9000.00|Person|1|218520.00|5.00||||20170317||20170906|
+2|DGHP-AFI|NP|2|13|0|Research  assistant|Ms.Nuchnapha Faipet||0.00|0.00|9000.00|9000.00|Person|1|218880.00|5.00||||20170317||20170906|
+2|DGHP-AFI|NP|2|14|0|Research  nurse|Mrs.Chayarat Yokkochpanngam||0.00|0.00|9000.00|9000.00|Person|1|393279.00|5.00||||20170317||20170906|
+2|DGHP-AFI|NP|2|15|0|Research  nurse|Ms.Tewa Faipet||0.00|0.00|9000.00|9000.00|Person|1|367200.00|5.00||||20170317|||
+2|DGHP-AFI|NP|2|16|0|Senior IT technician|Mr.Apisit Khumgonluecha||0.00|0.00|9000.00|9000.00|Person|1|375024.00|5.00||||20170317|||
+2|DGHP-AFI|NP|2|17|0|Laboratory technician|Ms.Payaowadee Abthaisong||0.00|0.00|9000.00|9000.00|Person|1|302448.00|5.00||||20170317|||
+2|DGHP-AFI|NP|2|18|0|Laboratory technician|Ms.Nanthanat Techawechcharoen||0.00|0.00|9000.00|9000.00|Person|1|299940.00|5.00||||20170317|||
+2|DGHP-AFI|NP|2|19|0|Laboratory technician|Ms.Warunee Poarmart||0.00|0.00|9000.00|9000.00|Person|1|269280.00|5.00||||20170317|||
+2|DGHP-AFI|NP|2|20|0|Laboratory technician|Ms.Rachchanida Wongkampin||0.00|0.00|9000.00|9000.00|Person|1|268400.00|5.00||||20170317||20170904|
+2|DGHP-AFI|NP|2|21|0|Laboratory technician|Ms.Pornpun Bungkanjana||0.00|0.00|9000.00|9000.00|Person|1|265760.00|5.00||||20170317||20170906|
+2|DGHP-AFI|NP|2|22|0|Laboratory clerk|Ms.Gristana Janpeng||0.00|0.00|8508.00|8508.00|Person|1|170160.00|5.00||||20170317|||
+2|DGHP-AFI|NP|2|23|0|Annual medical check-up|($58.82 x 23 persons)||15280.00|0.00|30720.00|46000.00|Annual|||||||20170317||20171006|
+2|DGHP-AFI|NP|2|24|0|Medical assistant|Ms.Wipawan Pilaburt||0.00|0.00|9000.00|9000.00|Person|1|195600.00|5.00||||20170904|||
+2|DGHP-AFI|NP|3|1|0|Scientific conference|See attached justification||0.00|0.00|42000.00|42000.00|Annual|||||||20170227||20170227|
+2|DGHP-AFI|NP|3|2|0|Capcity building meeting/ training|See attached justifications||0.00|0.00|104000.00|104000.00|Annual|||||||20170317|||
+2|DGHP-AFI|NP|3|3|0|Transportation cost/ fuel|See attached justifications||0.00|0.00|275306.00|275306.00|Annual|||||||20170317||20170904|
+2|DGHP-AFI|NP|3|4|0|Annual scientific conference|See attached justifications||0.00|0.00|521000.00|521000.00|Annual|||||||20170904||20170905|
+2|DGHP-AFI|NP|4|1|0|Office and laboratory equipment|See attached justifications||80000.00|20000.00|-0.00|100000.00|Time|4|25000.00|||||20170317||20171006|
+2|DGHP-AFI|NP|4|2|0|Tablet for reservation|See attached justifications||0.00|0.00|64000.00|64000.00|Set|2|32000.00|||||20170317||20170905|
+2|DGHP-AFI|NP|4|3|0|Desktop computer for reservation|See attached justifications||276.29|0.00|29723.71|30000.00|Set|1|30000.00|||||20170317||20171006|
+2|DGHP-AFI|NP|4|4|0|IT equipment|See attached justifications||0.00|0.00|50000.00|50000.00|Time|4|12500.00|||||20170317||20170904|
+2|DGHP-AFI|NP|5|1|0|General office supplies|See attached justifications ( 1 Time x $1,185.06 (THB 40,292) + 2 times x $2,491.33 (THB 86,000.765))||1236.23|172001.53|39692.77|212930.53|Annual|||||||20170317||20171006|
+2|DGHP-AFI|NP|5|2|0|IT supplies|See attached justifications||0.00|46920.00|30000.00|76920.00|Time|2|38460.00|||||20170317||20171004|
+2|DGHP-AFI|NP|5|3|0|Laboratory and medical supplies|See attached justifications||0.00|0.00|1365180.00|1365180.00|Time|4|341295.00|||||20170317||20170904|
+2|DGHP-AFI|NP|5|4|0|Office and laboratory cleaning supplies|See attached justifications||0.00|80000.00|22300.00|102300.00|Time|2|51150.00|||||20170317||20171004|
+2|DGHP-AFI|NP|5|5|0|Carbondioxide gas refill compensation|See attached justifications||0.00|18000.00|3600.00|21600.00|Tank|18|1200.00|||||20170317||20171004|
+2|DGHP-AFI|NP|8|1|0|Specimen shipping to BKK|See attached justifications||0.00|0.00|84000.00|84000.00|Month|12|||||7000.00|20170227||20170904|
+2|DGHP-AFI|NP|8|2|0|Specimen processing|($4.12 x 1,022 UFI cases)||0.00|0.00|143080.00|143080.00|Samples|1022|||||140.00|20170227||20170317|
+2|DGHP-AFI|NP|8|3|0|Compensation for research participants|2,920 cases x $8.2 (or THB 300)||285374.34|0.00|590625.66|876000.00|Cases|2920|||||300.00|20170227||20171006|
+2|DGHP-AFI|NP|8|4|0|Compensation for participants's convalescent follow up|(35% of 2,920 cases = 1,022 cases x $8.82 (or THB 300)||0.00|0.00|306600.00|306600.00|Cases|1022|||||300.00|20170227||20170317|
+2|DGHP-AFI|NP|8|5|0|Photocopier rental for office and laborartory|See attached justifications||0.00|0.00|48000.00|48000.00|Month|12|||||4000.00|20170227||20170317|
+2|DGHP-AFI|NP|8|6|0|Photocopying|See attached justifications||0.00|0.00|96000.00|96000.00|Month|12|||||8000.00|20170227||20170904|
+2|DGHP-AFI|NP|8|7|0|Gasoline for project activities|See attached justifications||0.00|0.00|300000.00|300000.00|Annual|||||||20170317||20170904|
+2|DGHP-AFI|NP|8|8|0|Refresher course training|See attached justifications||0.00|0.00|60000.00|60000.00|Time|2|25.00|2.00|600.00|0.00|0.00|20170317||20170317|
+2|DGHP-AFI|NP|8|9|0|Information meeting|See attached justifications||0.00|0.00|105600.00|105600.00|Time|8|22.00|1.00|600.00|0.00|0.00|20170317|||
+2|DGHP-AFI|NP|8|10|0|Capacity building meeting/ training|See attached justifications||0.00|0.00|49200.00|49200.00|Annual|||||||20170317||20170317|
+2|DGHP-AFI|NP|8|11|0|Annual meeting|See attached justifications||0.00|0.00|60000.00|60000.00|Time|1|50.00|2.00|600.00|0.00|0.00|20170317|||
+2|DGHP-AFI|NP|8|12|0|Meeting facilities|See attached justifications||0.00|0.00|39000.00|39000.00|Annual|||||||20170317|||
+2|DGHP-AFI|NP|8|13|0|Utilities|See attached justifications||0.00|0.00|144000.00|144000.00|Month|12|||||12000.00|20170317||20170904|
+2|DGHP-AFI|NP|8|14|0|Communication cost|See attached justification||0.00|0.00|120000.00|120000.00|Month|12|||||10000.00|20170317||20170904|
+2|DGHP-AFI|NP|8|15|0|Maintenance for lab equipment|See attached justifications||0.00|0.00|70000.00|70000.00|Set|10|||||7000.00|20170317|||
+2|DGHP-AFI|NP|8|16|0|Maintenance for office, equipment and vehicles|See attached justifications||0.00|12000.00|60000.00|72000.00|Month|12|||||6000.00|20170317||20171004|
+2|DGHP-AFI|NP|8|17|0|Car insurance|(1 Car x $1,029.41 (THB 35,000) + 1 Car x $441.18 (THB 15,000))||0.00|0.00|50000.00|50000.00|Annual|||||||20170317||20170904|
+2|DGHP-AFI|NP|8|18|0|Internet for data server|See attached justifications||0.00|0.00|48000.00|48000.00|Month|12|||||4000.00|20170317||20170317|
+2|DGHP-AFI|NP|8|19|0|Postage fee|See attached justifications||0.00|0.00|6000.00|6000.00|Month|12|||||500.00|20170317|||
+2|DGHP-AFI|NP|8|20|0|Exchang rate management|See attached justification||0.00|15264.29|394263.00|409527.29|Annual|||||||20170317||20171006|

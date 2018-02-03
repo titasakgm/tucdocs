@@ -1,0 +1,62 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|SI|DTU|1|1|10|Full time Project coordinator Ms.Nattawan K.|20161130|19250.00|10174724|20161130|750.00|10174425|||เงินเดือน พย.59 ประกันสังคม ลจ.พย.|20170112|si-dtu|20170112|SI-DTU
+1|SI|DTU|1|1|20|Full time Project coordinator Ms.Nattawan K.|20170201|20350.00|10174734|20170201|750.00|10174735|||เงินเดือน มค.ลจ ประกันสังคม ลจ.มค.|20170208|si-dtu|20170308|
+1|SI|DTU|1|1|23|Full time Project coordinator Ms.Nattawan K.|20170228|20350.00|10174739|20170228|750.00|10174740|||เงินเดือน กพ.ลจ ประกันสังคม กพ.ลจ.|20170308||20170308|
+1|SI|DTU|1|1|36|Full time Project coordinator Ms.Nattawan K.|20161114|38500.00|10174721|20161115|1500.00|10174722|||เงินเดือน กย.-ตค.59 ประกันสังคม ลจ.กย.-ตค.|20170112|si-dtu|20170610|si-dtu
+1|SI|DTU|1|1|37|Full time Project coordinator Ms.Nattawan K.|20161230|23650.00|10174730|20161230|750.00|10174731|||เงินเดือน ธค.59 (ตกเบิก กย.-พย. 59 เดือนละ 1100=3000) ประกันสังคม ลจ.ธค.|20170112|SI-DTU|20170610|si-dtu
+1|SI|DTU|1|1|40|Full time Project coordinator Ms.Nattawan K.|20170428|20350.00|10194753|20170428|750.00|10194755|||เงินเดือน เม.ย.ลจ ประกันสังคม เม.ย.ลจ.|20170515|si-dtu|20170711|si-dtu
+1|SI|DTU|1|1|44|Full time Project coordinator |20170831|18250.00|10210093|20170831|750.00|10210094|||งินเดือน  สค. ลจ ประกันสังคม สค ลจ.|20170911|si-dtu|20170911|si-dtu
+1|SI|DTU|1|1|45|Full time Project coordinator Ms.Nattawan K.|20170329|1460.00|10194745||||||ค่า OT กพ. 60|20170426|si-dtu|20170925|si-dtu
+1|SI|DTU|1|1|46|Full time Project coordinator Ms.Nattawan K.|20170331|20350.00|10194746|20170331|750.00|10194748|||เงินเดือน มีค.ลจ ประกันสังคม มึค.ลจ|20170418|si-dtu|20170925|si-dtu
+1|SI|DTU|1|1|48|Full time Project coordinator |20170531|246.00|10194760||||||ประกันสังคม พค 60 ลจ.|20170925|si-dtu|20170925|si-dtu
+1|SI|DTU|1|1|49|Full time Project coordinator Ms.Nattawan K.|20170530|4677.00|10194758|20170831|-158.50|Cash|||เงินเดือน  พค. ลจ คืนเงินเข้าบัญชี 27 กย 60|20170711|si-dtu|20170927|si-dtu
+1|SI|DTU|1|2|6|Full time programmer |20170428|29250.00|10194754|20170428|750.00|10194755|||เงินเดือนโปรแกรมเมอร์ เม.ย. ประกันสังคม เม.ย.|20170515|si-dtu|20170515|si-dtu
+1|SI|DTU|1|2|9|Full time programmer Mr.Pichitpon|20170531|29250.00|10194759|20170531|750.00|10194760|||เงินเดือนโปรแกรมเมอร์ พค. ประกันสังคม พค.|20170711|si-dtu|20170711|si-dtu
+1|SI|DTU|1|2|12|Full time programmer Mr.Pichitpon|20170630|29250.00|10210084|20170630|750.00|10210085|||เงินเดือนโปรแกรมเมอร์ มิย. ประกันสังคม มิย.|20170803|si-dtu|20170803|si-dtu
+1|SI|DTU|1|2|16|Full time programmer Mr.Pichitpon|20170331|750.00|10194748||||||ประกันสังคมโปรแกรมเมอร์ มี.ค. 60|20170925|si-dtu|20170925|si-dtu
+1|SI|DTU|1|2|18|Full time programmer Mr.Pichitpon|20170731|750.00|10225062||||||ประกันสังคมโปรแกรมเมอร์ ก.ค.60|20170925|si-dtu|20170925|si-dtu
+1|SI|DTU|1|2|21|Full time programmer |20170331|25250.00|10194747|20170831|-839.00|Cash|||เงินเดือนโปรแกรมเมอร์ มีค. เงินคืนเข้าบัญชี 27 ก.ย.60|20170418|si-dtu|20170927|si-dtu
+1|SI|DTU|1|2|22|Full time programmer Mr.Pichitpon|20170731|22250.00|10210088|20170831|-742.00|Cash|||เงินเดือนโปรแกรมเมอร์ กค. เงินคืนเข้าบัญชี 27 กย.60|20170817|si-dtu|20170927|si-dtu
+1|SI|DTU|1|3|4|Overtime for Project staff Project Coordinator and Programmer ($2.06/hourx14 hoursx12monthsx2persons)|20161216|3880.00|10174728||||||ค่า OT พย.59|20170112|SI-DTU|20170208|si-dtu
+1|SI|DTU|1|3|6|Overtime for Project staff Project Coordinator and Programmer ($2.06/hourx14 hoursx12monthsx2persons)|20170109|1470.00|10174732||||||ค่า OT ธค.59|20170208|si-dtu|20170208|si-dtu
+1|SI|DTU|1|3|9|Overtime for Project staff Project Coordinator and Programmer ($2.06/hourx14 hoursx12monthsx2persons)|20170328|1460.00|10194744||||||ค่า OT มค. 60|20170426|si-dtu|20170426|si-dtu
+1|SI|DTU|1|3|11|Overtime for Project staff Project Coordinator and Programmer ($2.06/hourx14 hoursx12monthsx2persons)|20170421|980.00|10194751||||||ค่า OT เมย. 60  Coor+Pro|20170515|si-dtu|20170515|si-dtu
+1|SI|DTU|1|3|13|Overtime for Project staff Project Coordinator and Programmer ($2.06/hourx14 hoursx12monthsx2persons)|20170612|2430.00|10210081||||||ค่า OT 4-10 พค 60|20170803|si-dtu|20170803|si-dtu
+1|SI|DTU|2|1|5|Full time for Project coordinator |20161231|750.00|10174731||||||ค่าประกันสังคมส่วนนายจ้าง ธค.59|20170112|SI-DTU|20170128|si-dtu
+1|SI|DTU|2|1|10|Full time for Project coordinator |20170201|750.00|10174735||||||ค่าประกันสังคมส่วนนายจ้าง มค.60|20170208|si-dtu|20170308|
+1|SI|DTU|2|1|12|Full time for Project coordinator |20170228|750.00|100174740||||||ค่าประกันสังคมส่วนนายจ้าง กพ.60|20170308||20170308|
+1|SI|DTU|2|1|14|Full time for Project coordinator |20170331|750.00|10194748||||||ค่าประกันสังคมส่วนนายจ้าง มีค.60|20170418|si-dtu|20170418|si-dtu
+1|SI|DTU|2|1|18|Full time for Project coordinator |20170428|750.00|10194755||||||ค่าประกันสังคมส่วนนายจ้าง เม.ย.60|20170515|si-dtu|20170515|si-dtu
+1|SI|DTU|2|1|20|Full time for Project coordinator |20170531|246.00|10194760||||||ค่าประกันสังคมส่วนนายจ้าง พค.60|20170711|si-dtu|20170711|si-dtu
+1|SI|DTU|2|1|22|Full time for Project coordinator |20170831|750.00|10210094||||||ค่าประกันสังคมส่วนนายจ้าง สค.60|20170911|si-dtu|20170911|si-dtu
+1|SI|DTU|2|1|23|Full time for Project coordinator |20161115|1500.00|10174722||||||ค่าประกันสังคมส่วนนายจ้าง กย-ตค59|20170112|si-dtu|20170925|si-dtu
+1|SI|DTU|2|1|24|Full time for Project coordinator |20161130|750.00|10174725||||||ค่าประกันสังคมส่วนนายจ้าง พย.59|20170112|si-dtu|20170925|si-dtu
+1|SI|DTU|2|2|1|Full time for Programmer |20170331|750.00|10194748||||||ค่าประกันสังคมส่วนนายจ้าง มีค.60|20170418|si-dtu|20170418|si-dtu
+1|SI|DTU|2|2|2|Full time for Programmer |20170428|750.00|10194755||||||ค่าประกันสังคมส่วนนายจ้าง เม.ย.60|20170515|si-dtu|20170515|si-dtu
+1|SI|DTU|2|2|4|Full time for Programmer |20170531|750.00|10194760||||||ค่าประกันสังคมส่วนนายจ้าง พค.60|20170711|si-dtu|20170711|si-dtu
+1|SI|DTU|2|2|6|Full time for Programmer |20170630|750.00|10210085||||||ค่าประกันสังคมส่วนนายจ้าง มิย.60|20170803|si-dtu|20170803|si-dtu
+1|SI|DTU|2|2|7|Full time for Programmer |20170731|750.00|10210089|||||||20170817|si-dtu|20170817|si-dtu
+1|SI|DTU|2|3|1|Annual Medical check up for full staff $57.14 x 2 persons|20170530|1920.00|10194757||||||ค่าตรวจสุขภาพ ณัฐวรรณ|20170711|si-dtu|20170711|si-dtu
+1|SI|DTU|3|1|3|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Non local participants-MOPH|20170306|1100.00|10194742||||||ไปประชุม ชลบุรี 21 กพ 60|20170426|si-dtu|20170426|si-dtu
+1|SI|DTU|3|1|4|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Non local participants-MOPH|20170306|5574.00|10194742||||||ไปประชุม อุดรธานี 24 กพ 60|20170426|si-dtu|20170426|si-dtu
+1|SI|DTU|3|1|12|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Non local participants-MOPH|20170613|6468.00|10210082|20170831|-90.00|Cash|||คุณพรทิพย์ ประชุม ชม. 31-1 มิ.ย 60   คืนเงินเข้าบัญชี  27 กย 60|20170803|si-dtu|20170927|si-dtu
+1|SI|DTU|3|2|3|Workshops: Using SI-multisources/AZP to monitor interventions towards 90-90-90 targets in pilot provinces non local participants/resources-MOPH|20170214|200000.00|10174738|20170314|-128008.00|cash|||-ยืมเงินประชุม 14-16 กพ.60 แคนทารี่ ศรีราชา|20170308||20170418|si-dtu
+1|SI|DTU|5|1|3|Office supplies for meetings/trainings Meeting materials and accessories for WS, training and meetings|20170209|3918.05|10174736|20170216|36.96|10174737|||-ซื้อวัสดุสำนักงาน -ภาษ๊วัสดุ|20170308||20170610|si-dtu
+1|SI|DTU|8|1|6|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Local participants (Working group)|20161118|8500.00|10174723||||||ประชุม AEM 14-15 พย. 59|20170112|si-dtu|20170112|SI-DTU
+1|SI|DTU|8|1|22|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Local participants (Working group)|20161214|16800.00|10174727|20161222|-1900.00|cash|||-ยืมประชุม AEM 14-15 ธค. 59 -คืนเงินประชุมประชุม AEM 14-15 ธค. 59|20170112|SI-DTU|20170308|si-dtu
+1|SI|DTU|8|1|24|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Local participants (Working group)|20161227|18000.00|10174729|20170117|-6800.00|cash|||ยืมเงินประชุม AEM 27-28 ธค.59 -คืนเงิน 6800|20170112|SI-DTU|20170308|si-dtu
+1|SI|DTU|8|1|29|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Local participants (Working group)|20170306|24600.00|10194742||||||ประชุม AEM 20-24 กพ 60|20170426|si-dtu|20170426|si-dtu
+1|SI|DTU|8|1|30|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Local participants (Working group)|20170314|38702.00|10194743||||||ประชุมหารือระบบเฝ้าระวัง 27 กพ-7 มีค 60|20170426|si-dtu|20170426|si-dtu
+1|SI|DTU|8|1|37|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Local participants (Working group)|20170420|25000.00|10194750|20170519|-4100.00|cash|||ยืมเงินประชุม 18,19,26เม.ย.60 -คืนเงินประชุม|20170515|si-dtu|20170711|si-dtu
+1|SI|DTU|8|1|38|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Local participants (Working group)|20170518|4540.00|10194756||||||เบิกเพิ่ม บย.5/60|20170711|si-dtu|20170711|si-dtu
+1|SI|DTU|8|1|42|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Local participants (Working group)|20170621|7700.00|10210083||||||ประชุม AEM 16/6/60|20170803|si-dtu|20170803|si-dtu
+1|SI|DTU|8|1|47|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Local participants (Working group)|20170117|28800.00|10174733|20170207|-11100.00|cash|||-คืนเงินประชุม AEM 17-20 มค.60|20170208|si-dtu|20170925|si-dtu
+1|SI|DTU|8|1|48|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Local participants (Working group)|20170329|55000.00|10194749||||||ยืมเงินประชุม 7 เมย 60|20170426|si-dtu|20170925|si-dtu
+1|SI|DTU|8|1|53|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Local participants (Working group)|20170809|35000.00|10210090|20170831|-8460.00|cash|||ยืมเงินประชุม 10 ส.ค.60 คืนเงินเข้าบัญชี 1 ก.ย.60|20170911|si-dtu|20170925|si-dtu
+1|SI|DTU|8|1|54|Workshops: Finalize SOP on SI dissemination through AIDS Zero Portal/Revise size estimation Local participants (Working group)|20170815|50000.00|10210091|20170831|-21300.00|cash|||ยืมเงินประชุม 15 ส.ค.60 คืนเข้าเงินบัญชี 11 ก.ย.60|20170911|si-dtu|20170925|si-dtu
+1|SI|DTU|8|2|3|Workshops: Use of SI-multisources/AZP to monitor interventions towards 90-90-90 targets in pilot provinces Local participants|20170630|10650.00|10210087||||||ประชุมเตรียม ประชุมใหญ่28-30 สค 60|20170803|si-dtu|20170803|si-dtu
+1|SI|DTU|8|8|3|Communication cost |20161209|1000.00|10174726||||||ค่าโทรศัพท์เดือน ธค.59|20170112|SI-DTU|20170208|si-dtu
+1|SI|DTU|8|8|5|Communication cost |20170306|1000.00|10194741||||||ค่าโทรศัพท์เดือน กพ.60|20170426|si-dtu|20170426|si-dtu
+1|SI|DTU|8|8|11|Communication cost |20170630|1000.00|10210086||||||ค่าโทรศัพท์เดือน มิย.60|20170803|si-dtu|20170803|si-dtu
+1|SI|DTU|8|8|13|Communication cost |20170427|2000.00|10194752||||||ค่าโทรศัพท์เดือน เม.ย.60|20170515|si-dtu|20170803|si-dtu
+1|SI|DTU|8|8|15|Communication cost |20170831|1000.00|10210092||||||ค่าโทรศัพท์เดือน สค.60|20170911|si-dtu|20170911|si-dtu

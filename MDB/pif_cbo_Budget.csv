@@ -1,0 +1,27 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+2|PIF|CBO|1|1|0|PIF CBO: Project coordinator|Work on technical support, coordinate, facilitate meeting, wirte up report, relevant technical documents||0.00|0.00|336000.00|336000.00|Person|1|100.00|12.00|28000.00|||20170317||20170918|
+2|PIF|CBO|1|2|0|PIF CBO: Project management staff|Work on mannagement, financial and relevant reporting document||0.00|0.00|768000.00|768000.00|Person|4|100.00|12.00|16000.00|||20170317||20170918|
+2|PIF|CBO|2|1|0|PIF CBO: Project coordinator|||0.00|0.00|9000.00|9000.00|Person|1|336000.00|5.00||||20170317||20170918|
+2|PIF|CBO|2|2|0|PIF CBO: Project management staff|||0.00|0.00|36000.00|36000.00|Person|4|192000.00|5.00||||20170317||20170918|
+2|PIF|CBO|2|3|0|PIF CBO: annual medical check-up|58.82 USD x 5 persons||0.00|0.00|10000.00|10000.00|Annual|||||||20170317||20170918|
+2|PIF|CBO|3|1|0|PIF CBO: Capacity building for CBO staff|To support capacity building for CBO  and relevant staffs in RRTTR activities including linkage of government support||0.00|0.00|442500.00|442500.00|Time|3|25.00|2.00|2000.00|1900.00|0.00|20170317||20170918|
+2|PIF|CBO|3|2|0|PIF CBO: CBO meeting|For overview, workplan, M&E, management in all CBO-RRTTR acitivities||0.00|0.00|192000.00|192000.00|Time|1|32.00|2.00|2000.00|2000.00|0.00|20170317||20170918|
+2|PIF|CBO|3|3|0|PIF CBO: technical working group meeting|To meet and discuss for appropriate workplan and address barriers||0.00|0.00|84000.00|84000.00|Time|4|6.00|1.00|2000.00|1500.00|0.00|20170317||20170918|
+2|PIF|CBO|3|4|0|PIF CBO: project supervision|To supervise and monitor CBO on RRTTR acitvities||0.00|0.00|143000.00|143000.00|Time|11|2.00|2.00|2000.00|2500.00|0.00|20170317||20170918|
+2|PIF|CBO|3|5|0|PIF CBO: Site follow up meeting (ODPC)|To follow up, monitor and address barriers for support RRTTR acitivies||0.00|0.00|333900.00|333900.00|Time|9|7.00|2.00|2000.00|1300.00|0.00|20170317||20170918|
+2|PIF|CBO|4|1|0|PIF CBO:Computer and accessories|To support documents' preparation, financial control and reporting, keep electronic file/data  for PIF CBO  project||0.00|0.00|390000.00|390000.00|Set|13|30000.00|||||20170317||20170918|
+2|PIF|CBO|5|1|0|PIF CBO: Office supplies|To support PIF CBO project (for 5 sites)||0.00|0.00|100000.00|100000.00|Annual|||||||20170317||20170918|
+2|PIF|CBO|8|1|0|PIF CBO: Capacity building for CBO staffs-Participant|To support capacity building for CBO and relevant staffs in RRTTR activities including linkage of governemnt support||0.00|0.00|79500.00|79500.00|Time|3|20.00|2.00|600.00|0.00|2500.00|20170317||20170918|
+2|PIF|CBO|8|2|0|PIF CBO: Capacity building for CBO staffs-Resource person|To support capacity building for CBO and relevant staffs in RRTTR activities incluiding linkage of governement support||0.00|0.00|64800.00|64800.00|Time|3|3.00|2.00|3600.00|0.00|0.00|20170317||20170918|
+2|PIF|CBO|8|3|0|PIF CBO: CBO meeting-Participant|For overview,  plan, M&E,managemnt in all CBO-RRTTR activities||0.00|0.00|30000.00|30000.00|Time|1|25.00|2.00|600.00|0.00|0.00|20170317||20170918|
+2|PIF|CBO|8|4|0|PIF CBO: CBO meeting-Resource person|For overview, plan,M&E, management in all CBO-RRTTR activities||0.00|0.00|14400.00|14400.00|Time|1|2.00|2.00|3600.00|0.00|0.00|20170317||20170918|
+2|PIF|CBO|8|5|0|PIF CBO: technical working group meeting|To meet, follow up and discuss on appropriate workplan and address barriers||0.00|0.00|32800.00|32800.00|Time|4|12.00|1.00|600.00|0.00|1000.00|20170317||20170918|
+2|PIF|CBO|8|6|0|PIF CBO: RRTTR activities (KK)|To support CBO work on RRTTR activities, recording, reporting including linkage of CBO-government collaboration||0.00|0.00|1400000.00|1400000.00|Annual|||||||20170317||20170918|
+2|PIF|CBO|8|7|0|PIF CBO:RRTTR activities (PK)|To support CBO work on RRTTR activities, recording, reporting including linkage of CBO-Governernment collaboration||0.00|0.00|1400000.00|1400000.00|Annual|||||||20170317||20170918|
+2|PIF|CBO|8|8|0|PIF CBO: RRTTR activities (UD)|To support CBO work on RRTTR activities, recording ,reporting including CBO-Government collaboration||0.00|0.00|1400000.00|1400000.00|Annual|||||||20170317||20170918|
+2|PIF|CBO|8|9|0|PIF CBO: RRTTR activities (NR)|to support CBO work on RRTTR activities,recording, reporting including CBO-Government collaboration||0.00|0.00|1400000.00|1400000.00|Annual|||||||20170317||20170915|
+2|PIF|CBO|8|10|0|PIF CBO: Site follow up meeting (ODPC)-Participant|to follow up, monitor  and address bariers for supporting RRTTR activities in area||0.00|0.00|342000.00|342000.00|Time|9|30.00|2.00|600.00|0.00|2000.00|20170317||20170918|
+2|PIF|CBO|8|11|0|PIF CBO: Site follow up meeting (ODPC)-Resource person|to follow up, moniitor and address barriers for supporting RRTTR activities in area||0.00|0.00|216000.00|216000.00|Time|9|4.00|2.00|3000.00|0.00|0.00|20170317||20170821|
+2|PIF|CBO|8|12|0|PIF CBO:Communication cost and relevant service fee|support  PIF CBO project communication x 5 sites||0.00|0.00|120000.00|120000.00|Month|12|||||10000.00|20170317||20170821|
+2|PIF|CBO|8|13|0|PIF CBO: Photocopy, prinitng, documentation|support PIF CBO project||0.00|0.00|61100.00|61100.00|Annual|||||||20170317||20170915|
+2|PIF|CBO|8|14|0|Exchange rate management|To support depreciation from the exchange rate fluctuation during the budget year||0.00|0.00|285000.00|285000.00|Annual|||||||20170915|||

@@ -1,0 +1,43 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGMQ-NR6|-|1|1|0|Compensation for government staff|Dr.Chakrarat Pittayawonganon, Assistant of Principal Investigator||0.00|0.00|24480.00|24480.00|Annual||||||||||
+1|DGMQ-NR6|-|1|2|0|Compensation for government staff|Dr.Chaninan Sonthichai, Project Technical and Coordinator||0.00|0.00|24480.00|24480.00|Annual||||||||||
+1|DGMQ-NR6|-|1|3|0|Compensation for government staff|Ms.Panatsaya Chantate, Project  Technical staff||0.00|0.00|24480.00|24480.00|Annual||||||||||
+1|DGMQ-NR6|-|1|4|0|Compensation for government staff|Ms.Soradakorn Phimla, Project Administrative staff||0.00|0.00|24480.00|24480.00|Annual||||||||||
+1|DGMQ-NR6|-|3|1|0|Rayong Field Trip to evaluate health screening services|For Non Local MoPH staffs||0.00|0.00|45000.00|45000.00|Time|1|5.00|4.00|2000.00|1000.00|0.00||||
+1|DGMQ-NR6|-|3|1|1|Rayong Field Trip to evaluate health screening services|For Non Local MoPH staffs|||||162900.00|Time|2|9.00|4.00|2000.00|1050.00|0.00|20170223|DGMQ-NR6|20170223|DGMQ-NR6
+1|DGMQ-NR6|-|3|1|2|Rayong Field Trip to evaluate health screening services|For Non Local MoPH staffs|||||87500.00|Time|1|10.00|4.00|2000.00|750.00|0.00|20170720|dgmq-nr6|20170720|dgmq-nr6
+1|DGMQ-NR6|-|3|2|0|Transportation cost|For Non Local MoPH staff||0.00|0.00|40000.00|40000.00|Time|5|16.00|0.00|0.00|500.00|0.00||||
+1|DGMQ-NR6|-|3|2|1|Transportation cost|For Non Local MoPH staff|||||0.00|Time|0|0.00|0.00|0.00|0.00|0.00|20170223|DGMQ-NR6|20170223|DGMQ-NR6
+1|DGMQ-NR6|-|3|3|2|Workshop of data analysis and strategic framework development for non-local MOPH staff||||||68250.00|Time|1|15.00|2.00|2000.00|550.00|0.00|20170720|dgmq-nr6|20170720|dgmq-nr6
+1|DGMQ-NR6|-|5|1|0|Office supplies|Toner cartridge, copy, stationary etc.||0.00|0.00|6000.00|6000.00|Month|12|500.00||||||||
+1|DGMQ-NR6|-|5|1|2|Office supplies|Toner cartridge, copy, stationary etc.|||||10000.00|Time|1|10000.00|||||20170720|dgmq-nr6|20170720|dgmq-nr6
+1|DGMQ-NR6|-|8|1|0|Rayong Field Trip to evaluate health screening services|For local participants, MoPH and Non MoPH||0.00|0.00|25000.00|25000.00|Time|1|10.00|4.00|600.00|100.00|0.00||||
+1|DGMQ-NR6|-|8|1|1|Rayong Field Trip to evaluate health screening services|For local participants, MoPH and Non MoPH|||||6000.00|Time|1|5.00|2.00|600.00|0.00|0.00|20170223|DGMQ-NR6|20170223|DGMQ-NR6
+1|DGMQ-NR6|-|8|2|0|Workshop of data analysis and strategic framework development|For Non MoPH and local participants MoPH||0.00|0.00|32000.00|32000.00|Time|2|20.00|1.00|600.00|200.00|0.00||||
+1|DGMQ-NR6|-|8|2|1|Workshop of data analysis and strategic framework development|For Non MoPH and local participants MoPH|||||24000.00|Time|2|15.00|1.00|600.00|200.00|0.00|20170223|DGMQ-NR6|20170223|DGMQ-NR6
+1|DGMQ-NR6|-|8|2|2|Workshop of data analysis and strategic framework development|For Non MoPH and local participants MoPH|||||28200.00|Time|1|30.00|1.00|600.00|300.00|1200.00|20170720|dgmq-nr6|20170720|dgmq-nr6
+1|DGMQ-NR6|-|8|3|0|Meeting facilities|Rental room, photocopy and meeting materials, chart review finding||0.00|0.00|41236.00|41236.00|Time|2|0.00|0.00|0.00|0.00|20618.00||||
+1|DGMQ-NR6|-|8|3|1|Meeting facilities|Rental room, photocopy and meeting materials, chart review finding|||||11336.00|Time|2|0.00|0.00|0.00|0.00|5668.00|20170223|DGMQ-NR6|20170223|DGMQ-NR6
+1|DGMQ-NR6|-|8|3|2|Meeting facilities|Rental room, photocopy and meeting materials, chart review finding|||||21886.00|Time|1|0.00|0.00|0.00|0.00|21886.00|20170720|dgmq-nr6|20170720|dgmq-nr6
+1|DGMQ-NR6|-|8|4|0|Resource persons for workshop of strategic framework development|For Non MoPH and local participants MoPH||0.00|0.00|33600.00|33600.00|Time|2|4.00|1.00|600.00|0.00|14400.00||||
+1|DGMQ-NR6|-|8|4|1|Resource persons for workshop of strategic framework development|For Non MoPH and local participants MoPH|||||6600.00|Time|2|2.00|1.00|0.00|0.00|3300.00|20170223|DGMQ-NR6|20170223|DGMQ-NR6
+1|DGMQ-NR6|-|8|4|2|Resource persons for workshop of strategic framework development|For Non MoPH and local participants MoPH|||||0.00|Time|0|0.00|0.00|0.00|0.00|3300.00|20170720|dgmq-nr6|20170720|dgmq-nr6
+1|DGMQ-NR6|-|8|5|1|Working Group Meeting For MoPH and Other ministry staff||||||6000.00|Time|2|5.00|1.00|600.00|0.00|0.00|20170223|DGMQ-NR6|20170223|DGMQ-NR6
+1|DGMQ-NR6|-|8|5|2|Working Group Meeting For MoPH and Other ministry staff||||||1000.00|Time|1|2.00|1.00|500.00|0.00|0.00|20170720|dgmq-nr6|20170720|dgmq-nr6
+2|DGMQ-NR6|-|1|1|0|Assistant of Principal Investigator|(Dr. Chakrarat Pittayawonganon) (Estimate 2.06 USD x 30 hours/month x 12 months x 1 person)||0.00|0.00|-0.00|0.00|Annual|||||||20170308||20170912|
+2|DGMQ-NR6|-|1|2|0|Project Technical and Coordinator|(Dr. Chaninan Sonthichai) (Estimate 2.06 USD x 30 hours/month x 12 months x 1 person)||0.00|0.00|25228.00|25228.00|Annual|||||||20170308||20170912|
+2|DGMQ-NR6|-|1|3|0|Project Technical staff|(Ms.Panatsaya Chantate) (Estimate 2.06 USD x 30 hours/month x 12 months x 1 person)||0.00|0.00|25228.00|25228.00|Annual|||||||20170308||20170912|
+2|DGMQ-NR6|-|1|4|0|Project Administrative staff|(Ms.Soradakorn Phimla) (Estimate 2.06 USD x 30 hours/month x 12 months x 1 person)||0.00|0.00|25228.00|25228.00|Annual|||||||20170308||20170912|
+2|DGMQ-NR6|-|3|1|0|Rayong field trip to improve migrant health screening process|For Non-local participants MoPH staff||18750.00|0.00|18750.00|37500.00|Time|2|5.00|2.00|1500.00|750.00|0.00|20170308||20171005|
+2|DGMQ-NR6|-|3|2|0|Mae Sot field trip to evaluate health screening|For Non-local participants MoPH staff||0.00|0.00|77000.00|77000.00|Time|1|7.00|3.00|2000.00|5000.00|0.00|20170821||20170913|
+2|DGMQ-NR6|-|3|3|0|Meeting/workshop on migrant health screening system|For Non-local participants MoPH Staff||863.93|2136.07|37800.00|40800.00|Time|1|6.00|2.00|1500.00|3800.00|0.00|20170821||20171005|
+2|DGMQ-NR6|-|5|1|0|Office supplies|Paper, stationary or toner cartridge etc.||0.00|0.00|15000.00|15000.00|Month|12|1250.00|||||20170308||20170913|
+2|DGMQ-NR6|-|8|1|0|Rayong field trip improve migrant health screening process|For Local participants, MoPH and Non MoPH||0.00|6000.00|6000.00|12000.00|Time|2|5.00|2.00|600.00|0.00|0.00|20170308||20171005|
+2|DGMQ-NR6|-|8|2|0|Mae Sot field trip to evaluate health screening|For Local participants, MoPH and Non MoPH||0.00|0.00|18000.00|18000.00|Time|1|10.00|3.00|600.00|0.00|0.00|20170308||20170912|
+2|DGMQ-NR6|-|8|3|0|Meeting/workshop on migrant health screening system|For Local participants MoPH staff||0.00|6000.00|6000.00|12000.00|Time|1|10.00|2.00|600.00|0.00|0.00|20170308||20171005|
+2|DGMQ-NR6|-|8|4|0|Meeting/workshop on migrant health screening system|For Non MoPH participants (NGOs and Labour Ministry)||0.00|0.00|32000.00|32000.00|Time|1|4.00|2.00|1500.00|5000.00|0.00|20170315||20170912|
+2|DGMQ-NR6|-|8|5|0|Meeting/workshop facilities|Rental room, meeting materials and other cost||0.00|0.00|9600.00|9600.00|Time|3|0.00|0.00|0.00|0.00|3200.00|20170328||20170912|
+2|DGMQ-NR6|-|8|6|0|Publishing cost of Migrant Information leaflet for migrant worker|Publishing in Thai, Burmese, Cambodian, Lao and English||0.00|0.00|12400.00|12400.00|Set|1240|||||10.00|20170821||20170912|
+2|DGMQ-NR6|-|8|7|0|Translation cost for English official report|Field trip or meeting report and 1 Annual report||0.00|0.00|60000.00|60000.00|Time|4|0.00|0.00|0.00|0.00|15000.00|20170821||20170913|
+2|DGMQ-NR6|-|8|8|0|Translation cost for Migrant Information leaflet from Thai language to 4 languages|Burmese, Cambodian, Lao and English||0.00|0.00|40240.00|40240.00|Time|4|0.00|0.00|0.00|0.00|10060.00|20170821||20170913|
+2|DGMQ-NR6|-|8|9|0|Exchange rate management|1 Baht/USD||0.00|1197.93|12378.00|13575.93|Annual|||||||20170821||20171005|

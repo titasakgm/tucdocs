@@ -1,0 +1,63 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|PrEP2START-LAB|-|1|1|0|Compensation for government staff|Miss Naparat Pattarapayoon||0.00|0.00|-0.00|0.00|Annual||||||||||
+1|PrEP2START-LAB|-|1|2|0|Overtime for project staff|Project coordinator and Project secretary||0.00|0.00|48000.00|48000.00|Annual||||||||||
+1|PrEP2START-LAB|-|3|1|0|Network Lab Meeting for monitoring QI project in Khonkean and Udonthani province|BATS and NIH: (Non Local participant-MOPH)||0.00|0.00|96000.00|96000.00|Time|4|4.00|1.00|2000.00|4000.00|0.00||||
+1|PrEP2START-LAB|-|3|1|1|Network Lab Meeting for monitoring QI project in Khonkean and Udonthani province|(Non Local participant-MOPH)|||||60000.00|Time|2|4.00|1.00|2000.00|5500.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|3|2|0|Network Lab Meeting for monitoring QI project for Chonburi and Nakornrachasima|(Non Local participant-MOPH)||0.00|0.00|128000.00|128000.00|Time|4|8.00|1.00|2000.00|2000.00|0.00||||
+1|PrEP2START-LAB|-|3|2|1|Network Lab Meeting for monitoring QI project for Chonburi and Nakornrachasima|(Non Local participant-MOPH)|||||0.00|Time|0|8.00|1.00|2000.00|2000.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|3|3|0|Capacity building on lab quality related training topic in Khonkean and Udonthani province|2 time per provinces (Khonkean and Udonthani) (Non local Resource person-MOPH)||0.00|0.00|96000.00|96000.00|Time|4|3.00|2.00|2000.00|4000.00|0.00||||
+1|PrEP2START-LAB|-|3|3|1|Capacity building on lab quality related training topic in Khonkean and Udonthani province|(Non local -MOPH)|||||240370.00|Time|1|46.00|2.00|2000.00|1200.00|1170.00|20170519||20170519|
+1|PrEP2START-LAB|-|3|4|0|Site Assessment for community base HIV testing|BATS and NIH: (Non Local participant-MOPH)||0.00|0.00|200000.00|200000.00|Time|5|4.00|3.00|2000.00|4000.00|0.00||||
+1|PrEP2START-LAB|-|3|4|1|Site Assessment for community base HIV testing|(Non Local participant-MOPH)|||||0.00|Time|0|4.00|3.00|2000.00|4000.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|3|5|0|Lessern learn Meeting for QI project in Khonkean|(Non Local participant-MOPH)||0.00|0.00|60000.00|60000.00|Time|1|20.00|1.00|2000.00|1000.00|0.00||||
+1|PrEP2START-LAB|-|3|5|1|Lessern learn Meeting for QI project in Khonkean|(Non Local participant-MOPH)|||||0.00|Time|0|20.00|1.00|2000.00|1000.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|3|6|0|Transportation cost|Local Resource person and local participants (gasoline, car rental, tolls fee, taxi)||0.00|0.00|22500.00|22500.00|Annual||||||||||
+1|PrEP2START-LAB|-|3|6|1|Transportation cost|Local Resource person and local participants (gasoline, car rental, tolls fee, taxi)|||||74670.00|Annual|||||||20170519||20170519|
+1|PrEP2START-LAB|-|3|7|0|Capacity building on lab quality related training topic in Khonkean and Udonthani province|(Non Local participant-MOPH)||0.00|0.00|64000.00|64000.00|Time|4|2.00|2.00|2000.00|4000.00|0.00||||
+1|PrEP2START-LAB|-|3|7|1|Capacity building on lab quality related training topic in Khonkean and Udonthani province|(Non Local participant-MOPH)|||||0.00|Time|0|2.00|2.00|2000.00|4000.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|3|8|1|Advisory meeting for Lab network|Non-Local-MOPH|||||66000.00|Time|2|5.00|1.00|2000.00|4600.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|3|9|1|Lessen learn Meeting for QI project|Non-Local-MOPH|||||220000.00|Time|1|40.00|2.00|2000.00|1500.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|5|1|0|Meeting supplies|Printing copying||0.00|0.00|21500.00|21500.00|Annual||||||||||
+1|PrEP2START-LAB|-|5|1|1|Meeting supplies|Printing copying|||||0.00|Annual|||||||20170519||20170519|
+1|PrEP2START-LAB|-|5|2|1|Office supplies for meetings/trainings|Meeting materials and accessories for WS, training and meetings|||||21500.00|Annual|||||||20170519||20170519|
+1|PrEP2START-LAB|-|8|1|0|Advisory meeting for Lab network|Local MOPH, Non-MOPH||0.00|0.00|39000.00|39000.00|Time|3|10.00|1.00|1000.00|300.00|0.00||||
+1|PrEP2START-LAB|-|8|1|1|Advisory meeting for Lab network|Local MOPH, Non-MOPH|||||12000.00|Time|2|6.00|1.00|1000.00|0.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|8|2|0|QI Project|||0.00|0.00|110000.00|110000.00|Hospital|22|||||5000.00||||
+1|PrEP2START-LAB|-|8|2|1|QI Project||||||0.00|Hospital|0|||||5000.00|20170519||20170519|
+1|PrEP2START-LAB|-|8|3|0|Network Lab Meeting for monitoring QI project in Khonkean and Udonthani province|2 time per provinces (Khonkhane and Udonthani)Local MOPH, Non-MOPH||0.00|0.00|36000.00|36000.00|Time|4|15.00|1.00|600.00|0.00|0.00||||
+1|PrEP2START-LAB|-|8|3|1|Network Lab Meeting for monitoring QI project in Khonkean and Udonthani province|(Local MOPH, Non-MOPH)|||||0.00|Time|0|15.00|1.00|600.00|0.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|8|4|0|Network Lab Meeting for monitoring QI project in Bankok and Nonthaburi|Local MOPH, Non-MOPH||0.00|0.00|36000.00|36000.00|Time|4|15.00|1.00|600.00|0.00|0.00||||
+1|PrEP2START-LAB|-|8|4|1|Network Lab Meeting for monitoring QI project in Bankok and Nonthaburi|Local MOPH, Non-MOPH|||||0.00|Time|0|15.00|1.00|600.00|0.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|8|5|0|Capacity building on lab quality related training topic in Khonkean and Udonthani province|(Khonkean and Udonthani)Local MOPH, Non-MOPH||0.00|0.00|36000.00|36000.00|Time|2|15.00|2.00|600.00|0.00|0.00||||
+1|PrEP2START-LAB|-|8|5|1|Capacity building on lab quality related training topic in Khonkean and Udonthani province|(Local MOPH, Non-MOPH)|||||104000.00|Time|1|52.00|2.00|1000.00|0.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|8|6|0|Capacity building on lab quality related training topic in Khonkean and Udonthani province|2 time per provinces (Khonkean and Udonthani) (Non local Resource person-Non MOPH)||0.00|0.00|48000.00|48000.00|Time|4|2.00|2.00|2000.00|2000.00|0.00||||
+1|PrEP2START-LAB|-|8|6|1|Capacity building on lab quality related training topic in Khonkean and Udonthani province|(Non local Resource person-Non MOPH)|||||0.00|Time|0|2.00|2.00|2000.00|2000.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|8|7|0|Lesson learn Meeting for QI project in Khonkean|Local MOPH, Non-MOPH||0.00|0.00|9000.00|9000.00|Time|1|15.00|1.00|600.00|0.00|0.00||||
+1|PrEP2START-LAB|-|8|7|1|Lesson learn Meeting for QI project in Khonkean|(Local MOPH, Non-MOPH)|||||0.00|Time|0|15.00|1.00|600.00|0.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|8|8|0|Network Lab Meeting for monitoring QI project in Khonkean and Udonthani province|Non Local participant-Non MOPH||0.00|0.00|-0.00|0.00|Time|0|2.00|1.00|2000.00|2000.00|0.00||||
+1|PrEP2START-LAB|-|8|9|0|Capacity building on lab quality related training topic in Khonkean and Udonthani province|Non Local participant-Non MOPH||0.00|0.00|-0.00|0.00|Time|0|2.00|1.00|2000.00|2000.00|0.00||||
+1|PrEP2START-LAB|-|8|10|0|Capacity building on lab quality related training topic in Khonkean and Udonthani province|Allowance for Resource person||0.00|0.00|-0.00|0.00|Time|0|3.00|2.00|1200.00|0.00|0.00||||
+1|PrEP2START-LAB|-|8|10|1|Capacity building on lab quality related training topic in Khonkean and Udonthani province|(Allowance for Resource person)|||||600.00|Time|1|1.00|1.00|600.00|0.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|8|11|0|Lesson learn Meeting for QI project in Khonkean|(Non Local participant-Non MOPH)||0.00|0.00|-0.00|0.00|Time|0|2.00|1.00|2000.00|2000.00|0.00|||20170519|
+1|PrEP2START-LAB|-|8|12|1|QI Project Meeting in Khonkaen and Udonthani province|(Local MOPH, Non-MOPH)|||||69600.00|Time|2|58.00|1.00|600.00|0.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|8|13|1|QI Project Meeting in Khonkaen and Udonthani province| (Allowance for Resource person)|||||7200.00|Time|2|3.00|1.00|1200.00|0.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|8|14|1|Lesson learn Meeting for QI project|(Local MOPH, Non-MOPH)|||||90000.00|Time|1|45.00|2.00|1000.00|0.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|8|15|1|Lesson learn Meeting for QI project|(Allowance for Resource person)|||||2400.00|Time|1|1.00|2.00|1200.00|0.00|0.00|20170519||20170519|
+1|PrEP2START-LAB|-|8|16|1|Meeting facility management||||||33660.00|Annual|||||||20170519||20170519|
+1|PrEP2START-LAB|-|8|17|2|Gain from exchange rate on 07 ก.ค. 60 (Cheque # 10181864)|Exchange rate|||||21696.63|Annual|||||||20170810||20170810|
+2|PrEP2START-LAB|-|1|1|0|Compensation for government staff|Naparate, Fiancial staff||0.00|0.00|36000.00|36000.00|Annual|||||||20170315||20170918|
+2|PrEP2START-LAB|-|1|2|0|Overtime for project staff|Admin and Secretary||0.00|0.00|36000.00|36000.00|Annual|||||||20170315||20170918|
+2|PrEP2START-LAB|-|3|1|0|Capacitiy building on lab quality improvement in Khonkhaen and Udon|(Non Local participant-MOPH)||0.00|0.00|322000.00|322000.00|Time|2|35.00|2.00|1800.00|1000.00|0.00|20170315||20170317|
+2|PrEP2START-LAB|-|3|2|0|Capacitiy building on lab quality improvement in Khonkhaen and Udon|(Non Local Resouce -MOPH)||0.00|0.00|56000.00|56000.00|Time|2|4.00|2.00|2000.00|3000.00|0.00|20170315||20170317|
+2|PrEP2START-LAB|-|3|3|0|Advisory Meeting for Lab network|Non Local MOPH||0.00|0.00|60000.00|60000.00|Time|3|4.00|1.00|2000.00|3000.00|0.00|20170315||20170324|
+2|PrEP2START-LAB|-|3|4|0|Transportation cost|Local Resource person and local participants (gasoline, car rental, tolls fee, taxi)||0.00|0.00|20000.00|20000.00|Annual|||||||20170315||20170317|
+2|PrEP2START-LAB|-|3|5|0|Viral Load Network meeting|(Non Local participant-MOPH)||210000.00|0.00|200000.00|410000.00|Time|1|50.00|2.00|2000.00|4200.00|0.00|20170322||20171012|
+2|PrEP2START-LAB|-|5|1|0|Office Supplies|Paper, Ink||0.00|0.00|15000.00|15000.00|Year|1|15000.00|||||20170315||20170324|
+2|PrEP2START-LAB|-|8|1|0|Capacitiy building on lab quality improvement in Khonkhaen and Udon|(Local participant-MOPH)||0.00|0.00|105000.00|105000.00|Time|2|35.00|2.00|600.00|300.00|0.00|20170315||20170317|
+2|PrEP2START-LAB|-|8|2|0|Capacitiy building on lab quality improvement in Khonkhaen and Udon|Allowance for Resource person||0.00|0.00|24000.00|24000.00|Time|2|5.00|2.00|1200.00|0.00|0.00|20170315||20170315|
+2|PrEP2START-LAB|-|8|3|0|Network Lab Meeting for monitoring QI project in Khonkhane and Udonthani province|(Local participant-MOPH) ( 2 times per province)||0.00|0.00|126000.00|126000.00|Time|4|35.00|1.00|600.00|300.00|0.00|20170315||20170324|
+2|PrEP2START-LAB|-|8|4|0|Advisory Meeting for Lab network|Local MOPH, Non-MOPH||0.00|0.00|34500.00|34500.00|Time|3|5.00|1.00|2000.00|300.00|0.00|20170315||20170317|
+2|PrEP2START-LAB|-|8|5|0|Viral Load Network meeting|(Local participant-MOPH)||0.00|0.00|70000.00|70000.00|Time|1|40.00|2.00|600.00|500.00|2000.00|20170322||20170324|
+2|PrEP2START-LAB|-|8|6|0|Viral Load Network meeting|(Resouce person)||0.00|0.00|34500.00|34500.00|Time|1|5.00|2.00|3000.00|500.00|2000.00|20170322||20170324|
+2|PrEP2START-LAB|-|8|7|0|Meeting facilities|||0.00|0.00|34000.00|34000.00|Year|1|||||34000.00|20170324||20170324|
+2|PrEP2START-LAB|-|8|8|0|Exchange rate management|To support depreciation from exchange rate fluctuation||34475.63|0.00|-0.00|34475.63|Annual|||||||20171012|||

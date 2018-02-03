@@ -1,0 +1,5 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|ITC|-|20161025|1|9264.71|34.8300|322689.71||10170104,10172114|First draw down (10170104=315,000.- / 10172114=7689.71.-)|20170203|itc|20170203|itc
+1|ITC|-|20161228|1|14795.29|35.7600|529079.72||10172162|Secoud drow down|20170203|itc|20170203|itc
+1|ITC|-|20170428|1|10000.00|34.2788|342788.00||10181829|3th drow down #exchange rate 34.2788|20170607|itc|20170607|itc
+1|ITC|-|20170707|1|1900.00|33.7900|64201.00||10181862|4th draw down|20170825|ITC|20170825|ITC

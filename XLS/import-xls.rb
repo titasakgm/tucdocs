@@ -12,12 +12,12 @@ def save_budget_plan(proj,info)
 end
 
 def init_info(n)
-  info = [n,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,]
+  info = [n,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
 end
 
 def get_info(p,row,col)
   info = []
-  (col..col+20).each do |c|
+  (col..col+21).each do |c|
     d = p.cell(row,c)
     info.push(d)
   end
@@ -122,6 +122,8 @@ a1 = p.cell(1,1)
 
 ref_r = ref_c = 0
 ref_d = nil
+ref_sep = 0    # MUST FIND WHERE SEP'17 or just SEP
+
 cell = nil
 
 (1..10).each do |r|
@@ -131,7 +133,10 @@ cell = nil
       ref_r = r
       ref_c = c
       ref_d = d
-      break
+    elsif d.strip.upcase =~ /SEP/ and d.strip.length < 10
+      ref_sep = c
+      puts "ref_sep: #{ref_sep}"
+      exit
     end
     if d =~ /\ 20\d\d/ # from - to
       cell = d
@@ -183,11 +188,14 @@ others = init_info(8)
     if equipment[1] == '' # merge cell
       equipment.delete_at(1)
     end
-  elsif d.strip.upcase =~ /SUPP/ and d.length < 20
-    supplies = get_info(p,r,ref_c)
-    supplies[0] = '5'
-    if supplies[1] == '' # merge cell
-      supplies.delete_at(1)
+  elsif d.upcase =~ /SUPP/
+    obj = d.strip.upcase.gsub(/\d/,'').gsub(/\s/,'').tr('.','')
+    if obj == 'SUPPLIES' or (obj =~ /SUPP/ and obj.length < 10)  
+      supplies = get_info(p,r,ref_c)
+      supplies[0] = '5'
+      if supplies[1] == '' # merge cell
+        supplies.delete_at(1)
+      end
     end
   elsif d.strip.upcase =~ /CONT/ and d.length < 20
     contractual = get_info(p,r,ref_c)

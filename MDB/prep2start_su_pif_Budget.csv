@@ -1,0 +1,32 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+2|PrEP2START-SU|PIF|1|1|0|PIF Care-Project coordinator assistant|||0.00|0.00|240000.00|240000.00|Person|1|100.00|12.00|20000.00|||20170323||20170403|
+2|PrEP2START-SU|PIF|1|2|0|PIF Care- Compensation for Government staff|Project Manager||0.00|0.00|-0.00|0.00|Annual|||||||20170323||20170403|
+2|PrEP2START-SU|PIF|1|3|0|PIF Care-Compensation for Government staff|Project Coordinator||0.00|0.00|72000.00|72000.00|Annual|||||||20170323||20170403|
+2|PrEP2START-SU|PIF|1|4|0|PIF Care-Compensation for Government staff|Financial Officer||0.00|0.00|12000.00|12000.00|Annual|||||||20170323||20170403|
+2|PrEP2START-SU|PIF|2|1|0|PIF Care- Project coordinator|||0.00|0.00|9000.00|9000.00|Person|1|240000.00|5.00||||20170323||20170329|
+2|PrEP2START-SU|PIF|2|2|0|PIF Care-Annual medical check up|1 Person||0.00|0.00|2000.00|2000.00|Annual|||||||20170323||20170329|
+2|PrEP2START-SU|PIF|3|1|0|PIF- Care: Technical Working Group meeting|||0.00|0.00|120000.00|120000.00|Time|2|10.00|2.00|2000.00|2000.00|0.00|20170323||20170912|
+2|PrEP2START-SU|PIF|3|2|0|PIF-Care: PrEP and early ARV access implementation meeting for Provincial /regional stakeholder meeting|||0.00|0.00|280000.00|280000.00|Time|1|70.00|1.00|2000.00|2000.00|0.00|20170323||20170329|
+2|PrEP2START-SU|PIF|3|3|0|PIF-Care: Provincial/regional network meeting|||0.00|0.00|120000.00|120000.00|Time|10|3.00|1.00|2000.00|2000.00|0.00|20170323||20170912|
+2|PrEP2START-SU|PIF|3|4|0|PIF-Care: Provincial/regional network meeting- resource person|||0.00|0.00|40000.00|40000.00|Time|10|1.00|1.00|2000.00|2000.00|0.00|20170323||20170912|
+2|PrEP2START-SU|PIF|3|5|0|PIF- Care: Training on early ARV and PrEP monitoring tool kits|||0.00|0.00|72000.00|72000.00|Time|3|4.00|2.00|2000.00|2000.00|0.00|20170323||20170912|
+2|PrEP2START-SU|PIF|3|6|0|PIF- Care: Additional Capacity building for HCW/PrEP providers|||0.00|0.00|160000.00|160000.00|Time|10|4.00|1.00|2000.00|2000.00|0.00|20170323||20170912|
+2|PrEP2START-SU|PIF|3|7|0|PIF- Care: Follow up and share lesson learn workshop|||0.00|0.00|-0.00|0.00|Time|1|50.00|2.00|0.00|0.00|0.00|20170323||20170830|
+2|PrEP2START-SU|PIF|3|8|0|PIF-Care: Site visit/site follow up meeting|||0.00|0.00|48000.00|48000.00|Time|4|2.00|2.00|2000.00|2000.00|0.00|20170323||20170912|
+2|PrEP2START-SU|PIF|3|9|0|PIF- Care:Transportation cost/fuel|Gas, tax, car rental, etc.||0.00|0.00|27000.00|27000.00|Annual|||||||20170323||20170912|
+2|PrEP2START-SU|PIF|5|1|0|PIF- Care: Office supplies|||0.00|0.00|12900.00|12900.00|Year|1|12900.00|||||20170323||20170912|
+2|PrEP2START-SU|PIF|5|2|0|PIF- Care:Photocopy, printing documents,|||0.00|0.00|13000.00|13000.00|Year|1|13000.00|||||20170323||20170912|
+2|PrEP2START-SU|PIF|8|1|0|PIF-Care:Communication cost|||0.00|0.00|16000.00|16000.00|Month|8|||||2000.00|20170323||20170830|
+2|PrEP2START-SU|PIF|8|2|0|PIF-Care: Technical working group (TWG)-local participant|||0.00|0.00|38000.00|38000.00|Time|2|15.00|2.00|600.00|0.00|1000.00|20170323||20170830|
+2|PrEP2START-SU|PIF|8|3|0|PIF- Care: Technical working group (TWG)-resource person|||0.00|0.00|14400.00|14400.00|Time|2|3.00|1.00|2400.00|0.00|0.00|20170323||20170830|
+2|PrEP2START-SU|PIF|8|4|0|PIF-Care: PrEP and early ARV access implementation meeting for Provincial /regional stakeholder meeting-local particpant|||0.00|0.00|23000.00|23000.00|Time|1|35.00|1.00|600.00|0.00|2000.00|20170323||20170329|
+2|PrEP2START-SU|PIF|8|5|0|PIF- Care: PrEP and early ARV access implementation meeting for Provincial /regional stakeholder meeting-resource person|||0.00|0.00|7200.00|7200.00|Time|1|3.00|1.00|2400.00|0.00|0.00|20170323||20170329|
+2|PrEP2START-SU|PIF|8|6|0|PIF-Care: Provincial/regional network meeting-local participant|||0.00|0.00|230000.00|230000.00|Time|10|35.00|1.00|600.00|0.00|2000.00|20170323||20170912|
+2|PrEP2START-SU|PIF|8|7|0|PIF -Care: Training on early ARV and PrEP monitoring tool kits|||0.00|0.00|96000.00|96000.00|Time|3|25.00|2.00|600.00|0.00|2000.00|20170323||20170830|
+2|PrEP2START-SU|PIF|8|8|0|PIF- Care: Addition Capacity buidling for HCW/PrEP providers|||0.00|0.00|165000.00|165000.00|Time|10|25.00|1.00|600.00|0.00|1500.00|20170323||20170912|
+2|PrEP2START-SU|PIF|8|9|0|PIF-Care: Follow up and share lesson learn workshop-participant|||0.00|0.00|-0.00|0.00|Time|1|30.00|2.00|0.00|0.00|0.00|20170323||20170830|
+2|PrEP2START-SU|PIF|8|10|0|PIF Care: Follow up and share lessoon learn workshop-resource person|||0.00|0.00|-0.00|0.00|Time|1|3.00|2.00|0.00|0.00|0.00|20170323||20170830|
+2|PrEP2START-SU|PIF|8|11|0|PIF- Care:HIV Care package|||0.00|0.00|2000000.00|2000000.00|Case|400|||||5000.00|20170323||20170405|
+2|PrEP2START-SU|PIF|8|12|0|PIF- Care:PrEP package|||0.00|0.00|1000000.00|1000000.00|Case|200|||||5000.00|20170323||20170405|
+2|PrEP2START-SU|PIF|8|13|0|PIF Care: service charge|||0.00|0.00|15000.00|15000.00|Year|1|||||15000.00|20170323||20170329|
+2|PrEP2START-SU|PIF|8|14|0|Exchange rate managament|||0.00|0.00|140000.00|140000.00|Year|1|||||140000.00|20170912|||

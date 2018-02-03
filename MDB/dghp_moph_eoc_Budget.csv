@@ -1,0 +1,38 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-MOPH-EOC|-|1|1|0|Project Coordinator|TBD||0.00|0.00|252000.00|252000.00|Person|1|100.00|12.00|21000.00||||||
+1|DGHP-MOPH-EOC|-|1|2|0|Administrative and Financial Assistant|TBD||0.00|0.00|-0.00|0.00|Person|0|100.00|12.00|19000.00||||||
+1|DGHP-MOPH-EOC|-|1|3|0|Overtime for project staff at MOPH|($2.05/70 Baht x 2 hrs x 10 Day x 12 months x 2 persons)||0.00|0.00|33600.00|33600.00|Annual||||||||||
+1|DGHP-MOPH-EOC|-|1|4|0|Compensation for government officers at MOPH| ($2.05/70 Baht x 2 hrs x 10 Day x 12 months x 1 person)||0.00|0.00|16800.00|16800.00|Annual||||||||||
+1|DGHP-MOPH-EOC|-|2|1|0|Project Coordinator|TBD||0.00|0.00|9000.00|9000.00|Person|1|252000.00|5.00|||||||
+1|DGHP-MOPH-EOC|-|2|2|0|Administrative and Financial Assistant|TBD||0.00|0.00|-0.00|0.00|Person|0|228000.00|5.00|||||||
+1|DGHP-MOPH-EOC|-|2|3|0|Medical check-up for project staff|( 2 Person X THB 2,000/58.82$)||0.00|0.00|4000.00|4000.00|Annual||||||||||
+1|DGHP-MOPH-EOC|-|3|1|0|Site visit|||0.00|0.00|165000.00|165000.00|Time|3|5.00|3.00|2000.00|5000.00|0.00||||
+1|DGHP-MOPH-EOC|-|3|2|0|Workshop|||0.00|0.00|540000.00|540000.00|Time|2|30.00|3.00|2000.00|3000.00|0.00||||
+1|DGHP-MOPH-EOC|-|3|3|0|Annual meeting|||0.00|0.00|-0.00|0.00|Time|0|30.00|3.00|2000.00|3000.00|0.00||||
+1|DGHP-MOPH-EOC|-|3|4|0|Expert meeting (Non-Local)|||0.00|0.00|28000.00|28000.00|Time|2|2.00|1.00|2000.00|5000.00|0.00||||
+1|DGHP-MOPH-EOC|-|3|5|0|Local Transportation cost for MOPH and  project staff|||0.00|0.00|7200.00|7200.00|Month|12|2.00|1.00|0.00|300.00|0.00||||
+1|DGHP-MOPH-EOC|-|3|6|0|Support  EOC staffs for international training and visiting|||0.00|0.00|862500.00|862500.00|Time|1|5.00|9.00|10000.00|80000.00|12500.00||||
+1|DGHP-MOPH-EOC|-|4|1|0|Computer desktop & Computer Notebook|$1,323.52*1=$ 1323.52||0.00|0.00|45000.00|45000.00|set|1|45000.00||||||||
+1|DGHP-MOPH-EOC|-|4|2|0|Printer with scanner and copier|$588.23||0.00|0.00|20000.00|20000.00|set|1|20000.00||||||||
+1|DGHP-MOPH-EOC|-|5|1|0|General office supplies|$588.23*1= $588.23||0.00|0.00|20000.00|20000.00|Time|1|20000.00||||||||
+1|DGHP-MOPH-EOC|-|5|2|0|Computer software|(License programs) $2,352.94||0.00|0.00|80000.00|80000.00|Time|1|80000.00||||||||
+1|DGHP-MOPH-EOC|-|8|1|0|Communication cost|$17.64*12=$211.68||0.00|0.00|7200.00|7200.00|Month|12|||||600.00||||
+1|DGHP-MOPH-EOC|-|8|2|0|Meeting facilities|$1,823.29||0.00|0.00|61992.00|61992.00|Annual||||||||||
+1|DGHP-MOPH-EOC|-|8|3|0|Expert meeting (Non MOPH staff)|(Resource person $17.64 x 2 hrs x 5 persons x 5 times)+(Transportation: $17.64 x 5 persons x 5 times) (Participation support cost: $28.57 x 5 persons x 5 time = $714.25)||0.00|0.00|45000.00|45000.00|Time|5|5.00|1.00|1200.00|600.00|0.00||||
+1|DGHP-MOPH-EOC|-|8|4|0|Expert meeting Local participant (Local MOPH and CoAg staff)|($17.64 x 10 persons x 5 times )||0.00|0.00|30000.00|30000.00|Time|5|10.00|1.00|600.00|0.00|0.00||||
+1|DGHP-MOPH-EOC|-|8|5|0|Technical meeting|($17.64 x 5 persons x 9 times )||0.00|0.00|18000.00|18000.00|Time|6|5.00|1.00|600.00|0.00|0.00||||
+2|DGHP-MOPH-EOC|-|1|1|0|Project Coordinator|||0.00|0.00|252000.00|252000.00|Person|1|100.00|12.00|21000.00|||20170309||20170817|
+2|DGHP-MOPH-EOC|-|1|2|0|Overtime for project staff at MOPH|($2.05/70 Baht x 2 hrs x 10 Day x 12 months x 2 persons)||0.00|0.00|33600.00|33600.00|Annual|||||||20170309||20170313|
+2|DGHP-MOPH-EOC|-|1|3|0|Compensation (Government Staff)| ($2.05/70 Baht x 2 hrs x 10 Day x 12 months x 1 person)||0.00|0.00|16800.00|16800.00|Annual|||||||20170313||20170405|
+2|DGHP-MOPH-EOC|-|2|1|0|Project Coordinator|||0.00|0.00|9000.00|9000.00|Person|1|252000.00|5.00||||20170309||20170911|
+2|DGHP-MOPH-EOC|-|2|2|0|Medical check-up for project staff|(1Person X THB 2,000/58.82$)||0.00|0.00|2000.00|2000.00|Annual|||||||20170313||20170405|
+2|DGHP-MOPH-EOC|-|3|1|0|Site visit|||0.00|0.00|220000.00|220000.00|Time|4|5.00|3.00|2000.00|5000.00|0.00|20170309||20171012|
+2|DGHP-MOPH-EOC|-|3|2|0|Workshop|||432903.90|319736.00|57360.10|810000.00|Time|3|30.00|3.00|2000.00|3000.00|0.00|20170309||20171012|
+2|DGHP-MOPH-EOC|-|3|3|0|Annual meeting|||0.00|0.00|440000.00|440000.00|Time|1|40.00|3.00|2000.00|5000.00|0.00|20170309||20171012|
+2|DGHP-MOPH-EOC|-|3|4|0|Expert meeting|||0.00|0.00|70000.00|70000.00|Time|2|5.00|1.00|2000.00|5000.00|0.00|20170309||20170405|
+2|DGHP-MOPH-EOC|-|3|5|0|Local Transportation cost for MOPH and  project staff|||0.00|0.00|7200.00|7200.00|Time|12|2.00|1.00|0.00|300.00|0.00|20170309||20170313|
+2|DGHP-MOPH-EOC|-|5|1|0|General office supplies|||0.00|0.00|20000.00|20000.00|1|1|20000.00|||||20170309||20170313|
+2|DGHP-MOPH-EOC|-|8|1|0|Communication cost|||0.00|0.00|7200.00|7200.00|Month|12|1.00|0.00|0.00|0.00|600.00|20170309||20170407|
+2|DGHP-MOPH-EOC|-|8|2|0|Meeting facilities|$314||0.00|0.00|10680.90|10680.90|Annual|||||||20170309||20171012|
+2|DGHP-MOPH-EOC|-|8|3|0|Expert meeting Local participant (Local MOPH and CoAg staff) and Technical meeting|($17.64 x 10 persons x 5 times )||0.00|0.00|48000.00|48000.00|Time|5|16.00|1.00|600.00|0.00|0.00|20170309||20170407|
+2|DGHP-MOPH-EOC|-|8|4|0|Exchange rate management|$1,364||0.00|0.00|46377.00|46377.00|Annual|||||||20170817||20170911|

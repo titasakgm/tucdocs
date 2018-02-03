@@ -1,0 +1,7 @@
+CoAgYear|ProjectID|SubprojectID|AmendNo|AmendRefNo|AmendDate|CashOnHand|Carryover|New|Gain|_datecreated|_usercreated|_dateupdated|_userupdated
+1|FLU-DARRT|-|0|||0.00|0.00|2405670.00|0.00||||
+1|FLU-DARRT|-|1|hpu3@cdc.gov|20170403|0.00|0.00|2405670.00|0.00|20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|2|Exchange gains|20170707|0.00|0.00|2405670.00|30054.73|20170713||20170713|
+1|FLU-DARRT|-|3|hpu3@cdc.gov|20170815|0.00|0.00|2405670.00|30054.73|20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|4|hpu3@cdc.gov|20170831|0.00|0.00|2405670.00|30054.73|20170911|flu-darrt|20170911|flu-darrt
+2|FLU-DARRT|-|0|||277470.74|22916.00|12929010.00|0.00||||

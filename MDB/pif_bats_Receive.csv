@@ -1,0 +1,4 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|PIF|BATS|20170421|3|45164.00|35.7600|1615064.64||10181824|ยอดรับมางวดที่1|20170518|PIF|20170824|pif
+1|PIF|BATS|20170428|1|38000.00|34.2788|1302594.40||10181841|ยอดรับมางวดที่2|20170518|PIF|20170518|PIF
+1|PIF|BATS|20170707|2|3643.35|33.7900|123108.80||10181872|ยอดรับมางวดที่3|20170824|pif|20170824|pif

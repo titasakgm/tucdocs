@@ -1,0 +1,57 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-IPC|-|1|1|0|Project coordinator|(Yuthana Samanmit) ($1,029.41 x 12 months x 100% x 1 person)||0.00|0.00|420000.00|420000.00|Person|1|100.00|12.00|35000.00||||||
+1|DGHP-IPC|-|1|2|0|Technical coordinator|(Peangpim Tantilipikara) ($1,029.41 x 12 months x 100% x 1 person)||0.00|0.00|420000.00|420000.00|Person|1|100.00|12.00|35000.00||||||
+1|DGHP-IPC|-|1|3|0|Compensation for government officers at MOPH|($2.06 or 70 Baht x 35 hrs/month x 12 months x 3 persons)||0.00|0.00|88200.00|88200.00|Annual||||||||||
+1|DGHP-IPC|-|1|4|0|OT for Fulltime staff|($1.76 or 60 Baht x 48 hrs/month x 12 months x 2 persons)||0.00|0.00|69120.00|69120.00|Annual||||||||||
+1|DGHP-IPC|-|2|1|0|Project coordinator|(Yuthana Samanmit) ($441.17 x 5%) x 12 months||0.00|0.00|9000.00|9000.00|Person|1|420000.00|5.00|||||||
+1|DGHP-IPC|-|2|2|0|Technical coordinator|(Peangpim Tantilipikara) ($441.17 x 5%) x 12 months||0.00|0.00|9000.00|9000.00|Person|1|420000.00|5.00|||||||
+1|DGHP-IPC|-|2|3|0|Annual medical check-up for full-time staff|($58.82 or 2,000 Baht x 2 persons)||0.00|0.00|4000.00|4000.00|Annual||||||||||
+1|DGHP-IPC|-|3|1|0|HAI investigation (MoPH Non-Local)|(travel $104.41 x 5 persons x 4 times) (perdiem: $58.82 x 5 persons x 8 days x 4 times) (perdiem: $58.82 x 5 persons x 8 days x 4 times)||0.00|0.00|391000.00|391000.00|Time|4|5.00|8.00|2000.00|3550.00|0.00||||
+1|DGHP-IPC|-|3|1|1|HAI investigation (MoPH Non-Local)|(travel $100 x 5 persons x 3 times) (perdiem: $58.82 x 5 persons x 8 days x 3 times)|||||291000.00|Time|3|5.00|8.00|2000.00|3400.00|0.00|20170508|dghp-ipc|20170508|dghp-ipc
+1|DGHP-IPC|-|3|2|0|Technical support for hospital preparedness plan responding EIDs (MoPH Non-Local)|(travel $161.76 x 5 persons x 2 times) (perdiem $58.82 x 5 persons x 2 days x 2 times) (perdiem: $58.82 x 5 persons x 2 days x 2 times)||0.00|0.00|95000.00|95000.00|Time|2|5.00|2.00|2000.00|5500.00|0.00||||
+1|DGHP-IPC|-|3|2|1|Technical support for hospital preparedness plan responding EIDs (MoPH Non-Local)|(travel $14.71 x 3 persons x 1 time) (perdiem $58.82 x 3 persons x 2 days x 1 time) (perdiem: $58.82 x 5 persons x 2 days x 2 times)|||||7500.00|Time|1|3.00|1.00|2000.00|500.00|0.00|20170508|dghp-ipc|20170508|dghp-ipc
+1|DGHP-IPC|-|3|3|0|Local transportation cost for meetings, training and conference|(travel $17.65 x 15 persons x 5 times)||0.00|0.00|45000.00|45000.00|Time|5|15.00|1.00|0.00|600.00|0.00||||
+1|DGHP-IPC|-|3|3|2|Local transportation cost for meetings, training and conference|(travel $14.71 x 20 persons x 5 times)|||||50000.00|Time|5|20.00|1.00|0.00|500.00|0.00|20170828|dghp-ipc|20170828|dghp-ipc
+1|DGHP-IPC|-|3|4|0|Transportation cost for investigation|(travel $294.12 x 4 times)||0.00|0.00|40000.00|40000.00|Time|4|1.00|1.00|0.00|10000.00|0.00||||
+1|DGHP-IPC|-|3|4|1|Transportation cost for investigation|(travel $294.12 x 0 time)|||||0.00|Time|0|1.00|1.00|0.00|10000.00|0.00|20170508|dghp-ipc|20170508|dghp-ipc
+1|DGHP-IPC|-|3|5|0|National IC seminar|(travel $32.35 x 10 persons) (perdiem: $58.82 x 10 persons x 5 days)||0.00|0.00|111000.00|111000.00|Time|1|10.00|5.00|2000.00|1100.00|0.00||||
+1|DGHP-IPC|-|3|6|1|IPC Conference(MoPH Non-Local)|(travel $117.65 x 10 persons x 1 time) (perdiem $58.82 x 10 persons x 2 days x 1 time) (perdiem: $58.82 x 5 persons x 2 days x 2 times)|||||80000.00|Time|1|10.00|2.00|2000.00|4000.00|0.00|20170508|dghp-ipc|20170508|dghp-ipc
+1|DGHP-IPC|-|3|6|2|IPC Conference(MoPH Non-Local)|(travel $102.94 x 10 persons x 1 time) (perdiem $58.82 x 10 persons x 2 days x 1 time) (perdiem: $58.82 x 5 persons x 2 days x 2 times)|||||75000.00|Time|1|10.00|2.00|2000.00|3500.00|0.00|20170828|dghp-ipc|20170828|dghp-ipc
+1|DGHP-IPC|-|5|1|0|Office supplies|($117.65)||0.00|0.00|4000.00|4000.00|Time|1|4000.00||||||||
+1|DGHP-IPC|-|5|1|1|Office supplies|($169.12 x 2 times)|||||11500.00|Time|2|5750.00|||||20170508|dghp-ipc|20170508|dghp-ipc
+1|DGHP-IPC|-|5|2|0|Printer catridge|($171.06)||0.00|0.00|5816.00|5816.00|Time|1|5816.00||||||||
+1|DGHP-IPC|-|5|2|1|Printer catridge|($317.88 x 2 times)|||||21616.00|Time|2|10808.00|||||20170508|dghp-ipc|20170508|dghp-ipc
+1|DGHP-IPC|-|8|1|0|HAI work-group meetings and/or protocol training (MoPH)|(perdiem $17.65 x 35 persons x 4 times)||0.00|0.00|84000.00|84000.00|Time|4|35.00|1.00|600.00|0.00|0.00||||
+1|DGHP-IPC|-|8|1|1|HAI work-group meetings and/or protocol training (MoPH)|(perdiem $17.65 x 30 persons x 6 times)|||||108000.00|Time|6|30.00|1.00|600.00|0.00|0.00|20170508|dghp-ipc|20170508|dghp-ipc
+1|DGHP-IPC|-|8|2|0|IPC conference (MoPH)|(perdiem $17.65 x 45 persons)||0.00|0.00|27000.00|27000.00|Time|1|45.00|1.00|600.00|0.00|0.00||||
+1|DGHP-IPC|-|8|2|1|IPC conference (MoPH)|(perdiem $17.65 x 60 persons x 2 days x 1 time)|||||72000.00|Time|1|60.00|2.00|600.00|0.00|0.00|20170508|dghp-ipc|20170508|dghp-ipc
+1|DGHP-IPC|-|8|3|0|IPC conference (Non-MoPH)|(travel: $88.24 x 2 persons) (perdiem $58.82 x 2 persons)||0.00|0.00|10000.00|10000.00|Time|1|2.00|1.00|2000.00|3000.00|0.00||||
+1|DGHP-IPC|-|8|3|1|IPC conference (Non-MoPH)|(travel: $111.76 x 5 persons x 1 time) (perdiem $58.82 x 5 persons x 2 days x 1 time)|||||39000.00|Time|1|5.00|2.00|2000.00|3800.00|0.00|20170508|dghp-ipc|20170508|dghp-ipc
+1|DGHP-IPC|-|8|4|0|HAI data collection and analysis|($3.68 x 240 cases x 2 sites)||0.00|0.00|60000.00|60000.00|Site|2|0.00|0.00|0.00|0.00|30000.00||||
+1|DGHP-IPC|-|8|5|0|Communication cost|($29.41 x 12 months)||0.00|0.00|12000.00|12000.00|Month|12|0.00|0.00|0.00|0.00|1000.00||||
+1|DGHP-IPC|-|8|6|0|Meeting facilities and document|($120 x 5 times)||0.00|0.00|20400.00|20400.00|Time|5|0.00|0.00|0.00|0.00|4080.00||||
+1|DGHP-IPC|-|8|6|1|Meeting facilities and document|($685.29 x 2 times)|||||46600.00|Time|2|0.00|0.00|0.00|0.00|23300.00|20170508|dghp-ipc|20170508|dghp-ipc
+2|DGHP-IPC|-|1|1|0|Project Coordinator|(Yuthana Samanmit) ($1,091.18 x 12 months x 100% x 1 person)||0.00|0.00|445200.00|445200.00|Person|1|100.00|12.00|37100.00|||20170301||20170302|
+2|DGHP-IPC|-|1|2|0|Technical Coordinator|(Peangpim Tantilipikara) ($1,091.18 x 12 months x 100% x 1 person)||0.00|0.00|445200.00|445200.00|Person|1|100.00|12.00|37100.00|||20170301||20170302|
+2|DGHP-IPC|-|1|3|0|Compensation for government officers at MoPH|($2.06 or 70 Baht x 35 hrs/month x 12 months x 3 persons)||0.00|0.00|88200.00|88200.00|Annual|||||||20170301||20170302|
+2|DGHP-IPC|-|1|4|0|Overtime for fulltime staff|($1.76 or 60 Baht x 24 hrs/month x 12 months x 2 persons)||0.00|0.00|34560.00|34560.00|Annual|||||||20170301||20170302|
+2|DGHP-IPC|-|2|1|0|Project Coordinator|(Yuthana Samanmit) ($441.17 x 5%) x 12 months||0.00|0.00|9000.00|9000.00|Person|1|445200.00|5.00||||20170301||20170302|
+2|DGHP-IPC|-|2|2|0|Technical Coordinator|(Peangpim Tantilipikara) ($441.17 x 5%) x 12 months||0.00|0.00|9000.00|9000.00|Person|1|445200.00|5.00||||20170301||20170302|
+2|DGHP-IPC|-|2|3|0|Annual medical check-up for fulltime staff|($58.82 or 2,000 Baht x 2 persons)||0.00|0.00|4000.00|4000.00|Annual|||||||20170301||20170301|
+2|DGHP-IPC|-|3|1|0|HAI work-group meetings|(travel $73.53 x 4 times x 5 persons) (perdiem $58.82 x 4 times x 1 day x 5 persons) (perdiem: $58.82 x 5 persons x 8 days x 4 times)||0.00|0.00|-0.00|0.00|Time|0|5.00|1.00|2000.00|2500.00|0.00|20170301||20170809|
+2|DGHP-IPC|-|3|2|0|HAI protocal training|(travel $73.53 x 1 time x 8 persons) (perdiem $58.82 x 1 time x 2 days x 8 persons) (perdiem: $58.82 x 5 persons x 2 days x 2 times)||0.00|0.00|-0.00|0.00|Time|0|8.00|2.00|2000.00|2500.00|0.00|20170301||20170809|
+2|DGHP-IPC|-|3|3|0|IPC conference|(travel $73.53 x 1 time x 8 persons) (perdiem $58.82 x 1 time x 1 day x 8 persons)||0.00|0.00|36000.00|36000.00|Time|1|8.00|1.00|2000.00|2500.00|0.00|20170301||20170302|
+2|DGHP-IPC|-|3|4|0|HAI investigation|(travel $73.53 x 2 times x 4 persons) (perdiem $58.82 x 2 times x 8 days x 4 persons) (perdiem: $58.82 x 5 persons x 8 days x 4 times)||0.00|148000.00|-0.00|148000.00|Time|2|4.00|8.00|2000.00|2500.00|0.00|20170301||20170316|
+2|DGHP-IPC|-|3|5|0|Technical support for hospital preparedness plan responding EIDs|(travel $102.94 x 2 times x 5 persons) (perdiem $58.82 x 2 times x 2 days x 5 persons) (perdiem: $58.82 x x 2 days x 2 times x 5 persons)||0.00|0.00|-0.00|0.00|Time|0|5.00|2.00|2000.00|3500.00|0.00|20170301||20170809|
+2|DGHP-IPC|-|3|6|0|National seminar on infection control|(travel $29.41 x 1 time x 13 persons) (perdiem $58.82 x 1 time x 5 days x 13 persons)||0.00|0.00|143000.00|143000.00|Time|1|13.00|5.00|2000.00|1000.00|0.00|20170301||20170905|
+2|DGHP-IPC|-|3|7|0|Local transportation cost|(travel $779.41 x 2 times)||0.00|0.00|53000.00|53000.00|Time|2|1.00|1.00|26500.00|0.00|0.00|20170301|||
+2|DGHP-IPC|-|5|1|0|Office supplies|($333.37 x 1 time)||0.00|0.00|11334.73|11334.73|Time|1|11334.73|||||20170301||20171003|
+2|DGHP-IPC|-|5|2|0|Printer catridge|($176.47 x 2 times)||0.00|0.00|12000.00|12000.00|Time|2|6000.00|||||20170301||20170809|
+2|DGHP-IPC|-|8|1|0|HAI work-group meetings (MoPH)|(participation support cost $17.65 x 1 day x 12 times x 29 persons)||57330.73|88469.27|63000.00|208800.00|Time|12|29.00|1.00|600.00|0.00|0.00|20170301||20171003|
+2|DGHP-IPC|-|8|2|0|HAI protocal training (MoPH)|(participation support cost $17.65 x 1 time x 2 days x 50 persons)||0.00|60000.00|-0.00|60000.00|Time|1|50.00|2.00|600.00|0.00|0.00|20170301||20171003|
+2|DGHP-IPC|-|8|3|0|IPC conference (MoPH)|(participation support cost $17.65 x 1 time x 1 day x 50 persons)||0.00|30000.00|-0.00|30000.00|Time|1|50.00|1.00|600.00|0.00|0.00|20170301||20170809|
+2|DGHP-IPC|-|8|4|0|IPC conference (Non-MoPH)|(travel $88.24 x 1 time x 2 persons) (perdiem $58.82 x 1 day x 1 time x 2 persons)||0.00|0.00|10000.00|10000.00|Time|1|2.00|1.00|2000.00|3000.00|0.00|20170301||20170302|
+2|DGHP-IPC|-|8|5|0|HAI data collection and analysis|($7.35 x 180 cases x 4 sites)||0.00|74000.00|106000.00|180000.00|Site|4|||||45000.00|20170301||20170908|
+2|DGHP-IPC|-|8|6|0|Meeting facilities|($338.24 x 4 times)||0.00|13718.73|32281.27|46000.00|Time|4|0.00|0.00|0.00|0.00|11500.00|20170301||20171003|
+2|DGHP-IPC|-|8|7|0|Communication cost|($29.41 x 12 months)||0.00|0.00|12000.00|12000.00|Month|12|||||1000.00|20170301|||
+2|DGHP-IPC|-|8|8|0|Exchange rate management|1baht/USD for support loss of exchange rate||0.00|0.00|45872.00|45872.00|Annual|||||||20170301||20170905|

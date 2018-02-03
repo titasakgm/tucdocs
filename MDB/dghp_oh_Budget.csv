@@ -1,0 +1,70 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-OH|-|1|1|0|Full time One Health Coordinator Unit Manager|Ms. Nuttiya Saengruang||0.00|0.00|360000.00|360000.00|Person|1|100.00|12.00|30000.00||||||
+1|DGHP-OH|-|1|2|0|Full time Project financial staff|Ms. Cheevarat Buakhao||0.00|0.00|237600.00|237600.00|Person|1|100.00|12.00|19800.00||||||
+1|DGHP-OH|-|1|2|1|Full time Project financial staff|Ms. Cheevarat Buakhao|||||158400.00|Person|1|100.00|8.00|19800.00|||20170503||20170503|
+1|DGHP-OH|-|1|3|0|Overtime (Full time staff)|$1.76 (THB60) x 12 hrs/month x 2 persons||0.00|0.00|17280.00|17280.00|Annual||||||||||
+1|DGHP-OH|-|1|4|0|Compensation for MoPH Government officers|$2.05 (THB70) x 30 hrs/month x 4 persons||0.00|0.00|100800.00|100800.00|Annual||||||||||
+1|DGHP-OH|-|2|1|0|Full One Health Coordinator Unit Manager|Ms.Nuttiya Saengruang||0.00|0.00|9000.00|9000.00|Person|1|360000.00|5.00|||||||
+1|DGHP-OH|-|2|2|0|Full time Project financial staff|Ms. Cheevarat Buakhao||0.00|0.00|9000.00|9000.00|Person|1|237600.00|5.00|||||||
+1|DGHP-OH|-|2|3|0|Annual Medical Check-up|2 persons x $58.82 (THB2000)||0.00|0.00|4000.00|4000.00|Annual||||||||||
+1|DGHP-OH|-|3|1|0|Annual OH network workshop to integrated OH workplan 2017 including sharing good practice|For non local MOPH staff||0.00|0.00|180000.00|180000.00|Time|1|20.00|2.00|2000.00|5000.00|0.00||||
+1|DGHP-OH|-|3|1|1|Annual OH network workshop to integrated OH workplan 2017 including sharing good practice|For non local MOPH staff|||||339782.40|Time|1|37.00|2.00|2000.00|5000.00|6782.40|20170503||20170503|
+1|DGHP-OH|-|3|2|0|Ground transportation for OH meetings|For  local MOPH staff attending OH Annual workshop/OH Steering Committee Meetings||0.00|0.00|60000.00|60000.00|Time|2|30.00|1.00|0.00|1000.00|0.00||||
+1|DGHP-OH|-|3|2|1|Ground transportation for OH meetings|For  local MOPH staff attending OH Annual workshop/OH Steering Committee Meetings|||||74169.00|Time|2|37.00|1.00|0.00|1000.00|84.50|20170503||20170503|
+1|DGHP-OH|-|3|3|0|Send OH staff to attend national/international conferences on field epidemiology, investigation of zoonotic and animal disease|For MOPH and CoAg staff||0.00|0.00|20000.00|20000.00|Time|2|1.00|3.00|2000.00|4000.00|0.00||||
+1|DGHP-OH|-|3|3|2|Send OH staff to attend national/international conferences on field epidemiology, investigation of zoonotic and animal disease|For MOPH and CoAg staff|||||32000.00|Time|2|2.00|3.00|2000.00|2000.00|0.00|20170825||20170825|
+1|DGHP-OH|-|3|4|0|Key partner meeting for draft mechanism in Information Sharing and WS for setting up scope of information and data|For MOPH and CoAg Staff||0.00|0.00|200000.00|200000.00|Time|2|40.00|3.00|500.00|1000.00|0.00||||
+1|DGHP-OH|-|3|5|0|One Health Information Sharing Center Establishment Meetings|For MOPH and CoAg Staff||0.00|0.00|25000.00|25000.00|Time|5|10.00|1.00|0.00|500.00|0.00||||
+1|DGHP-OH|-|3|6|0|Meetings to development of guidelines and protocols for event based surveillance and information sharing among partners|For MOPH and CoAg Staff||0.00|0.00|25000.00|25000.00|Time|5|10.00|1.00|0.00|500.00|0.00||||
+1|DGHP-OH|-|3|7|0|Annual Scientific symposium|For MOPH and CoAg Staff||0.00|0.00|100000.00|100000.00|Time|1|50.00|1.00|0.00|2000.00|0.00||||
+1|DGHP-OH|-|3|7|1|Annual Scientific symposium|For MOPH and CoAg Staff|||||0.00|Time|0|50.00|1.00|0.00|2000.00|0.00|20170503||20170503|
+1|DGHP-OH|-|5|1|0|Office supplies at MOPH|Monthly office supplies||0.00|0.00|40524.00|40524.00|Month|12|3377.00||||||||
+1|DGHP-OH|-|5|1|1|Office supplies at MOPH|Monthly office supplies|||||67010.00|Time|4|16752.50|||||20170503||20170503|
+1|DGHP-OH|-|6|1|0|Project Consultant OH Co Unit|Dr.Supamit Chunsuttiwat||0.00|0.00|240000.00|240000.00|Person|12|20000.00||||||||
+1|DGHP-OH|-|6|2|0|Project Consultant OH Co Unit|Dr.Pasakorn Akarasewi||0.00|0.00|120000.00|120000.00|Person|12|10000.00||||||||
+1|DGHP-OH|-|8|1|0|Annual OH network workshop to integrated OH workplan 2017 including sharing good pratice|Travel support for non-MOPH staff||0.00|0.00|243000.00|243000.00|Time|1|27.00|2.00|2000.00|5000.00|0.00||||
+1|DGHP-OH|-|8|1|1|Annual OH network workshop to integrated OH workplan 2017 including sharing good pratice|Travel support for non-MOPH staff|||||167417.60|Time|1|18.00|2.00|2000.00|5000.00|5417.60|20170503||20170503|
+1|DGHP-OH|-|8|2|0|Annual OH network workshop to integrated OH workplan 2017 including sharing good practice|Travel support for local non-MOPH staff||0.00|0.00|48000.00|48000.00|Time|1|30.00|1.00|600.00|1000.00|0.00||||
+1|DGHP-OH|-|8|2|1|Annual OH network workshop to integrated OH workplan 2017 including sharing good practice|Travel support for local non-MOPH staff|||||52345.00|Time|1|32.00|1.00|600.00|1000.00|1145.00|20170503||20170503|
+1|DGHP-OH|-|8|3|0|Annual OH network workshop to integrated Oh workplan 2017 including sharing good practice|Support for resource persons (Speakers fee: 6 persons x $17.14 x 5 hours)||0.00|0.00|18000.00|18000.00|Time|1|6.00|1.00|3000.00|0.00|0.00||||
+1|DGHP-OH|-|8|4|0|OH Steering Committee Meetings|Meeting participation and transportation support for non-MOPH staff||0.00|0.00|43200.00|43200.00|Time|2|12.00|1.00|600.00|1200.00|0.00||||
+1|DGHP-OH|-|8|5|0|Participation supports for OH meetings|Participation supports for meetings organize by OH CoUnit including OH Annual Meeting & OH Steering Committee Meetings||0.00|0.00|48000.00|48000.00|Time|2|40.00|1.00|600.00|0.00|0.00||||
+1|DGHP-OH|-|8|6|0|Send OH staff to attend national/international conferences on field epidemiology, investigation of zoonotic and animal disease|For non-MOPH||0.00|0.00|20000.00|20000.00|Time|1|2.00|3.00|2000.00|4000.00|0.00||||
+1|DGHP-OH|-|8|7|0|Meeting/workshop facilitities|Meeting/workshop materials, photocopy, room rental, and other necessary expenses||0.00|0.00|120000.00|120000.00|Time|6|1.00|1.00|0.00|0.00|20000.00||||
+1|DGHP-OH|-|8|7|2|Meeting/workshop facilitities|Meeting/workshop materials, photocopy, room rental, and other necessary expenses|||||108000.00|Time|6|1.00|1.00|0.00|0.00|18000.00|20170825||20170825|
+1|DGHP-OH|-|8|8|0|Key partner meetings for draft mechanism in information sharing and WS for setting up scope of information and data|For non-MOPH staff||0.00|0.00|200000.00|200000.00|Time|2|40.00|3.00|500.00|1000.00|0.00||||
+1|DGHP-OH|-|8|9|0|One Health Information Sharing Center Establishment Meetings|For local and non-MOPH staff||0.00|0.00|25000.00|25000.00|Time|5|10.00|1.00|500.00|0.00|0.00||||
+1|DGHP-OH|-|8|10|0|Meeting to develop guidelines and protocols for event-based surveillance and information sharing among partners|||0.00|0.00|25000.00|25000.00|Time|5|10.00|1.00|500.00|0.00|0.00||||
+1|DGHP-OH|-|8|11|0|Annual Scientific symposium|Meeting participation support for non-MOPH staff||0.00|0.00|100000.00|100000.00|Time|1|50.00|1.00|0.00|2000.00|0.00||||
+1|DGHP-OH|-|8|11|1|Annual Scientific symposium|Meeting participation support for non-MOPH staff|||||0.00|Time|0|50.00|1.00|0.00|2000.00|0.00|20170503||20170503|
+1|DGHP-OH|-|8|12|0|Support for website, information sharing and public relations on Thailand One Health Network|Support cost for website management and info. graphic media development||0.00|0.00|198400.00|198400.00|Time|1|0.00|1.00|0.00|0.00|198400.00||||
+1|DGHP-OH|-|8|13|0|Survey on the existing information systems|support cost for conducting a survey||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00||||
+1|DGHP-OH|-|8|14|0|Support activity for risk communication, risk assessment, joint surveillance and joint investiation|support cost for conducting risk assessment, joint surveillance and joint investigation||0.00|0.00|-0.00|0.00|Time|1|0.00|0.00|0.00|0.00|0.00||||
+1|DGHP-OH|-|8|15|0|Working group meeting for technical coordination|Local participants||0.00|0.00|45000.00|45000.00|Time|6|15.00|1.00|500.00|0.00|0.00||||
+1|DGHP-OH|-|8|15|1|Working group meeting for technical coordination|Local participants|||||0.00|Time|0|15.00|1.00|500.00|0.00|0.00|20170503||20170503|
+1|DGHP-OH|-|8|16|0|Meeting facilities for technical and working group meeting|Meeting support cost including equipment rental, materials, printing etc||0.00|0.00|5000.00|5000.00|Time|10|0.00|0.00|0.00|0.00|500.00||||
+1|DGHP-OH|-|8|16|1|Meeting facilities for technical and working group meeting|Meeting support cost including equipment rental, materials, printing etc|||||0.00|Time|0|0.00|0.00|0.00|0.00|500.00|20170503||20170503|
+1|DGHP-OH|-|8|17|1|Development of information sharing among multi-sectoral agencies for avian influenza responding by using One Health System Mapping and Analysis (OH-SMART) in Thailand|support information sharing activity|||||200000.00|Time|1|||||200000.00|20170503||20170503|
+2|DGHP-OH|-|1|1|0|Full time One Health coordinating unit manager|TBD||0.00|0.00|381600.00|381600.00|Person|1|100.00|12.00|31800.00|||20170227||20170821|
+2|DGHP-OH|-|1|2|0|Full time project financial staff|Ms.Suwanna Kalong||0.00|0.00|228960.00|228960.00|Person|1|100.00|12.00|19080.00|||20170227||20170327|
+2|DGHP-OH|-|1|3|0|Over time (Full time staff)|(60 baht or $1.76 *16 hrs/month) x 2 persons||0.00|0.00|23040.00|23040.00|Annual|||||||20170227||20170407|
+2|DGHP-OH|-|1|4|0|Compensation for government staff|(70 baht or $2.05 *30 hrs/month) x 4 persons||0.00|0.00|84000.00|84000.00|Annual|||||||20170227||20170821|
+2|DGHP-OH|-|2|1|0|Full time One Health coordinating unit manager|TBD||0.00|0.00|9000.00|9000.00|Person|1|318000.00|100.00||||20170227||20170821|
+2|DGHP-OH|-|2|2|0|Full time project financial staff|Ms.Suwanna Kalong||0.00|0.00|9000.00|9000.00|Person|1|216000.00|100.00||||20170227|||
+2|DGHP-OH|-|2|3|0|Annual medical check-up|(2,000 baht or $58.82/person) x 2 persons||0.00|0.00|4000.00|4000.00|Person|2|2000.00|100.00||||20170227||20170407|
+2|DGHP-OH|-|3|1|0|Annual One Health workshop to strengthen multi-sectoral collaboration between one health network|for local and non-local MopH staff||198020.00|0.00|31980.00|230000.00|Time|1|30.00|1.00|2000.00|5000.00|20000.00|20170227||20171012|
+2|DGHP-OH|-|3|2|0|Send OH staff to attend conferences on field epidemiology, investigation of zoonotic and animal diseases|Support for MoPH staff||15000.00|0.00|35200.00|50200.00|Time|2|1.00|3.00|2000.00|7000.00|12100.00|20170227||20171012|
+2|DGHP-OH|-|3|3|0|Prince Mahidol Award Conference (PMAC)|Support for MoPH staff to attend One Health session at PMAC||0.00|0.00|150000.00|150000.00|Time|1|30.00|1.00|2000.00|3000.00|0.00|20170405||20170821|
+2|DGHP-OH|-|5|1|0|Office supplies for MOPH|Support for office supplies such as stationaries, ink etc at 7,502 baht or $220.64||0.00|0.00|30000.00|30000.00|Time|12|2500.00|||||20170227||20170821|
+2|DGHP-OH|-|6|1|0|One Health coordinating unit consultant|Dr.Supamitr Chunsuttiwat||0.00|0.00|240000.00|240000.00|Person|12|20000.00|||||20170227|||
+2|DGHP-OH|-|6|2|0|One Health coordinating unit consultant|Dr.Pasakorn Akarasewi||0.00|0.00|120000.00|120000.00|Person|12|10000.00|||||20170227|||
+2|DGHP-OH|-|8|1|0|Annual One Health workshop to strengthen multi-sectoral collaboration between one health network|Support Travel related cost for local MoPH and non-MopH staff to attend workshop||2210.00|0.00|217790.00|220000.00|Time|1|31.00|1.00|2000.00|5000.00|3000.00|20170227||20171012|
+2|DGHP-OH|-|8|2|0|One Health Steering committee meeting|Paticipation support for local MoPH Staff and non-MopH staff to attend One Health Steering Committee Meetings||0.00|0.00|34800.00|34800.00|Time|2|30.00|1.00|580.00|0.00|0.00|20170227||20171012|
+2|DGHP-OH|-|8|3|0|Send OH staff to attend conferences on field epidemiology, investigation of zoonotic and animal diseases|Support travel related cost for Non-MoPH staff to attend the conference||10000.00|0.00|10000.00|20000.00|Time|2|1.00|3.00|2000.00|4000.00|0.00|20170227||20171012|
+2|DGHP-OH|-|8|4|0|Support for website, sharing events/information and other public relations on Thailand OH network including celebration event for OH day|Support for website management related cost||20000.00|0.00|80000.00|100000.00|Time|4|0.00|0.00|0.00|0.00|25000.00|20170227||20171012|
+2|DGHP-OH|-|8|5|0|Meeting/Workshop Facilities|Support Meeting/Workshop related cost such as room rental, printing etc.||2435.70|0.00|80000.00|82435.70|Time|5|0.00|0.00|0.00|0.00|16487.14|20170227||20171012|
+2|DGHP-OH|-|8|6|0|Support for Prince Mahidol Award Conference (PMAC)|Support travel related expenditure for Non-MoPH staff to attend PMAC||0.00|0.00|100000.00|100000.00|Time|1|20.00|1.00|2000.00|3000.00|0.00|20170405||20170821|
+2|DGHP-OH|-|8|7|0|Co-funding Activity 1: Intergrated surveillance, prevetion and control for avian influenza & rabies with collaboration and community|Partially support for co-funding activity||0.00|0.00|700000.00|700000.00|Time|1|0.00|0.00|0.00|0.00|700000.00|20170405||20170407|
+2|DGHP-OH|-|8|8|0|Co-funding Activity 2: The animal antimicrobial resistance monitoring information system (AARMIS)|Partially support for co-funding activity with Department of Livestock Develoment||200000.00|0.00|600000.00|800000.00|Time|1|0.00|0.00|0.00|0.00|800000.00|20170405||20171012|
+2|DGHP-OH|-|8|9|0|Co-Funding Activity 3: Environment investigation in the ares with confirm Leptospirosis in Thailand, 2017|Partially support for co-fudning ativity with Department of Disease Control||30693.70|169306.30|700000.00|900000.00|Time|1|0.00|0.00|0.00|0.00|900000.00|20170405||20171012|
+2|DGHP-OH|-|8|10|0|Exchange rate management|Support depreciation from the exchange rate fluctuation during budget year||143498.35|93309.70|-0.00|236808.05|Annual|||||||20170913||20171101|

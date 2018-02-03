@@ -1,0 +1,5 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|SI|MIS|20161025|1|14090.73|34.8300|490780.10||10172141,10172142|Cheque No.10172141 (EX rate34)=479,084.80 B,Cheque No.10172142 (ส่วนต่าง 0.83)=11,695.30 B|20170207|si-mis|20170207|si-mis
+1|SI|MIS|20161228|2|36780.27|35.7600|1315262.48||10172168|(EX rate34)=1,250,529.20 B, (ส่วนต่าง 1.76)=64,733.28 B|20170207|si-mis|20170207|si-mis
+1|SI|MIS|20170428|2|20000.00|34.2788|685576.00||10181835|EX rate=34.2788|20170613||20170613|
+1|SI|MIS|20170707|1|3112.06|33.7900|105156.50||10181868||20170810|si-mis|20170810|si-mis

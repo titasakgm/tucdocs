@@ -1,0 +1,5 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|FLU-DARRT|-|20161025|3|14151.00|34.8300|492879.33||10170114,2124|เงินงวดที่1|20170111|FLU-DARRT|20170126|flu-darrt
+1|FLU-DARRT|-|20161228|4|21430.00|35.7600|766336.80||10172180|เงินงวดที่2|20170120|flu-darrt|20170126|flu-darrt
+1|FLU-DARRT|-|20170428|4|22000.00|34.2788|754133.60||10181847|รับเงินงวดที่ 3 (ส่วนต่างอัตราแลกเปลี่ยน 0.2788 บาท/เหรียญสหรัฐ)|20170615|flu-darrt|20170616|flu-darrt
+1|FLU-DARRT|-|20170707|1|12500.00|33.7900|422375.00||10181878|รับเงินงวดที่ 4|20170713|flu-darrt|20170713|flu-darrt

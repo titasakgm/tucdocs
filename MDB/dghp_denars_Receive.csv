@@ -1,0 +1,4 @@
+CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
+1|DGHP-DeNARS|-|20161025|5|21226.50|34.8300|739319.00||10170120|1st Drawdown|20170130|dghp-denars|20171016|DGHP-Denars
+1|DGHP-DeNARS|-|20161228|4|15033.50|35.7600|537597.96||10172186|2nd Drawdown|20170130|dghp-denars|20171016|DGHP-Denars
+1|DGHP-DeNARS|-|20170428|1|40000.00|34.2788|1371152.00||10181851|3rd Drawdown|20170501|dghp-denars|20170501|dghp-denars

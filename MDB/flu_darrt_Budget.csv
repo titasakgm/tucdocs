@@ -1,0 +1,147 @@
+CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
+1|FLU-DARRT|-|1|1|0|Project administrative officer|Miss Cheevarat Baukhao||0.00|0.00|258000.00|258000.00|Person|1|100.00|12.00|21500.00||||||
+1|FLU-DARRT|-|1|1|1|Project administrative officer|Miss Cheevarat Baukhao|||||100000.00|Person|1|100.00|5.00|20000.00|||20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|1|2|0|Network administration and IT Support|Mr. Kreetapol  Sangkakrom||0.00|0.00|390000.00|390000.00|Person|1|100.00|12.00|32500.00||||||
+1|FLU-DARRT|-|1|2|1|Network administration and IT Support|Mr. Kreetapol  Sangkakrom|||||0.00|Person|0|100.00|0.00|32500.00|||20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|1|3|0|Programmer|Mr. Satapat Denduang||0.00|0.00|354000.00|354000.00|Person|1|100.00|12.00|29500.00||||||
+1|FLU-DARRT|-|1|4|0|Compensation for primary investigator|($2. 05 x 4 hrs x 20 days x 12 months x 1 person)||0.00|0.00|67200.00|67200.00|Annual||||||||||
+1|FLU-DARRT|-|1|5|0|Compensation for Co- Primary investigator|($2. 05 x 4 hrs x 20 days x 12 months x 2 persons)||0.00|0.00|134400.00|134400.00|Annual||||||||||
+1|FLU-DARRT|-|1|5|1|Compensation for Co- Primary investigator|($2. 05 x 4 hrs x 20 days x 12 months x 1 persons)|||||67200.00|Annual|||||||20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|1|5|3|Compensation for Co- Primary investigator|($2. 05 x 4 hrs x 20 days x 5 months x 1 persons)|||||28000.00|Annual|||||||20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|1|6|0|Coordinator at Chiang Mai PHO|Mr. Pantasak  Boonrat||0.00|0.00|228000.00|228000.00|Person|1|100.00|12.00|19000.00||||||
+1|FLU-DARRT|-|1|7|0|Laboratory Technician at Chiang Mai PHO|Miss Wachira  Koolprom||0.00|0.00|228000.00|228000.00|Person|1|100.00|12.00|19000.00||||||
+1|FLU-DARRT|-|1|7|1|Laboratory Technician at Chiang Mai PHO|Miss Wachira  Koolprom|||||152000.00|Person|1|100.00|8.00|19000.00|||20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|1|8|0|Compensation for Project Manager at Chiang Mai PHO|($2. 05 x 2 hrs x 30 days x 12 months x 1 person)||0.00|0.00|50400.00|50400.00|Annual||||||||||
+1|FLU-DARRT|-|1|9|0|Compensation for Financial staff at Chiang Mai PHO|($2. 05 x 2 hrs x 20 days x 12 months x 1 person)||0.00|0.00|33600.00|33600.00|Annual||||||||||
+1|FLU-DARRT|-|1|10|0|Compensation for Laboratory Manager in Chiang Mai|($2. 05 x 2 hrs x 30 days x 12 months x 1 person)||0.00|0.00|50400.00|50400.00|Annual||||||||||
+1|FLU-DARRT|-|2|1|0|Project administrative officer|Miss Cheevarat Baukhao||0.00|0.00|9000.00|9000.00|Person|1|258000.00|5.00|||||||
+1|FLU-DARRT|-|2|1|1|Project administrative officer|Miss Cheevarat Baukhao|||||3750.00|Annual|||||||20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|2|2|0|Network administration and IT Support|Mr. Kreetapol  Sangkakrom||0.00|0.00|9000.00|9000.00|Person|1|390000.00|5.00|||||||
+1|FLU-DARRT|-|2|2|1|Network administration and IT Support|Mr. Kreetapol  Sangkakrom|||||0.00|Person|0|390000.00|5.00||||20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|2|3|0|Programmer|Mr. Satapat Denduang||0.00|0.00|9000.00|9000.00|Person|1|354000.00|5.00|||||||
+1|FLU-DARRT|-|2|4|0|Coordinator at Chiang Mai PHO|Mr. Pantasak  Boonrat||0.00|0.00|9000.00|9000.00|Person|1|228000.00|5.00|||||||
+1|FLU-DARRT|-|2|5|0|Laboratory Technician|Miss Wachira  Koolprom||0.00|0.00|9000.00|9000.00|Person|1|228000.00|5.00|||||||
+1|FLU-DARRT|-|2|5|1|Laboratory Technician|Miss Wachira  Koolprom|||||6000.00|Annual|||||||20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|2|6|0|Annual medical check up|(5 Persons X $58. 82)||0.00|0.00|10000.00|10000.00|Annual||||||||||
+1|FLU-DARRT|-|2|6|3|Annual medical check up|(3 Persons X $58. 82)|||||6000.00|Annual|||||||20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|3|1|0|3-day Epidemiology and data analysis workshop|(MOPH - non local)||0.00|0.00|84000.00|84000.00|Time|1|8.00|3.00|2000.00|4500.00|0.00||||
+1|FLU-DARRT|-|3|1|3|3-day Epidemiology and data analysis workshop|(MOPH - non local)|||||153000.00|Time|1|30.00|2.00|1800.00|1500.00|0.00|20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|3|1|4|3-day Epidemiology and data analysis workshop|(MOPH - non local)|||||96900.00|Time|1|17.00|2.00|1800.00|2100.00|0.00|20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|3|2|0|2-day Laboratory workshop|(MOPH - non local)||0.00|0.00|42500.00|42500.00|Time|1|5.00|2.00|2000.00|4500.00|0.00||||
+1|FLU-DARRT|-|3|2|3|2-day Laboratory workshop|(MOPH - non local)|||||64900.00|Time|1|10.00|2.00|1600.00|3290.00|0.00|20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|3|2|4|2-day Laboratory workshop|(MOPH - non local)|||||81000.00|Time|1|15.00|2.00|1600.00|2200.00|0.00|20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|3|3|0|Revisit Chiang Mai to follow up project activities|(MOPH - non local)||0.00|0.00|58500.00|58500.00|Time|3|3.00|1.00|2000.00|4500.00|0.00||||
+1|FLU-DARRT|-|3|3|1|Revisit Chiang Mai to follow up project activities|(MOPH - non local)|||||192000.00|Time|3|4.00|5.00|2000.00|6000.00|0.00|20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|3|3|3|Revisit Chiang Mai to follow up project activities|(MOPH - non local)|||||148800.00|Time|2|5.00|5.00|2000.00|4800.00|400.00|20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|3|4|0|Local Transportation cost for MOPH and project staff|||0.00|0.00|3600.00|3600.00|Time|12|1.00|1.00|0.00|300.00|0.00||||
+1|FLU-DARRT|-|3|4|3|Local Transportation cost for MOPH and project staff||||||50000.00|Time|5|20.00|1.00|0.00|500.00|0.00|20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|3|4|4|Local Transportation cost for MOPH and project staff||||||90000.00|Time|6|30.00|1.00|0.00|500.00|0.00|20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|3|5|0|Transportation to conduct local SRRT for influenza|||0.00|0.00|19200.00|19200.00|Time|24|1.00|1.00|0.00|800.00|0.00||||
+1|FLU-DARRT|-|3|6|0|Local Transportation cost for Chiang Mai PHO, local MOPH, and project staff|||0.00|0.00|18000.00|18000.00|Time|6|1.00|1.00|0.00|3000.00|0.00||||
+1|FLU-DARRT|-|3|7|1|Writing workshop for investigation report|(MOPH - Non local)|||||66000.00|Time|1|10.00|3.00|2000.00|600.00|0.00|20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|3|7|3|Writing workshop for investigation report|(MOPH - Non local)|||||114912.00|Time|1|54.00|1.00|1800.00|328.00|0.00|20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|5|1|1|Lab supplies for San Sai laboratory||||||299950.00|Annual|||||||20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|5|1|3|Lab supplies for San Sai laboratory||||||287540.00|Annual|||||||20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|8|1|0|3-day Epidemiology and data analysis workshop|(MOPH - local)||0.00|0.00|54000.00|54000.00|Time|1|30.00|3.00|600.00|0.00|0.00||||
+1|FLU-DARRT|-|8|2|0|2-day Laboratory workshop|(MOPH - local)||0.00|0.00|8400.00|8400.00|Time|1|7.00|2.00|600.00|0.00|0.00||||
+1|FLU-DARRT|-|8|2|3|2-day Laboratory workshop|(MOPH - local)|||||52800.00|Time|1|44.00|2.00|600.00|0.00|0.00|20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|8|3|0|Meeting with central team to follow up project activities|(MOPH - local)||0.00|0.00|50000.00|50000.00|Time|10|10.00|1.00|500.00|0.00|0.00||||
+1|FLU-DARRT|-|8|3|1|Meeting with central team to follow up project activities|(MOPH - local)|||||42000.00|Time|7|10.00|1.00|600.00|0.00|0.00|20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|8|3|3|Meeting with central team to follow up project activities|(MOPH - local)|||||36000.00|Time|6|10.00|1.00|600.00|0.00|0.00|20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|8|4|0|Meeting/workshop facilities and document|(Meeting documents)||0.00|0.00|40870.00|40870.00|Annual||||||||||
+1|FLU-DARRT|-|8|4|3|Meeting/workshop facilities and document|(Meeting documents)|||||50168.00|Annual|||||||20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|8|5|0|Monthly fee for mobile phone for 13 SRRT units|||0.00|0.00|46800.00|46800.00|Month|12|||||3900.00||||
+1|FLU-DARRT|-|8|6|0|Monthly fee for mobile phone for PHO staff|||0.00|0.00|7200.00|7200.00|Month|12|||||600.00||||
+1|FLU-DARRT|-|8|7|0|Conduct local SRRT for influenza|||0.00|0.00|24000.00|24000.00|Time|24|2.00|1.00|500.00|0.00|0.00||||
+1|FLU-DARRT|-|8|8|0|Local network meeting|(MOPH local)||0.00|0.00|90000.00|90000.00|Time|3|50.00|1.00|600.00|0.00|0.00||||
+1|FLU-DARRT|-|8|8|3|Local network meeting|(MOPH local)|||||67200.00|Time|2|56.00|1.00|600.00|0.00|0.00|20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|8|9|0|Specimen transportation cost|||0.00|0.00|9600.00|9600.00|Time|12|1.00|1.00|0.00|800.00|0.00||||
+1|FLU-DARRT|-|8|10|1|Writing workshop for investigation report|(MOPH local)|||||132000.00|Time|1|60.00|3.00|600.00|400.00|0.00|20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|8|10|3|Writing workshop for investigation report|(MOPH local)|||||19200.00|Time|1|32.00|1.00|600.00|0.00|0.00|20170911|flu-darrt|20170911|flu-darrt
+1|FLU-DARRT|-|8|11|1|Lab testing services||||||50000.00|Annual|||||||20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|8|12|1|Financial management services||||||35000.00|Annual|||||||20170410|flu-darrt|20170410|flu-darrt
+1|FLU-DARRT|-|8|13|2|Gain from exchange rate on 07 ก.ค. 60 (Cheque # 10181878)||||||30054.73|Annual|||||||20170713||20170713|
+2|FLU-DARRT|-|1|1|0|Compensation for Primary Investigator|(Dr. Sopon Iamsirithaworn: $2.05or70Bahtx80hrs/monthx12monthsx1pax=5,600Baht/month)||0.00|0.00|67200.00|67200.00|Annual|||||||20170329||20170905|
+2|FLU-DARRT|-|1|2|0|Compensation for Co-PI in Chiang Mai|(Drs. Chupong and Apinya: $2.05or70 Bahtx80 hrs/monthx12 monthsx2 pax=5,600 Baht/pax/month)||0.00|0.00|134400.00|134400.00|Annual|||||||20170329||20170905|
+2|FLU-DARRT|-|1|3|0|Compensation for Consultant at Chiang Mai PHO|(PCMO and Deputy: $2.05or70 Bahtx50 hrs/monthx12 monthsx2 pax = 3,500 Baht/pax/month)||0.00|0.00|84000.00|84000.00|Annual|||||||20170329||20170905|
+2|FLU-DARRT|-|1|4|0|Compensation for Project Manager at Chiang Mai PHO|(Ms.Suteerat Mahasingh: $2.05or70 Bahtx80 hrs/monthx12 monthsx1 pax = 5,600 Baht/month)||0.00|0.00|67200.00|67200.00|Annual|||||||20170329||20170904|
+2|FLU-DARRT|-|1|5|0|Compensation for Financial and Procurement staff|(Ms.Suthida: $2.05or70 Bahtx55hrs/monthx12monthsx1 pax)+(TBD: $2.05x20hrsx12monthsx1pax)||0.00|0.00|63000.00|63000.00|Annual|||||||20170329||20170927|
+2|FLU-DARRT|-|1|6|0|Compensation for Laboratory Manager|(Ms Napatrapee Sansa-ard - $2.05or70 Bahtx60 hrs/monthx12 monthsx1 person = 4,200 Baht/month)||0.00|0.00|50400.00|50400.00|Annual|||||||20170329||20170904|
+2|FLU-DARRT|-|1|7|0|Project Coordinator in Chiang Mai|(Mr. Pantasak Boonrat)||0.00|0.00|276000.00|276000.00|Person|1|100.00|12.00|23000.00|||20170329||20170907|
+2|FLU-DARRT|-|1|8|0|Laboratory Technician at Sansai Hospital|(Ms. Pichamol Wanwong)||0.00|0.00|276000.00|276000.00|Person|1|100.00|12.00|23000.00|||20170329||20170916|
+2|FLU-DARRT|-|1|9|0|Overtime for project staff at MOPH and Chiang Mai|($1.76or60Bahtx35hrs/monthx12monthsx6 persons (BOE = 4 persons, 1 person per site))||0.00|0.00|151200.00|151200.00|Annual|||||||20170329||20170911|
+2|FLU-DARRT|-|1|10|0|Financial and Administrative Assistant at MOPH|(Ms. Linda Pimchai)||0.00|0.00|336050.00|336050.00|Person|1|100.00|11.00|30550.00|||20170329||20170906|
+2|FLU-DARRT|-|1|11|0|Compensation for consultant at BOE|(Dr. Yongjua Laosirithaworn: $2.05or70Bahtx60 hrs/monthx12 monthsx1 pax = 4,200 Baht/Month)||0.00|0.00|50400.00|50400.00|Annual|||||||20170329||20170905|
+2|FLU-DARRT|-|1|12|0|Programmer|(TBD)||0.00|0.00|375320.00|375320.00|Person|1|100.00|11.00|34120.00|||20170411||20171030|
+2|FLU-DARRT|-|1|13|0|Compensation for Co-PI at BOE|($2.05or70 Baht x 50 hrs/month x 12months x2pax = 3,500Baht/month/pax)||0.00|0.00|84000.00|84000.00|Annual|||||||20170411||20170908|
+2|FLU-DARRT|-|1|14|0|Project Coordinators at BOE|(TBD)||0.00|0.00|288024.00|288024.00|Person|1|80.00|11.00|32730.00|||20170411||20170908|
+2|FLU-DARRT|-|1|15|0|Laboratory Technician for H7N9|(TBD)||0.00|0.00|275000.00|275000.00|Person|1|100.00|11.00|25000.00|||20170411||20170907|
+2|FLU-DARRT|-|1|16|0|Senior Laboratory Technician for H7N9|(TBD)||0.00|0.00|352000.00|352000.00|Person|1|100.00|11.00|32000.00|||20170411||20170907|
+2|FLU-DARRT|-|1|17|0|Medical Technologist, M.Sc at Bamrasnaradura Infectious Diseases Institute (BIDI)|(TBD)||0.00|0.00|308000.00|308000.00|Person|1|100.00|11.00|28000.00|||20170825||20170913|
+2|FLU-DARRT|-|1|18|0|Project Coordinator in Nakhon Phanom Province|(TBD)||0.00|0.00|360030.00|360030.00|Person|1|100.00|11.00|32730.00|||20170906||20170916|
+2|FLU-DARRT|-|1|19|0|Technical Assistant at BOE|(TBD)||0.00|0.00|126500.00|126500.00|Person|1|50.00|11.00|23000.00|||20170907||20170911|
+2|FLU-DARRT|-|1|20|0|Compensation for Financial and procurement staff at BGCD|(Compensation rate: $2.06x40hrs/monthx11monthsx4 persons)||93800.00|0.00|29400.00|123200.00|Annual|||||||20170911||20171011|
+2|FLU-DARRT|-|1|21|0|Compensation for BOE government staff|(Compensation rate: $2.06x30hrs/monthx11monthsx4 persons)||92400.00|0.00|-0.00|92400.00|Annual|||||||20171011||20171011|
+2|FLU-DARRT|-|2|1|0|Financial and Administrative Officer at MOPH|(Ms. Linda Pimchai)||0.00|0.00|9000.00|9000.00|Person|1|336050.00|5.00||||20170330||20170907|
+2|FLU-DARRT|-|2|2|0|Project Coordinator in Chiang Mai|(Mr. Pantasak Boonrat)||0.00|0.00|9000.00|9000.00|Person|1|276000.00|5.00||||20170330||20170907|
+2|FLU-DARRT|-|2|3|0|Laboratory Technician at Sansai Hospital|(Ms. Pichamol Wanwong)||0.00|0.00|9000.00|9000.00|Person|1|276000.00|5.00||||20170330||20170916|
+2|FLU-DARRT|-|2|4|0|Programmer|(TBD)||0.00|0.00|9000.00|9000.00|Person|1|375320.00|5.00||||20170330||20171030|
+2|FLU-DARRT|-|2|5|0|Project Coordinator in Nakhon Phanom Province|(TBD)||0.00|0.00|9000.00|9000.00|Person|1|360030.00|5.00||||20170411||20170916|
+2|FLU-DARRT|-|2|6|0|Laboratory Technician for H7N9|(TBD)||0.00|0.00|9000.00|9000.00|Person|1|275000.00|5.00||||20170411||20170916|
+2|FLU-DARRT|-|2|7|0|Senior Laboratory Technician for H7N9|(TBD)||0.00|0.00|9000.00|9000.00|Person|1|352000.00|5.00||||20170411||20170916|
+2|FLU-DARRT|-|2|8|0|Medical Technologist, M.Sc at Bamrasnaradura Infectious Diseases Institute (BIDI)|(TBD)||0.00|0.00|9000.00|9000.00|Person|1|308000.00|5.00||||20170904||20170916|
+2|FLU-DARRT|-|2|9|0|Annual medical check up|(8 Persons X $58.82)||0.00|0.00|16000.00|16000.00|Annual|||||||20170916||20170916|
+2|FLU-DARRT|-|3|1|0|Scientific meeting to present the results of respiratory disease outbreak investigations (Chiang Mai)|(MOPH-non local)||0.00|0.00|90000.00|90000.00|Time|1|15.00|1.00|2000.00|4000.00|0.00|20170330||20170905|
+2|FLU-DARRT|-|3|2|0|Refresher workshop on laboratory testing and outbreak investigation (Chiang Mai)|(MOPH-non local)||0.00|0.00|150000.00|150000.00|Time|1|15.00|3.00|2000.00|4000.00|0.00|20170330||20170905|
+2|FLU-DARRT|-|3|3|0|Refresher training on outbreak investigation report writing (Chiang Mai)|(MOPH-non local)||0.00|0.00|120000.00|120000.00|Time|1|15.00|2.00|2000.00|4000.00|0.00|20170330||20170905|
+2|FLU-DARRT|-|3|4|0|Visit Chiang Mai to support project activities|(MOPH-non local)||0.00|0.00|104000.00|104000.00|Time|4|2.00|4.00|2000.00|5000.00|0.00|20170330||20170406|
+2|FLU-DARRT|-|3|5|0|Transportation to conduct SRRT for investigation (Chiang Mai)|||0.00|0.00|19200.00|19200.00|Time|24|1.00|1.00|0.00|800.00|0.00|20170330||20170905|
+2|FLU-DARRT|-|3|6|0|Local transportation to support project activities (Chiang Mai)|||0.00|0.00|18000.00|18000.00|Time|12|1.00|1.00|0.00|1500.00|0.00|20170330||20170905|
+2|FLU-DARRT|-|3|7|0|Training for SRRT and veterinary team (4 sites)|||0.00|0.00|468000.00|468000.00|Time|4|9.00|4.00|2000.00|5000.00|0.00|20170411||20170911|
+2|FLU-DARRT|-|3|8|0|Site visit for central team (4 sites)|||0.00|0.00|288000.00|288000.00|Time|8|4.00|2.00|2000.00|5000.00|0.00|20170411||20170905|
+2|FLU-DARRT|-|3|9|0|Local travel to present project finding|||0.00|0.00|60320.00|60320.00|Time|2|2.00|3.00|2000.00|5000.00|8160.00|20170905||20170911|
+2|FLU-DARRT|-|3|10|0|Meeting to summarize H7N9 activities|||0.00|0.00|720000.00|720000.00|Time|1|80.00|2.00|2000.00|5000.00|0.00|20170905||20170905|
+2|FLU-DARRT|-|4|1|0|Laptop and program for Chiang Mai PHO|||0.00|0.00|40000.00|40000.00|Set|1|40000.00|||||20170330||20170906|
+2|FLU-DARRT|-|4|2|0|PC and program for Chiang Mai PHO|||0.00|0.00|40000.00|40000.00|Set|1|40000.00|||||20170330||20170906|
+2|FLU-DARRT|-|4|3|0|Printer for Chiang Mai PHO|||0.00|0.00|17000.00|17000.00|Set|1|17000.00|||||20170330||20170906|
+2|FLU-DARRT|-|4|4|0|Table and chair for Chiang Mai PHO|||0.00|0.00|7009.00|7009.00|Set|1|7009.00|||||20170330||20170911|
+2|FLU-DARRT|-|4|5|0|Mobile phones for Coordinator in Nakhon Phanom Province|||0.00|0.00|5981.00|5981.00|Set|1|5981.00|||||20170411||20171101|
+2|FLU-DARRT|-|4|6|0|Minus 20 degree celsius freezer for Sansai Hospital Laboratory (Chiang Mai)|||0.00|0.00|70000.00|70000.00|Unit|1|70000.00|||||20170904||20170905|
+2|FLU-DARRT|-|4|7|0|Color laser jet printer for BOE|||0.00|0.00|29971.00|29971.00|Set|1|29971.00|||||20170905||20170916|
+2|FLU-DARRT|-|4|8|0|Online Infographic Maker|||0.00|0.00|12070.00|12070.00|Set|1|12070.00|||||20170911|||
+2|FLU-DARRT|-|4|9|0|Server|||0.00|0.00|165000.00|165000.00|Set|1|165000.00|||||20170918||20170918|
+2|FLU-DARRT|-|4|10|0|Color laser jet printer for BGCD|||19770.74|1.00|-0.00|19771.74|Set|1|19771.74|||||20171011||20171101|
+2|FLU-DARRT|-|4|11|0|Table and chair for Medical Technologist at BIDI|||10000.00|0.00|-0.00|10000.00|Set|1|10000.00|||||20171016||20171016|
+2|FLU-DARRT|-|4|12|0|Egg incubator|||40500.00|0.00|-0.00|40500.00|Unit|1|40500.00|||||20171016||20171017|
+2|FLU-DARRT|-|5|1|0|Office supplies for Chiang Mai PHO|||0.00|0.00|72000.00|72000.00|Month|12|6000.00|||||20170330||20170825|
+2|FLU-DARRT|-|5|2|0|Lab supplies and reagents for Sansai Hospital Laboratory|||0.00|0.00|400000.00|400000.00|Time|4|100000.00|||||20170330||20170915|
+2|FLU-DARRT|-|5|3|0|Office supplies for MOPH and four H7N9 sites|||0.00|0.00|360000.00|360000.00|Site|6|60000.00|||||20170330||20170916|
+2|FLU-DARRT|-|5|4|0|Supplies for computer and laptop|||0.00|0.00|25000.00|25000.00|Time|5|5000.00|||||20170411||20170825|
+2|FLU-DARRT|-|5|5|0|Lab supplies for H7N9|||0.00|0.00|1224000.00|1224000.00|Month|12|102000.00|||||20170411||20170918|
+2|FLU-DARRT|-|5|6|0|Reagent for H7N9 PCR and culture|||0.00|22915.00|751930.00|774845.00|Time|5|154969.00|||||20170825||20171101|
+2|FLU-DARRT|-|5|7|0|Lab supplies and reagents for TAC machine at BIDI|||0.00|0.00|100000.00|100000.00|Times|2|50000.00|||||20170915||20170915|
+2|FLU-DARRT|-|8|1|0|Scientific meeting to present the results of respiratory disease outbreak investigations (Chiang Mai)|(MOPH local)||0.00|0.00|40000.00|40000.00|Time|1|50.00|1.00|500.00|300.00|0.00|20170330||20170905|
+2|FLU-DARRT|-|8|2|0|Refresher workshop on laboratory testing and outbreak investigation (Chiang Mai)|(MOPH local)||0.00|0.00|90000.00|90000.00|Time|1|50.00|3.00|500.00|300.00|0.00|20170330||20170905|
+2|FLU-DARRT|-|8|3|0|Refresher training on outbreak investigation report writing (Chiang Mai)|(MOPH local)||0.00|0.00|65000.00|65000.00|Time|1|50.00|2.00|500.00|300.00|0.00|20170330||20170905|
+2|FLU-DARRT|-|8|4|0|Local network meeting (Chiang Mai)|(MOPH local)||0.00|0.00|96000.00|96000.00|Time|2|60.00|1.00|500.00|300.00|0.00|20170330||20170905|
+2|FLU-DARRT|-|8|5|0|Meeting to follow up and evaluate DARRT activities (Chiang Mai)|(MOPH local)||0.00|0.00|36000.00|36000.00|Time|6|10.00|1.00|600.00|0.00|0.00|20170330||20170905|
+2|FLU-DARRT|-|8|6|0|Meeting/workshop facilities and document (Chiang Mai)|(Photocopy, binders, room rental fee)||0.00|0.00|40000.00|40000.00|Time|5|0.00|0.00|0.00|0.00|8000.00|20170330||20170907|
+2|FLU-DARRT|-|8|7|0|Conduct local SRRT for influenza (Chiang Mai)|||0.00|0.00|24000.00|24000.00|Time|24|2.00|1.00|500.00|0.00|0.00|20170330||20170905|
+2|FLU-DARRT|-|8|8|0|Health educational model development (Chiang Mai)|||0.00|0.00|150000.00|150000.00|Time|3|0.00|0.00|0.00|0.00|50000.00|20170330||20170905|
+2|FLU-DARRT|-|8|9|0|Training for SRRT and veterinary teams for H7N9|||0.00|0.00|378000.00|378000.00|Time|4|35.00|4.00|600.00|300.00|0.00|20170411||20170911|
+2|FLU-DARRT|-|8|10|0|Conduct joint investigation at 4 sites|||0.00|0.00|60000.00|60000.00|Time|8|5.00|3.00|500.00|0.00|0.00|20170411||20170911|
+2|FLU-DARRT|-|8|11|0|Monthly meeting to follow up project activities and progress|(MOPH local)||0.00|0.00|30000.00|30000.00|Time|5|10.00|1.00|600.00|0.00|0.00|20170411||20170911|
+2|FLU-DARRT|-|8|12|0|Stakeholder meetings at 4 sites (2 times/site)|(Local participants)||0.00|0.00|144000.00|144000.00|Time|8|30.00|1.00|600.00|0.00|0.00|20170411||20170917|
+2|FLU-DARRT|-|8|13|0|Specimmen transportation to NIH and Mahidol University laboratory|||0.00|0.00|1056000.00|1056000.00|Time|12|4.00|1.00|0.00|22000.00|0.00|20170411||20170913|
+2|FLU-DARRT|-|8|14|0|Fee for H7N9 specimen collection in human|||0.00|0.00|60000.00|60000.00|Specimen|120|||||500.00|20170411||20170911|
+2|FLU-DARRT|-|8|15|0|Fee for monthly laboratory result report for PCR and culture both animal and human (Dr. Pilaipan and Dr. Witthawat)|||0.00|0.00|200000.00|200000.00|Month|10|||||20000.00|20170411||20170907|
+2|FLU-DARRT|-|8|16|0|Testing fee for real-time PCR at Thai NIH|||0.00|0.00|250000.00|250000.00|Sample|100|||||2500.00|20170411||20170905|
+2|FLU-DARRT|-|8|17|0|NGS testing fee for poultry|||0.00|0.00|100000.00|100000.00|Sample|5|||||20000.00|20170411||20170905|
+2|FLU-DARRT|-|8|18|0|Mobile monthly fee for Coordinator in Nakhon Phanom Province|||0.00|0.00|8400.00|8400.00|Month|12|1.00|1.00|0.00|0.00|700.00|20170411||20170916|
+2|FLU-DARRT|-|8|19|0|Conduct routine H7N9 surveillance in poultry at wet-market or at port of entries by local officers from BGCD|||0.00|0.00|120000.00|120000.00|Time|240|1.00|1.00|500.00|0.00|0.00|20170411||20170915|
+2|FLU-DARRT|-|8|20|0|Printing cost for H7N9 SOP and H7N9 summary report|||0.00|0.00|52800.00|52800.00|Copy|300|||||176.00|20170905||20170911|
+2|FLU-DARRT|-|8|21|0|Fee for H7N9 specimen collection in animals|||0.00|0.00|240000.00|240000.00|Specimen|480|0.00|0.00|0.00|0.00|500.00|20170905||20170911|
+2|FLU-DARRT|-|8|22|0|Meeting/workshop facilities and document (H7N9)|(Photocopy, binders, room rental fee)||0.00|0.00|77000.00|77000.00|Time|5|0.00|0.00|0.00|0.00|15400.00|20170905||20170916|
+2|FLU-DARRT|-|8|23|0|Exchange rate management|To support depreciation from exchange rate fluctuation||0.00|0.00|412205.00|412205.00|Annual|||||||20170911||20170911|
+2|FLU-DARRT|-|8|24|0|Monthly report for specimen collection at 4 sites|($103.58 x 11 months)||10500.00|0.00|-0.00|10500.00|Month|3|||||3500.00|20171011||20171016|
+2|FLU-DARRT|-|8|25|0|Testing fee for poultry specimens at Veterinary Research and Development Center|(Surin, Khon Kaen,and Lampang)||10500.00|0.00|-0.00|10500.00|Test|7|||||1500.00|20171011||20171031|
