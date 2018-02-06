@@ -153,7 +153,6 @@ def check_if_exists?(db,tbl)
 end
 
 def insert(db,tbl,arr)
-
   if tbl == 'Budget'
     flag = check_budget_dup(db,arr)
     if flag
@@ -250,7 +249,7 @@ def insert(db,tbl,arr)
 end
 
 accdb = ARGV[0]
-db = ARGV[1].sub(/\&/,'and')
+db = ARGV[1].sub('&','and')
 tbl = ARGV[2]
 
 if tbl.nil?

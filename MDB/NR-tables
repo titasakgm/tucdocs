@@ -1,4 +1,3 @@
-non_research
 cei_nr
 cu2_moph
 dghp_denars
@@ -6,8 +5,8 @@ dghp_eigna
 dghp_farmer
 dghp_ipc
 dghp_moph_eoc
-dghp_oh_wfd
 dghp_oh
+dghp_oh_wfd
 dghp_sevpn
 dgmq_nr5
 dgmq_nr6
@@ -29,7 +28,7 @@ lab_tb_eqa
 pif_bats
 pif_cbo
 pif_pcm_hf
-pif_sandd
+pif_s&d
 prep2start_lab
 prep2start_su_pif
 prep2start_su_su
@@ -38,19 +37,5 @@ si_mis
 si_ps_itc
 si_sur
 kpis
-kpis_bats
-kpis_kk
-kpis_ls
-kpis_sr
-kpis_tu
-kpis_ud
 prep2start_sl
-prep2start_sl_bats
-prep2start_sl_br
-prep2start_sl_care
-prep2start_sl_kk
-prep2start_sl_pk
-prep2start_sl_ud
 ymsm_cascade
-ymsm_cascade_bats
-ymsm_cascade_srr

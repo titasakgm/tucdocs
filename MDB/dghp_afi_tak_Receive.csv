@@ -1,4 +1,0 @@
-CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
-1|DGHP-AFI|TAK|20161025|4|74132.80|34.8300|2582045.40||10170091|Draw down 1 (ก.ย.-พ.ย.59) + Gain Cheque#10172003 (฿0.83)|20170119|DGHP-AFI-TAK|20170125|DGHP-AFI-TAK
-1|DGHP-AFI|TAK|20161228|2|146824.20|35.7600|5250433.39||10172014|Draw down 2 (ธ.ค.59 - มี.ค.60), Gain rate (฿1.76)|20170120|DGHP-AFI-TAK|20170125|DGHP-AFI-TAK
-1|DGHP-AFI|TAK|20170428|1|60000.00|34.2788|2056728.00||10172025|Draw down 3 (Exchanged rate = 34.2788)|20170518|DGHP-AFI-TAK|20170518|DGHP-AFI-TAK

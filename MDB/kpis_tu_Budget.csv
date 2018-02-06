@@ -1,12 +1,0 @@
-CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
-1|KPIS|TU|8|1|0|TU: Communication cost|(telephone and internet)||0.00|0.00|24000.00|24000.00|Month|12|||||2000.00||||
-1|KPIS|TU|8|2|0|TU: Lab and medical fee|||0.00|0.00|250000.00|250000.00|Year|1|||||250000.00||||
-1|KPIS|TU|8|3|0|TU: Compensation for participants|(follow-up visits)||0.00|0.00|300000.00|300000.00|Time|1|600.00|1.00|500.00|0.00|0.00||||
-1|KPIS|TU|8|4|0|TU: Compensation for participants|(additional visits)||0.00|0.00|18000.00|18000.00|Time|1|90.00|1.00|200.00|0.00|0.00||||
-1|KPIS|TU|8|5|0|TU: Progress meeting|||0.00|0.00|12000.00|12000.00|Time|2|10.00|1.00|500.00|0.00|1000.00||||
-1|KPIS|TU|8|6|0|TU: Compensation for PDI recruitment|||0.00|0.00|-0.00|0.00|Time|0|0.00|0.00|0.00|0.00|0.00||||
-2|KPIS|TU|8|1|0|TU: Lab and medical fee|||24980.00|60020.00|-0.00|85000.00|Year|1|||||85000.00|20170320||20171113|
-2|KPIS|TU|8|2|0|TU: Compensation for participants|(follow-up visits)||50000.00|85000.00|-0.00|135000.00|Time|1|270.00|1.00|500.00|0.00|0.00|20170320||20171113|
-2|KPIS|TU|8|3|0|TU: Compensation for participants|(additional visits)||0.00|4000.00|-0.00|4000.00|Time|1|20.00|1.00|200.00|0.00|0.00|20170320||20171113|
-2|KPIS|TU|8|4|0|TU: Progress meeting|||0.00|10000.00|-0.00|10000.00|Time|2|10.00|1.00|500.00|0.00|0.00|20170320||20171113|
-2|KPIS|TU|8|5|0|TU: Communication cost|(telephone and internet)||0.00|22000.00|-0.00|22000.00| Month|11|||||2000.00|20170320||20171113|

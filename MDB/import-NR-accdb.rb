@@ -15,6 +15,7 @@ def check_db(dbname)
   sql = "SELECT 1 as result "
   sql += "FROM pg_database "
   sql += "WHERE datname='#{dbname}' "
+  puts "sql1: #{sql}"
   res = con.exec(sql)
   con.close
   return res.num_tuples
@@ -29,7 +30,8 @@ def process_mdb(accdb)
 
   # rename pif_s&d to pif_sandd
   if dbname.include?('&')
-    dbname = dbname.gsub(/\&/,'and')
+    dbname = dbname.gsub('&','and')
+    puts "***** #{dbname} *****"
   end
 
   puts "accdb: #{accdb}"
@@ -44,19 +46,13 @@ def process_mdb(accdb)
   end
 
   # 3 auto-import .accdb to dbname
-  db = accdb.gsub(' ','\\\ ')
-  cmd = "./auto-import-accdb.rb '#{db}' #{dbname}"
+  db = accdb.gsub(' ','\\\ ').gsub('&','\\\&')
+  cmd = "./auto-import-accdb.rb \"#{db}\" #{dbname}"
   puts "cmd: #{cmd}"
   system(cmd)
 end
 
-entries = Dir.glob("Year02 CoAg FIN_NR/**/*")
+accdb = ARGV[0]
+puts "Process accdb: #{accdb}..."
+process_mdb(accdb)
 
-n = 0
-entries.each do |f|
-  next if f !~ /.accdb$/
-  #next if f.upcase =~ /AGGREGATE/
-  n += 1
-  puts "Process accdb ##{n} #{f}..."
-  process_mdb(f)
-end

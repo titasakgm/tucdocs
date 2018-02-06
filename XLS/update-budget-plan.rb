@@ -5,9 +5,10 @@ require 'pg'
 require 'pry'
 
 def save_data(proj,objectclass,msgs)
-  fp = open("/tmp/#{proj}","a")
-  fp.write("\n#{proj}:#{objectclass}\n")
+  fp = open("BUDGET-PLAN/#{proj}","a")
+  fp.write("#{proj}:#{objectclass}\n")
   fp.write(msgs.join("\n"))
+  fp.write("\n")
   fp.close
 end
 

@@ -1,6 +1,0 @@
-CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|ItemDescriptionD|Restrict|CashOnHand|Carryover|New|Total|Unit|Qty|OP1|OP2|OP3|OP4|OP5|_datecreated|_usercreated|_dateupdated|_userupdated
-2|KPIS|LS|8|1|0|LS: LAB and medical fee|||9169.00|0.00|19831.00|29000.00|Year|1|||||29000.00|20170320||20171113|
-2|KPIS|LS|8|2|0|LS: Compensation for participants|(follow-up visits)||35000.00|0.00|35000.00|70000.00|Time|1|140.00|1.00|500.00|0.00|0.00|20170320||20171113|
-2|KPIS|LS|8|3|0|LS: Compensation for participants|(additional visits)||0.00|0.00|4000.00|4000.00|Time|1|20.00|1.00|200.00|0.00|0.00|20170320||20171113|
-2|KPIS|LS|8|4|0|LS: Progress meeting|||0.00|0.00|10000.00|10000.00|Time|2|10.00|1.00|500.00|0.00|0.00|20170320||20171113|
-2|KPIS|LS|8|5|0|LS: Communication cost|(telephone and internet)||0.00|0.00|22000.00|22000.00|Month|11|||||2000.00|20170320||20171113|

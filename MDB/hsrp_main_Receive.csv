@@ -1,6 +1,0 @@
-CoAgYear|ProjectID|SubprojectID|DateReceived|ReceiveNo|AmountReceivedUSD|ExchangeRate|AmountReceivedTHB|Gain|ChequeReceived|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
-1|HSRP-Main|-|20161012|14|125526.90|34.8300|4372101.93||10170082/10170094|1st Drawdown (Cheque #10170082 for rate 34 Baht / #10170094 for rate 0.83 Baht)|20170203|hsrp-main|20170206|hsrp-main
-1|HSRP-Main|-|20161229|4|46347.36|34.8300|1614278.55||10172005|2nd Drawdown|20170206|hsrp-main|20170206|hsrp-main
-1|HSRP-Main|-|20161229|5|55881.94|35.7600|1998338.17||10172006|2nd Drawdown|20170206|hsrp-main|20170206|hsrp-main
-1|HSRP-Main|-|20170502|2|160000.00|34.2788|5484608.00||10172017|3rd Drawdown (อัตราแลกเปลี่ยน 34.2788)|20170612|hsrp-main|20170612|hsrp-main
-1|HSRP-Main|-|20170731|2|14666.80|34.2788|502760.30||10172028|4th Drawdown (อัตราแลกเปลี่ยน 34.2788)|20170810|hsrp-main|20170810|hsrp-main

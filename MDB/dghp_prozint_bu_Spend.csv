@@ -1,8 +1,0 @@
-CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
-1|DGHP-PrOZINT|BU|1|1|2|Project Manager (Name: TBD)pitchayut Pawaragiatsakul|20170831|20088.00|10143968|20170831|750.00|10143966|||เบิกจ่าย 11 กย 60|20170913|dghp-prozint-bu|20170915|dghp-prozint-bu
-1|DGHP-PrOZINT|BU|1|2|2|Financial and Administrative Officer (Name: TBD)Niya banyong|20170831|10419.00|10143967|20170831|548.00|10143966|||เบิกจ่าย 11 กย 60|20170913|dghp-prozint-bu|20170915|dghp-prozint-bu
-1|DGHP-PrOZINT|BU|2|1|2|Project Manager (Name: TBD)Pitchayut|20170831|750.00|10143966||||||เบิกจ่าย 11 กย 60|20170913|dghp-prozint-bu|20170913|dghp-prozint-bu
-1|DGHP-PrOZINT|BU|2|2|2|Financial and Administrative Officer (Name: TBD)Niya|20170831|548.00|10143966||||||เบิกจ่าย 11 กย 60|20170913|dghp-prozint-bu|20170913|dghp-prozint-bu
-1|DGHP-PrOZINT|BU|4|2|2|Office Equipment (Details: Budget justification)|20170831|28215.00|10143961|20170831|285.00|10143962|||เบิกจ่าย 12 กย 60|20170913|dghp-prozint-bu|20170915|dghp-prozint-bu
-1|DGHP-PrOZINT|BU|4|3|2|IT Equipment (Details: Budget justification)|20170831|350394.39|10143969|20170831|3305.61|10143970|||เบิกจ่าย 12 กย 60|20170913|dghp-prozint-bu|20170915|dghp-prozint-bu
-1|DGHP-PrOZINT|BU|5|1|4|Office Supplies (Details: Budget justification)|20170831|13659.14|10143963|20170831|128.86|10143964|||เบิกจ่าย 12 กย 60|20170913|dghp-prozint-bu|20170915|dghp-prozint-bu

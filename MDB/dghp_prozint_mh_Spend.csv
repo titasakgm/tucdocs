@@ -1,11 +1,0 @@
-CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|SpendNo|SpendDescription|DateSpent|AmountSpent|ChequeSpent|DateAdjusted|AmountAdjusted|ChequeAdjusted|DateObligated|AmountObligated|Remark|_datecreated|_usercreated|_dateupdated|_userupdated
-1|DGHP-PrOZINT|MH|1|1|10|Project Manager (Name: Tidarat)|20170831|37250.00|10261028|20170831|750.00|10261030|||เงินเดือน ส.ค.|20170913|DGHP-PrOZINT-MH|20170913|DGHP-PrOZINT-MH
-1|DGHP-PrOZINT|MH|1|1|11|Project Manager (Name: Tidarat)|20170816|21314.52|10261021|20170816|750.00|10261023|||เงินเดือนก.ค.|20170822|dghp-prozint-mh|20171006|DGHP-ProZINT-MH
-1|DGHP-PrOZINT|MH|1|2|7|Financial and Administrative Officer (Name: Wanpavee)|20170817|11031.90|10261022|20170817|581.00|10261023|||เงินเดือน ก.ค.|20170822|dghp-prozint-mh|20171006|DGHP-ProZINT-MH
-1|DGHP-PrOZINT|MH|1|2|8|Financial and Administrative Officer (Name: Wanpavee)|20170831|19250.00|10261029|20170831|750.00|10261030|||เงินเดือน ส.ค.|20170913|DGHP-PrOZINT-MH|20171006|DGHP-ProZINT-MH
-1|DGHP-PrOZINT|MH|2|1|5|Project Manager (Name: Tidarat)|20170816|750.00|10261023||||||เงินประกันสังคมจากนายจ้าง|20170822|dghp-prozint-mh|20170913|DGHP-PrOZINT-MH
-1|DGHP-PrOZINT|MH|2|1|6|Project Manager (Name: Tidarat)|20170831|750.00|10261030||||||เงินประกันสังคมจากนายจ้าง|20170913|DGHP-PrOZINT-MH|20170913|DGHP-PrOZINT-MH
-1|DGHP-PrOZINT|MH|2|2|8|Financial and Administrative Officer (Name: Wanpavee)|20170831|750.00|10261030||||||เงินประกันสังคมจากนายจ้าง|20170913|DGHP-PrOZINT-MH|20170913|DGHP-PrOZINT-MH
-1|DGHP-PrOZINT|MH|2|2|10|Financial and Administrative Officer (Name: Wanpavee)|20170816|581.00|10261023||||||เงินประกันสังคมจากนายจ้าง|20170913|DGHP-PrOZINT-MH|20170913|DGHP-PrOZINT-MH
-1|DGHP-PrOZINT|MH|4|2|4|Office Equipment (Details: Budget justification)|20170816|28215.00|10261024|20170816|285.00|10261025|||ร้านยงยุทธเฟอร์นิเจอร์ หัก ณ ที่จ่าย|20170822|dghp-prozint-mh|20171006|DGHP-ProZINT-MH
-1|DGHP-PrOZINT|MH|5|1|4|Office Supplies (Details: Budget justification)|20170816|29700.00|10261026|20170831|300.00|10261027|||ร้านศุภโชคเครื่องเขียน หัก ณ ที่จ่าย|20170822|dghp-prozint-mh|20171006|DGHP-ProZINT-MH

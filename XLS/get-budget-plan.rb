@@ -141,6 +141,6 @@ entries.sort.each do |f|
   hdr_row = info[1]
   hdr = info[2].join(',')
   cmd = "./update-budget-plan.rb \"#{f}\" #{sheet} #{hdr_row} \"#{hdr}\""
-  puts cmd
+  #puts cmd
   system(cmd)
 end
