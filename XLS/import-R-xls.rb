@@ -5,7 +5,6 @@ require 'pg'
 require 'pry'
 
 def save_budget_plan(proj,info)
-  proj = proj.gsub('S&D','SANDD')
   log = open("BUDGET-PLAN/R/#{proj}","a")
   log.write("#{info}\n")
   log.close
@@ -109,8 +108,10 @@ if xls.nil?
   exit(0)
 end
 
-fy = xls.split('.').first.split('FY').last
-project_id = xls.split('/').last.upcase.split('BUDGET PLAN').first.tr(' ','')
+# FILENAME: <PROJECT-CODE>_BUDGET_PLAN_FY2018_3RD_REVISED.XLS / .XLSX
+
+fy = xls.split('FY').last.split('_').first
+project_id = xls.split('_').first.split('/').last
 
 puts "\n1) get ProjectID and FY from XLS name"
 puts "xls: #{xls}"

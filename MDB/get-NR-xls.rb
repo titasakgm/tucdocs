@@ -11,6 +11,8 @@ entries = Dir.glob("/opt/tucdocs/XLS/Budget\ plan\ FY\ 2018/**/*")
 
 entries.sort.each do |f|
   next if f !~ /.xls/
+  puts f
+  next
   save_nr(f)
 end
 

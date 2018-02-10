@@ -4,7 +4,7 @@ require 'roo-xls'
 require 'pry'
 
 def log(f,hdr)
-  fp = open("get-budget-plan.log","a")
+  fp = open("get-budget-plan-NR.log","a")
   fp.write("#{f}\n#{hdr.join('|')}\n")
   fp.close
 end
@@ -147,7 +147,7 @@ entries.sort.each do |f|
   sheet = info[0]
   hdr_row = info[1]
   hdr = info[2].join(',')
-  cmd = "./update-budget-plan.rb \"#{f}\" #{sheet} #{hdr_row} \"#{hdr}\""
+  cmd = "./update-budget-plan-NR.rb \"#{f}\" #{sheet} #{hdr_row} \"#{hdr}\""
   puts cmd
   system(cmd)
   break

@@ -53,6 +53,11 @@ def process_mdb(accdb)
 end
 
 accdb = ARGV[0]
+if accdb.nil?
+  puts "usage: #{$0} <.accdb>\n"
+  exit(0)
+end
+
 puts "Process accdb: #{accdb}..."
 process_mdb(accdb)
 

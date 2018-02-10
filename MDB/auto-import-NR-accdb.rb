@@ -9,6 +9,11 @@ def find_accdb(mdb)
     accdb = line.chomp
   end
   accdb
+  if accdb == 'NA'
+    puts "ERROR: find_accdn: #{mdb} !!!!!"
+    exit
+  end
+  accdb
 end
 
 n = 0
@@ -16,7 +21,7 @@ src = open("NR-tables").readlines
 src.each do |line|
   tbl = line.chomp
 
-  next if tbl !~ /itc/
+  #### next if tbl !~ /denars/
 
   mdb = tbl.upcase.tr('_','-')
 

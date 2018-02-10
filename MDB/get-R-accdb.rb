@@ -12,5 +12,3 @@ entries.sort.each do |f|
   next if f !~ /accdb$/
   save_r(f)
 end
-
-

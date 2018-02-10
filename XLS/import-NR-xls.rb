@@ -6,7 +6,7 @@ require 'pry'
 
 def save_budget_plan(proj,info)
   proj = proj.gsub('S&D','SANDD')
-  log = open("BUDGET-PLAN/R/#{proj}","a")
+  log = open("BUDGET-PLAN/NR/#{proj}","a")
   log.write("#{info}\n")
   log.close
 end
@@ -105,7 +105,7 @@ end
 
 xls = ARGV[0]
 if xls.nil?
-  puts "usage: ./import-xls.rb <XLS FILE>\n"
+  puts "usage: #{$0} <XLS FILE>\n"
   exit(0)
 end
 
