@@ -282,7 +282,7 @@ if src.length == 1
   dst.close
 else # newline within data field!!!
   # join all lines into 1 line > remove \n > split with ! > rejoin with \n
-  src = src.join(' ').tr("\n",'')  
+  src = src.join(' ').gsub(/\n/,'').gsub(/\r/,'') 
   dst.write(src.split('!').join("\n"))
   dst.close
 end
@@ -295,8 +295,6 @@ header.each do |c|
   sql += "  \"#{c}\" varchar,\n"
 end
 sql = sql.chomp.chop + ");"
-
-#puts "sql3: #{sql}"
 
 fn = "create-#{tbl}.sql"
 fp = open(fn,"w")
@@ -326,7 +324,8 @@ dat = open("#{db}_#{tbl}.csv").readlines # Array output
 
 n = 0
 dat[1..-1].each do |line|
-  insert(db,tbl,line.chomp.split('|'))
+  flds = line.chomp.split('|')
+  insert(db,tbl,flds)
 end
 
 rows = get_rows(db,tbl)

@@ -117,7 +117,7 @@ CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|Ite
 2|KPIS|TU|8|2|0|TU: Compensation for participants|(follow-up visits)||50000.00|85000.00|-0.00|135000.00|Time|1|270.00|1.00|500.00|0.00|0.00|20170320||20171113|
 2|KPIS|TU|8|3|0|TU: Compensation for participants|(additional visits)||0.00|4000.00|-0.00|4000.00|Time|1|20.00|1.00|200.00|0.00|0.00|20170320||20171113|
 2|KPIS|TU|8|4|0|TU: Progress meeting|||0.00|10000.00|-0.00|10000.00|Time|2|10.00|1.00|500.00|0.00|0.00|20170320||20171113|
-2|KPIS|TU|8|5|0|TU: Communication cost|(telephone and internet)||0.00|22000.00|-0.00|22000.00| Month|11|||||2000.00|20170320||20171113|
+2|KPIS|TU|8|5|0|TU: Communication cost|(telephone and internet)||0.00|22000.00|-0.00|22000.00| Month|11|||||2000.00|20170320||20171113|
 2|KPIS|UD|5|2|0|UD: Office supplies and printing|||0.00|8000.00|-0.00|8000.00|Year|1|8000.00|||||20170320||20170328|
 2|KPIS|UD|8|1|0|UD: Lab and medical fee|||31140.00|29860.00|-0.00|61000.00|Year|1|||||61000.00|20170320||20171113|
 2|KPIS|UD|8|2|0|UD: Compensation for participants|(follow-up visits)||60000.00|85000.00|-0.00|145000.00|Time|1|290.00|1.00|500.00|0.00|0.00|20170320||20171113|

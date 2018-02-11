@@ -10,6 +10,8 @@ end
 
 tbl = %x! mdb-tables #{accdb} !
 tbls = tbl.split(' ')
+
+# workaround for PIF-S&D rename to PIF-SANDD
 db = db.sub('&','and')
 
 tbls.each do |tbl|

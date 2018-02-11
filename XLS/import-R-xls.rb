@@ -104,7 +104,7 @@ end
 
 xls = ARGV[0]
 if xls.nil?
-  puts "usage: ./import-xls.rb <XLS FILE>\n"
+  puts "usage: ./import-R-xls.rb <XLS FILE>\n"
   exit(0)
 end
 
@@ -208,7 +208,7 @@ others = init_info(8)
       end
     end
     puts "supplies: #{supplies.join('|')}"
-  elsif d.strip.upcase =~ /CONT/ and d.length < 20
+  elsif d.strip.upcase =~ /CONTRACT/ and d.length < 20
     puts "\nget CONTRACTUAL data"
     contractual = get_info(p,r,ref_c)
     contractual[0] = '6'
@@ -216,7 +216,7 @@ others = init_info(8)
       contractual.delete_at(1)
     end
     puts "contractual: #{contractual.join('|')}"
-  elsif d.strip.upcase =~ /CONS/ and d.length < 20
+  elsif d.strip.upcase =~ /CONSTR/ and d.length < 20
     puts "\nget CONSTRUCTION data"
     construction = get_info(p,r,ref_c)
     construction[0] = '7'

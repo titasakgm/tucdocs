@@ -46,7 +46,10 @@ def process_mdb(accdb)
   end
 
   # 3 auto-import .accdb to dbname
+
+  # workaround for PIF-S&D project
   db = accdb.gsub(' ','\\\ ').gsub('&','\\\&')
+
   cmd = "./auto-import-accdb.rb \"#{db}\" #{dbname}"
   puts "cmd: #{cmd}"
   system(cmd)

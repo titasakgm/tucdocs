@@ -4,6 +4,7 @@ nr_projs = open("tuc-nr-projects").readlines
 nr_projs.each do |p|
   cmd = "./tuc-monitor-project.rb #{p.tr('&','\&')}"
   puts "cmd: #{cmd}"
+  next
   system(cmd)
 end
 

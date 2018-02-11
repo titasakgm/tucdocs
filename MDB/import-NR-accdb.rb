@@ -46,7 +46,10 @@ def process_mdb(accdb)
   end
 
   # 3 auto-import .accdb to dbname
+
+  # FIX for actual .accdb with & in FILENAME
   db = accdb.gsub(' ','\\\ ').gsub('&','\\\&')
+
   cmd = "./auto-import-accdb.rb \"#{db}\" #{dbname}"
   puts "cmd: #{cmd}"
   system(cmd)
@@ -58,6 +61,8 @@ if accdb.nil?
   exit(0)
 end
 
+puts "SCRIPT: import-NR-accdb.rb"
 puts "Process accdb: #{accdb}..."
+
 process_mdb(accdb)
 

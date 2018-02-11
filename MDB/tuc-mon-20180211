@@ -1,0 +1,386 @@
+--
+-- PostgreSQL database dump
+--
+
+SET statement_timeout = 0;
+SET client_encoding = 'UTF8';
+SET standard_conforming_strings = on;
+SET check_function_bodies = false;
+SET client_min_messages = warning;
+
+--
+-- Name: plpgsql; Type: EXTENSION; Schema: -; Owner: 
+--
+
+CREATE EXTENSION IF NOT EXISTS plpgsql WITH SCHEMA pg_catalog;
+
+
+--
+-- Name: EXTENSION plpgsql; Type: COMMENT; Schema: -; Owner: 
+--
+
+COMMENT ON EXTENSION plpgsql IS 'PL/pgSQL procedural language';
+
+
+SET search_path = public, pg_catalog;
+
+SET default_tablespace = '';
+
+SET default_with_oids = false;
+
+--
+-- Name: progress; Type: TABLE; Schema: public; Owner: admin; Tablespace: 
+--
+
+CREATE TABLE progress (
+    coagyear character varying,
+    projectid character varying,
+    amendno character varying,
+    objectclassid character varying,
+    cashonhand double precision,
+    new double precision,
+    total double precision,
+    original double precision,
+    current double precision,
+    spend_q1 double precision,
+    spend_q2 double precision,
+    spend_q3 double precision,
+    spend_q4 double precision,
+    spend_total double precision,
+    pq1_sep double precision,
+    pq1_oct double precision,
+    pq1_nov double precision,
+    pq1_total double precision,
+    pq2_dec double precision,
+    pq2_jan double precision,
+    pq2_feb double precision,
+    pq2_total double precision,
+    pq3_mar double precision,
+    pq3_apr double precision,
+    pq3_may double precision,
+    pq3_total double precision,
+    pq4_jun double precision,
+    pq4_jul double precision,
+    pq4_aug double precision,
+    pq4_total double precision,
+    progress_q1 double precision,
+    progress_q2 double precision,
+    progress_q3 double precision,
+    progress_q4 double precision,
+    progress_total double precision,
+    balance double precision,
+    carryover double precision
+);
+
+
+ALTER TABLE public.progress OWNER TO admin;
+
+--
+-- Data for Name: progress; Type: TABLE DATA; Schema: public; Owner: admin
+--
+
+COPY progress (coagyear, projectid, amendno, objectclassid, cashonhand, new, total, original, current, spend_q1, spend_q2, spend_q3, spend_q4, spend_total, pq1_sep, pq1_oct, pq1_nov, pq1_total, pq2_dec, pq2_jan, pq2_feb, pq2_total, pq3_mar, pq3_apr, pq3_may, pq3_total, pq4_jun, pq4_jul, pq4_aug, pq4_total, progress_q1, progress_q2, progress_q3, progress_q4, progress_total, balance, carryover) FROM stdin;
+2	COACH-1	0	1	0	1432104	1432104	1432104	1432104	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	COACH-1	0	2	0	33000	33000	33000	33000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	COACH-1	0	3	0	2715000	2715000	2715000	2715000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	COACH-1	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	COACH-1	0	5	0	12902	12902	12902	12902	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	COACH-1	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	COACH-1	0	8	90	1400300	1400390	1400390	1400390	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	COACH-PIF	0	1	0	234000	234000	234000	234000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	COACH-PIF	0	2	0	6500	6500	6500	6500	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	COACH-PIF	0	3	0	231000	231000	231000	231000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	COACH-PIF	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	COACH-PIF	0	5	0	9900	9900	9900	9900	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	COACH-PIF	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	COACH-PIF	0	8	0	198600	198600	198600	198600	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	CU2-MOPH	0	1	0	2214960	2214960	2214960	2214960	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	CU2-MOPH	0	2	0	33000	33000	33000	33000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	CU2-MOPH	0	3	599704.239999999991	1414000	2314000	2314000	2314000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	CU2-MOPH	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	CU2-MOPH	0	5	10145.7900000000009	80000	90145.7899999999936	90145.7899999999936	90145.7899999999936	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	CU2-MOPH	0	6	0	1400000	1974988	1974988	1974988	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	CU2-MOPH	0	8	0	2999374	2999374	2999374	2999374	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-DENARS	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-FARMER	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-FARMER	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-IPC	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-IPC	0	5	0	23334.7299999999996	23334.7299999999996	23334.7299999999996	23334.7299999999996	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-IPC	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-IPC	0	8	57330.7300000000032	269153.270000000019	592672	592672	592672	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-OH	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-OH-WFD	0	1	0	265680	265680	265680	265680	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-OH-WFD	0	2	0	9000	9000	9000	9000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-OH-WFD	0	3	453428	67300	725000	725000	725000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-OH-WFD	0	4	0	40000	40000	40000	40000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-OH-WFD	0	5	0	102420	102420	102420	102420	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-OH-WFD	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-OH-WFD	0	8	567968.819999999949	522000	1089968.82000000007	1089968.82000000007	1089968.82000000007	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-SEVPN	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGMQ-NR5	0	1	0	472776	472776	472776	472776	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	CEI-NR	0	6	0	0	0	0	0	\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	\N	\N	\N	\N	\N	0	\N
+2	DGHP-EIGNA	0	8	357803.929999999993	579744	1491547.92999999993	1491547.92999999993	1491547.92999999993	\N	\N	\N	\N	126772.080000000002	0	11867.2000000000007	114904.880000000005	126772.080000000002	20600	33700	167600	221900	202939.119999999995	33100	385903.929999999993	621943.050000000047	213732.799999999988	104600	202600	520932.799999999988	\N	\N	\N	\N	\N	-2.32830643653869629e-10	\N
+2	DGHP-IPC	0	2	0	22000	22000	22000	22000	\N	\N	\N	\N	1500	0	0	1500	1500	1500	4500	1500	1500	1500	4500	1500	1500	5500	8500	1500	1500	\N	\N	\N	\N	\N	16000	\N
+2	DGHP-OH	0	1	0	717600	717600	717600	717600	\N	\N	\N	\N	145960	48000	48000	49960	145960	65880	50880	50880	167640	58430	50880	92880	202190	50880	50880	91410	193170	\N	\N	\N	\N	\N	8640	\N
+2	DGHP-EOC	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-EIGNA	0	2	0	83200	83200	83200	83200	\N	\N	\N	\N	15525	5250	5025	5250	15525	5600	5600	5600	16800	5600	5650	21600	32850	5600	5600	5550	16750	\N	\N	\N	\N	\N	1275	\N
+2	DGHP-OH	0	3	213020	217180	430200	430200	430200	\N	\N	\N	\N	230000	0	0	230000	230000	165000	0	15000	180000	10200	0	10000	20200	0	0	0	0	\N	\N	\N	\N	\N	0	\N
+2	DGHP-OH	0	8	408837.75	2522590	3194043.75	3194043.75	3194043.75	\N	\N	\N	\N	245600	0	0	245600	245600	2433200	10000	20000	2463200	350000	10000	18435.7000000000007	378435.700000000012	86808.0500000000029	0	20000	106808.050000000003	\N	\N	\N	\N	\N	0	\N
+2	DGHP-EIGNA	0	1	0	2023000	2223000	2223000	2223000	\N	\N	\N	\N	434120	112640	141770	179710	434120	185250	185250	185250	555750	185250	185250	185250	555750	185250	185250	228460	598960	\N	\N	\N	\N	\N	78420	\N
+2	DGHP-FARMER	0	2	0	11000	11000	11000	11000	\N	\N	\N	\N	2250	750	750	750	2250	750	750	750	2250	750	750	750	2250	750	750	2750	4250	\N	\N	\N	\N	\N	0	\N
+2	DGHP-DENARS	0	2	0	44000	44000	44000	44000	\N	\N	\N	\N	9000	3000	3000	3000	9000	3000	3000	3000	9000	3000	3000	3000	9000	3000	11000	3000	17000	\N	\N	\N	\N	\N	0	\N
+2	DGHP-IPC	0	3	0	232000	380000	380000	380000	\N	\N	\N	\N	0	0	0	3300	0	10500	13800	0	50000	7200	57200	0	0	6000	6000	199000	104000	\N	\N	\N	\N	\N	226000	\N
+2	DGHP-DENARS	0	1	0	1325040	1325040	1325040	1325040	\N	\N	\N	\N	331260	110420	110420	110420	331260	110420	110420	110420	331260	110420	110420	110420	331260	110420	110420	110420	331260	\N	\N	\N	\N	\N	0	\N
+2	DGHP-SEVPN	0	3	0	365920	591500	591500	591500	\N	\N	\N	\N	0	0	0	0	0	25500	1500	1500	28500	1500	1500	0	3000	440000	120000	0	560000	\N	\N	\N	\N	\N	0	\N
+2	DGHP-SEVPN	0	5	0	7266	7266	7266	7266	\N	\N	\N	\N	0	0	0	0	0	0	0	7266	7266	0	0	0	0	0	0	0	0	\N	\N	\N	\N	\N	0	\N
+2	DGHP-DENARS	0	5	0	10522	60522	60522	60522	\N	\N	\N	\N	55261	0	0	55261	55261	0	0	0	0	5261	0	0	5261	0	0	0	0	\N	\N	\N	\N	\N	0	\N
+2	DGHP-FARMER	0	1	0	488640	488640	488640	488640	\N	\N	\N	\N	122160	40720	40720	40720	122160	40720	40720	40720	122160	40720	40720	40720	122160	40720	40720	40720	122160	\N	\N	\N	\N	\N	0	\N
+2	DGMQ-NR5	0	2	0	11000	11000	11000	11000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGMQ-NR5	0	3	34400	619200	653600	653600	653600	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGMQ-NR5	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGMQ-NR5	0	5	0	24000	24000	24000	24000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGMQ-NR5	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGMQ-NR5	0	8	14785.5100000000002	448482	463267.510000000009	463267.510000000009	463267.510000000009	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGMQ-NR6	0	1	0	75684	75684	75684	75684	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGMQ-NR6	0	2	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGMQ-NR6	0	3	19613.9300000000003	133550	155300	155300	155300	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGMQ-NR6	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGMQ-NR6	0	5	0	15000	15000	15000	15000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGMQ-NR6	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGMQ-NR6	0	8	0	196618	209815.929999999993	209815.929999999993	209815.929999999993	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DIFF-CARE	0	1	0	1197576	1197576	1197576	1197576	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DIFF-CARE	0	2	0	33000	33000	33000	33000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DIFF-CARE	0	3	0	1602100	1602100	1602100	1602100	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DIFF-CARE	0	4	0	65000	65000	65000	65000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DIFF-CARE	0	5	0	30000	30000	30000	30000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DIFF-CARE	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DIFF-CARE	0	8	0	1186324	1186324	1186324	1186324	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-BANGKOK	0	1	0	693600	693600	693600	693600	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-BANGKOK	0	2	0	11000	11000	11000	11000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-BANGKOK	0	3	0	55000	55000	55000	55000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-BANGKOK	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-BANGKOK	0	5	714.309999999999945	83420	208472.309999999998	208472.309999999998	208472.309999999998	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-BANGKOK	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-BANGKOK	0	8	0	814140	814140	814140	814140	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-DARRT	0	1	186200	3754124	3940324	3940324	3940324	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-DARRT	0	2	0	88000	88000	88000	88000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-DARRT	0	3	0	2037520	2037520	2037520	2037520	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-DARRT	0	4	70270.7400000000052	387031	457302.739999999991	457302.739999999991	457302.739999999991	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-DARRT	0	5	0	2932930	2955845	2955845	2955845	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-DARRT	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-DARRT	0	8	21000	3729405	3750405	3750405	3750405	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-LAB	0	1	0	1480200	1480200	1480200	1480200	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-LAB	0	2	0	42000	42000	42000	42000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-LAB	0	3	0	881496	881496	881496	881496	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-LAB	0	4	0	1470000	1470000	1470000	1470000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-LAB	0	5	0	2756660	2756660	2756660	2756660	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-LAB	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-LAB	0	8	48481.25	804764	853245.25	853245.25	853245.25	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-RIGHTSIZE	0	1	0	316320	316320	316320	316320	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-RIGHTSIZE	0	2	0	10400	10400	10400	10400	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-RIGHTSIZE	0	3	4706.38000000000011	177282	181988.380000000005	181988.380000000005	181988.380000000005	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-RIGHTSIZE	0	4	0	39992	39992	39992	39992	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-RIGHTSIZE	0	5	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-RIGHTSIZE	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-RIGHTSIZE	0	8	12000	65218	77218	77218	77218	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-TREATMENT	0	1	0	869280	869280	869280	869280	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-TREATMENT	0	2	0	33000	33000	33000	33000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-TREATMENT	0	3	64766	350000	656000	656000	656000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-TREATMENT	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-TREATMENT	0	5	884.220000000000027	32320	33204.2200000000012	33204.2200000000012	33204.2200000000012	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-TREATMENT	0	6	0	200000	200000	200000	200000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	FLU-TREATMENT	0	8	0	215400	253000	253000	253000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	GAP-CB	0	5	0	26520	26520	26520	26520	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	GAP-CB	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	GAP-CB	0	8	502440.099999999977	1868850	2371290.10000000009	2371290.10000000009	2371290.10000000009	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	ITC	0	1	0	690720	690720	690720	690720	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	ITC	0	2	0	22000	22000	22000	22000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	ITC	0	3	105000	208000	313000	313000	313000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	ITC	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	ITC	0	5	0	24000	24000	24000	24000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	ITC	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	ITC	0	8	51305.5999999999985	279280	367945.479999999981	367945.479999999981	367945.479999999981	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	KPIS	0	1	0	5263267	5263267	5263267	5263267	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	KPIS	0	2	0	99000	99000	99000	99000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	KPIS	0	3	350713	41287	392000	392000	392000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	KPIS	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	KPIS	0	5	72000	0	80000	80000	80000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	KPIS	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	KPIS	0	8	768753.5	549676	1774665.5	1774665.5	1774665.5	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	LAB-STRATEGY	0	1	0	264600	264600	264600	264600	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	LAB-STRATEGY	0	2	0	11000	11000	11000	11000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	LAB-STRATEGY	0	3	63000	222000	285000	285000	285000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	LAB-STRATEGY	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	LAB-STRATEGY	0	5	3000	56200	59200	59200	59200	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	LAB-STRATEGY	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	LAB-STRATEGY	0	8	62878.7200000000012	194200	277962.880000000005	277962.880000000005	277962.880000000005	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	LAB-TB-EQA	0	1	0	96000	96000	96000	96000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	LAB-TB-EQA	0	2	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	LAB-TB-EQA	0	3	48000	350000	398000	398000	398000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	GAP-CB	0	4	0	3400	3400	3400	3400	\N	\N	\N	\N	0	0	0	0	0	0	3400	0	3400	0	0	0	0	0	0	0	0	\N	\N	\N	\N	\N	0	\N
+2	LAB-TB-EQA	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	LAB-TB-EQA	0	5	0	377000	377000	377000	377000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	LAB-TB-EQA	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	LAB-TB-EQA	0	8	1953.96000000000004	197000	228168.119999999995	228168.119999999995	228168.119999999995	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-CANCER	0	1	0	50400	50400	50400	50400	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-CANCER	0	2	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-CANCER	0	3	95000	976000	1071000	1071000	1071000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-CANCER	0	4	11917.2600000000002	80000	99927.2599999999948	99927.2599999999948	99927.2599999999948	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-CANCER	0	5	0	20100	20100	20100	20100	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-CANCER	0	6	0	1044900	1044900	1044900	1044900	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-CANCER	0	8	0	698336	733336	733336	733336	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-CVD_WIN10	0	1	0	283680	283680	283680	283680	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-CVD_WIN10	0	2	0	11000	11000	11000	11000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-CVD_WIN10	0	3	0	188600	188600	188600	188600	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-CVD_WIN10	0	4	0	33000	33000	33000	33000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-CVD_WIN10	0	5	17246.0900000000001	105837	175579.089999999997	175579.089999999997	175579.089999999997	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-CVD_WIN10	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-CVD_WIN10	0	8	0	344843	344843	344843	344843	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-RTI	0	1	10200	0	10200	10200	10200	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-RTI	0	2	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-RTI	0	3	500	0	500	500	500	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-RTI	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-RTI	0	5	1817.22000000000003	0	1817.22000000000003	1817.22000000000003	1817.22000000000003	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-RTI	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	NCD-RTI	0	8	86000	0	86000	86000	86000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-BATS	0	1	177000	1776000	1953000	1953000	1953000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-BATS	0	2	0	42000	42000	42000	42000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-BATS	0	3	0	468000	468000	468000	468000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-BATS	0	4	0	152000	152000	152000	152000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-BATS	0	5	0	120000	120000	120000	120000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-BATS	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-BATS	0	8	100490.419999999998	680200	780690.420000000042	780690.420000000042	780690.420000000042	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-CBO	0	1	0	1104000	1104000	1104000	1104000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-CBO	0	2	0	55000	55000	55000	55000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-CBO	0	3	0	1195400	1195400	1195400	1195400	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-CBO	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-CBO	0	5	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-CBO	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-CBO	0	8	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-PCM-HF	0	1	0	269500	269500	269500	269500	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-PCM-HF	0	2	0	11000	11000	11000	11000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-PCM-HF	0	3	0	476000	476000	476000	476000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-PCM-HF	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-PCM-HF	0	5	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-PCM-HF	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-PCM-HF	0	8	0	637500	637500	637500	637500	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-SANDD	0	1	0	642000	642000	642000	642000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-SANDD	0	2	0	22000	22000	22000	22000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-SANDD	0	3	0	807000	807000	807000	807000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-SANDD	0	4	0	30000	30000	30000	30000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-SANDD	0	5	0	11200	11200	11200	11200	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-SANDD	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PIF-SANDD	0	8	0	206800	206800	206800	206800	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-LAB	0	1	0	72000	72000	72000	72000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-LAB	0	2	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-LAB	0	3	210000	658000	868000	868000	868000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-LAB	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-LAB	0	5	0	15000	15000	15000	15000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-LAB	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-LAB	0	8	34475.6299999999974	428000	462475.630000000005	462475.630000000005	462475.630000000005	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SL	0	1	0	3105320	3105320	3105320	3105320	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SL	0	2	0	107100	107100	107100	107100	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SL	0	3	48031.9800000000032	1947908	1995939.97999999998	1995939.97999999998	1995939.97999999998	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SL	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SL	0	5	0	159510	159510	159510	159510	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SL	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SL	0	8	1402711.92999999993	3542568	5226809.79000000004	5226809.79000000004	5226809.79000000004	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SU-PIF	0	1	0	324000	324000	324000	324000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SU-PIF	0	2	0	11000	11000	11000	11000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SU-PIF	0	3	0	867000	867000	867000	867000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SU-PIF	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SU-PIF	0	5	0	25900	25900	25900	25900	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SU-PIF	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SU-PIF	0	8	0	3744600	3744600	3744600	3744600	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SU-SU	0	1	0	1484100	1484100	1484100	1484100	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SU-SU	0	2	0	33000	33000	33000	33000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SU-SU	0	3	120000	1441000	1561000	1561000	1561000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SU-SU	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SU-SU	0	5	0	205000	205000	205000	205000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SU-SU	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	PREP2START-SU-SU	0	8	124653.850000000006	1068744	1193397.85000000009	1193397.85000000009	1193397.85000000009	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-DTU	0	1	0	280660	280660	280660	280660	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-DTU	0	2	0	22000	22000	22000	22000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-DTU	0	3	583800	224000	807800	807800	807800	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-DTU	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-DTU	0	5	0	18200	18200	18200	18200	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-DTU	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-DTU	0	8	224410.619999999995	114400	338810.619999999995	338810.619999999995	338810.619999999995	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-MIS	0	1	0	849520	849520	849520	849520	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-MIS	0	2	0	26134	26134	26134	26134	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-MIS	0	3	0	1684200	1684200	1684200	1684200	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-MIS	0	4	0	50000	50000	50000	50000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-MIS	0	5	0	11506	11506	11506	11506	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-MIS	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-MIS	0	8	75453.5	849200	924653.5	924653.5	924653.5	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-PS-ITC	0	1	0	378000	378000	378000	378000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-PS-ITC	0	2	0	17500	17500	17500	17500	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-PS-ITC	0	3	0	220000	220000	220000	220000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-PS-ITC	0	4	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-PS-ITC	0	5	0	29830	29830	29830	29830	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-PS-ITC	0	6	0	300000	300000	300000	300000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-PS-ITC	0	8	0	204822	204822	204822	204822	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-SUR	0	1	0	1985484	1985484	1985484	1985484	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-SUR	0	2	0	66000	66000	66000	66000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-SUR	0	3	0	2800000	2800000	2800000	2800000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-SUR	0	4	0	170284	170284	170284	170284	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-SUR	0	5	0	1153716	1153716	1153716	1153716	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-SUR	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	SI-SUR	0	8	100487.210000000006	872706	973193.209999999963	973193.209999999963	973193.209999999963	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	YMSM-CASCADE	0	1	0	713040	713040	713040	713040	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	YMSM-CASCADE	0	2	0	22000	22000	22000	22000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	YMSM-CASCADE	0	3	0	18000	18000	18000	18000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	YMSM-CASCADE	0	4	0	31000	31000	31000	31000	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	YMSM-CASCADE	0	5	0	21360	21360	21360	21360	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	YMSM-CASCADE	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	YMSM-CASCADE	0	8	404531.919999999984	1795600	2297125.75999999978	2297125.75999999978	2297125.75999999978	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	CEI-NR	0	2	0	0	0	0	0	\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	\N	\N	\N	\N	\N	0	\N
+2	CEI-NR	0	3	0	0	0	0	0	\N	\N	\N	\N	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	\N	\N	\N	\N	\N	0	\N
+2	DGHP-FARMER	0	8	120615.369999999995	366450	487065.369999999995	487065.369999999995	487065.369999999995	\N	\N	\N	\N	4850	0	2400	2450	4850	62000	310250	13600	385850	15250	47000	12250	74500	33855.3699999999953	45010	3000	81865.3699999999953	\N	\N	\N	\N	\N	-60000	\N
+2	DGHP-DENARS	0	3	1056000	1221500	2332500	2332500	2332500	\N	\N	\N	\N	577500	0	170000	407500	577500	222500	182500	482500	887500	170000	222500	72500	465000	165000	237500	0	402500	\N	\N	\N	\N	\N	0	\N
+2	DGHP-DENARS	0	4	50000	0	50000	50000	50000	\N	\N	\N	\N	50000	0	0	50000	50000	0	0	0	0	0	0	0	0	0	0	0	0	\N	\N	\N	\N	\N	0	\N
+2	DGHP-DENARS	0	8	19911.7999999999993	518200	727075.800000000047	727075.800000000047	727075.800000000047	\N	\N	\N	\N	519400	3900	151100	364400	519400	18300	9900	25300	53500	54475.8000000000029	20300	14900	89675.8000000000029	48300	12300	3900	64500	\N	\N	\N	\N	\N	0	\N
+2	DGHP-EOC	0	6	0	0	0	0	0	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N	\N
+2	DGHP-EIGNA	0	3	613300	968200	1581500	1581500	1581500	\N	\N	\N	\N	546470	0	26100	520370	546470	1200	61200	41200	103600	89500	35630	686667.199999999953	811797.199999999953	69232.8000000000029	49200	1200	119632.800000000003	\N	\N	\N	\N	\N	0	\N
+2	DGHP-FARMER	0	3	0	919760	919760	919760	919760	\N	\N	\N	\N	88470	0	0	88470	88470	0	328000	0	328000	85000	0	85000	170000	0	273290	0	273290	\N	\N	\N	\N	\N	60000	\N
+2	CEI-NR	0	5	523660	903000	1426660	1426660	1426660	\N	\N	\N	\N	0	0	0	0	0	746600	8300	98300	853200	208300	331960	8300	548560	8300	8300	8300	24900	\N	\N	\N	\N	\N	0	\N
+2	CEI-NR	0	8	93103.6699999999983	141000	234103.670000000013	234103.670000000013	234103.670000000013	\N	\N	\N	\N	0	0	0	0	0	23200	4000	44000	71200	23200	29000	4000	56200	23200	29000	54503.6699999999983	106703.669999999998	\N	\N	\N	\N	\N	0	\N
+2	DGHP-EOC	0	8	0	112257.899999999994	112257.899999999994	112257.899999999994	112257.899999999994	\N	\N	\N	\N	11400	600	10200	600	11400	10200	600	40200	51000	600	10200	600	11400	45218	600	600	46418	\N	\N	\N	\N	\N	-7960.10000000000582	\N
+2	DGHP-FARMER	0	5	0	107100	107100	107100	107100	\N	\N	\N	\N	0	0	0	0	0	0	107100	0	107100	0	0	0	0	0	0	0	0	\N	\N	\N	\N	\N	0	\N
+2	DGHP-EIGNA	0	5	1363670	826630	2190300	2190300	2190300	\N	\N	\N	\N	0	0	0	0	0	326755	329755	329755	986265	191755	191755	191755	575265	218000	209000	201770	628770	\N	\N	\N	\N	\N	0	\N
+2	DGHP-EIGNA	0	6	55492	150000	290000	290000	290000	\N	\N	\N	\N	0	0	0	0	0	30000	0	40000	70000	0	0	110000	110000	0	0	110000	110000	\N	\N	\N	\N	\N	0	\N
+2	CEI-NR	0	4	0	160000	160000	160000	160000	\N	\N	\N	\N	0	0	0	0	0	0	160000	0	160000	0	0	0	0	0	0	0	0	\N	\N	\N	\N	\N	0	\N
+2	DGHP-IPC	0	1	0	1013160	1013160	1013160	1013160	\N	\N	\N	\N	74200	0	0	74200	74200	74200	222600	94660	94660	94660	283980	84430	84430	84430	253290	84430	84430	\N	\N	\N	\N	\N	675440	\N
+2	DGHP-EOC	0	1	0	302400	302400	302400	302400	\N	\N	\N	\N	75600	25200	25200	25200	75600	25200	25200	25200	75600	25200	25200	25200	75600	25200	25200	25200	75600	\N	\N	\N	\N	\N	0	\N
+2	CEI-NR	0	1	182400	156000	338400	338400	338400	\N	\N	\N	\N	30800	5600	12600	12600	30800	27400	27400	27400	82200	27400	27400	27400	82200	27400	27400	27400	82200	\N	\N	\N	\N	\N	61000	\N
+2	DGHP-EOC	0	3	432903.900000000023	794560.099999999977	1547200	1547200	1547200	\N	\N	\N	\N	306800	600	35600	270600	306800	35600	55600	600	91800	396600	55600	600	452800	270600	600	600	271800	\N	\N	\N	\N	\N	424000	\N
+2	DGHP-SEVPN	0	8	153458.510000000009	60000	445852.510000000009	445852.510000000009	445852.510000000009	\N	\N	\N	\N	9500	4600	300	4600	9500	41800	31800	32120	105720	29800	29800	300	59900	221132.510000000009	49300	300	270732.510000000009	\N	\N	\N	\N	\N	0	\N
+2	GAP-CB	0	1	0	240816	240816	240816	240816	\N	\N	\N	\N	56580	18860	18860	18860	56580	20060	20060	20060	60180	20060	20060	20060	60180	20060	20060	23756	63876	\N	\N	\N	\N	\N	0	\N
+2	GAP-CB	0	2	0	11000	11000	11000	11000	\N	\N	\N	\N	2250	750	750	750	2250	750	750	750	2250	750	2750	750	4250	750	750	750	2250	\N	\N	\N	\N	\N	0	\N
+2	GAP-CB	0	3	0	273206	273206	273206	273206	\N	\N	\N	\N	50220	0	1700	48520	50220	30000	51480	58346	139826	0	78160	0	78160	5000	0	0	5000	\N	\N	\N	\N	\N	0	\N
+2	DGHP-EOC	0	2	0	11000	11000	11000	11000	\N	\N	\N	\N	2250	750	750	750	2250	750	750	750	2250	750	2750	750	4250	750	750	750	2250	\N	\N	\N	\N	\N	0	\N
+2	DGHP-OH	0	2	0	22000	22000	22000	22000	\N	\N	\N	\N	3750	750	1500	1500	3750	1500	1500	1500	4500	1500	1500	1500	4500	5500	1500	1500	8500	\N	\N	\N	\N	\N	750	\N
+2	DGHP-OH	0	5	0	30000	30000	30000	30000	\N	\N	\N	\N	0	0	0	0	0	30000	0	0	30000	0	0	0	0	0	0	0	0	\N	\N	\N	\N	\N	0	\N
+2	DGHP-OH	0	6	0	360000	360000	360000	360000	\N	\N	\N	\N	0	0	0	0	0	120000	30000	30000	180000	30000	30000	30000	90000	30000	30000	30000	90000	\N	\N	\N	\N	\N	0	\N
+2	DGHP-SEVPN	0	1	0	374160	374160	374160	374160	\N	\N	\N	\N	91380	28460	31460	31460	91380	31460	31460	31460	94380	31460	31460	31460	94380	31460	31460	31100	94020	\N	\N	\N	\N	\N	0	\N
+2	DGHP-SEVPN	0	2	0	11000	11000	11000	11000	\N	\N	\N	\N	2250	750	750	750	2250	750	750	750	2250	2750	750	750	4250	750	750	750	2250	\N	\N	\N	\N	\N	0	\N
+2	DGHP-SEVPN	0	4	0	0	42200	42200	42200	\N	\N	\N	\N	0	0	0	0	0	0	42200	0	42200	0	0	0	0	0	0	0	0	\N	\N	\N	\N	\N	0	\N
+2	DGHP-EOC	0	5	0	20000	20000	20000	20000	\N	\N	\N	\N	10000	0	0	10000	10000	0	0	0	0	0	0	10000	10000	0	0	0	0	\N	\N	\N	\N	\N	0	\N
+2	DGHP-EIGNA	0	4	0	1607750	1607750	1607750	1607750	\N	\N	\N	\N	1417750	0	0	1417750	1417750	190000	0	0	190000	0	0	0	0	0	0	0	0	\N	\N	\N	\N	\N	0	\N
+\.
+
+
+--
+-- Name: public; Type: ACL; Schema: -; Owner: postgres
+--
+
+REVOKE ALL ON SCHEMA public FROM PUBLIC;
+REVOKE ALL ON SCHEMA public FROM postgres;
+GRANT ALL ON SCHEMA public TO postgres;
+GRANT ALL ON SCHEMA public TO PUBLIC;
+
+
+--
+-- PostgreSQL database dump complete
+--
+

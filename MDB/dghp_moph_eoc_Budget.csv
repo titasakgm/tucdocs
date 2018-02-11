@@ -18,7 +18,7 @@ CoAgYear|ProjectID|SubprojectID|ObjectClassID|ItemNo|AmendNo|ItemDescription|Ite
 1|DGHP-MOPH-EOC|-|5|2|0|Computer software|(License programs) $2,352.94||0.00|0.00|80000.00|80000.00|Time|1|80000.00||||||||
 1|DGHP-MOPH-EOC|-|8|1|0|Communication cost|$17.64*12=$211.68||0.00|0.00|7200.00|7200.00|Month|12|||||600.00||||
 1|DGHP-MOPH-EOC|-|8|2|0|Meeting facilities|$1,823.29||0.00|0.00|61992.00|61992.00|Annual||||||||||
-1|DGHP-MOPH-EOC|-|8|3|0|Expert meeting (Non MOPH staff)|(Resource person $17.64 x 2 hrs x 5 persons x 5 times)+(Transportation: $17.64 x 5 persons x 5 times) (Participation support cost: $28.57 x 5 persons x 5 time = $714.25)||0.00|0.00|45000.00|45000.00|Time|5|5.00|1.00|1200.00|600.00|0.00||||
+1|DGHP-MOPH-EOC|-|8|3|0|Expert meeting (Non MOPH staff)|(Resource person $17.64 x 2 hrs x 5 persons x 5 times)+(Transportation: $17.64 x 5 persons x 5 times) (Participation support cost: $28.57 x 5 persons x 5 time = $714.25)||0.00|0.00|45000.00|45000.00|Time|5|5.00|1.00|1200.00|600.00|0.00||||
 1|DGHP-MOPH-EOC|-|8|4|0|Expert meeting Local participant (Local MOPH and CoAg staff)|($17.64 x 10 persons x 5 times )||0.00|0.00|30000.00|30000.00|Time|5|10.00|1.00|600.00|0.00|0.00||||
 1|DGHP-MOPH-EOC|-|8|5|0|Technical meeting|($17.64 x 5 persons x 9 times )||0.00|0.00|18000.00|18000.00|Time|6|5.00|1.00|600.00|0.00|0.00||||
 2|DGHP-MOPH-EOC|-|1|1|0|Project Coordinator|||0.00|0.00|252000.00|252000.00|Person|1|100.00|12.00|21000.00|||20170309||20170817|

@@ -110,7 +110,8 @@ if xls.nil?
 end
 
 fy = xls.split('.').first.split('FY').last
-project_id = xls.split('/').last.upcase.split('BUDGET PLAN').first.tr(' ','')
+project_id = xls.split('/').last.upcase.split('BUDGET PLAN')
+project_id = project_id.first.strip.gsub(' ','-').gsub('--','-')
 
 puts "\n1) get ProjectID and FY from XLS name"
 puts "xls: #{xls}"
@@ -207,7 +208,7 @@ others = init_info(8)
       end
     end
     puts "supplies: #{supplies.join('|')}"
-  elsif d.strip.upcase =~ /CONT/ and d.length < 20
+  elsif d.strip.upcase =~ /CONTRACT/ and d.length < 20
     puts "\nget CONTRACTUAL data"
     contractual = get_info(p,r,ref_c)
     contractual[0] = '6'
@@ -215,7 +216,7 @@ others = init_info(8)
       contractual.delete_at(1)
     end
     puts "contractual: #{contractual.join('|')}"
-  elsif d.strip.upcase =~ /CONS/ and d.length < 20
+  elsif d.strip.upcase =~ /CONSTR/ and d.length < 20
     puts "\nget CONSTRUCTION data"
     construction = get_info(p,r,ref_c)
     construction[0] = '7'
