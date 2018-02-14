@@ -330,14 +330,16 @@ def get_project(db)
   end  
 end
 
-dbs = open("tuc-16-41").readlines
+#dbs = open("tuc-16-41").readlines
+#dbs = open("tuc-16").readlines
+dbs = open("tuc-41").readlines
 
 n = 0
 dbs.each do |line|
   n += 1
   db = line.chomp
   puts "#{n}: #{db}"
-
+  #### cont = gets
   staffs = get_user(db)
   projs = get_project(db)
   subprojs = get_subproject(db)
